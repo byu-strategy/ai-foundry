@@ -61,14 +61,54 @@ it measures the person. Do not make either one carry the other's job.
 
 The constitution is the standard. The four axes are where it becomes visible.
 
-Nobody is rated on a principle, because a principle is not a thing you can rate. It is a thing
-you can point at. So the principles do not appear on the rating form at all. They are built into
-the questions the professor asks, and they are the language of the development summary that
-comes back to you.
+**Nobody is rated on a principle, because a principle is not a thing you can rate.** It is a
+thing you can point at. So there is no fifth axis and there is no values score. A student living
+the principles rates high on this diamond. A student rating low is failing a principle that can
+be named. That coupling is the whole design, and it is why the model is worth running.
 
-A student living the principles rates high on this diamond. A student rating low is failing a
-principle that can be named. That coupling is the whole design, and it is why the model is
-worth running.
+### The principle citation
+
+The principles do appear on all three forms, once, and never as a rating. Every reviewer is
+asked the same optional question: **which principle did you see this person live, and what did
+they do?** A dropdown of the ten, plus a required instance if one is selected.
+
+**It is positive only.** No form in this system asks which principle someone failed. That
+constraint is doing real work:
+
+- **It cannot become a character judgment.** A student is never recorded anywhere as having
+  failed a value by peer vote. Rating each other's adherence to values, at this university, with
+  grade weight attached, is one inference away from rating each other's worthiness. We are not
+  going to build that instrument.
+- **It stays out of the grade honestly.** Because there is no negative side, the citations
+  cannot be summed into anything. Absence of a citation means a reviewer had nothing to hand,
+  which is not evidence of a failure.
+- **Principle failures are binary, and they escalate.** Hiding a mistake, overselling to a
+  client, a confidentiality breach. These are conduct, they are raised directly, and averaging
+  them into a composite would launder them. They never travel through a survey.
+
+Clients get the same question in plain language, because they have never read our constitution
+and are never shown it: *did anyone do something that stuck with you?* We do the tagging.
+
+### What the citations are for
+
+Coverage, not score. Across a cohort they answer a question no rating can: **which of our
+principles are actually visible in the work, and which ones do we only talk about.**
+
+| Read | What it tells you |
+|---|---|
+| Per student | The language of their development summary, in their reviewers' own words |
+| Per student, against their self-citation | A principle they claim that nobody else saw. A conversation, never a penalty |
+| Per pod | Whether a team lived a principle or merely had it on the wall |
+| Per cohort, per principle | Which principles the Foundry is actually teaching. A principle nobody cites all year is either not visible in the work or not real |
+
+The last row is the reason this is worth collecting. If Candor with charity gets cited four
+times in a year and Own your outcomes gets cited eighty, that is information about the studio,
+not about the students.
+
+**Citations are not scored and no count moves a composite.** They are written evidence, and the
+professor already has the discretion in section 6 to move a student one band where the written
+evidence contradicts the numbers. That is the only path by which a citation touches a grade, and
+it is the same path every other comment on these forms travels.
 
 ## 3. The anchors
 
@@ -488,9 +528,14 @@ still has to say who they most and least wanted to work with.
 
 ### Development summary
 
-Each student receives a written summary: their four axis scores, the themes across sources,
-where sources disagreed, and the two things to work on next. Individual comments stay
-confidential and unattributed.
+Each student receives a written summary: their four axis scores, their calibration gap, the
+themes across sources, where sources disagreed, the principles their reviewers cited with the
+instances behind them, and the two things to work on next. Individual comments stay confidential
+and unattributed.
+
+The principle block is the part students tend to keep. It is the only place anyone tells them,
+in specific terms and in someone else's words, that a thing they did was the constitution
+happening rather than just the work getting done.
 
 **No surprises.** Because we live the Ask First culture and run mutual feedback every two weeks,
 nothing in a final summary should be news. If it surprises you, you were not asking.
@@ -528,9 +573,11 @@ the calibration gap measures nothing, and the video reflection has nothing to be
 4. **Whether students see their axis scores** or only the written development summary. The
    conversion table is published either way, so a student who sees their points can back out
    their composite. That argues for showing the scores.
-5. **Principle coverage.** Reviewers are never prompted for a specific principle, so the loud
-   ones get cited constantly and the quiet ones never do. Worth deciding whether one prompt on
-   the peer form asks for a principle by name.
+5. **Whether the coverage data is published back to the cohort.** The per-principle counts
+   across a whole cohort are the most interesting thing this system produces and say more about
+   how the Foundry is being run than about any student. Showing them to everyone would be in the
+   spirit of radical truthfulness. It would also tell students which principles get cited, which
+   is exactly how you corrupt the measure. Unresolved.
 6. **Whether the midterm round carries any points.** Currently it carries none, which is what
    makes it safe to be honest in. The risk is that a zero-stakes round gets filled out carelessly
    and the snapshot is worthless.

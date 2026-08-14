@@ -88,6 +88,10 @@ Each question is the same underlying question the other two forms ask, turned ar
 | 7 | **Describe a moment you owned in front of the client.** What did you actually say? | Client Presence |
 | 8 | **Was there something the client needed to hear that they would not like?** Who said it? | Client Presence |
 
+**9. Which principle did you live this semester, and what did you do?** Pick one from the
+constitution and point at something specific. *(Dropdown plus paragraph. Positive only. You are
+not asked which principle you failed, and neither is anyone else.)*
+
 Questions 2, 6 and 8 are the ones that produce honest answers, because they ask about a specific
 event with a specific outcome rather than asking you to characterize yourself.
 
@@ -128,7 +132,8 @@ where to spend the conversation.
 | Section | Feeds |
 |---|---|
 | 1 | The calibration gap. Compared against your composite, never averaged into it |
-| 2 | Read alongside your reviewers' evidence. Where your account of an event and theirs diverge materially, that is an interview trigger |
+| 2, Q9 | Compared against which principles your reviewers cited for you. A principle you claim that nobody else saw is worth a conversation, never a penalty |
+| 2, Q1 to Q8 | Read alongside your reviewers' evidence. Where your account of an event and theirs diverge materially, that is an interview trigger |
 | 3 | The video reflection prompt, and the development summary's opening line |
 | 4.1 and 4.2 | Your development summary and next semester's staffing |
 | 4.3 | Program improvement. Never a grade input, never attributed |

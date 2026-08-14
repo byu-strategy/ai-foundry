@@ -146,6 +146,13 @@ work, or wait to be pointed at it?
 3. **Was there a moment someone told you something you did not want to hear?** Who, and what
    happened after? *(Paragraph)*
 4. **Did anyone on the team surprise you, in either direction?** *(Paragraph)*
+5. **Did anyone on the team do something that stuck with you?** It does not have to be about the
+   deliverable. *(Paragraph)*
+
+Question 5 is our principle citation, asked in plain language. Clients do not know our
+constitution and are never shown it, so they are asked for the moment and we do the tagging on
+our side. It is positive-only by construction and there is no negative counterpart anywhere on
+this form.
 
 Question 1 is the most valuable item on the form. It asks about an event rather than asking a
 client to criticize a student, which is why it gets an honest answer. Question 2 identifies the
@@ -207,7 +214,8 @@ person the client actually trusts, without asking anyone to rank anybody.
 | Section 2C | Workstream Ownership axis, client weighted Moderate, skipped if blank |
 | Section 2D | Development summary, quoted unattributed |
 | Section 2E | Triangulation. A "no" against high peer ratings is a flag worth a conversation |
-| Section 3 | Evidence the professor rates against when sources disagree. Not scored directly |
+| Section 3, Q1 to Q4 | Evidence the professor rates against when sources disagree. Not scored directly |
+| Section 3, Q5 | Tagged to a principle on our side. Development summary only. Never scored |
 | Section 4 | Never enters a grade. Program, pricing, and renewal decisions |
 
 Section 2 gives no rating on Collaboration. That axis is invisible to a client and comes from

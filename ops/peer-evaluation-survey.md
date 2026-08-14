@@ -134,6 +134,26 @@ instance is enough. *(Paragraph)*
 > to verbatim, unattributed. Write the thing you would say to them directly, in the words you
 > would use.
 
+### The principle citation
+
+**Optional, and positive only.** Did you see this person live one of our principles? Which one,
+and what did they do?
+
+| Field | Type |
+|---|---|
+| Principle | Dropdown, the ten from the constitution. Plus "none I can point to" |
+| What they did | Paragraph. Required if a principle is selected |
+
+> Form note: this is not a rating and it does not score. Skip it if nothing comes to mind, and
+> do not reach for something. **There is no negative version of this question.** You are never
+> asked which principle someone failed, here or anywhere else on this form.
+
+Two reasons it is built this way. A principle is not a thing you can rate on a scale, it is a
+thing you can point at, so the form asks you to point. And an instrument that collects who
+failed a value would be asking twenty-year-olds to judge each other's character for grade
+weight, which is not a thing we are going to do. Failures of principle are conduct, they are
+raised directly, and they never travel through a survey.
+
 **Required of everyone.** Would you choose this person for your next pod?
 
 - Yes, first pick
@@ -192,6 +212,7 @@ produced independently.
 | A | The reviewer set and the exposure weights. Confirmed against staffing records |
 | B, four ratings | The four axis composites, weighted by exposure depth |
 | B, evidence questions | Required to validate an extreme rating. A 5 or a 1 with no instance behind it is dropped from the composite |
+| B, principle citation | The development summary. Coverage counts across reviewers. Never scored |
 | B, "one thing to work on" | The development summary, unattributed |
 | B, "next pod" | Triangulation against the client's version of the same question |
 | C1 and C2 | Not scored. Read as a within-pod ranking against the composite ranking. Divergence is a flag |
