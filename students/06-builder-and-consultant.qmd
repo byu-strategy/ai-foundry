@@ -95,8 +95,8 @@ the client sees your name on. See
 ## What we expect, and what you receive
 
 **The commitment.** The Lab is an intense course. Plan on **10 hours per week**, including the
-Friday studio block. That is what this work actually takes, and it is what a paying client is
-counting on.
+Friday studio block, plus **typically another 10 hours** in weeks when client demand calls for
+it. That is what this work actually takes, and it is what a paying client is counting on.
 
 **Your tools.** You are responsible for your own AI subscriptions. We build on frontier agent
 tooling, and at this stage of the program the Foundry does not provide seats. Plan on carrying
@@ -111,7 +111,9 @@ A few things to be clear about:
 
 - The stipend follows the engagement. Students who are not staffed on a funded engagement in a
   given term do not receive one.
-- Amounts are set per engagement and are not published here.
+- Amounts come from a published revenue waterfall and your logged utilization, not from a
+  per-engagement negotiation. See
+  [What You Give and What You Get](01-syllabus.qmd#what-you-give-and-what-you-get).
 - This is a stipend, not employment. You are not an hourly employee of the university or of the
   client.
 - Money applied to a student account can interact with a financial aid package. If you receive

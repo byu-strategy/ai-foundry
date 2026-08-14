@@ -117,3 +117,48 @@ table td {
   letter-spacing: 0.02em;
   margin: 0.15rem 0 0.4rem 0;
 }
+
+/* Draft watermark. Applied by a script in _header.html to every page except
+   students/07-resources.html */
+body.draft-page::before {
+  content: "DRAFT";
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-28deg);
+  font-size: 24vw;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  color: rgba(178, 34, 44, 0.11);
+  z-index: 9999;
+  pointer-events: none;
+  user-select: none;
+  white-space: nowrap;
+  line-height: 1;
+}
+
+body.draft-page::after {
+  content: "DRAFT, not final. The Resources page is the only page that is done.";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10000;
+  background: #b2222c;
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-align: center;
+  padding: 0.3rem 0.5rem;
+  pointer-events: none;
+}
+
+/* Push the banner clear of the fixed draft bar */
+body.draft-page header.book-header-banner { padding-top: 2.4rem; }
+
+@media print {
+  body.draft-page::after { display: none; }
+  body.draft-page::before { color: rgba(178, 34, 44, 0.18); }
+}
+

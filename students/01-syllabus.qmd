@@ -51,6 +51,79 @@ This is a two-semester course. You enroll each semester. Engagements are accepte
 basis, so your team's phase boundaries come from your kick-off rather than from a course-wide
 calendar.
 
+## What You Give and What You Get
+
+Joining the Foundry is a trade, and both sides of it are written down here so nobody has to
+guess.
+
+### What you give
+
+| | |
+|---|---|
+| **Base commitment** | 10 hours per week, including the Friday studio block |
+| **Surge commitment** | Typically an additional 10 hours per week when client demand calls for it |
+| **Your tools** | You carry your own frontier AI subscriptions |
+| **Your time horizon** | Two semesters, fall and winter |
+
+The base 10 hours is the course. The surge hours are what real client delivery costs when a
+deadline is real and the client is paying. Surge is not every week, and it is not open-ended,
+but it is not optional either when your team is in it.
+
+### What you get
+
+**Three credits per semester, six across the year.** The credit is the compensation for the
+base 10 hours. That is the academic side of the trade, and it is guaranteed whether or not your
+engagement is a funded one.
+
+**A stipend for the surge hours.** Credit pays for the base. Cash pays for the hours above it.
+Foundry engagements are paid for by the client, and a defined share of that revenue comes back
+to the students who did the work.
+
+**Real work you can point at.** Production software running in a company's hands, shipped under
+your name, with a client who will take your call.
+
+### How stipends are calculated
+
+Two inputs, and only two.
+
+1. **The size of the stipend pool**, which is a published share of total Foundry revenue for the
+   year. See the allocation table below.
+2. **Your utilization**, which is your logged, verified hours on funded client work as a share of
+   all such hours across the Foundry that term.
+
+Your stipend is your utilization share of the pool. If you carried twice the load of a teammate,
+you receive twice the stipend. Hours are logged weekly and confirmed by your team, and hours
+that are not logged do not count.
+
+A few things to be clear about:
+
+- The stipend follows funded work. Students staffed only on pro bono or internal work in a given
+  term do not draw from the pool for those hours.
+- It is applied to your student account.
+- This is a stipend, not employment. You are not an hourly employee of the university or of the
+  client, and the stipend is not a wage or a guaranteed rate.
+- Money applied to a student account can interact with a financial aid package. If you receive
+  need-based aid, check with the financial aid office before assuming it is additive.
+
+### Where the money goes
+
+Not every dollar the Foundry earns goes back to Foundry members, and you should know what the
+other dollars do. Revenue is allocated as a published waterfall:
+
+| Claim | Share | Why it exists |
+|-------|-------|---------------|
+| Strategy program | 30%, capped at $100,000 per year | The Foundry sits inside the BYU strategy program, which provides the faculty, the classroom, the accreditation, and the students. The Foundry funds it back. |
+| Reserve | 10% | Down years. A studio that cannot survive a slow semester cannot make commitments to clients or to you. |
+| Program operations | 10% | Events, swag, travel to client sites and competitions |
+| **Student stipend pool** | **The remainder, never less than 50%** | **You** |
+
+Once the strategy program contribution reaches its $100,000 cap in a given year, every
+additional dollar of that 30% flows into the student stipend pool instead. The cap is the point.
+The Foundry funds the program that houses it, and then it stops taking.
+
+These percentages are set for the year and published before engagements are staffed. They are
+not adjusted after the fact.
+
 ## Studio Time
 
 The Friday 8:00 to 11:50 AM block in 2140 TNRB is your team's standing work session:
@@ -257,11 +330,14 @@ Complete the BYU end-of-semester student ratings survey to earn 10 extra credit 
 
 ## Credit Hours
 
-| Enrollment | Hours/Week | Credit Hours per Semester |
-|------------|------------|---------------------------|
-| Standard | 10 hours | 3.0 credits |
+| | Hours/Week | Compensated by |
+|---|------------|----------------|
+| Base commitment | 10 hours | 3.0 credit hours per semester |
+| Surge, as client demand requires | Typically +10 hours | Stipend, proportional to logged utilization |
 
-Students enroll each semester for a total of 6.0 credit hours across the year.
+Students enroll each semester for a total of 6.0 credit hours across the year. See
+[What You Give and What You Get](#what-you-give-and-what-you-get) for how the stipend is
+calculated.
 
 ## Confidentiality and Client Data
 

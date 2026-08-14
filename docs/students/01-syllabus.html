@@ -33,7 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../students/02-getting-started.html" rel="next">
-<link href="../index.html" rel="prev">
+<link href="../students/07-resources.html" rel="prev">
 <link href="../images/favicon.svg" rel="icon" type="image/svg+xml">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 </head><body class="nav-sidebar floating quarto-light"><header class="book-header-banner">
   <a href="https://aifoundry.byu.edu" target="_blank">
-    <img src="images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
+    <img src="https://ai-foundry-byu.github.io/foundry-lab/images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
   </a>
 </header>
 
@@ -100,6 +100,15 @@ ul.task-list li input[type="checkbox"] {
       nums.className = 'sidebar-course-numbers';
       nums.textContent = 'MBA 693R · STRAT 490R';
       title.insertAdjacentElement('afterend', nums);
+    }
+  });
+</script>
+
+<!-- Draft watermark on every page except the resources page -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!/07-resources/.test(window.location.pathname)) {
+      document.body.classList.add('draft-page');
     }
   });
 </script>
@@ -146,18 +155,49 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Program Guide</span></a>
+  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Overview</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">The Course</span></a>
+ <span class="menu-text">The AI Foundry</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/00-constitution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Constitution and Operating Model</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/00-client-selection.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Client Service Selection Policy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/06-builder-and-consultant.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Builder and the Consultant</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/07-resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Resources</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">The Course</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../students/01-syllabus.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Syllabus</span></a>
@@ -172,13 +212,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
  <span class="menu-text">On a Client Team</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../students/05-how-teams-are-staffed.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">How Teams Are Staffed</span></a>
@@ -208,6 +248,13 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#course-numbers" id="toc-course-numbers" class="nav-link active" data-scroll-target="#course-numbers">Course Numbers</a></li>
   <li><a href="#what-this-course-is" id="toc-what-this-course-is" class="nav-link" data-scroll-target="#what-this-course-is">What This Course Is</a></li>
+  <li><a href="#what-you-give-and-what-you-get" id="toc-what-you-give-and-what-you-get" class="nav-link" data-scroll-target="#what-you-give-and-what-you-get">What You Give and What You Get</a>
+  <ul class="collapse">
+  <li><a href="#what-you-give" id="toc-what-you-give" class="nav-link" data-scroll-target="#what-you-give">What you give</a></li>
+  <li><a href="#what-you-get" id="toc-what-you-get" class="nav-link" data-scroll-target="#what-you-get">What you get</a></li>
+  <li><a href="#how-stipends-are-calculated" id="toc-how-stipends-are-calculated" class="nav-link" data-scroll-target="#how-stipends-are-calculated">How stipends are calculated</a></li>
+  <li><a href="#where-the-money-goes" id="toc-where-the-money-goes" class="nav-link" data-scroll-target="#where-the-money-goes">Where the money goes</a></li>
+  </ul></li>
   <li><a href="#studio-time" id="toc-studio-time" class="nav-link" data-scroll-target="#studio-time">Studio Time</a></li>
   <li><a href="#how-you-are-assessed" id="toc-how-you-are-assessed" class="nav-link" data-scroll-target="#how-you-are-assessed">How You Are Assessed</a></li>
   <li><a href="#grading" id="toc-grading" class="nav-link" data-scroll-target="#grading">Grading</a>
@@ -342,6 +389,102 @@ Note
 <p>We ship, not advise. Discovery work is real and comes first, but it exists to point at something to build. Every engagement ends with software running in the client’s hands, not with a deck.</p>
 <p>This is a two-semester course. You enroll each semester. Engagements are accepted on a rolling basis, so your team’s phase boundaries come from your kick-off rather than from a course-wide calendar.</p>
 </section>
+<section id="what-you-give-and-what-you-get" class="level2">
+<h2 class="anchored" data-anchor-id="what-you-give-and-what-you-get">What You Give and What You Get</h2>
+<p>Joining the Foundry is a trade, and both sides of it are written down here so nobody has to guess.</p>
+<section id="what-you-give" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-give">What you give</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Base commitment</strong></td>
+<td>10 hours per week, including the Friday studio block</td>
+</tr>
+<tr class="even">
+<td><strong>Surge commitment</strong></td>
+<td>Typically an additional 10 hours per week when client demand calls for it</td>
+</tr>
+<tr class="odd">
+<td><strong>Your tools</strong></td>
+<td>You carry your own frontier AI subscriptions</td>
+</tr>
+<tr class="even">
+<td><strong>Your time horizon</strong></td>
+<td>Two semesters, fall and winter</td>
+</tr>
+</tbody>
+</table>
+<p>The base 10 hours is the course. The surge hours are what real client delivery costs when a deadline is real and the client is paying. Surge is not every week, and it is not open-ended, but it is not optional either when your team is in it.</p>
+</section>
+<section id="what-you-get" class="level3">
+<h3 class="anchored" data-anchor-id="what-you-get">What you get</h3>
+<p><strong>Three credits per semester, six across the year.</strong> The credit is the compensation for the base 10 hours. That is the academic side of the trade, and it is guaranteed whether or not your engagement is a funded one.</p>
+<p><strong>A stipend for the surge hours.</strong> Credit pays for the base. Cash pays for the hours above it. Foundry engagements are paid for by the client, and a defined share of that revenue comes back to the students who did the work.</p>
+<p><strong>Real work you can point at.</strong> Production software running in a company’s hands, shipped under your name, with a client who will take your call.</p>
+</section>
+<section id="how-stipends-are-calculated" class="level3">
+<h3 class="anchored" data-anchor-id="how-stipends-are-calculated">How stipends are calculated</h3>
+<p>Two inputs, and only two.</p>
+<ol type="1">
+<li><strong>The size of the stipend pool</strong>, which is a published share of total Foundry revenue for the year. See the allocation table below.</li>
+<li><strong>Your utilization</strong>, which is your logged, verified hours on funded client work as a share of all such hours across the Foundry that term.</li>
+</ol>
+<p>Your stipend is your utilization share of the pool. If you carried twice the load of a teammate, you receive twice the stipend. Hours are logged weekly and confirmed by your team, and hours that are not logged do not count.</p>
+<p>A few things to be clear about:</p>
+<ul>
+<li>The stipend follows funded work. Students staffed only on pro bono or internal work in a given term do not draw from the pool for those hours.</li>
+<li>It is applied to your student account.</li>
+<li>This is a stipend, not employment. You are not an hourly employee of the university or of the client, and the stipend is not a wage or a guaranteed rate.</li>
+<li>Money applied to a student account can interact with a financial aid package. If you receive need-based aid, check with the financial aid office before assuming it is additive.</li>
+</ul>
+</section>
+<section id="where-the-money-goes" class="level3">
+<h3 class="anchored" data-anchor-id="where-the-money-goes">Where the money goes</h3>
+<p>Not every dollar the Foundry earns goes back to Foundry members, and you should know what the other dollars do. Revenue is allocated as a published waterfall:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 24%">
+<col style="width: 51%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Claim</th>
+<th>Share</th>
+<th>Why it exists</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Strategy program</td>
+<td>30%, capped at $100,000 per year</td>
+<td>The Foundry sits inside the BYU strategy program, which provides the faculty, the classroom, the accreditation, and the students. The Foundry funds it back.</td>
+</tr>
+<tr class="even">
+<td>Reserve</td>
+<td>10%</td>
+<td>Down years. A studio that cannot survive a slow semester cannot make commitments to clients or to you.</td>
+</tr>
+<tr class="odd">
+<td>Program operations</td>
+<td>10%</td>
+<td>Events, swag, travel to client sites and competitions</td>
+</tr>
+<tr class="even">
+<td><strong>Student stipend pool</strong></td>
+<td><strong>The remainder, never less than 50%</strong></td>
+<td><strong>You</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Once the strategy program contribution reaches its $100,000 cap in a given year, every additional dollar of that 30% flows into the student stipend pool instead. The cap is the point. The Foundry funds the program that houses it, and then it stops taking.</p>
+<p>These percentages are set for the year and published before engagements are staffed. They are not adjusted after the fact.</p>
+</section>
+</section>
 <section id="studio-time" class="level2">
 <h2 class="anchored" data-anchor-id="studio-time">Studio Time</h2>
 <p>The Friday 8:00 to 11:50 AM block in 2140 TNRB is your team’s standing work session: co-working, cross-team critique, client calls, and office hours with Professor Murff.</p>
@@ -387,7 +530,7 @@ Note
 <h2 class="anchored" data-anchor-id="how-you-are-assessed">How You Are Assessed</h2>
 <p>Two instruments run alongside the point total, and they measure different things in different ways.</p>
 <p><strong>The Builder</strong>, six axes: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, and Launch and Learn. You self-report these at the start of fall semester and again in December. They are <strong>not graded</strong>. They exist so you can see your own profile, so teams can be staffed for coverage, and so the program can tell whether the year moved you.</p>
-<p><strong>The Consultant</strong>, four axes: Ownership, Client Presence, Communication, and Collaboration. These are what changes when the work belongs to someone else, and they are <strong>not self-reported</strong>. The faculty advisor and your teammates rate them against observed behavior at midterm and at the end of each semester, using the same 1 to 5 scale with written behavioral anchors.</p>
+<p><strong>The Consultant</strong>, four axes: Workstream Ownership, Client Presence, Communication, and Collaboration. These are what changes when the work belongs to someone else, and they are <strong>not self-reported</strong>. The faculty advisor and your teammates rate them against observed behavior at midterm and at the end of each semester, using the same 1 to 5 scale with written behavioral anchors.</p>
 <p>The Consultant ratings inform the Client Evaluation and Peer / Team Evaluation components below. They do not add points of their own.</p>
 <table class="caption-top table">
 <colgroup>
@@ -879,22 +1022,32 @@ Warning
 <section id="credit-hours" class="level2">
 <h2 class="anchored" data-anchor-id="credit-hours">Credit Hours</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 9%">
+<col style="width: 38%">
+<col style="width: 51%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Enrollment</th>
+<th></th>
 <th>Hours/Week</th>
-<th>Credit Hours per Semester</th>
+<th>Compensated by</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Standard</td>
+<td>Base commitment</td>
 <td>10 hours</td>
-<td>3.0 credits</td>
+<td>3.0 credit hours per semester</td>
+</tr>
+<tr class="even">
+<td>Surge, as client demand requires</td>
+<td>Typically +10 hours</td>
+<td>Stipend, proportional to logged utilization</td>
 </tr>
 </tbody>
 </table>
-<p>Students enroll each semester for a total of 6.0 credit hours across the year.</p>
+<p>Students enroll each semester for a total of 6.0 credit hours across the year. See <a href="#what-you-give-and-what-you-get">What You Give and What You Get</a> for how the stipend is calculated.</p>
 </section>
 <section id="confidentiality-and-client-data" class="level2">
 <h2 class="anchored" data-anchor-id="confidentiality-and-client-data">Confidentiality and Client Data</h2>
@@ -1384,8 +1537,8 @@ Warning
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="Program Guide">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Program Guide</span></span>
+      <a href="../students/07-resources.html" class="pagination-link" aria-label="Resources">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Resources</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

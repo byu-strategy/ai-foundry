@@ -18,19 +18,15 @@ book:
         - students/06-builder-and-consultant.qmd
         - students/07-resources.qmd
 
-# Hidden 2026-08-13. These pages exist and still render fine, they are just
-# not listed in the book, so they do not appear in the sidebar and are not
-# built. Uncomment a block to bring it back.
-#
-#    - part: The Course
-#      chapters:
-#        - students/01-syllabus.qmd
-#        - students/02-getting-started.qmd
-#    - part: On a Client Team
-#      chapters:
-#        - students/05-how-teams-are-staffed.qmd
-#        - students/03-weekly-updates.qmd
-#        - students/04-build-standards.qmd
+    - part: The Course
+      chapters:
+        - students/01-syllabus.qmd
+        - students/02-getting-started.qmd
+    - part: On a Client Team
+      chapters:
+        - students/05-how-teams-are-staffed.qmd
+        - students/03-weekly-updates.qmd
+        - students/04-build-standards.qmd
 
 format:
   html:

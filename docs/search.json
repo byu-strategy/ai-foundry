@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "AI Foundry Lab",
     "section": "",
-    "text": "Course Numbers\nThe BYU AI Foundry is an AI-native product studio and consultancy, and an official program of the BYU Marriott School of Business. We build AI products. One team works out what is worth building and then ships it, because those are no longer two jobs.\nThis site is the student program guide. It covers the course, how client teams are staffed, and the standard your work is held to. Everything a prospective client reads lives on the official website, aifoundry.byu.edu.\nThe Foundry is not an internship placement and not a research project. Every engagement ends with software running in the client’s hands, and a real company has paid for it.\nThere is no prerequisite. Many students take Build, IS 693R / MSB 341, first. Many take both classes in the same semester. What you have already shipped does not decide whether you are in the Foundry. It decides what you own on a team.\nThis course is cross-listed under two course numbers. It is all the same class: everyone meets together Fridays 8:00 to 11:50 AM in 2140 TNRB, works on the same client teams, uses this site, and is graded on the same rubric. Register under whichever number fits your program.\nMixed MBA and undergraduate teams are intentional. The MBAs bring the business judgment, the undergraduate builders bring engineering depth, and on a Foundry team those are the same job.",
+    "text": "Course Numbers\nThe BYU AI Foundry is an AI-native product studio and consultancy, and an official program of the BYU Marriott School of Business. We build AI products. One team works out what is worth building and then ships it, because those are no longer two jobs.\nThis site is the student program guide. It covers the course, how client teams are staffed, and the standard your work is held to. Everything a prospective client reads lives on the official website, aifoundry.byu.edu.\nThe Foundry is not an internship placement and not a research project. Every engagement ends with software running in the client’s hands, and a real company has paid for it.\nBuild, IS 693R / MSB 341, is the prerequisite. It is offered every fall and every winter. Exceptions are granted for the 2026-2027 school year, since the Foundry is running for the first time and nobody has had the chance to take it yet. See The Builder and the Consultant for the three pathways through this year, the self-assessment, and what the commitment involves.\nThis course is cross-listed under two course numbers. It is all the same class: everyone meets together Fridays 8:00 to 11:50 AM in 2140 TNRB, works on the same client teams, uses this site, and is graded on the same rubric. Register under whichever number fits your program.\nMixed MBA and undergraduate teams are intentional. The MBAs bring the business judgment, the undergraduate builders bring engineering depth, and on a Foundry team those are the same job.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
   },
   {
@@ -16,17 +16,7 @@
     "section": "",
     "text": "Course\nSection\nTitle\nCredit Hours\n\n\n\n\nMBA 693R\n011\nSpecial Topics in Management\n3.0\n\n\nSTRAT 490R\n001\nTopics in Strategic Management\n3.0",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#start-here",
-    "href": "index.html#start-here",
-    "title": "AI Foundry Lab",
-    "section": "Start Here",
-    "text": "Start Here\n\nSyllabus: Grading, policies, and course information\nGetting Started: Onboarding checklist and expectations\nHow Teams Are Staffed: Pods, archetypes, and the points auction\nWeekly Updates: How to write your end-of-week progress emails\nBuild Standards: How Foundry work is expected to be built and shipped",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
   },
   {
@@ -34,39 +24,9 @@
     "href": "index.html#how-we-develop-builders",
     "title": "AI Foundry Lab",
     "section": "How We Develop Builders",
-    "text": "How We Develop Builders\nThe Foundry trains full-stack product builders: people who can carry an idea from a user problem to a working product someone actually uses, with AI as both the material and the tool.\nTwo shapes describe that person.\n\nThe Builder is what you can make. Six axes: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, and Launch and Learn. Students self-report on all six at the start of fall semester and again in December, and see their own profile both times.\nThe Consultant is what changes when the work belongs to someone else. Four axes: Ownership, Client Presence, Communication, and Collaboration. These are not self-reported. Faculty and teammates rate them against observed behavior at midterm and at the end of the term.\nNobody arrives strong on all ten. Teams are staffed so the team covers every Builder axis even when no single member does.\n\n\n\n\n\n\n\nClass\nWhat it does\n\n\n\n\nBuild, IS 693R / MSB 341\nRaises your floor. The goal is not a 5 anywhere, it is nothing below a 3\n\n\nThe Foundry Lab, this course\nTests your ceiling, and is the only place the Consultant axes develop at all",
+    "text": "How We Develop Builders\nThe Foundry trains full-stack product builders: people who can carry an idea from a user problem to a working product someone actually uses, with AI as both the material and the tool.\nTwo shapes describe that person.\n\nThe Builder is what you can make. Six axes: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, and Launch and Learn. Students self-report on all six at the start of fall semester and again in December, and see their own profile both times.\nThe Consultant is what changes when the work belongs to someone else. Four axes: Workstream Ownership, Client Presence, Communication, and Collaboration. These are not self-reported. Faculty and teammates rate them against observed behavior at midterm and at the end of the term.\nNobody arrives strong on all ten. Teams are staffed so the team covers every Builder axis even when no single member does.\n\n\n\n\n\n\n\nClass\nWhat it does\n\n\n\n\nBuild, IS 693R / MSB 341\nRaises your floor. The goal is not a 5 anywhere, it is nothing below a 3\n\n\nThe Foundry Lab, this course\nTests your ceiling, and is the only place the Consultant axes develop at all",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#what-the-client-is-buying",
-    "href": "index.html#what-the-client-is-buying",
-    "title": "AI Foundry Lab",
-    "section": "What the Client Is Buying",
-    "text": "What the Client Is Buying\nYou should know the commercial shape of the work, because it governs what you can promise.\n\n\n\n\n\n\n\nFee\n$22,000, fixed, for an 8-month engagement\n\n\nCovers\nAll three phases: discovery, build, and transfer\n\n\nDelivery capacity\n2 builders at 10 hours each per week. 640 hours total\n\n\nOn top of that\nA QC lead and faculty oversight\n\n\nClient commitment\nAbout 1 hour per week from a named point of contact\n\n\nIP\nThe client retains all deliverables and IP\n\n\n\nOne engagement ships one product. 640 hours builds and ships one focused product. It does not build two. When a client arrives with several ideas, each becomes its own engagement with its own pod and its own fee. Discovery exists to make sure the scope fits inside the capacity rather than the other way around.\nThe team is small on purpose. Two builders with QC and faculty oversight riding on top is enough to ship something real and not enough to sprawl.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#how-engagements-run",
-    "href": "index.html#how-engagements-run",
-    "title": "AI Foundry Lab",
-    "section": "How Engagements Run",
-    "text": "How Engagements Run\nFind the problem, build the thing, hand it over.\n\n\n\n\n\n\n\n\n\nPhase\nWhat we deliver\n\n\n\n\n01\nAudit and discovery\nAn AI-specific audit that points at specific things to build, with an estimate and a sequence\n\n\n02\nBuild\nProduction code, integrated with the client’s systems, running in their environment\n\n\n03\nTransfer\nCo-working throughout the build, then handoff. The capability stays in-house",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#how-teams-are-staffed-in-short",
-    "href": "index.html#how-teams-are-staffed-in-short",
-    "title": "AI Foundry Lab",
-    "section": "How Teams Are Staffed, in Short",
-    "text": "How Teams Are Staffed, in Short\nFit decides which projects you are eligible for. Points decide which eligible project you get.\n\nOne engagement, one pod: an engagement lead, two builders, a QC lead, and faculty oversight. A builder is on exactly one engagement at a time.\nSix archetypes describe what a project needs and what you can do. A pod needs a rated 3 in the project’s primary archetype, plus a second 3 on the bench as backup.\n100 points a month, capped at 300. Eligible builders bid sealed for the open seat. Second-highest bid sets the price, so bid your real level of interest.\nThe Foundry runs at most 6 concurrent engagements, with a seventh pod held in reserve. The binding constraint on how much work we take is builder hours, not demand.\n\nFull rules: How Teams Are Staffed.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
   },
   {
@@ -76,7 +36,282 @@
     "section": "Contact",
     "text": "Contact\nAI Foundry, BYU Marriott School of Business\naifoundry.byu.edu · aifoundry@byu.edu\nScott Murff, Faculty Advisor · scott.murff@byu.edu",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Program Guide</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-constitution.html",
+    "href": "students/00-constitution.html",
+    "title": "Constitution and Operating Model",
+    "section": "",
+    "text": "Part 1: The Constitution\nThis document belongs to the whole team. Anyone may propose a change by commenting or editing the living version directly. We review proposed changes together in team meetings and revisit the whole document at the start of each semester, so it stays alive rather than becoming wall art.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Constitution and Operating Model</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-constitution.html#our-aspiration-and-our-sources",
+    "href": "students/00-constitution.html#our-aspiration-and-our-sources",
+    "title": "Constitution and Operating Model",
+    "section": "Our aspiration and our sources",
+    "text": "Our aspiration and our sources\nWe seek to establish a world-class culture. Following Brigham Young’s admonition to gather up all the good and true principles wherever we find them, we draw inspiration from many places, with particular emphasis on four organizations:\n\nAmazon, Leadership Principles\nBridgewater, Original Philosophy\nMcKinsey, Purpose, Mission, and Values\nThe Church of Jesus Christ of Latter-day Saints, Christlike Attributes, Preach My Gospel, Chapter 6\n\nWhat follows is our synthesis: the principles we commit to live by.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Constitution and Operating Model</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-constitution.html#our-principles",
+    "href": "students/00-constitution.html#our-principles",
+    "title": "Constitution and Operating Model",
+    "section": "Our principles",
+    "text": "Our principles\n\nExcellence over everything. If forced to choose between excellence and money, we choose excellence. We hold standards outsiders might consider unreasonably high, on purpose. Every deliverable carries our name and BYU’s.\nRadical truthfulness. Accuracy in understanding reality is the foundation everything else rests on. Say the uncomfortable thing in the room, not the hallway.\nIdeas win on merit, not rank. Anyone may respectfully challenge anyone, including the faculty advisor. Once a decision is made, disagree and commit.\nCandor with charity. Truth without love is brutality. Assume good intent, listen before answering, and care about the person while being honest about the work.\nAct in faith. Faith is a principle of action, not a feeling of certainty. Move forward on incomplete information; bias for action.\nMistakes are raw material. A mistake surfaced quickly and studied honestly makes the whole team smarter; a mistake hidden makes the whole team weaker. Pain plus reflection equals progress.\nClient interests first. Put the client ahead of ourselves, preserve confidences, never oversell what we or our tools can do, and deliver improvement that lasts beyond the engagement.\nOwn your outcomes. Take responsibility without excuse. No one here says “that’s not my job.”\nEveryone teaches, everyone learns. We are an apprenticeship. Everyone should leave the Foundry more capable than they arrived.\nThe red face test. When a situation is ambiguous, ask: could I explain this decision to a respected leader, say Clark Gilbert, Shane Reese, or Brigitte Madrian, without being red in the face? If not, do not do it.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Constitution and Operating Model</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-constitution.html#flat-hierarchy",
+    "href": "students/00-constitution.html#flat-hierarchy",
+    "title": "Constitution and Operating Model",
+    "section": "Flat hierarchy",
+    "text": "Flat hierarchy\nClient teams operate without hierarchy. A team may be composed of 1 undergrad and 1 MBA, 2 undergrads, or 2 MBAs; in some cases teams may be slightly larger. In all cases, teams are flat with no hierarchy. Every member of the team has equal accountability and equal authority. Degree program, seniority, or AI Foundry leadership role confer no rank inside a team.\nWhat this means in practice:\n\nSelf-organization. Teams align on work streams themselves. They divide work by strength and interest, not by status.\nEqual accountability. The team owns the outcome together. If a deliverable slips or misses the bar, that belongs to everyone on the team.\nPeer feedback. Team members give feedback directly to each other as the first and normal channel.\nEscalation. When an issue cannot be resolved within the team, escalations go through JD and Scott.\nResetting teams. If a team does not work well together it can be recomposed. This is a normal operating mechanism, not a punishment.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Constitution and Operating Model</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-constitution.html#two-courses-two-roles",
+    "href": "students/00-constitution.html#two-courses-two-roles",
+    "title": "Constitution and Operating Model",
+    "section": "Two courses, two roles",
+    "text": "Two courses, two roles\nThe AI Foundry is a cross-listed class with an undergraduate section (STRAT 490R) and a graduate section (MBA 693R). For cross-listed courses, earning graduate credit is required to carry requirements beyond the undergraduate expectations. In the AI Foundry, that requirement is met by adding an organization leadership role: students in the graduate section help run the AI Foundry itself.\n\nStudents in the undergraduate section build. Their job is excellent client work, similar to Sandbox, except building for clients instead of for yourself.\nStudents in the graduate section build plus administer the organization itself. They do the same client work, and in addition take on a leadership role in running the AI Foundry as an organization: operations, client pipeline, quality, recruiting, and culture.\n\n\n\n\n\n\n\nNote\n\n\n\nWith permission from the faculty advisor, undergraduates are eligible to enroll in the graduate section and be considered for AI Foundry leadership roles.\n\n\nThe two sections with associated roles for those enrolled in the graduate section does not violate the flat hierarchy principle. Inside a client team, an MBA, or an undergraduate enrolled in the graduate section, has no rank over a student enrolled in the undergraduate section. Every team member has equal accountability and authority for the client work they are staffed to. The leadership roles are a different responsibility expected only in the graduate course and do not invoke any kind of authority over a teammate.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Constitution and Operating Model</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-constitution.html#the-ask-first-feedback-culture",
+    "href": "students/00-constitution.html#the-ask-first-feedback-culture",
+    "title": "Constitution and Operating Model",
+    "section": "The Ask First feedback culture",
+    "text": "The Ask First feedback culture\nEveryone is empowered to give feedback to anyone at any time, respectfully and directly. More important, our norm is to regularly ask for feedback. Asking removes the awkwardness of unsolicited criticism, signals humility, and puts each of us in control of our own growth.\nA practical habit: at the end of a project, a meeting, or a deliverable review, ask at least one person “what is one thing I could have done better?” Feedback flows in every direction, including to the faculty advisor. In general, teams should carve out 15 minutes for mutual feedback once every two weeks.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Constitution and Operating Model</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-constitution.html#amending-this-document",
+    "href": "students/00-constitution.html#amending-this-document",
+    "title": "Constitution and Operating Model",
+    "section": "Amending this document",
+    "text": "Amending this document\nThis document belongs to the whole team. Anyone may propose a change by commenting or editing directly. We review proposed changes together in team meetings and revisit the whole document at the start of each semester so it stays alive rather than becoming wall art.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Constitution and Operating Model</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-client-selection.html",
+    "href": "students/00-client-selection.html",
+    "title": "Client Service Selection Policy",
+    "section": "",
+    "text": "Mission\nThis policy governs which engagements the Foundry accepts and which it declines. It is a companion to the Constitution and Operating Model: the Constitution says how we work, this says what we work on.\nIt applies to every engagement, paid and pro bono alike, and to every channel, whether a project comes through a partner, a faculty referral, or a student’s own contact.\nThe purpose of the AI Foundry is to develop disciple-leaders who use AI to enhance human flourishing.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Client Service Selection Policy</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-client-selection.html#human-flourishing",
+    "href": "students/00-client-selection.html#human-flourishing",
+    "title": "Client Service Selection Policy",
+    "section": "Human flourishing",
+    "text": "Human flourishing\nHuman flourishing can be defined in a variety of ways. We seek to do work that focuses on four dimensions.\n\n\n\n\n\n\n\n\nDimension\nWe seek work that\nWe decline work that\n\n\n\n\nPhysical\nExtends capability, health, and safety\nGrows consumption of habit-forming substances\n\n\nMental / Intellectual\nBuilds resilience, judgment, and skill\nMonetizes compulsion or distress\n\n\nSocial\nStrengthens teams, families, and communities, and expands opportunity\nSurveils, divides, monetizes anger or conflict\n\n\nSpiritual\nServes dignity, purpose, and meaning\nDegrades dignity for attention or profit",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Client Service Selection Policy</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-client-selection.html#work-that-sits-outside-our-mandate",
+    "href": "students/00-client-selection.html#work-that-sits-outside-our-mandate",
+    "title": "Client Service Selection Policy",
+    "section": "Work that sits outside our mandate",
+    "text": "Work that sits outside our mandate\nWe ensure project fit by considering an organization’s primary business and a particular project’s purpose. In general the following categories fall outside our mandate:\n\nAlcohol, tobacco, nicotine, cannabis, and other drugs of dependence.\nCaffeinated and high-sugar beverages, including coffee and tea.\nGambling: sports betting, prediction markets, gamified retail trading, and casino-mechanic monetization.\nPornography and the commodification of sex, in any form or channel.\nPredatory or high-interest lending: payday, title, and refund anticipation.\nPolitical work: parties, campaigns, candidates, PACs, legislative offices, ballot initiative advocacy, and lobbying on a client’s behalf.\nBrands whose public marketing is sexualized, innuendo-forward, profanity-forward, or built on party or intoxication culture, regardless of product category.\nVolume growth for controlled substances: sales, script volume, and prescriber targeting.\nProducts marketed on unproven or deceptive claims.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Client Service Selection Policy</span>"
+    ]
+  },
+  {
+    "objectID": "students/00-client-selection.html#what-this-means-for-you",
+    "href": "students/00-client-selection.html#what-this-means-for-you",
+    "title": "Client Service Selection Policy",
+    "section": "What this means for you",
+    "text": "What this means for you\nTwo things follow for anyone sourcing or staffing work.\nRaise fit early. If a prospective client or project looks like it touches this list, say so before a scoping call rather than after. Declining early costs a conversation. Declining late costs a relationship.\nBring it to the Faculty Advisor rather than deciding alone. Judgment calls are expected, and no one is asked to make them by themselves. The list settles the clear cases so that attention goes to the genuinely hard ones.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Client Service Selection Policy</span>"
+    ]
+  },
+  {
+    "objectID": "students/06-builder-and-consultant.html",
+    "href": "students/06-builder-and-consultant.html",
+    "title": "The Builder and the Consultant",
+    "section": "",
+    "text": "Take the self-assessment\nTo deliver on the aspiration of the AI Foundry, all of us are striving to become AI builder consultants.\nAn AI builder can build things for themselves. That alone makes a great entrepreneur. Adding the consultant dimension raises the challenge, because now you have to build something great for someone else, which puts real weight on communication, collaboration, client presence, and ownership of the outcome.\nTwo toolkits describe that person.\nThe Builder is what you can make. Six axes: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, and Launch and Learn. You self-report these at the start of fall semester and again in December, and you get your own profile back both times.\nThe Consultant is what changes when the work belongs to someone else. Four axes: Workstream Ownership, Client Presence, Communication, and Collaboration. These are not self-reported. The faculty advisor and your teammates rate them against observed behavior at midterm and at the end of each term.\nNobody arrives strong on all ten. Teams are staffed so the team covers every Builder axis even when no single member does.\nThe baseline survey takes about seven minutes. It is self-report, not a test, and it does not affect your grade. We use it to staff teams so every team covers every skill, and to measure how far the cohort moves by December.\nTake the Builder self-assessment →\nA 2 is more useful to us than an inflated 4.\nOnce you have your profile, Resources has curated reading and courses for each axis, plus who to follow.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Builder and the Consultant</span>"
+    ]
+  },
+  {
+    "objectID": "students/06-builder-and-consultant.html#the-two-classes",
+    "href": "students/06-builder-and-consultant.html#the-two-classes",
+    "title": "The Builder and the Consultant",
+    "section": "The two classes",
+    "text": "The two classes\n\n\n\n\nBuild\nThe Foundry Lab\n\n\n\n\nNumbers\nIS 693R · MSB 341 · CS 498R\nMBA 693R-011 · STRAT 490R-001\n\n\nMeets\nMondays, 3:30 PM\nFridays, 8:00 to 11:50 AM\n\n\nOrientation\nYou are the customer\nYou are the vendor\n\n\nWhat you develop\nThe Builder toolkit, all six axes\nThe Consultant toolkit. The Builder gets tested here, not taught\n\n\nHow class time is used\nInstruction. We teach a move, you apply it to your own project that week\nDelivery. Problem solving and collaborating on live client engagements\n\n\nSite\nCourse site\nThis site",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Builder and the Consultant</span>"
+    ]
+  },
+  {
+    "objectID": "students/06-builder-and-consultant.html#prerequisite",
+    "href": "students/06-builder-and-consultant.html#prerequisite",
+    "title": "The Builder and the Consultant",
+    "section": "Prerequisite",
+    "text": "Prerequisite\nBuild (IS 693R / MSB 341) is the prerequisite for the AI Foundry Lab.1 It is offered every fall and every winter, so you can complete it in either semester and join the Lab in the following one.\nBuild exists so that you arrive at the Lab with the builder toolkit already in hand, and can spend your Friday mornings on the client rather than on the stack.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Builder and the Consultant</span>"
+    ]
+  },
+  {
+    "objectID": "students/06-builder-and-consultant.html#three-pathways-2026-2027",
+    "href": "students/06-builder-and-consultant.html#three-pathways-2026-2027",
+    "title": "The Builder and the Consultant",
+    "section": "Three pathways, 2026-2027",
+    "text": "Three pathways, 2026-2027\nIf you are still developing the builder toolkit, consider enrolling in both classes. All three pathways are legitimate.\n\n\n\n\n\n\n\n\n\n\nFall\nWinter\nBest for\n\n\n\n\nOption 1\nBuild only\nFoundry Lab\nYou want to focus on the builder toolkit first. No client work in fall\n\n\nOption 2\nBuild and Foundry Lab\nFoundry Lab\nYou want to build the toolkit while being staffed on a project. Carve out the extra time\n\n\nOption 3\nFoundry Lab only\nFoundry Lab\nYou already have a strong builder foundation\n\n\n\nWhichever option you choose, you are a fully fledged member of the AI Foundry. Choose the one that sets you up for the most success given your current foundation and everything else going on in your life.\nWhat you have already shipped does not decide whether you are in the Foundry. It decides what you own on a team: shadowing a project, contributing a piece with a backstop, or owning a workstream the client sees your name on. See How Teams Are Staffed.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Builder and the Consultant</span>"
+    ]
+  },
+  {
+    "objectID": "students/06-builder-and-consultant.html#what-we-expect-and-what-you-receive",
+    "href": "students/06-builder-and-consultant.html#what-we-expect-and-what-you-receive",
+    "title": "The Builder and the Consultant",
+    "section": "What we expect, and what you receive",
+    "text": "What we expect, and what you receive\nThe commitment. The Lab is an intense course. Plan on 10 hours per week, including the Friday studio block, plus typically another 10 hours in weeks when client demand calls for it. That is what this work actually takes, and it is what a paying client is counting on.\nYour tools. You are responsible for your own AI subscriptions. We build on frontier agent tooling, and at this stage of the program the Foundry does not provide seats. Plan on carrying your own.\nThe stipend. Foundry engagements are paid for by the client. Students staffed on a funded engagement receive a stipend applied to their student account. It does two things: it recognizes your contribution to paid client work, and it is meant to cover the cost of the AI subscriptions the work requires.\nA few things to be clear about:\n\nThe stipend follows the engagement. Students who are not staffed on a funded engagement in a given term do not receive one.\nAmounts come from a published revenue waterfall and your logged utilization, not from a per-engagement negotiation. See What You Give and What You Get.\nThis is a stipend, not employment. You are not an hourly employee of the university or of the client.\nMoney applied to a student account can interact with a financial aid package. If you receive need-based aid, check with the financial aid office before assuming it is additive.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Builder and the Consultant</span>"
+    ]
+  },
+  {
+    "objectID": "students/06-builder-and-consultant.html#footnotes",
+    "href": "students/06-builder-and-consultant.html#footnotes",
+    "title": "The Builder and the Consultant",
+    "section": "",
+    "text": "Exceptions are granted for the 2026-2027 school year. The Foundry is running for the first time, so nobody has had the chance to take the prerequisite yet. For this year only, students may enroll in the Lab while still developing the builder toolkit, using one of the three pathways below. Because we do not have the luxury of a prerequisite this year, the first few Friday sessions will establish a common foundation in agentic AI building workflow. After that, class time assumes baseline AI builder knowledge and goes to live client work, with just-in-time skill sessions as specific engagements require them.↩︎",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Builder and the Consultant</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html",
+    "href": "students/07-resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Discovery\nCurated reading, courses, and accounts for becoming an AI product builder, organized by the six Builder axes.\nHow to use this. Do not work through it top to bottom. Find your lowest axis on your baseline profile, start with the one item marked Start here, and come back for the rest when you need it.\nVerified August 2026. Anthropic moved several documentation URLs during 2025 and 2026, so older links you find elsewhere may redirect or break.\nWhat to build, and for whom.\nCreate your own curated study plan from these resources. Copy this into Claude Code. It reads the sources above, finds out what you already know, and teaches against your own project rather than a tutorial app.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html#discovery",
+    "href": "students/07-resources.html#discovery",
+    "title": "Resources",
+    "section": "",
+    "text": "Resource\nFormat\nWhy\n\n\n\n\nStart here: The Mom Test, Rob Fitzpatrick\nBook, short\nFixes the most common failure in the room: asking questions that produce flattering lies\n\n\nContinuous Discovery Habits, Teresa Torres\nBook\nTurns “talk to users” into a weekly team habit rather than a good intention\n\n\nPrioritize Opportunities, Not Solutions, Teresa Torres\nArticle, free\nThe clearest free explainer of the opportunity solution tree\n\n\nThe Lean Product Playbook, Dan Olsen\nBook\nThe cleanest operational definition of product-market fit, six steps from customer to MVP\n\n\nSVPG articles, Marty Cagan\nArticles, free\nFree and still updated. Start with how strong product teams differ from feature teams\n\n\nShape Up, Ryan Singer\nBook, free\nFixed appetite and betting instead of backlog grooming. Free full text\n\n\nLenny’s Newsletter\nNewsletter\nThe highest density of practitioner tactics anywhere in product\n\n\nMental models for building products people love, Stewart Butterfield, Nov 2025\nPodcast\nThe Slack and Flickr founder on how he decides what is worth building\n\n\n\n\nContext first, because you do not know any of this yet.\n\nI am a student in the BYU AI Foundry, a program that trains AI product\nbuilders: people who can carry an idea from a user problem to a working\nproduct that someone actually uses, with AI as both the material and the tool.\n\nThe program tracks six skills, called the Builder axes:\n\n  1. Discovery, what to build and for whom\n  2. Design, the surface and the flow\n  3. Application Architecture, how the app is structured, shipped, and kept\n     safe\n  4. AI Systems, the intelligence inside the product: context windows,\n     prompting, tool use, RAG, hallucination and verification, evals, cost\n     and latency\n  5. Agentic Workflow, AI as the way you build: coding agents, agent loops,\n     project instruction files, memory, skills, hooks, subagents, MCP, and\n     reviewing code an agent wrote\n  6. Launch and Learn, instrumentation, metrics, activation and retention,\n     experiments, positioning and pricing\n\nI rated myself 1 to 5 on every axis and got back a six-sided chart of my\nprofile. I am working on one axis at a time, starting with my weakest.\n\nYou are my tutor for Discovery: what to build, and for whom.\n\nFirst, ask me at most four questions to find out where I actually am. Do not\nskip this and do not ask more than four.\n\nThen build me an ordered plan from the sources below, with a rough time\nestimate for each step. Read each source yourself before you teach from it.\n\nSources:\nhttps://www.momtestbook.com/\nhttps://www.producttalk.org/prioritize-opportunities/\nhttps://www.svpg.com/articles/\nhttps://basecamp.com/shapeup\nhttps://www.youtube.com/watch?v=kLe-zy5r0Mk\n\nHow to teach me:\n- One concept per session, thirty minutes maximum. Say where we stopped.\n- After each concept, give me one small exercise against my own project. Not a\n  toy example. If I do not have a project yet, help me pick one first.\n- Make me explain it back, or show you the work. If I am hand-waving, say so\n  and stay on it.\n- If a source is out of date or wrong, tell me. Do not summarize uncritically.\n- Skip anything I already know. Prove it by asking, not by assuming.\n\nWe are done when I can state a real user problem, the evidence that it is\nreal, and the smallest thing you could build to test it, in one page.\nWhen we get there, tell me plainly what I still cannot do.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html#design",
+    "href": "students/07-resources.html#design",
+    "title": "Resources",
+    "section": "Design",
+    "text": "Design\nThe surface and the flow.\n\n\n\nResource\nFormat\nWhy\n\n\n\n\nStart here: Refactoring UI\nBook\nWritten for engineers who need work to look designed without becoming designers\n\n\nLaws of UX, Jon Yablonski\nSite, free\nThe cognitive principles that explain why an interface works, one page each\n\n\nThe Definition of User Experience, Norman and Nielsen\nArticle, free\nThe foundational framing, from the people who coined the term\n\n\nHandmade Designs: The New Trust Signal, NN/g\nArticle, 2026\nDirectly on the UI critique row: as AI polish becomes free, imperfection starts reading as trust\n\n\nshadcn/ui\nDocs\nThe component system agents actually write against, built to be legible to an LLM\n\n\nApple Human Interface Guidelines\nDocs\nCanonical reference for platform-native patterns and component behavior\n\n\nThe design process is dead. Here’s what’s replacing it., Jenny Wen\nArticle, 2026\nHead of design at Claude on why discovery, mock, iterate is obsolete, and what taste means when prototyping is free\n\n\nThe Looking Glass, Julie Zhuo\nNewsletter\nEx-Facebook VP of Design on judgment and critique culture\n\n\nWhy AI makes design, craft, and quality the new moat, Figma’s CEO, Oct 2025\nPodcast\nThe argument that as building gets cheap, taste becomes the differentiator\n\n\nHow to build real taste, and why AI makes it matter more, Tony Fadell, Jun 2026\nPodcast\nThe iPod and Nest creator on where taste comes from and how to develop it\n\n\n\nCreate your own curated study plan from these resources. Copy this into Claude Code. It reads the sources above, finds out what you already know, and teaches against your own project rather than a tutorial app.\nContext first, because you do not know any of this yet.\n\nI am a student in the BYU AI Foundry, a program that trains AI product\nbuilders: people who can carry an idea from a user problem to a working\nproduct that someone actually uses, with AI as both the material and the tool.\n\nThe program tracks six skills, called the Builder axes:\n\n  1. Discovery, what to build and for whom\n  2. Design, the surface and the flow\n  3. Application Architecture, how the app is structured, shipped, and kept\n     safe\n  4. AI Systems, the intelligence inside the product: context windows,\n     prompting, tool use, RAG, hallucination and verification, evals, cost\n     and latency\n  5. Agentic Workflow, AI as the way you build: coding agents, agent loops,\n     project instruction files, memory, skills, hooks, subagents, MCP, and\n     reviewing code an agent wrote\n  6. Launch and Learn, instrumentation, metrics, activation and retention,\n     experiments, positioning and pricing\n\nI rated myself 1 to 5 on every axis and got back a six-sided chart of my\nprofile. I am working on one axis at a time, starting with my weakest.\n\nYou are my tutor for Design: the surface and the flow.\n\nFirst, ask me at most four questions to find out where I actually am. Do not\nskip this and do not ask more than four.\n\nThen build me an ordered plan from the sources below, with a rough time\nestimate for each step. Read each source yourself before you teach from it.\n\nSources:\nhttps://www.refactoringui.com/\nhttps://lawsofux.com/\nhttps://www.nngroup.com/articles/definition-user-experience/\nhttps://www.nngroup.com/articles/handmade-designs/\nhttps://www.lennysnewsletter.com/p/the-design-process-is-dead\nhttps://ui.shadcn.com/docs\n\nHow to teach me:\n- One concept per session, thirty minutes maximum. Say where we stopped.\n- After each concept, give me one small exercise against my own project. Not a\n  toy example. If I do not have a project yet, help me pick one first.\n- Make me explain it back, or show you the work. If I am hand-waving, say so\n  and stay on it.\n- If a source is out of date or wrong, tell me. Do not summarize uncritically.\n- Skip anything I already know. Prove it by asking, not by assuming.\n\nWe are done when I can take a screen an agent generated for you and name\nfive specific things wrong with it, each with a reason a designer would\naccept.\nWhen we get there, tell me plainly what I still cannot do.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html#application-architecture",
+    "href": "students/07-resources.html#application-architecture",
+    "title": "Resources",
+    "section": "Application Architecture",
+    "text": "Application Architecture\nHow the application is structured, shipped, and kept safe.\n\n\n\nResource\nFormat\nWhy\n\n\n\n\nStart here: Learn Next.js, Vercel\nCourse, free\nSixteen chapters building a real full-stack app: routing, data, auth, deploy\n\n\nSupabase docs and the auth guide\nDocs\nPostgres, auth, storage, realtime in one set. The auth guide covers row level security, which most tutorials skip\n\n\nDesigning Data-Intensive Applications, 2nd ed., Kleppmann and Riccomini\nBook, 2026\nThe reference for how data systems really behave. The second edition rewrites the consistency chapter and adds the cloud reality\n\n\nPro Git\nBook, free\nComplete and free. Read chapters 1 to 3 and stop until you need more\n\n\nOWASP Top 10:2025\nStandard\nThe 2025 edition adds software supply chain failures. If a syllabus cites the 2021 list, it is stale\n\n\nWeb Security Academy, PortSwigger\nLabs, free\nHands-on labs for the attacks OWASP describes. Reading about SQL injection is not the same as doing one\n\n\nUse The Index, Luke!, Markus Winand\nBook, free\nSQL indexing for developers. Almost nothing else covers this well\n\n\nThe Pragmatic Engineer, Gergely Orosz\nNewsletter\nHow production systems and engineering practice actually work inside real companies\n\n\n\nLenny’s Podcast has almost nothing on this axis. Product podcasts do not cover schema design or deploys, which is part of why it is the cohort’s weakest axis.\nCreate your own curated study plan from these resources. Copy this into Claude Code. It reads the sources above, finds out what you already know, and teaches against your own project rather than a tutorial app.\nContext first, because you do not know any of this yet.\n\nI am a student in the BYU AI Foundry, a program that trains AI product\nbuilders: people who can carry an idea from a user problem to a working\nproduct that someone actually uses, with AI as both the material and the tool.\n\nThe program tracks six skills, called the Builder axes:\n\n  1. Discovery, what to build and for whom\n  2. Design, the surface and the flow\n  3. Application Architecture, how the app is structured, shipped, and kept\n     safe\n  4. AI Systems, the intelligence inside the product: context windows,\n     prompting, tool use, RAG, hallucination and verification, evals, cost\n     and latency\n  5. Agentic Workflow, AI as the way you build: coding agents, agent loops,\n     project instruction files, memory, skills, hooks, subagents, MCP, and\n     reviewing code an agent wrote\n  6. Launch and Learn, instrumentation, metrics, activation and retention,\n     experiments, positioning and pricing\n\nI rated myself 1 to 5 on every axis and got back a six-sided chart of my\nprofile. I am working on one axis at a time, starting with my weakest.\n\nYou are my tutor for Application Architecture: how the application is\nstructured, shipped, and kept safe.\n\nFirst, ask me at most four questions to find out where I actually am. Do not\nskip this and do not ask more than four.\n\nThen build me an ordered plan from the sources below, with a rough time\nestimate for each step. Read each source yourself before you teach from it.\n\nSources:\nhttps://nextjs.org/learn\nhttps://supabase.com/docs/guides/auth\nhttps://use-the-index-luke.com/\nhttps://owasp.org/Top10/2025/\nhttps://portswigger.net/web-security\nhttps://git-scm.com/book/en/v2\n\nHow to teach me:\n- One concept per session, thirty minutes maximum. Say where we stopped.\n- After each concept, give me one small exercise against my own project. Not a\n  toy example. If I do not have a project yet, help me pick one first.\n- Make me explain it back, or show you the work. If I am hand-waving, say so\n  and stay on it.\n- If a source is out of date or wrong, tell me. Do not summarize uncritically.\n- Skip anything I already know. Prove it by asking, not by assuming.\n\nWe are done when I can walk a stranger through your repo: what runs where,\nwhat the schema is, who can see which rows, and what happens between your\nmachine and the live app.\nWhen we get there, tell me plainly what I still cannot do.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html#ai-systems",
+    "href": "students/07-resources.html#ai-systems",
+    "title": "Resources",
+    "section": "AI Systems",
+    "text": "AI Systems\nThe intelligence inside the product.\n\n\n\nResource\nFormat\nWhy\n\n\n\n\nStart here: Deep Dive into LLMs like ChatGPT, Andrej Karpathy\nVideo, 3.5h\nPretraining through hallucination, tool use, and RLHF, pitched at builders rather than researchers\n\n\nContext windows and prompt caching, Anthropic\nDocs\nWhat actually counts against the window, and the most direct lever you have on cost and latency\n\n\nTool use with Claude\nDocs\nCanonical reference for function calling and the agentic loop\n\n\nInteractive prompt engineering tutorial and Claude Cookbooks\nNotebooks, free\nRunnable examples for RAG, tool use, evals, caching, and cost\n\n\nPatterns for Building LLM-based Systems and Products, Eugene Yan\nArticle, free\nThe single best map of the field: evals, RAG, caching, guardrails, defensive UX\n\n\nAI Evals email course, Hamel Husain and Shreya Shankar\nCourse, free\nSeventeen parts plus two free ebooks. Evals are the axis item nobody has, and this is the on-ramp\n\n\nAI Engineering, Chip Huyen\nBook\nThe standard reference for the job title. Free chapter notes at aie-book\n\n\nEffective context engineering for AI agents, Anthropic\nArticle\nContext engineering as the discipline that succeeded prompt engineering\n\n\nWhy AI evals are the hottest new skill for product builders, Hamel Husain, Sep 2025\nPodcast\nThe best introduction to why evals matter, from the person who teaches them\n\n\nAI Engineering 101, Chip Huyen, Oct 2025\nPodcast\nThe book’s author covering the same ground in an hour\n\n\n\nCreate your own curated study plan from these resources. Copy this into Claude Code. It reads the sources above, finds out what you already know, and teaches against your own project rather than a tutorial app.\nContext first, because you do not know any of this yet.\n\nI am a student in the BYU AI Foundry, a program that trains AI product\nbuilders: people who can carry an idea from a user problem to a working\nproduct that someone actually uses, with AI as both the material and the tool.\n\nThe program tracks six skills, called the Builder axes:\n\n  1. Discovery, what to build and for whom\n  2. Design, the surface and the flow\n  3. Application Architecture, how the app is structured, shipped, and kept\n     safe\n  4. AI Systems, the intelligence inside the product: context windows,\n     prompting, tool use, RAG, hallucination and verification, evals, cost\n     and latency\n  5. Agentic Workflow, AI as the way you build: coding agents, agent loops,\n     project instruction files, memory, skills, hooks, subagents, MCP, and\n     reviewing code an agent wrote\n  6. Launch and Learn, instrumentation, metrics, activation and retention,\n     experiments, positioning and pricing\n\nI rated myself 1 to 5 on every axis and got back a six-sided chart of my\nprofile. I am working on one axis at a time, starting with my weakest.\n\nYou are my tutor for AI Systems: the intelligence inside the product.\n\nFirst, ask me at most four questions to find out where I actually am. Do not\nskip this and do not ask more than four.\n\nThen build me an ordered plan from the sources below, with a rough time\nestimate for each step. Read each source yourself before you teach from it.\n\nSources:\nhttps://www.youtube.com/watch?v=7xTGNNLPyMI\nhttps://platform.claude.com/docs/en/build-with-claude/context-windows\nhttps://platform.claude.com/docs/en/build-with-claude/prompt-caching\nhttps://platform.claude.com/docs/en/agents-and-tools/tool-use/overview\nhttps://eugeneyan.com/writing/llm-patterns/\nhttps://ai.hamel.dev/eval-course\nhttps://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents\n\nHow to teach me:\n- One concept per session, thirty minutes maximum. Say where we stopped.\n- After each concept, give me one small exercise against my own project. Not a\n  toy example. If I do not have a project yet, help me pick one first.\n- Make me explain it back, or show you the work. If I am hand-waving, say so\n  and stay on it.\n- If a source is out of date or wrong, tell me. Do not summarize uncritically.\n- Skip anything I already know. Prove it by asking, not by assuming.\n\nWe are done when I can explain where your AI feature could be wrong, how you\nwould find out, and roughly what one use of it costs.\nWhen we get there, tell me plainly what I still cannot do.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html#agentic-workflow",
+    "href": "students/07-resources.html#agentic-workflow",
+    "title": "Resources",
+    "section": "Agentic Workflow",
+    "text": "Agentic Workflow\nAI as the way you build. This axis moves fastest, so favor docs and primary sources over books.\n\n\n\nResource\nFormat\nWhy\n\n\n\n\nStart here: Building Effective Agents, Anthropic\nArticle\nThe shared vocabulary of the field: workflows versus agents, patterns over frameworks\n\n\nClaude Code documentation\nDocs\nCLAUDE.md, memory, skills, hooks, subagents, and MCP, all in one place. Note the URL moved in 2025\n\n\nAnthropic Academy\nCourses, free\nAround 23 free courses with certificates, including Claude Code in Action, MCP, skills, and subagents\n\n\nAgentic Engineering Patterns, Simon Willison\nGuide, free\nSix chapters on principles, testing, and annotated real prompts. The best free text on loop design\n\n\nHow we built our multi-agent research system, Anthropic\nArticle\nOrchestrator and subagent architecture, when parallelism wins, and the token cost it carries\n\n\nWriting effective tools for agents, Anthropic\nArticle\nRead before you write an MCP server, not after\n\n\nModel Context Protocol and AGENTS.md\nSpecs\nBoth are now multi-vendor open standards rather than one company’s idea\n\n\nHow far can we push AI autonomy in code generation?, Birgitta Böckeler\nArticle\nThe most rigorous treatment of where human review is still non-negotiable\n\n\nVibe coding and agentic engineering are getting closer than I’d like, Simon Willison\nArticle\nAn honest admission that review discipline is eroding, from one of its advocates\n\n\nWhat happens after coding is solved, Boris Cherny, Feb 2026\nPodcast\nThe head of Claude Code on where agentic development is going. The most watched episode on this list\n\n\nClaude Code and Cowork, Fiona Fung, Jun 2026\nPodcast\nThe follow-up, four months later, on how the workflow changed again\n\n\n\nCreate your own curated study plan from these resources. Copy this into Claude Code. It reads the sources above, finds out what you already know, and teaches against your own project rather than a tutorial app.\nContext first, because you do not know any of this yet.\n\nI am a student in the BYU AI Foundry, a program that trains AI product\nbuilders: people who can carry an idea from a user problem to a working\nproduct that someone actually uses, with AI as both the material and the tool.\n\nThe program tracks six skills, called the Builder axes:\n\n  1. Discovery, what to build and for whom\n  2. Design, the surface and the flow\n  3. Application Architecture, how the app is structured, shipped, and kept\n     safe\n  4. AI Systems, the intelligence inside the product: context windows,\n     prompting, tool use, RAG, hallucination and verification, evals, cost\n     and latency\n  5. Agentic Workflow, AI as the way you build: coding agents, agent loops,\n     project instruction files, memory, skills, hooks, subagents, MCP, and\n     reviewing code an agent wrote\n  6. Launch and Learn, instrumentation, metrics, activation and retention,\n     experiments, positioning and pricing\n\nI rated myself 1 to 5 on every axis and got back a six-sided chart of my\nprofile. I am working on one axis at a time, starting with my weakest.\n\nYou are my tutor for Agentic Workflow: AI as the way you build.\n\nFirst, ask me at most four questions to find out where I actually am. Do not\nskip this and do not ask more than four.\n\nThen build me an ordered plan from the sources below, with a rough time\nestimate for each step. Read each source yourself before you teach from it.\n\nSources:\nhttps://www.anthropic.com/engineering/building-effective-agents\nhttps://code.claude.com/docs/en/overview\nhttps://simonwillison.net/guides/agentic-engineering-patterns/\nhttps://www.anthropic.com/engineering/writing-tools-for-agents\nhttps://www.anthropic.com/engineering/multi-agent-research-system\nhttps://martinfowler.com/articles/pushing-ai-autonomy.html\nhttps://modelcontextprotocol.io\n\nHow to teach me:\n- One concept per session, thirty minutes maximum. Say where we stopped.\n- After each concept, give me one small exercise against my own project. Not a\n  toy example. If I do not have a project yet, help me pick one first.\n- Make me explain it back, or show you the work. If I am hand-waving, say so\n  and stay on it.\n- If a source is out of date or wrong, tell me. Do not summarize uncritically.\n- Skip anything I already know. Prove it by asking, not by assuming.\n\nWe are done when I can set your project up so an agent does good work in it,\nand review what it wrote well enough to catch what it got wrong.\nWhen we get there, tell me plainly what I still cannot do.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html#launch-and-learn",
+    "href": "students/07-resources.html#launch-and-learn",
+    "title": "Resources",
+    "section": "Launch and Learn",
+    "text": "Launch and Learn\nGetting it in front of people and finding out whether it worked.\n\n\n\nResource\nFormat\nWhy\n\n\n\n\nStart here: Product/Market Fit Survey, Sean Ellis\nTool\nThe 40 percent “very disappointed” test. Run it on your own product rather than reading about it\n\n\nHow Superhuman built an engine to find PMF, Rahul Vohra\nArticle, free\nTurns that survey into a repeatable loop. They went from 22 to 58 percent\n\n\nWhat is good retention?, Lenny Rachitsky and Casey Winters\nArticle\nBenchmarks by business model. Answers the question “is our number bad”\n\n\nNorth Star Playbook, Amplitude\nPlaybook, free\nThe standard reference for choosing a metric that would actually move\n\n\nObviously Awesome, April Dunford\nBook\nPositioning, which determines what activation even means\n\n\nGrowth Loops are the New Funnels, Reforge\nArticle\nThe essay that reframed growth from linear funnels to compounding loops\n\n\nTrustworthy Online Controlled Experiments, Kohavi, Tang and Xu\nBook\nThe A/B testing reference. Chapter 1 and the FAQ are free on the companion site\n\n\nThe new AI growth playbook for 2026, Elena Verna\nArticle, 2026\nArgues AI-native products have to re-find product-market fit every few months rather than once\n\n\nFinding hidden growth opportunities in your product, Albert Cheng, Oct 2025\nPodcast\nDuolingo and Uber growth work, concrete enough to copy on Monday\n\n\nWhat world-class go-to-market looks like in 2026, Jeanne DeWitt Grosser, Nov 2025\nPodcast\nVercel and Stripe on positioning and pricing, the two rows this axis is weakest on\n\n\n\nCreate your own curated study plan from these resources. Copy this into Claude Code. It reads the sources above, finds out what you already know, and teaches against your own project rather than a tutorial app.\nContext first, because you do not know any of this yet.\n\nI am a student in the BYU AI Foundry, a program that trains AI product\nbuilders: people who can carry an idea from a user problem to a working\nproduct that someone actually uses, with AI as both the material and the tool.\n\nThe program tracks six skills, called the Builder axes:\n\n  1. Discovery, what to build and for whom\n  2. Design, the surface and the flow\n  3. Application Architecture, how the app is structured, shipped, and kept\n     safe\n  4. AI Systems, the intelligence inside the product: context windows,\n     prompting, tool use, RAG, hallucination and verification, evals, cost\n     and latency\n  5. Agentic Workflow, AI as the way you build: coding agents, agent loops,\n     project instruction files, memory, skills, hooks, subagents, MCP, and\n     reviewing code an agent wrote\n  6. Launch and Learn, instrumentation, metrics, activation and retention,\n     experiments, positioning and pricing\n\nI rated myself 1 to 5 on every axis and got back a six-sided chart of my\nprofile. I am working on one axis at a time, starting with my weakest.\n\nYou are my tutor for Launch and Learn: getting it in front of people and\nfinding out whether it worked.\n\nFirst, ask me at most four questions to find out where I actually am. Do not\nskip this and do not ask more than four.\n\nThen build me an ordered plan from the sources below, with a rough time\nestimate for each step. Read each source yourself before you teach from it.\n\nSources:\nhttps://pmfsurvey.com\nhttps://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/\nhttps://amplitude.com/books/north-star/amplitudes-north-star-metric-and-inputs\nhttps://www.lennysnewsletter.com/p/what-is-good-retention-issue-29\nhttps://www.aprildunford.com/books\nhttps://experimentguide.com/\n\nHow to teach me:\n- One concept per session, thirty minutes maximum. Say where we stopped.\n- After each concept, give me one small exercise against my own project. Not a\n  toy example. If I do not have a project yet, help me pick one first.\n- Make me explain it back, or show you the work. If I am hand-waving, say so\n  and stay on it.\n- If a source is out of date or wrong, tell me. Do not summarize uncritically.\n- Skip anything I already know. Prove it by asking, not by assuming.\n\nWe are done when I can name the one metric that would move if your product\nwere working, say how you would instrument it, and say what number would\nmake you kill the feature.\nWhen we get there, tell me plainly what I still cannot do.",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "students/07-resources.html#who-to-follow",
+    "href": "students/07-resources.html#who-to-follow",
+    "title": "Resources",
+    "section": "Who to follow",
+    "text": "Who to follow\nFollow fewer accounts than you think. These are grouped by what they are useful for.\nOne thing worth knowing before you build a feed: Application Architecture has almost no social media presence. Nobody posts in depth about schema design, deploys, or CI. Two separate searches turned up the same answer. For that axis, feeds will not help you and the docs and books above are the only path. It is also the axis this cohort is weakest on.\n\nFor building, the highest signal for Foundry work\n\n\n\nAccount\nWhy\n\n\n\n\n@ClaudeDevs\nOfficial Anthropic developer updates. Where Claude Code, API, and MCP changes get announced first\n\n\n@bcherny Boris Cherny\nHead of Claude Code. Agents, tooling, engineering workflow\n\n\n@simonw Simon Willison\nCreator of Datasette, co-creator of Django. Near-daily practical posts. His blog is the better resource, organized by tag\n\n\n@steipete Peter Steinberger\nBuilt and sold PSPDFKit, now works on agents full time. The frontier of multi-agent setups. Not a first read\n\n\n@emollick Ethan Mollick\nWharton. Structured experiments on what AI is actually good and bad at. One Useful Thing is the better subscription\n\n\nEvery: @danshipper, @kieranklaassen, @every\nThey ship AI products in public, Cora and Spiral among them, then write up what happened. Kieran on compound engineering is the most specific writing anywhere on agentic workflow\n\n\n@HamelHusain Hamel Husain and @sh_reya Shreya Shankar\nThe two people who turned evals into a teachable subject. Their free course is the AI Systems start-here item\n\n\n@chipro Chip Huyen\nWrote AI Engineering. Production systems, cost and latency tradeoffs\n\n\n@swyx\nThe connective tissue of the AI engineering scene, via Latent Space\n\n\n@amanrsanger Aman Sanger\nCursor founder. The one framework account that is load-bearing for this stack\n\n\n@alexalbert__ Alex Albert\nAnthropic, on prompting and agent behavior. The practice counterpart to @ClaudeDevs announcements\n\n\n\n\n\nFor product\n\n\n\nAccount\nWhy\n\n\n\n\n@lennysan Lenny Rachitsky\nDeeply researched product, growth, and career advice. Newsletter and podcast both worth it\n\n\nMarty Cagan, SVPG\nHow strong product teams operate\n\n\nTeresa Torres, Product Talk\nContinuous discovery\n\n\nDan Olsen, dan-olsen.com\nLean product and product-market fit\n\n\n@paulg Paul Graham\nThe essays more than the account. Written for founders building their own thing, which makes them a better fit for Build than for the Lab\n\n\n\n\n\nFor understanding where the field is going\nUseful for perspective, not for shipping this week.\n\n\n\nName\nHandle\nWho they are\n\n\n\n\nSam Altman\n@sama\nCEO, OpenAI\n\n\nDario Amodei\n@darioamodei\nCEO, Anthropic\n\n\nDemis Hassabis\n@demishassabis\nCEO, Google DeepMind\n\n\nGreg Brockman\n@gdb\nCo-founder, OpenAI\n\n\nJensen Huang\n@JensenHuang\nCEO, NVIDIA. The compute side of the boom\n\n\nMarc Andreessen\n@pmarca\nCo-founder, a16z. Investment and long-horizon takes\n\n\nAndrej Karpathy\n@karpathy\nResearcher and educator. The clearest explainer of how LLMs work\n\n\nAndrew Ng\n@AndrewYNg\nFounder of DeepLearning.AI. Applied ML and career advice\n\n\nYann LeCun\n@ylecun\nDeep learning pioneer, NYU. Strong and useful dissenting opinions\n\n\nFei-Fei Li\n@drfeifei\nStanford HAI. Created ImageNet. Human-centered AI\n\n\nSebastian Raschka\n@rasbt\nAuthor and educator on LLM implementation\n\n\nLex Fridman\n@lexfridman\nLong-form interviews with AI researchers and founders\n\n\nLogan Kilpatrick\n@OfficialLoganK\nAI developer ecosystem and platform\n\n\nKai-Fu Lee\n@kaifulee\nInvestor and author. Global and China AI perspective",
+    "crumbs": [
+      "The AI Foundry",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
     ]
   },
   {
@@ -87,7 +322,7 @@
     "text": "Course Numbers\nFALL 2026 – WINTER 2027\nThis course is cross-listed under two course numbers. It is all the same class: everyone meets together Fridays 8:00 to 11:50 AM in 2140 TNRB, works on the same client teams, uses this site, and uses Canvas as the LMS. Register under whichever number fits your program.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -98,7 +333,7 @@
     "text": "Course\nSection\nTitle\nCredit Hours\n\n\n\n\nMBA 693R\n011\nSpecial Topics in Management\n3.0\n\n\nSTRAT 490R\n001\nTopics in Strategic Management\n3.0\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nCanvas is used only for submitting milestone deliverables and your final video reflection, and for reviewing grades. All other course content lives on this website.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -109,7 +344,18 @@
     "text": "What This Course Is\nThe AI Foundry is an AI-native product studio and consultancy. You are on a delivery team for a paying client. The client is paying a fixed fee, retains the intellectual property, and expects professional work. Your grade reflects both the quality of what you ship and the professionalism with which you ship it.\nWe ship, not advise. Discovery work is real and comes first, but it exists to point at something to build. Every engagement ends with software running in the client’s hands, not with a deck.\nThis is a two-semester course. You enroll each semester. Engagements are accepted on a rolling basis, so your team’s phase boundaries come from your kick-off rather than from a course-wide calendar.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "students/01-syllabus.html#what-you-give-and-what-you-get",
+    "href": "students/01-syllabus.html#what-you-give-and-what-you-get",
+    "title": "Syllabus",
+    "section": "What You Give and What You Get",
+    "text": "What You Give and What You Get\nJoining the Foundry is a trade, and both sides of it are written down here so nobody has to guess.\n\nWhat you give\n\n\n\n\n\n\n\nBase commitment\n10 hours per week, including the Friday studio block\n\n\nSurge commitment\nTypically an additional 10 hours per week when client demand calls for it\n\n\nYour tools\nYou carry your own frontier AI subscriptions\n\n\nYour time horizon\nTwo semesters, fall and winter\n\n\n\nThe base 10 hours is the course. The surge hours are what real client delivery costs when a deadline is real and the client is paying. Surge is not every week, and it is not open-ended, but it is not optional either when your team is in it.\n\n\nWhat you get\nThree credits per semester, six across the year. The credit is the compensation for the base 10 hours. That is the academic side of the trade, and it is guaranteed whether or not your engagement is a funded one.\nA stipend for the surge hours. Credit pays for the base. Cash pays for the hours above it. Foundry engagements are paid for by the client, and a defined share of that revenue comes back to the students who did the work.\nReal work you can point at. Production software running in a company’s hands, shipped under your name, with a client who will take your call.\n\n\nHow stipends are calculated\nTwo inputs, and only two.\n\nThe size of the stipend pool, which is a published share of total Foundry revenue for the year. See the allocation table below.\nYour utilization, which is your logged, verified hours on funded client work as a share of all such hours across the Foundry that term.\n\nYour stipend is your utilization share of the pool. If you carried twice the load of a teammate, you receive twice the stipend. Hours are logged weekly and confirmed by your team, and hours that are not logged do not count.\nA few things to be clear about:\n\nThe stipend follows funded work. Students staffed only on pro bono or internal work in a given term do not draw from the pool for those hours.\nIt is applied to your student account.\nThis is a stipend, not employment. You are not an hourly employee of the university or of the client, and the stipend is not a wage or a guaranteed rate.\nMoney applied to a student account can interact with a financial aid package. If you receive need-based aid, check with the financial aid office before assuming it is additive.\n\n\n\nWhere the money goes\nNot every dollar the Foundry earns goes back to Foundry members, and you should know what the other dollars do. Revenue is allocated as a published waterfall:\n\n\n\n\n\n\n\n\nClaim\nShare\nWhy it exists\n\n\n\n\nStrategy program\n30%, capped at $100,000 per year\nThe Foundry sits inside the BYU strategy program, which provides the faculty, the classroom, the accreditation, and the students. The Foundry funds it back.\n\n\nReserve\n10%\nDown years. A studio that cannot survive a slow semester cannot make commitments to clients or to you.\n\n\nProgram operations\n10%\nEvents, swag, travel to client sites and competitions\n\n\nStudent stipend pool\nThe remainder, never less than 50%\nYou\n\n\n\nOnce the strategy program contribution reaches its $100,000 cap in a given year, every additional dollar of that 30% flows into the student stipend pool instead. The cap is the point. The Foundry funds the program that houses it, and then it stops taking.\nThese percentages are set for the year and published before engagements are staffed. They are not adjusted after the fact.",
+    "crumbs": [
+      "The Course",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -120,7 +366,7 @@
     "text": "Studio Time\nThe Friday 8:00 to 11:50 AM block in 2140 TNRB is your team’s standing work session: co-working, cross-team critique, client calls, and office hours with Professor Murff.\nRequired sessions:\n\n\n\n\n\n\n\nSession\nWhen\n\n\n\n\nKick-off, team formation, client introductions\nFirst studio of fall semester\n\n\nPhase review: discovery\nSet per engagement\n\n\nPhase review: build\nSet per engagement\n\n\nPhase review: transfer and handoff\nSet per engagement\n\n\nEnd-of-year showcase\nFinal studio of winter semester\n\n\n\nEngagements start on a rolling basis, so phase reviews are scheduled per team rather than on a single course calendar. Your team’s review dates are set at kick-off and posted in Canvas.\nAll other Fridays are optional but strongly encouraged. Teams that skip studio time consistently underperform.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -128,10 +374,10 @@
     "href": "students/01-syllabus.html#how-you-are-assessed",
     "title": "Syllabus",
     "section": "How You Are Assessed",
-    "text": "How You Are Assessed\nTwo instruments run alongside the point total, and they measure different things in different ways.\nThe Builder, six axes: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, and Launch and Learn. You self-report these at the start of fall semester and again in December. They are not graded. They exist so you can see your own profile, so teams can be staffed for coverage, and so the program can tell whether the year moved you.\nThe Consultant, four axes: Ownership, Client Presence, Communication, and Collaboration. These are what changes when the work belongs to someone else, and they are not self-reported. The faculty advisor and your teammates rate them against observed behavior at midterm and at the end of each semester, using the same 1 to 5 scale with written behavioral anchors.\nThe Consultant ratings inform the Client Evaluation and Peer / Team Evaluation components below. They do not add points of their own.\n\n\n\n\n\n\n\n\n\nBuilder\nConsultant\n\n\n\n\nWhat it measures\nWhat you can make\nWhat changes when the work is for someone else\n\n\nWho rates it\nYou\nFaculty and teammates\n\n\nWhen\nSeptember and December\nMidterm and end of term\n\n\nGraded\nNo\nFeeds two existing components",
+    "text": "How You Are Assessed\nTwo instruments run alongside the point total, and they measure different things in different ways.\nThe Builder, six axes: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, and Launch and Learn. You self-report these at the start of fall semester and again in December. They are not graded. They exist so you can see your own profile, so teams can be staffed for coverage, and so the program can tell whether the year moved you.\nThe Consultant, four axes: Workstream Ownership, Client Presence, Communication, and Collaboration. These are what changes when the work belongs to someone else, and they are not self-reported. The faculty advisor and your teammates rate them against observed behavior at midterm and at the end of each semester, using the same 1 to 5 scale with written behavioral anchors.\nThe Consultant ratings inform the Client Evaluation and Peer / Team Evaluation components below. They do not add points of their own.\n\n\n\n\n\n\n\n\n\nBuilder\nConsultant\n\n\n\n\nWhat it measures\nWhat you can make\nWhat changes when the work is for someone else\n\n\nWho rates it\nYou\nFaculty and teammates\n\n\nWhen\nSeptember and December\nMidterm and end of term\n\n\nGraded\nNo\nFeeds two existing components",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -142,7 +388,7 @@
     "text": "Grading\nGrades are based on weekly update emails, four milestone deliverables, client evaluation, peer evaluation, and a video reflection.\n\nGrade Components (500 points possible)\n\n\n\nComponent\nPoints\nWeight\n\n\n\n\nWeekly Update Emails\n140 pts\n28%\n\n\nMilestone Deliverables\n160 pts\n32%\n\n\nClient Evaluation\n100 pts\n20%\n\n\nPeer / Team Evaluation\n60 pts\n12%\n\n\nVideo Reflection\n40 pts\n8%\n\n\nBase Total\n500 pts\n100%\n\n\nExtra Credit (BYU Student Ratings)\n10 pts\n+2%\n\n\n\n\n\nWeekly Update Emails (140 points)\n28 emails across two semesters, 5 points each.\n\n\n\nStatus\nPoints\n\n\n\n\nOn time (Saturday by 11:59 PM)\n5 pts\n\n\nLate (by Monday 12:00 PM noon)\n2 pts\n\n\nAfter Monday noon\n0 pts\n\n\n\nSee Weekly Updates for format and expectations.\n\n\nMilestone Deliverables (160 points)\nFour milestones, 40 points each. These are graded by the faculty advisor against the Build Standards, not by the client.\n\n\n\n\n\n\n\nMilestone\nWhat is due\n\n\n\n\nD: Discovery\nAn AI-specific audit of the client’s business. Where AI actually helps them, what is worth building, what is worth automating, with an estimate and a sequence. Client signs off.\n\n\nB1: Working build\nSoftware that runs, integrated with the client’s systems or a realistic stand-in, with the architecture documented\n\n\nB2: Shipped\nProduction code running in the client’s environment. Tested, deployed, monitored\n\n\nT: Transfer\nHandoff documentation, a walkthrough with the client’s own people, and a repository they can run without us\n\n\n\nMilestone due dates are set per engagement at kick-off and posted in Canvas. Teams on a discovery-only engagement complete D and a scaled transfer; teams on a full engagement complete all four.\nEach milestone is scored on four dimensions, 10 points each:\n\n\n\n\n\n\n\nDimension\nWhat earns full marks\n\n\n\n\nCorrectness\nIt works. Analysis reconciles, code does what it claims, assumptions are stated and defensible.\n\n\nUsefulness\nSomeone at the client would actually use it. It solves the problem they have.\n\n\nExplainability\nSomeone outside the team can follow how it works and why it does what it does.\n\n\nCraft\nClean repository, readable code, tests where they matter, documents proofread, professional presentation.\n\n\n\n\n\nClient Evaluation (100 points)\nYour client point of contact evaluates the team twice: at mid-term for development only, and at the end of the year as an input to your grade. Five dimensions on a 1 to 7 scale, listed below. Faculty sends the client the same questionnaire both times, and you see the results.\n\n\n\nCategory\nMax Points\n\n\n\n\nTimeliness\n20\n\n\nCommunication\n20\n\n\nAgency\n20\n\n\nTechnical Competency\n20\n\n\nContribution\n20\n\n\nTotal\n100\n\n\n\n\n\n\nClient Score (1-7)\nPoints\n\n\n\n\n7\n20\n\n\n6\n17\n\n\n5\n14\n\n\n4\n11\n\n\n3\n9\n\n\n2\n6\n\n\n1\n3\n\n\n\nThe client scores the team. Individual adjustments come from peer evaluation.\n\n\nPeer / Team Evaluation (60 points)\nTeam delivery only works if the load is shared. Each teammate evaluates every other teammate at mid-term and at the end of the year on four dimensions, 1 to 7 scale.\n\n\n\n\n\n\n\nDimension\nQuestion\n\n\n\n\nReliability\nThey did what they said they would do, when they said they would\n\n\nQuality\nTheir work did not need to be redone\n\n\nCollaboration\nThey made the rest of the team more effective\n\n\nLoad\nThey carried a fair share of the hard work\n\n\n\n\n\n\nPeer Score (1-7 average)\nPoints\n\n\n\n\n7\n15\n\n\n6\n13\n\n\n5\n11\n\n\n4\n9\n\n\n3\n7\n\n\n2\n4\n\n\n1\n2\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nA student whose peer average falls below 3.0 at mid-term will meet with the faculty advisor. Sustained free-riding is grounds for removal from the team and a failing grade, regardless of what the client’s team-level score says.\n\n\n\n\nVideo Reflection (40 points)\nAfter receiving client and peer feedback, record a 2 to 5 minute video reflection.\nDue: One week after end-of-year feedback is released\nSubmission: Upload to YouTube (unlisted) or Loom and submit the link via Canvas.\nPrompt:\n\nStrongest area: Which category best reflects your strengths this year? Give an example.\nGrowth area: Which category needs the most work? What got in the way?\nClient feedback: React to one specific thing the client wrote. Do you agree? What will you do with it?\nPeer feedback: What did your teammates tell you, and was it fair?\nNext time: If you restarted this project knowing what you know now, what would you do differently?\n\nKeep it conversational. I am looking for honest self-assessment, not polish.\nRubric:\n\n\n\n\n\n\n\n\n\n\nCriteria\nExcellent (10)\nGood (7)\nAdequate (4)\nWeak (0-2)\n\n\n\n\nSelf-awareness\nAccurately owns strengths and growth areas\nMostly accurate, somewhat surface\nVague or generic\nDefensive or no insight\n\n\nEngages feedback\nReferences specific client and peer comments\nAcknowledges feedback generally\nMentions feedback in passing\nIgnores or dismisses\n\n\nGrowth mindset\nConcrete plan for improvement\nGeneral intentions\nMinimal forward-looking\nNo reflection on change\n\n\nClarity\nOrganized, right length, professional\nMinor issues\nRambling or too brief\nUnprepared or inappropriate\n\n\n\n\n\nExtra Credit (10 points)\nComplete the BYU end-of-semester student ratings survey to earn 10 extra credit points.\n\n\nGrading Scale\n\n\n\nGrade\n%\nPoints (of 500)\n\n\n\n\nA\n93–100%\n465–500\n\n\nA-\n90–92%\n450–464\n\n\nB+\n87–89%\n435–449\n\n\nB\n83–86%\n415–434\n\n\nB-\n80–82%\n400–414\n\n\nC+\n77–79%\n385–399\n\n\nC\n73–76%\n365–384\n\n\nC-\n70–72%\n350–364\n\n\nD+\n67–69%\n335–349\n\n\nD\n63–66%\n315–334\n\n\nD-\n60–62%\n300–314\n\n\nE\nBelow 60%\nBelow 300",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -150,10 +396,10 @@
     "href": "students/01-syllabus.html#credit-hours",
     "title": "Syllabus",
     "section": "Credit Hours",
-    "text": "Credit Hours\n\n\n\nEnrollment\nHours/Week\nCredit Hours per Semester\n\n\n\n\nStandard\n10 hours\n3.0 credits\n\n\n\nStudents enroll each semester for a total of 6.0 credit hours across the year.",
+    "text": "Credit Hours\n\n\n\n\n\n\n\n\n\nHours/Week\nCompensated by\n\n\n\n\nBase commitment\n10 hours\n3.0 credit hours per semester\n\n\nSurge, as client demand requires\nTypically +10 hours\nStipend, proportional to logged utilization\n\n\n\nStudents enroll each semester for a total of 6.0 credit hours across the year. See What You Give and What You Get for how the stipend is calculated.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -164,7 +410,7 @@
     "text": "Confidentiality and Client Data\nFoundry clients share confidential business information: financials, pipelines, customer data, and strategy. This is a condition of the work, and it carries obligations.\n\nYou will sign the client’s NDA, or the Foundry’s standard mutual NDA, before receiving data.\nClient data stays in the approved project repository and approved tools. It does not go into personal accounts, personal cloud storage, or unapproved AI services.\nNothing about the project goes on LinkedIn, in a portfolio, or in a job interview without written client permission. Ask the faculty advisor first, every time.\nDeliverables and intellectual property belong to the client, not to you and not to BYU.\nWhen the project ends, you delete local copies of client data.\n\nA confidentiality breach is an Honor Code matter and will also end the engagement. Treat this as the professional obligation it is.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -175,7 +421,7 @@
     "text": "AI Use Policy\nYou are expected to use AI tools aggressively. That is the point of the Foundry. The obligations that come with it:\n\nYou own the output. “The model produced it” is not a defense for a wrong number, a fabricated citation, or an analysis you cannot explain.\nEvery deliverable must be explainable. If you cannot walk the client through why the model recommends what it recommends, it is not done.\nClient data goes only into approved tools. See the confidentiality section above.\nDisclose method, not apology. Milestone documentation should say what tools and models you used and how you validated the output.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -186,7 +432,7 @@
     "text": "Instructor Bio\nScott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of Business, where he also serves as faculty advisor and teaches courses on business strategy, decision-making, and artificial intelligence. He brings over 15 years of experience at the intersection of business and technology, having worked as a consultant, product manager, and data scientist.\nPrior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging from analytics specialist consultant to principal product manager, where he led product development and performance management initiatives for Fortune 500 clients. His earlier career includes building forecasting models as a VP at Zions Bancorporation and conducting regulatory research at the U.S. Office of the Comptroller of the Currency.\nScott holds a Master’s degree in Management Science & Engineering from Stanford University and a B.A. in Economics with a minor in Math, from BYU. He is passionate about helping students apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -197,7 +443,7 @@
     "text": "Getting Help\n\nUse email or Teams to contact the TAs and Professor Murff\nAttend office hours\nBring blockers to studio time. Do not sit on them for a week.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -208,7 +454,7 @@
     "text": "Mission and Aims\nThe mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints: is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.\nBYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.\nA BYU education should be (1) spiritually strengthening, (2) intellectually enlarging, and (3) character building, leading to (4) lifelong learning and service.\nBuilding on the foundational Mission and Aims, the Marriott School of Business aspires to transform the world through Christlike leadership by developing leaders of faith, intellect, and character guided by the following 4 values:\n\nFaith in Christ - We value deep and abiding faith in Jesus Christ. Our faith gives us the capacity to envision a better future, the confidence to make that future happen, and the courage to act in the face of challenges.\nIntegrity in Action - We value integrity and hold ourselves to the highest moral and ethical standards. Acting with integrity builds trust, strengthens character, and focuses our ambitions on things of eternal consequence.\nRespect for All - We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.\nExcellence - We value excellence in learning, teaching, research, management, and leadership. An expectation of excellence magnifies our influence and motivates us to continually improve.\n\nWe evaluate our decisions and actions by the impact they will have on the academic experience, professional preparation, character development, emotional well-being, and spiritual growth of our students.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -219,7 +465,7 @@
     "text": "Honor Code\nIn keeping with the principles of the BYU Honor Code, students are expected to be honest in all of their academic work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade in the course and additional disciplinary action by the university. Students are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university’s expectation, and every instructor’s expectation in class, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 422-2847 if you have questions about those standards.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -230,7 +476,7 @@
     "text": "Preventing & Responding to Sexual Misconduct\nThe health and well-being of students is of paramount importance at Brigham Young University. If you or someone you know has experienced sexual harassment (including sexual violence), there are many resources available for assistance.\nIn accordance with Title IX of the Education Amendments of 1972, BYU prohibits unlawful sex discrimination, including sexual harassment, against any participant in its education programs or activities. The university also prohibits sexual harassment by its personnel and students. Sexual harassment occurs when\na person is subjected to unwelcome sexual speech or conduct so severe, pervasive, and offensive that it effectively denies their ability to access any BYU education program or activity; any aid, benefit, or service of BYU is conditioned on a person’s participation in unwelcome sexual conduct; or a person suffers sexual assault, dating violence, domestic violence, or stalking on the basis of sex. University policy requires all faculty members to promptly report incidents of sexual harassment that come to their attention in any way, including through face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Incidents of sexual harassment should be reported to the Title IX Coordinator at t9coordinator@byu.edu or (801) 422-8692 or 1085 WSC. Reports may also be submitted online at https://titleix.byu.edu/report or 1-888-238-1062 (24-hours a day).\nBYU offers confidential resources for those affected by sexual harassment, including the university’s Sexual Assault Survivor Advocate, as well as a number of non-confidential resources and services that may be helpful. Additional information about Title IX, the university’s Sexual Harassment Policy, reporting requirements, and resources can be found at http://titleix.byu.edu or by contacting the university’s Title IX Coordinator.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -241,7 +487,7 @@
     "text": "Student Disability\nBrigham Young University is committed to providing a working and learning atmosphere that reasonably accommodates qualified persons with disabilities. A disability is a physical or mental impairment that substantially limits one or more major life activities. Whether an impairment is substantially limiting depends on its nature and severity, its duration or expected duration, and its permanent or expected permanent or long-term impact. Examples include vision or hearing impairments, physical disabilities, chronic illnesses, emotional disorders (e.g., depression, anxiety), learning disorders, and attention disorders (e.g., ADHD). If you have a disability which impairs your ability to complete this course successfully, please contact the University Accessibility Center (UAC), 2170 WSC or 801-422-2767 to request a reasonable accommodation. The UAC can also assess students for learning, attention, and emotional concerns. If you feel you have been unlawfully discriminated against on the basis of disability, please contact the Equal Opportunity Office at 801-422-5895, eo_manager@byu.edu, or visit https://hrs.byu.edu/equal-opportunity for help.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Syllabus</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Syllabus</span>"
     ]
   },
   {
@@ -252,7 +498,7 @@
     "text": "Before the Project Starts\nWelcome to the BYU AI Foundry. You are joining a delivery team with a paying client. This guide gets you productive in the first two weeks.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -263,7 +509,7 @@
     "text": "Sign the client NDA or the Foundry standard mutual NDA\nAccept your GitHub invitation to the ai-foundry-byu organization\nConfirm your team, your role, and your QC lead\nSet up access to the project repository and approved tools\nComplete the AI Foundry baseline survey, the six Builder axes\nRead the client’s proposal and any background material provided\nReview the Build Standards and the Program Overview",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -274,7 +520,7 @@
     "text": "First Two Weeks\n\nAttend the kick-off with the client and confirm the point of contact\nWrite a one-page restatement of the problem in your own words and send it to the client\nAgree with the client on what “done” looks like and how success will be measured\nEstablish the standing weekly client call and the internal team cadence\nInventory the data you have, the data you need, and the data you are not going to get\nIdentify the three assumptions that, if wrong, break the whole project\n\n\n\n\n\n\n\nTip\n\n\n\nThe single most common failure in a Foundry project is building the right thing for the wrong question. Spend the first two weeks making sure the question is right. The client will appreciate the challenge more than the compliance.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -285,7 +531,7 @@
     "text": "Team Roles\nEvery team has the same three roles. They rotate by milestone unless the team agrees otherwise.\n\n\n\n\n\n\n\nRole\nOwns\n\n\n\n\nClient lead\nThe relationship. Runs the weekly call, sends the update, owns scope conversations.\n\n\nBuilders\nThe work. Analysis, modeling, code, documents.\n\n\nQC lead\nThe standard. Nothing goes to the client without QC sign-off.\n\n\n\nThe QC lead role is not decorative. Client-facing work that contains an unreconciled number or an unexplainable model output is a QC failure, and it is graded as one.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -296,7 +542,7 @@
     "text": "Where You Start on a Team\nRoles say what you do. Tier says how much of it you own. Your starting tier comes from what you have already built and shipped, not from what you rated yourself on the baseline survey.\n\n\n\n\n\n\n\nTier\nWhat it means\n\n\n\n\nShadow\nYou are on the project, in the meetings, reading the repo. You do not own a workstream yet\n\n\nContribute\nYou own a piece of the work, with an experienced teammate backstopping you\n\n\nOwn\nYou own a workstream end to end, and the client sees your name on it\n\n\n\nClient lead is an Own-tier role. Students at Shadow or Contribute do not run the client relationship in their first engagement.\nTiers move during the semester, and they are meant to. Ask your QC lead what would have to be true for you to move up, then go do that. Nobody stays at Shadow because of a survey answer.\nTeams are staffed for coverage rather than for balance: every Builder axis has someone on the team who can carry it, even though no individual carries all six. If you are the only person on your team strong on an axis, that is not an accident.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -307,7 +553,7 @@
     "text": "Key Dates\n\n\n\nMilestone\nWhen\n\n\n\n\nEngagement kick-off\nSet per engagement, rolling\n\n\nD: Discovery\nSet at kick-off\n\n\nB1: Working build\nSet at kick-off\n\n\nB2: Shipped\nSet at kick-off\n\n\nT: Transfer\nSet at kick-off\n\n\nWeekly updates due\nSaturday by 11:59 PM\n\n\n\nEngagements are accepted on a rolling basis, so your team’s dates come from your kick-off, not from a course-wide calendar.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -318,7 +564,7 @@
     "text": "Your Responsibilities\n\nConfirm expectations and ask clarifying questions rather than guessing\nDeliver on schedule. A client who is surprised at a milestone has been failed earlier\nCome prepared to client calls with an agenda, progress, and specific asks\nRaise blockers within 48 hours. Not at the weekly call, and not at the milestone\nProtect client data per the confidentiality terms in the Syllabus\nSend end-of-week updates to the client point of contact, CC aifoundry@byu.edu\nCarry your share. Your teammates grade you on this",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -329,7 +575,7 @@
     "text": "What You’ll Be Working On\nFoundry teams ship software. Depending on the engagement, that includes:\n\nFull-stack applications. Net-new web and mobile products, B2C, B2B, or internal tools, built end to end and deployed to production\nAI integration and orchestration. Agents and copilots over the client’s own data, automations across Slack, Notion, and their existing stack, document processing, extraction, routing, and summarization\nAI enablement. Setting the client’s own team up on frontier agent tooling, co-working alongside their staff, then handing off\n\nDiscovery work comes first and is real analysis: where AI actually helps this business, what is worth building, what is worth automating. But discovery exists to point at something to build. The engagement ends with software running in the client’s hands, not with a deck.",
     "crumbs": [
       "The Course",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Getting Started</span>"
     ]
   },
   {
@@ -340,7 +586,7 @@
     "text": "The Pod\nClient engagements are the course. This page is how you end up on one, and how you influence which one.\nTwo things decide it. Fit determines which projects you are eligible for. Points determine which eligible project you get. Fit is a gate, not a tiebreaker, and it always runs first.\nOne engagement, one pod. A pod is the smallest group that can find the problem, build the thing, and hand it over without a handoff inside the team.\nThe client pays for 640 builder hours across eight months. QC, design, and faculty time ride on top of that. This is why the one rule that never bends is that a builder is on exactly one engagement at a time. Your ten hours are sold.\nEngagement lead owns the client relationship: the weekly call, the weekly update, the decision log, scope, and escalation. Owns the answer to “is this still inside 640 hours.”\nBuilder A is accountable for the architecture. Builder B is accountable for shipping alongside them. Both write code.\nQC lead is a gate. Nothing reaches the client without passing it, and the review happens at kickoff and at every phase boundary, not the night before a milestone.\nAn engagement lead can carry two engagements. A QC lead can carry four. Builders carry one.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -351,7 +597,7 @@
     "text": "Role\nWho\nHours\n\n\n\n\nEngagement lead\nMBA\n4 per week\n\n\nBuilder A\nUndergraduate builder or technical MBA\n10 per week\n\n\nBuilder B\nUndergraduate builder or technical MBA\n10 per week\n\n\nQC lead\nThe Product Evaluation and QC function\n2 per week\n\n\nDesign lead\nThe UX/UI function, on demand\nAs needed\n\n\nFaculty advisor\nScott Murff\nOversight",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -362,7 +608,7 @@
     "text": "The Six Builder Archetypes\nEvery project gets classified at intake with a primary and a secondary archetype. Every builder carries a self-reported rating on all six, calibrated by faculty. This is the matching key.\n\n\n\n\n\n\n\n\n\nArchetype\nWhat it looks like in practice\n\n\n\n\nA\nFull-stack application\nNet-new web or mobile app. Auth, database, deploy\n\n\nB\nAI and agents\nLLM pipelines, scoring, evals, retrieval, agent orchestration\n\n\nC\nData and modeling\nForecasting, optimization, analytics, decision frameworks\n\n\nD\nIntegration and automation\nAPIs, webhooks, document processing, workflow glue\n\n\nE\nProduct design\nDesign-heavy surfaces, design systems, net-new interfaces\n\n\nF\nDomain and strategy\nRegulated industries, market analysis, business rules\n\n\n\nRatings run 0 to 3. 0 none. 1 coursework only. 2 you have shipped it once. 3 you can lead it and teach it.\nThese map onto the Builder hexagon from the program overview. The hexagon is about your development. The archetypes are about what a specific client is paying for this semester.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -373,7 +619,7 @@
     "text": "The Matching Rule\nA pod is validly staffed only when all four are true:\n\nAt least one builder is rated 3 in the project’s primary archetype.\nThe two builders together cover the secondary archetype at 2 or better.\nNeither builder is on another active engagement.\nSomeone else on the bench, outside the pod, is also rated 3 in the primary archetype.\n\nRule 4 is the two-deep rule. It exists so that one person dropping the course does not end a client engagement. If we cannot satisfy rules 1 and 4, we do not sign the build phase. We sell discovery only, or we decline the project.\nThat is a real constraint on the kind of work the Foundry can take, and it is the honest reason some projects get turned down.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -384,7 +630,7 @@
     "text": "Points\nYou get 100 points per month, capped at 300. Points buy one thing: a seat on the project you want.\n\n\n\n\n\n\n\nAccrual\n100 points per month, every enrolled builder\n\n\nCap\n300. Accrual stops there\n\n\nWhile staffed on an engagement\nPoints keep accruing, still capped at 300\n\n\nWhen you win a seat\nBalance resets to zero\n\n\nCarryover between semesters\nYes, up to the cap\n\n\nAny other use\nNone\n\n\n\nThe cap and the reset exist so the market is not decided by whoever has been idle longest. Sitting on the bench since September should be an advantage. It should not be an unbeatable one.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -395,7 +641,7 @@
     "text": "The Auction\n\nA new engagement signs. We post the project brief: what it is, primary and secondary archetype, risk tier, estimated hours, and the client’s industry.\nThe fit gate runs. We publish the eligible roster for that project. Eligibility is the matching rule plus being free of any other engagement. If you are not eligible, you cannot bid and you lose nothing.\nBuilder A is appointed, not auctioned. Faculty names the builder rated 3 in the primary archetype and confirms the two-deep backup.\nBuilder B is auctioned. Sealed bids from the eligible roster. One bid each, 72-hour window, no revisions.\nSecond price wins. The highest bid takes the seat and pays the second-highest bid plus one point. Everyone else pays nothing and keeps their balance.\nTies break toward the builder with fewer completed engagements, then by coin flip.\nResults are published. Every bid and every clearing price, after the fact. You should be able to see what projects have historically cost.\n\n\n\n\n\n\n\nTip\n\n\n\nBid your actual level of interest. Second-price is not a gimmick. Because the winner pays the runner-up’s bid rather than their own, there is no advantage to shading your bid downward or trying to guess what everyone else will do. The strategy that wins is stating what the project is genuinely worth to you. If you find yourself doing game theory, you are working harder than the rules require.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -406,7 +652,7 @@
     "text": "Guardrails\nFit is never overridden by points. A large bid from an ineligible builder is not a bid. The client is paying for the right team, and enthusiasm does not substitute for the skill they are buying.\nNobody sits out a semester. If you have zero engagements by the midpoint of the term, you get a directed placement into the next opening, outside the auction. The market allocates enthusiasm. It does not decide who gets to participate.\nSome projects are closed to the auction. Engagements involving regulated data, records about minors, or systems that influence decisions about people are staffed by appointment. There are not many of these, and you will know which ones they are because the brief says so.\nFaculty veto exists. It gets used rarely and it gets explained when it does.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -417,7 +663,7 @@
     "text": "Discovery Teams\nA discovery-only engagement is not a full pod. It is an engagement lead plus one builder, four to six weeks, and its job is to find out whether the real project fits in 640 hours.\nIf the build phase then signs, the builder who ran discovery gets first claim on the Builder A seat without bidding. The context they built is worth more than the scheduling convenience of reopening it.\nDiscovery is the fastest route onto a project you care about. It costs no points.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -428,7 +674,7 @@
     "text": "What This Means for You\n\nYour archetype ratings decide your eligibility, so raise the low ones. The fastest way to become eligible for more projects is to ship something in an archetype where you are a 1.\nBeing a 3 in something matters more than being a 2 in everything. Rule 1 asks for a specialist. Rule 4 means we need two of them.\nSpend points on the project you actually want. Hoarding to 300 and never bidding is the one strategy that is strictly dominated.\nTake a discovery slot if one is open. It is a free option on the build seat.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>How Teams Are Staffed</span>"
     ]
   },
   {
@@ -439,7 +685,7 @@
     "text": "Deadline\nEvery team sends one end-of-week progress email. It keeps the client informed, creates a record of the engagement, and is worth 28% of your grade.\nSaturday by 11:59 PM\nThe end-of-week timing is intentional. It forces reflection on what actually got done, sets priorities before Monday, and surfaces blockers while there is still time to fix them.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -450,7 +696,7 @@
     "text": "First weekly email due: September 5, 2026\nFinal weekly email due: April 10, 2027\nTotal weekly emails: 28 (14 per semester)",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -461,7 +707,7 @@
     "text": "Who Sends It\nThe client lead sends one email on behalf of the team. Individual students do not each send their own. If the client lead is unavailable, the QC lead sends it. Missing an email is a team-level miss, and everyone takes the point deduction.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -472,7 +718,7 @@
     "text": "Recipients\n\nTo: Client point of contact\nCC: aifoundry@byu.edu, plus all team members",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -483,7 +729,7 @@
     "text": "Email Format\n1. Accomplished this week [Required]\n\nCompleted work and deliverables, stated as outcomes rather than activities\nInclude the number, the finding, or the decision, not just “worked on the model”\n\n2. Priorities for next week [Required]\n\nWhat the team will do, realistically\nWho owns each item\n\n3. Decisions or input we need from you [Required, say “none” if none]\n\nAnything the client owes the team\nAny decision the team cannot make on the client’s behalf\n\n4. Blockers, risks, or dependencies [Omit if none]\n\nAnything that puts a milestone at risk\nFlag it the week you see it, not the week it hits",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -494,7 +740,7 @@
     "text": "Example Email\nSubject: AI Foundry Weekly Update - [Client] - Week of Oct 5\n\nHi [Name],\n\nAccomplished this week:\n- Scored 42 of the 60 candidate products against the draft criteria. 11 clear\n  the NPV multiple threshold of 3.0x under base-case assumptions.\n- Reconciled the revenue baseline to your FY26 actuals. We were off by 2.3%\n  on specialty; the gap was a channel mapping issue, now corrected.\n- Drafted the sensitivity structure for price erosion and launch timing.\n\nPriorities for next week:\n- Finish scoring the remaining 18 products (Maria, Josh)\n- Run the first full sensitivity pass and identify which rankings are fragile (Ana)\n- Draft the discovery findings document for your review (Tyler)\n\nDecisions or input we need from you:\n- Confirm whether the 12% price erosion assumption should hold across all\n  therapeutic areas or vary by category. This changes the ranking materially.\n- We need read access to the 2024-2025 gross-to-net detail to validate margin.\n\nRisks:\n- If the gross-to-net data is not available in the next week, discovery will\n  land with modeled margin rather than actuals, and we will need to revisit the\n  build estimate afterward.\n\nThanks,\n[Client lead name], on behalf of the [Client] Foundry team",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -505,7 +751,7 @@
     "text": "What Makes an Update Good\n\nLead with the number or the finding. “11 of 42 products clear the threshold” beats “continued portfolio scoring.”\nName owners. Unowned priorities do not get done.\nAsk for what you need explicitly. Clients cannot read minds, and a blocker you did not raise is your fault, not theirs.\nFlag risk early and unemotionally. A risk raised in week 4 is a conversation. The same risk surfaced in week 12 is a failure.\nNever pad. A short honest week is fine. A long week of activity with no outcomes is not.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -516,7 +762,7 @@
     "text": "Weekly Rhythm\n\n\n\n\n\n\n\nDay\nActivity\n\n\n\n\nMonday\nTeam stand-up, confirm week’s priorities and owners\n\n\nMidweek\nStanding client call, execute\n\n\nThursday\nQC lead reviews anything going to the client\n\n\nFriday\nStudio time in 284 TNRB, cross-team critique, office hours\n\n\nSaturday\nClient lead sends the weekly update by 11:59 PM",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Weekly Updates</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   },
   {
@@ -527,7 +773,7 @@
     "text": "The Four Dimensions\nMilestones are graded against these standards. They are also what separates work a client pays for from work a client tolerates.\nEvery deliverable is scored on correctness, usefulness, explainability, and craft.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -538,7 +784,7 @@
     "text": "Correctness\n\nCode does what it claims. If it is shipped, it has been run against something real\nEvery number in a client-facing document traces to a source you can point to\nTotals reconcile. If your revenue baseline is 2% off the client’s actuals, you find out why before you present it, not after they do\nAssumptions are written down as assumptions, with the value used and the reason for it\nIf you do not know something, the deliverable says so. Fabricated precision is worse than an honest range\n\n\n\nUsefulness\n\nSomeone at the client would actually open it. A tool nobody uses is a failed deliverable\nIt solves the problem the client actually has, integrated with the systems they actually run\nDiscovery output names specific things to build, with an estimate and a sequence, not themes\nScope creep is not usefulness. If the client’s question changed, renegotiate it in writing\n\n\n\nExplainability\nThis is the standard the Foundry is built around, and it is where AI-assisted work most often fails.\n\nFor any model output, you can state which inputs drove it and by how much\nRankings come with sensitivity: what would have to change for the order to change\nA model no one on the team can explain is not shippable, regardless of how good the output looks\n“The model said so” is never an answer to a client question\n\n\n\nCraft\n\nThe repository is clean, has a README, and someone outside the team could run it\nTests exist where breakage would be expensive. Not everywhere, but not nowhere\nDeployment is documented and repeatable, not a thing one person knows how to do\nDocuments are proofread. Charts are labeled. Slides have a point per slide\nNo client data in personal accounts, personal repos, or unapproved tools",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -549,7 +795,7 @@
     "text": "Repository Standards\nEvery engagement has one private repository in the ai-foundry-byu GitHub organization, named client-&lt;slug&gt;.\nclient-&lt;slug&gt;/\n  README.md          What this is, how to run it, how to deploy it, who to ask\n  discovery/         The audit: findings, what to build, estimates, sequence\n  app/               The application. Whatever stack the job calls for\n  integrations/      Connections into the client's systems\n  analysis/          Notebooks and scripts, in order, that reproduce every number\n  deliverables/      What the client actually receives, versioned by milestone\n  docs/              Handoff docs, meeting notes, decision log, scope changes\nTwo rules that are not negotiable:\n\nNo secrets or client data in the repository. Ever. Credentials live in the client’s own systems or an approved secret store.\nEvery number in a deliverable is reproducible from something in analysis/. If you cannot rerun it, you cannot defend it.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -560,7 +806,7 @@
     "text": "The Decision Log\nKeep docs/decisions.md current. One entry per material decision:\n2026-10-09: Price erosion assumption\nDecision: Use 12% annual erosion for specialty, 18% for hospital, rather than a\nflat 15% across the portfolio.\nWhy: Client's 2023-2025 actuals show materially different curves by channel.\nWho: Confirmed with Brian Guy on the Oct 8 call.\nReversible: Yes. Sensitivity range 8-22% is built into the model.\nThis is the single highest-leverage habit in the course. It is what lets you answer “why did you assume that” six months later, and it is what makes handoff possible.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -571,7 +817,7 @@
     "text": "QC Gate\nNothing goes to the client without the QC lead’s sign-off. The QC lead checks:\n\nIt runs. Someone other than the author has run it from a clean checkout\nEvery number traces to a source, and totals reconcile against the client’s own figures\nAssumptions are stated, with values and reasons\nModel outputs are explainable in plain language\nDeployment steps are written down and have been followed once by someone else\nNo client data or secrets in the repository\nDocument is proofread, charts are labeled, filenames are clean\n\nA milestone that fails QC after it reaches the client costs the whole team craft points. Catch it internally.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -582,7 +828,7 @@
     "text": "Working with AI\nUse AI tools hard. They are why a team of five can deliver what used to take fifteen.\n\nGenerate freely, verify always. Treat every model output as a draft from a fast, capable, occasionally confident-and-wrong analyst.\nCheck citations and figures by hand. Fabricated sources have ended real consulting engagements.\nKeep client data out of unapproved tools. See the confidentiality terms in the Syllabus.\nDocument your method. Milestone documentation should state which tools you used, for what, and how you validated the output. This is not a confession, it is methodology.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   }
 ]
