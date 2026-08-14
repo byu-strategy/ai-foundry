@@ -112,14 +112,15 @@ other dollars do. Revenue is allocated as a published waterfall:
 
 | Claim | Share | Why it exists |
 |-------|-------|---------------|
-| Strategy program | 30%, capped at $100,000 per year | The Foundry sits inside the BYU strategy program, which provides the faculty, the classroom, the accreditation, and the students. The Foundry funds it back. |
+| Strategy program | 30% | The Foundry sits inside the BYU strategy program, which provides the faculty, the classroom, the accreditation, and the students. The Foundry funds it back. |
 | Reserve | 10% | Down years. A studio that cannot survive a slow semester cannot make commitments to clients or to you. |
 | Program operations | 10% | Events, swag, travel to client sites and competitions |
 | **Student stipend pool** | **The remainder, never less than 50%** | **You** |
 
-Once the strategy program contribution reaches its $100,000 cap in a given year, every
-additional dollar of that 30% flows into the student stipend pool instead. The cap is the point.
-The Foundry funds the program that houses it, and then it stops taking.
+The strategy program share is capped. The annual amount is set and published before the year
+begins, and once it is met, every additional dollar of that 30% flows into the student stipend
+pool instead. The cap is the point. The Foundry funds the program that houses it, and then it
+stops taking.
 
 These percentages are set for the year and published before engagements are staffed. They are
 not adjusted after the fact.
