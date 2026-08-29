@@ -194,5 +194,5 @@ This applies to both emails.
 | **Monday** | Team stand-up, confirm week's priorities and owners |
 | **Midweek** | Standing client call, execute |
 | **Thursday** | QC lead reviews anything going to the client |
-| **Friday** | Studio time in 284 TNRB, cross-team critique, office hours |
+| **Friday** | Studio time in 1244 TNRB, cross-team critique, office hours |
 | **Saturday** | Client lead sends the client update; everyone sends their Foundry update, by 11:59 PM |

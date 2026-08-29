@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Quarto book for the **BYU AI Foundry**, a year-long sponsored-project studio in the BYU
 Marriott School of Business. Cross-listed as **MBA 693R** (section 011, Special Topics in
 Management) and **STRAT 490R** (section 001, Topics in Strategic Management), Fridays
-8:00 to 11:50 AM in 2140 TNRB, 3.0 credits per semester.
+8:00 to 11:50 AM in 1244 TNRB, 3.0 credits per semester.
 
 **This site is student-facing only** as of 2026-08-12. It is the program guide for people
 enrolled in the Lab. Client-facing content moved to the official website, `aifoundry.byu.edu`

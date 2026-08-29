@@ -3,7 +3,7 @@
 Student program guide for the **BYU AI Foundry**.
 
 Cross-listed as **MBA 693R** (011) and **STRAT 490R** (001). Fridays 8:00 to 11:50 AM,
-2140 TNRB. 3.0 credits per semester, 6.0 across the year.
+1244 TNRB. 3.0 credits per semester, 6.0 across the year.
 
 Quarto book. Auto-renders to `docs/` and deploys to GitHub Pages on push to main.
 

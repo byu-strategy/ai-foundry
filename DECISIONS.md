@@ -25,7 +25,7 @@ corrected several things the first draft had wrong.
 | Item | Value | Source |
 |------|-------|--------|
 | Course numbers | MBA 693R-011, STRAT 490R-001 | AIM screenshot |
-| Class time and room | Fridays 8:00–11:50 AM, 2140 TNRB | AIM screenshot |
+| Class time and room | Fridays 8:00–11:50 AM, 1244 TNRB | Fall 2026 teaching schedule |
 | Credit hours | 3.0 per semester, per number | AIM screenshot |
 | Intake | Rolling, no application deadline | Your call, 2026-07-28 |
 | First client | Breckenridge Pharmaceutical, won 2026-07-28 | Email thread |
