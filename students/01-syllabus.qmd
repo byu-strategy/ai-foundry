@@ -18,7 +18,8 @@ MBA 693R · STRAT 490R
 | **Instructor**            | Scott Murff                |
 | **Class Time**            | Fridays, 8:00–11:50 AM     |
 | **Class Location**        | 1244 TNRB                  |
-| **Office Hours**          | Fridays, 11:00 AM–12:00 PM |
+| **Office Hours**          | Wednesdays, 12:00–2:00 PM  |
+| **Office Hours Location** | 587 TNRB                   |
 | **LMS**                   | Canvas                     |
 
 ## Course Numbers
@@ -128,7 +129,8 @@ not adjusted after the fact.
 ## Studio Time
 
 The Friday 8:00 to 11:50 AM block in 1244 TNRB is your team's standing work session:
-co-working, cross-team critique, client calls, and office hours with Professor Murff.
+co-working, cross-team critique, and client calls. Office hours are Wednesdays,
+12:00 to 2:00 PM in 587 TNRB.
 
 **Required sessions:**
 
