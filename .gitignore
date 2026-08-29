@@ -6,3 +6,7 @@
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Symlinks into OneDrive (student data, heavy materials) - never in git
+_private
+_materials
