@@ -197,13 +197,18 @@ A, and a strong individual on a struggling pod is not sunk by it.
 
 ### Weekly Update Emails (56 points)
 
-28 emails across two semesters, 2 points each.
+Every Saturday you send an individual end-of-week update to **aifoundry@byu.edu**, CC your client
+lead: what you accomplished, what you are doing next week, and anything blocking you. 28 emails
+across two semesters, 2 points each.
 
 | Status | Points |
 |--------|--------|
 | On time (Saturday by 11:59 PM) | 2 pts |
 | Late (by Monday 12:00 PM noon) | 1 pt |
 | After Monday noon | 0 pts |
+
+This is yours and it is not the same email as the team's weekly client update, which the client
+lead sends once on behalf of everyone. Both go out Saturday. Only this one is scored here.
 
 This component scores **compliance only**: whether the update arrived, on time. Whether it was
 any good is graded on the Communication axis of your developmentship composite, from the same

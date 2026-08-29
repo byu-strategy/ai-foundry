@@ -1,11 +1,16 @@
 # Weekly Updates
 
-Every team sends one end-of-week progress email. It keeps the client informed, creates a
-record of the engagement, and is worth 28% of your grade.
+Two emails go out at the end of every week, and they do different jobs. The **client update**
+keeps the client informed and creates the record of the engagement. The **Foundry update** keeps
+the faculty advisor informed about you, individually, and is what your Weekly Update Email points
+are scored against.
 
-## Deadline
+| | Who sends | To | What it covers |
+|---|---|---|---|
+| **Client update** | Client lead, once, for the team | Client point of contact | What the team shipped |
+| **Foundry update** | Every student, individually | aifoundry@byu.edu | What you did |
 
-**Saturday by 11:59 PM**
+Both are due **Saturday by 11:59 PM**.
 
 - First weekly email due: **September 5, 2026**
 - Final weekly email due: **April 10, 2027**
@@ -14,11 +19,97 @@ record of the engagement, and is worth 28% of your grade.
 The end-of-week timing is intentional. It forces reflection on what actually got done, sets
 priorities before Monday, and surfaces blockers while there is still time to fix them.
 
+---
+
+# The Foundry Update
+
+This is the individual one. Every student sends it, every week, including weeks when the client
+update went out under someone else's name.
+
+## Recipients
+
+- **To:** aifoundry@byu.edu
+- **CC:** Your client lead
+
+## Email Format
+
+Your update should include three sections.
+
+**1. What I worked on and accomplished this week [Required]**
+
+- List completed tasks and deliverables
+- Be specific about outcomes, not just activities
+- Include the number, the finding, or the decision where there is one
+
+**2. Plans for next week [Required]**
+
+- Outline your priorities and planned tasks
+- Be realistic about what you can accomplish
+
+**3. Blockers, risks, or dependencies [May exclude if none]**
+
+- Flag anything that might impact your progress
+- Include items you need from others
+- Mention any questions or decisions needed
+
+Close with your hours for the week, split between base and surge. This is the same number you
+log for utilization, and the two need to agree.
+
+## Example Email
+
+```
+Subject: Foundry Weekly - Ana Torres - Meridian Health - Week of Oct 5
+
+Hi Professor Murff,
+
+This week I worked on and accomplished the following:
+- Reconciled the revenue baseline to Meridian's FY26 actuals. We were off by
+  2.3% on specialty; the gap was a channel mapping issue, now corrected.
+- Built the sensitivity harness for price erosion and launch timing, and ran
+  the first pass across the 42 scored products.
+- Ran the Wednesday client call while Tyler was out.
+
+Next week, my priorities are:
+- Finish the sensitivity pass on the remaining 18 products
+- Identify which rankings are fragile and write that up for the discovery doc
+- Pair with Josh on the ingestion script so I am not the only one who can run it
+
+There are a couple things to flag:
+- Still waiting on read access to the 2024-2025 gross-to-net detail (requested
+  Tuesday). If it does not land next week, discovery goes out with modeled
+  margin rather than actuals.
+- I have a midterm Thursday and will be offline that day.
+
+Hours: 11 base, 4 surge.
+
+Ana
+```
+
+## Grading
+
+The Weekly Update Email component scores **compliance only**: whether your update arrived, on
+time.
+
+| Status | Points |
+|--------|--------|
+| On time (Saturday by 11:59 PM) | 2 pts |
+| Late (by Monday 12:00 PM noon) | 1 pt |
+| After Monday noon | 0 pts |
+
+Whether it was any good is graded on the Communication axis of your developmentship composite,
+from these same emails, by the people who had to read them. A three-line update that arrives
+every Saturday earns full compliance points and a poor Communication rating, and that trade is
+not a good one.
+
+---
+
+# The Client Update
+
 ## Who Sends It
 
-The **client lead** sends one email on behalf of the team. Individual students do not each
-send their own. If the client lead is unavailable, the QC lead sends it. Missing an email is a
-team-level miss, and everyone takes the point deduction.
+The **client lead** sends one email on behalf of the team. Individual students do not each send
+their own. If the client lead is unavailable, the QC lead sends it. Missing this email is a
+team-level miss and shows up in the client's evaluation of the team.
 
 ## Recipients
 
@@ -80,7 +171,11 @@ Thanks,
 [Client lead name], on behalf of the [Client] Foundry team
 ```
 
+---
+
 ## What Makes an Update Good
+
+This applies to both emails.
 
 - **Lead with the number or the finding.** "11 of 42 products clear the threshold" beats
   "continued portfolio scoring."
@@ -89,6 +184,7 @@ Thanks,
   raise is your fault, not theirs.
 - **Flag risk early and unemotionally.** A risk raised in week 4 is a conversation. The same
   risk surfaced in week 12 is a failure.
+- **Be concise.** Bullets, not paragraphs.
 - **Never pad.** A short honest week is fine. A long week of activity with no outcomes is not.
 
 ## Weekly Rhythm
@@ -99,4 +195,4 @@ Thanks,
 | **Midweek** | Standing client call, execute |
 | **Thursday** | QC lead reviews anything going to the client |
 | **Friday** | Studio time in 284 TNRB, cross-team critique, office hours |
-| **Saturday** | Client lead sends the weekly update by 11:59 PM |
+| **Saturday** | Client lead sends the client update; everyone sends their Foundry update, by 11:59 PM |

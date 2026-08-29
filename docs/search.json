@@ -682,7 +682,7 @@
     "href": "students/03-weekly-updates.html",
     "title": "Weekly Updates",
     "section": "",
-    "text": "Deadline\nEvery team sends one end-of-week progress email. It keeps the client informed, creates a record of the engagement, and is worth 28% of your grade.\nSaturday by 11:59 PM\nThe end-of-week timing is intentional. It forces reflection on what actually got done, sets priorities before Monday, and surfaces blockers while there is still time to fix them.",
+    "text": "The Foundry Update\nTwo emails go out at the end of every week, and they do different jobs. The client update keeps the client informed and creates the record of the engagement. The Foundry update keeps the faculty advisor informed about you, individually, and is what your Weekly Update Email points are scored against.\nBoth are due Saturday by 11:59 PM.\nThe end-of-week timing is intentional. It forces reflection on what actually got done, sets priorities before Monday, and surfaces blockers while there is still time to fix them.\nThis is the individual one. Every student sends it, every week, including weeks when the client update went out under someone else’s name.",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -704,7 +704,7 @@
     "href": "students/03-weekly-updates.html#who-sends-it",
     "title": "Weekly Updates",
     "section": "Who Sends It",
-    "text": "Who Sends It\nThe client lead sends one email on behalf of the team. Individual students do not each send their own. If the client lead is unavailable, the QC lead sends it. Missing an email is a team-level miss, and everyone takes the point deduction.",
+    "text": "Who Sends It\nThe client lead sends one email on behalf of the team. Individual students do not each send their own. If the client lead is unavailable, the QC lead sends it. Missing this email is a team-level miss and shows up in the client’s evaluation of the team.",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -715,7 +715,7 @@
     "href": "students/03-weekly-updates.html#recipients",
     "title": "Weekly Updates",
     "section": "Recipients",
-    "text": "Recipients\n\nTo: Client point of contact\nCC: aifoundry@byu.edu, plus all team members",
+    "text": "Recipients\n\nTo: aifoundry@byu.edu\nCC: Your client lead",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -726,7 +726,7 @@
     "href": "students/03-weekly-updates.html#email-format",
     "title": "Weekly Updates",
     "section": "Email Format",
-    "text": "Email Format\n1. Accomplished this week [Required]\n\nCompleted work and deliverables, stated as outcomes rather than activities\nInclude the number, the finding, or the decision, not just “worked on the model”\n\n2. Priorities for next week [Required]\n\nWhat the team will do, realistically\nWho owns each item\n\n3. Decisions or input we need from you [Required, say “none” if none]\n\nAnything the client owes the team\nAny decision the team cannot make on the client’s behalf\n\n4. Blockers, risks, or dependencies [Omit if none]\n\nAnything that puts a milestone at risk\nFlag it the week you see it, not the week it hits",
+    "text": "Email Format\nYour update should include three sections.\n1. What I worked on and accomplished this week [Required]\n\nList completed tasks and deliverables\nBe specific about outcomes, not just activities\nInclude the number, the finding, or the decision where there is one\n\n2. Plans for next week [Required]\n\nOutline your priorities and planned tasks\nBe realistic about what you can accomplish\n\n3. Blockers, risks, or dependencies [May exclude if none]\n\nFlag anything that might impact your progress\nInclude items you need from others\nMention any questions or decisions needed\n\nClose with your hours for the week, split between base and surge. This is the same number you log for utilization, and the two need to agree.",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -737,7 +737,7 @@
     "href": "students/03-weekly-updates.html#example-email",
     "title": "Weekly Updates",
     "section": "Example Email",
-    "text": "Example Email\nSubject: AI Foundry Weekly Update - [Client] - Week of Oct 5\n\nHi [Name],\n\nAccomplished this week:\n- Scored 42 of the 60 candidate products against the draft criteria. 11 clear\n  the NPV multiple threshold of 3.0x under base-case assumptions.\n- Reconciled the revenue baseline to your FY26 actuals. We were off by 2.3%\n  on specialty; the gap was a channel mapping issue, now corrected.\n- Drafted the sensitivity structure for price erosion and launch timing.\n\nPriorities for next week:\n- Finish scoring the remaining 18 products (Maria, Josh)\n- Run the first full sensitivity pass and identify which rankings are fragile (Ana)\n- Draft the discovery findings document for your review (Tyler)\n\nDecisions or input we need from you:\n- Confirm whether the 12% price erosion assumption should hold across all\n  therapeutic areas or vary by category. This changes the ranking materially.\n- We need read access to the 2024-2025 gross-to-net detail to validate margin.\n\nRisks:\n- If the gross-to-net data is not available in the next week, discovery will\n  land with modeled margin rather than actuals, and we will need to revisit the\n  build estimate afterward.\n\nThanks,\n[Client lead name], on behalf of the [Client] Foundry team",
+    "text": "Example Email\nSubject: Foundry Weekly - Ana Torres - Meridian Health - Week of Oct 5\n\nHi Professor Murff,\n\nThis week I worked on and accomplished the following:\n- Reconciled the revenue baseline to Meridian's FY26 actuals. We were off by\n  2.3% on specialty; the gap was a channel mapping issue, now corrected.\n- Built the sensitivity harness for price erosion and launch timing, and ran\n  the first pass across the 42 scored products.\n- Ran the Wednesday client call while Tyler was out.\n\nNext week, my priorities are:\n- Finish the sensitivity pass on the remaining 18 products\n- Identify which rankings are fragile and write that up for the discovery doc\n- Pair with Josh on the ingestion script so I am not the only one who can run it\n\nThere are a couple things to flag:\n- Still waiting on read access to the 2024-2025 gross-to-net detail (requested\n  Tuesday). If it does not land next week, discovery goes out with modeled\n  margin rather than actuals.\n- I have a midterm Thursday and will be offline that day.\n\nHours: 11 base, 4 surge.\n\nAna",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -748,7 +748,7 @@
     "href": "students/03-weekly-updates.html#what-makes-an-update-good",
     "title": "Weekly Updates",
     "section": "What Makes an Update Good",
-    "text": "What Makes an Update Good\n\nLead with the number or the finding. “11 of 42 products clear the threshold” beats “continued portfolio scoring.”\nName owners. Unowned priorities do not get done.\nAsk for what you need explicitly. Clients cannot read minds, and a blocker you did not raise is your fault, not theirs.\nFlag risk early and unemotionally. A risk raised in week 4 is a conversation. The same risk surfaced in week 12 is a failure.\nNever pad. A short honest week is fine. A long week of activity with no outcomes is not.",
+    "text": "What Makes an Update Good\nThis applies to both emails.\n\nLead with the number or the finding. “11 of 42 products clear the threshold” beats “continued portfolio scoring.”\nName owners. Unowned priorities do not get done.\nAsk for what you need explicitly. Clients cannot read minds, and a blocker you did not raise is your fault, not theirs.\nFlag risk early and unemotionally. A risk raised in week 4 is a conversation. The same risk surfaced in week 12 is a failure.\nBe concise. Bullets, not paragraphs.\nNever pad. A short honest week is fine. A long week of activity with no outcomes is not.",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -759,7 +759,7 @@
     "href": "students/03-weekly-updates.html#weekly-rhythm",
     "title": "Weekly Updates",
     "section": "Weekly Rhythm",
-    "text": "Weekly Rhythm\n\n\n\n\n\n\n\nDay\nActivity\n\n\n\n\nMonday\nTeam stand-up, confirm week’s priorities and owners\n\n\nMidweek\nStanding client call, execute\n\n\nThursday\nQC lead reviews anything going to the client\n\n\nFriday\nStudio time in 284 TNRB, cross-team critique, office hours\n\n\nSaturday\nClient lead sends the weekly update by 11:59 PM",
+    "text": "Weekly Rhythm\n\n\n\n\n\n\n\nDay\nActivity\n\n\n\n\nMonday\nTeam stand-up, confirm week’s priorities and owners\n\n\nMidweek\nStanding client call, execute\n\n\nThursday\nQC lead reviews anything going to the client\n\n\nFriday\nStudio time in 284 TNRB, cross-team critique, office hours\n\n\nSaturday\nClient lead sends the client update; everyone sends their Foundry update, by 11:59 PM",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -829,6 +829,50 @@
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build Standards</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#grading",
+    "href": "students/03-weekly-updates.html#grading",
+    "title": "Weekly Updates",
+    "section": "Grading",
+    "text": "Grading\nThe Weekly Update Email component scores compliance only: whether your update arrived, on time.\n\n\n\nStatus\nPoints\n\n\n\n\nOn time (Saturday by 11:59 PM)\n2 pts\n\n\nLate (by Monday 12:00 PM noon)\n1 pt\n\n\nAfter Monday noon\n0 pts\n\n\n\nWhether it was any good is graded on the Communication axis of your developmentship composite, from these same emails, by the people who had to read them. A three-line update that arrives every Saturday earns full compliance points and a poor Communication rating, and that trade is not a good one.",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#recipients-1",
+    "href": "students/03-weekly-updates.html#recipients-1",
+    "title": "Weekly Updates",
+    "section": "Recipients",
+    "text": "Recipients\n\nTo: Client point of contact\nCC: aifoundry@byu.edu, plus all team members",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#email-format-1",
+    "href": "students/03-weekly-updates.html#email-format-1",
+    "title": "Weekly Updates",
+    "section": "Email Format",
+    "text": "Email Format\n1. Accomplished this week [Required]\n\nCompleted work and deliverables, stated as outcomes rather than activities\nInclude the number, the finding, or the decision, not just “worked on the model”\n\n2. Priorities for next week [Required]\n\nWhat the team will do, realistically\nWho owns each item\n\n3. Decisions or input we need from you [Required, say “none” if none]\n\nAnything the client owes the team\nAny decision the team cannot make on the client’s behalf\n\n4. Blockers, risks, or dependencies [Omit if none]\n\nAnything that puts a milestone at risk\nFlag it the week you see it, not the week it hits",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "students/03-weekly-updates.html#example-email-1",
+    "href": "students/03-weekly-updates.html#example-email-1",
+    "title": "Weekly Updates",
+    "section": "Example Email",
+    "text": "Example Email\nSubject: AI Foundry Weekly Update - [Client] - Week of Oct 5\n\nHi [Name],\n\nAccomplished this week:\n- Scored 42 of the 60 candidate products against the draft criteria. 11 clear\n  the NPV multiple threshold of 3.0x under base-case assumptions.\n- Reconciled the revenue baseline to your FY26 actuals. We were off by 2.3%\n  on specialty; the gap was a channel mapping issue, now corrected.\n- Drafted the sensitivity structure for price erosion and launch timing.\n\nPriorities for next week:\n- Finish scoring the remaining 18 products (Maria, Josh)\n- Run the first full sensitivity pass and identify which rankings are fragile (Ana)\n- Draft the discovery findings document for your review (Tyler)\n\nDecisions or input we need from you:\n- Confirm whether the 12% price erosion assumption should hold across all\n  therapeutic areas or vary by category. This changes the ranking materially.\n- We need read access to the 2024-2025 gross-to-net detail to validate margin.\n\nRisks:\n- If the gross-to-net data is not available in the next week, discovery will\n  land with modeled margin rather than actuals, and we will need to revisit the\n  build estimate afterward.\n\nThanks,\n[Client lead name], on behalf of the [Client] Foundry team",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Weekly Updates</span>"
     ]
   }
 ]

@@ -71,7 +71,7 @@ your team strong on an axis, that is not an accident.
 | B1: Working build | Set at kick-off |
 | B2: Shipped | Set at kick-off |
 | T: Transfer | Set at kick-off |
-| Weekly updates due | Saturday by 11:59 PM |
+| Weekly updates due (individual and client) | Saturday by 11:59 PM |
 
 Engagements are accepted on a rolling basis, so your team's dates come from your kick-off, not
 from a course-wide calendar.
@@ -83,7 +83,8 @@ from a course-wide calendar.
 - **Come prepared** to client calls with an agenda, progress, and specific asks
 - **Raise blockers within 48 hours.** Not at the weekly call, and not at the milestone
 - **Protect client data** per the confidentiality terms in the [Syllabus](01-syllabus.qmd)
-- **Send end-of-week updates** to the client point of contact, CC aifoundry@byu.edu
+- **Send your end-of-week update** to aifoundry@byu.edu every Saturday, CC your client lead.
+  This is individual and separate from the team's client update
 - **Carry your share.** Your teammates grade you on this
 
 ## What You'll Be Working On
