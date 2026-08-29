@@ -57,7 +57,7 @@ for each axis, plus who to follow.
 
 ## Prerequisite
 
-**Build (IS 693R / MSB 341) is the prerequisite for the AI Foundry Lab.**[^1] It is offered every
+**Build (IS 693R / MSB 341) is the prerequisite for the AI Foundry.**[^1] It is offered every
 fall and every winter, so you can complete it in either semester and join the Lab in the
 following one.
 

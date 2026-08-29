@@ -1,6 +1,6 @@
 # Client-facing source, not part of this site
 
-These pages used to render as part of the AI Foundry Lab site. As of 2026-08-12 the Lab site is
+These pages used to render as part of the AI Foundry site. As of 2026-08-12 the Lab site is
 **student-facing only**: it is the program guide for people enrolled in MBA 693R / STRAT 490R.
 
 Everything a prospective client partner reads now belongs on the official website,

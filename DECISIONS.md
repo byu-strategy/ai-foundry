@@ -55,7 +55,7 @@ RFPs. It was wrong in four material ways, all now fixed:
 | 6 | **Student hours** | Set at 10/week each, contractual not a range | Now load-bearing: it is the basis of the fee. Confirm 10 hrs supports 3.0 credits under BYU policy |
 | 7 | **Office hours slot** | Fri 11:00 AM–12:00 PM | Placeholder inside the class block |
 | 8 | **LMS** | Canvas | Product Management uses Canvas, APM Lab uses LearningSuite. Just confirm |
-| 9 | ~~Site URL~~ | **Live at `ai-foundry-byu.github.io/foundry-lab`** | Resolved |
+| 9 | ~~Site URL~~ | **Live at `byu-strategy.github.io/ai-foundry`** | Resolved |
 | 10 | **Intake path** | Questions written (`client-facing/06-project-intake.qmd`), form not built | Needs to become a real Google Form on `aifoundry.byu@gmail.com`, linked from aifoundry.byu.edu |
 | 11 | **Partner FAQ** | Deferred by Scott, 2026-08-12 | To be written for the official website, not here |
 | 12 | **Program guide link from the website** | Not yet added | aifoundry.byu.edu becomes the default portal for everyone and routes students here for program details |

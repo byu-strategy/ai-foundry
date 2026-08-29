@@ -5,7 +5,7 @@ project:
     - images
 
 book:
-  title: "AI Foundry Lab"
+  title: "AI Foundry"
   author: "Scott Murff"
   date: "9/2/2026"
   favicon: images/favicon.svg

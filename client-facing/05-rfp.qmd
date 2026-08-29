@@ -99,7 +99,7 @@ The MBA bench covers product, deals, marketing, finance, design, AI tooling, pro
 and QC, and education. Undergraduate builders come from the Marriott School's strategy and
 applied AI coursework and do the engineering. Delivery teams are staffed from both.
 
-Students carry academic credit through the AI Foundry Lab, cross-listed as MBA 693R and
+Students carry academic credit through the AI Foundry, cross-listed as MBA 693R and
 STRAT 490R. Every engagement has faculty oversight, and product evaluation and QC is a named
 function inside the Foundry rather than an afterthought.
 

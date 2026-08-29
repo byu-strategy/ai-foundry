@@ -77,7 +77,7 @@ project. A faculty advisor oversees every engagement.
 
 ## Academic Credit
 
-Students enroll in the AI Foundry Lab, cross-listed as **MBA 693R** and **STRAT 490R**, for 3.0
+Students enroll in the AI Foundry, cross-listed as **MBA 693R** and **STRAT 490R**, for 3.0
 credit hours per semester and 6.0 across the year. Academic credit is how the bench is staffed;
 it does not change what you receive or the terms you receive it under.
 

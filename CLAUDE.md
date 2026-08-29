@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Quarto book for the **BYU AI Foundry Lab**, a year-long sponsored-project studio in the BYU
+Quarto book for the **BYU AI Foundry**, a year-long sponsored-project studio in the BYU
 Marriott School of Business. Cross-listed as **MBA 693R** (section 011, Special Topics in
 Management) and **STRAT 490R** (section 001, Topics in Strategic Management), Fridays
 8:00 to 11:50 AM in 2140 TNRB, 3.0 credits per semester.
