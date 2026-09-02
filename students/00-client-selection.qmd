@@ -7,13 +7,6 @@ format:
   pdf: default
 ---
 
-This policy governs which engagements the Foundry accepts and which it declines. It is a
-companion to the [Constitution and Operating Model](00-constitution.qmd): the Constitution
-says how we work, this says what we work on.
-
-It applies to every engagement, paid and pro bono alike, and to every channel, whether a
-project comes through a partner, a faculty referral, or a student's own contact.
-
 ## Mission
 
 **The purpose of the AI Foundry is to develop disciple-leaders who use AI to enhance human
@@ -37,26 +30,16 @@ We ensure project fit by considering an organization's primary business and a pa
 project's purpose. In general the following categories fall outside our mandate:
 
 1. **Alcohol, tobacco, nicotine, cannabis, and other drugs of dependence.**
-2. **Caffeinated and high-sugar beverages**, including coffee and tea.
-3. **Gambling:** sports betting, prediction markets, gamified retail trading, and
+2. **Coffee, tea**, and similar habit-forming beverages.
+3. **Volume growth for controlled substances:** sales, script volume, and prescriber targeting.
+4. **Gambling:** sports betting, prediction markets, gamified retail trading, and
    casino-mechanic monetization.
-4. **Pornography and the commodification of sex**, in any form or channel.
-5. **Predatory or high-interest lending:** payday, title, and refund anticipation.
-6. **Political work:** parties, campaigns, candidates, PACs, legislative offices, ballot
+5. **Pornography and the commodification of sex**, in any form or channel.
+6. **Predatory or high-interest lending:** payday, title, and refund anticipation.
+7. **Political work:** parties, campaigns, candidates, PACs, legislative offices, ballot
    initiative advocacy, and lobbying on a client's behalf.
-7. Brands whose **public marketing is sexualized, innuendo-forward, profanity-forward, or built
+8. Products marketed on **unproven or deceptive claims.**
+9. Brands whose **public marketing is sexualized, innuendo-forward, profanity-forward, or built
    on party or intoxication culture**, regardless of product category.
-8. **Volume growth for controlled substances:** sales, script volume, and prescriber targeting.
-9. Products marketed on **unproven or deceptive claims.**
 
-## What this means for you
-
-Two things follow for anyone sourcing or staffing work.
-
-**Raise fit early.** If a prospective client or project looks like it touches this list, say so
-before a scoping call rather than after. Declining early costs a conversation. Declining late
-costs a relationship.
-
-**Bring it to the Faculty Advisor rather than deciding alone.** Judgment calls are expected,
-and no one is asked to make them by themselves. The list settles the clear cases so that
-attention goes to the genuinely hard ones.
+If a prospective client or project looks like it touches this list discuss with the faculty advisor before a scoping call.

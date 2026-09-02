@@ -28,12 +28,3 @@
     }
   });
 </script>
-
-<!-- Draft watermark on every page except the resources page -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    if (!/07-resources/.test(window.location.pathname)) {
-      document.body.classList.add('draft-page');
-    }
-  });
-</script>
