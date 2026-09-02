@@ -7,54 +7,110 @@ format:
   pdf: default
 ---
 
-This document belongs to the whole team. Anyone may propose a change by commenting or editing
-the living version directly. We review proposed changes together in team meetings and revisit
-the whole document at the start of each semester, so it stays alive rather than becoming wall
-art.
+# Part 1: The AI Foundry Constitution
 
-# Part 1: The Constitution
+We seek to establish a world-class culture. Following Brigham Young's admonition to gather up all
+the good and true principles wherever we find them, hence we've draw inspiration from many places including:
 
-## Our aspiration and our sources
-
-We seek to establish a world-class culture. Following Brigham Young's admonition to gather up
-all the good and true principles wherever we find them, we draw inspiration from many places,
-with particular emphasis on four organizations:
-
-- **Amazon**, [Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
-- **Bridgewater**, [Original Philosophy](https://www.bridgewater.com/culture/bridgewaters-original-philosophy)
-- **McKinsey**, [Purpose, Mission, and Values](https://www.mckinsey.com/about-us/overview/our-purpose-mission-and-values)
-- **The Church of Jesus Christ of Latter-day Saints**, [Christlike Attributes, Preach My Gospel, Chapter 6](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng)
-
-What follows is our synthesis: the principles we commit to live by.
+- [BYU Marriott School of Business, Vision, Mission, and Values](https://marriott.byu.edu/our-story/mission/)
+- [The Church of Jesus Christ of Latter-day Saints, the standard works](https://www.churchofjesuschrist.org/study/scriptures?lang=eng)
+- [The Church of Jesus Christ of Latter-day Saints, Christlike Attributes, Preach My Gospel, Chapter 6](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng)
+- [Amazon, Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- [Bridgewater, Original Philosophy](https://www.bridgewater.com/culture/bridgewaters-original-philosophy)
+- [McKinsey, Purpose, Mission, and Values](https://www.mckinsey.com/about-us/overview/our-purpose-mission-and-values)
+- [John Wooden, The Pyramid of Success](https://coachwooden.com/pyramid-of-success)
+- [Aristotle, Nicomachean Ethics, Book II](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)
 
 ## Our principles
 
-1. **Excellence over everything.** If forced to choose between excellence and money, we choose
-   excellence. We hold standards outsiders might consider unreasonably high, on purpose. Every
-   deliverable carries our name and BYU's.
-2. **Radical truthfulness.** Accuracy in understanding reality is the foundation everything else
-   rests on. Say the uncomfortable thing in the room, not the hallway.
-3. **Ideas win on merit, not rank.** Anyone may respectfully challenge anyone, including the
-   faculty advisor. Once a decision is made, disagree and commit.
-4. **Candor with charity.** Truth without love is brutality. Assume good intent, listen before
-   answering, and care about the person while being honest about the work.
-5. **Act in faith.** Faith is a principle of action, not a feeling of certainty. Move forward on
-   incomplete information; bias for action.
-6. **Mistakes are raw material.** A mistake surfaced quickly and studied honestly makes the whole
-   team smarter; a mistake hidden makes the whole team weaker. Pain plus reflection equals
-   progress.
-7. **Client interests first.** Put the client ahead of ourselves, preserve confidences, never
-   oversell what we or our tools can do, and deliver improvement that lasts beyond the
-   engagement.
-8. **Own your outcomes.** Take responsibility without excuse. No one here says "that's not my
-   job."
-9. **Everyone teaches, everyone learns.** We are an apprenticeship. Everyone should leave the
-   Foundry more capable than they arrived.
-10. **The red face test.** When a situation is ambiguous, ask: could I explain this decision to a
-    respected leader, say Clark Gilbert, Shane Reese, or Brigitte Madrian, without being red in
-    the face? If not, do not do it.
+List of values often list principles to be maximized such as: be excellent, be truthful, be bold. Such lists are helpful but often suffer from two limitations.
 
-# Part 2: The Operating Model
+1) Almost any good quality can be taken to excess. Excellence can overshoot into perfectionism.
+Boldness can overshoot into recklessness. A simple list of values usually provides no way to acknowledge "it's possible to do too much of a good thing."
+
+2) Two good principles may collide with each. Speed collides with rigor. Candor collides
+with kindness. Excellence collides with a deadline.
+
+Fortunately, Aristotle elegantly solved both limitations by using a concept he called the Golden Mean. The character traits we seek often sit between two failure modes: doing too little or doing too much. Courage is not the opposite of cowardice; it sits as a Golden Mean, that is, a weighted average, between cowardice and recklessness. Generosity sits between stinginess and waste.
+
+Aristotle was clear that the Golden Mean is not fixed by a formula but rather found by good judgment, and
+good judgment comes from reflecting on real experience, either your own or that of others.
+
+Aristotle called these qualities virtues. We call them principles, which is more modern language
+for the same concept. Each of the fourteen below is written with possible failure modes named.
+
+These principles are aspirational and we may frequently miss Golden Mean. Yet we keep
+striving, and over time develop true wisdom and good judgement.
+
+We are successful when we can honestly say this of ourselves:
+
+> "Success is peace of mind which is a direct result of self-satisfaction in knowing you made the
+> effort to become the best of which you are capable."
+>
+> John Wooden
+
+## Our four commitments
+
+### 1. Seek truth, and use it well^1^
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Act with integrity^2^ | Deceitful | States it plainly, including the part that costs something | Self-righteous |
+| Be discerning^3^ | Repeats what was said in confidence. Says the true thing that only wounds | Tells the person who needs it, in the way they can receive it | Calls it discretion when it is avoidance |
+| Be courageous^4^ | Goes along | Challenges, then commits | Fights for ego |
+
+### 2. Think hard and stay teachable^5^
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Be curious^6^ | Accepts the brief as given. Stops at the first answer | Asks the question behind the question | Chases the interesting question instead of the one that matters |
+| Be rigorous^7^ | Accepts what sounds right. Trusts the output without checking the reasoning | Reasons from first principles | Rederives what is already settled. Demands proof past the point the decision needs |
+| Choose humility^8^ | Defends the position instead of testing it. Ties ego to being right | Asks what they missed, then changes | Hedges. Defers when they know better |
+| Seek personal improvement^9^ | Hears the feedback and files it | Asks for the critique, then acts on it | Works on themselves instead of the work. Makes every review about their growth |
+
+### 3. Do great work^10^
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Act in faith^11^ | Waits for certainty. Needs the risk gone before starting | Moves on incomplete information | Skips the preparation and calls it faith |
+| Strive for excellence^12^ | Settles for what passes. Mistakes activity for achievement | Raises the bar, then clears it | Polishes past the point of value. Wields the standard to shame |
+| Demonstrate high agency^13^ | Waits to be told. Explains why it was not theirs | Sees the gap and closes it | Takes what was not theirs to take. Carries it alone instead of raising it |
+| Show patience^14^ | Forces the answer before it is ready. Quits when it gets hard | Presses where it can move, waits where it cannot | Waits and calls it patience. Tolerates what should have been escalated |
+
+### 4. Make each other better^15^
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Respect others^16^ | Talks past people. Dismisses the junior voice | Listens before answering | Trades candor for comfort. Plays favorites |
+| Forgive quickly^17^ | Keeps score. Lets it color the next interaction | Says it once, then lets it go | Forgives before anything is named, so the pattern repeats |
+| Develop others^18^ | Keeps what they know. Treats a teammate as a pair of hands | Hands it over and explains the why | Does it for them instead of with them |
+
+## When there is no golden mean
+
+Aristotle is explicit that the idea of the golden mean has limits: some thing "imply by their
+names that they are themselves bad," and of those "it is not possible, then, ever to be right with
+regard to them." 
+
+## Sometimes principles collide
+
+They will. Rigor says check it again; the deadline says ship. Courage says say it now; discernment
+says not in this room, not in front of these people. Excellence says raise the bar; patience says
+this is not the week.
+
+Three things can be helpful when collision occur:
+
+**Name the collision out loud.** "I think rigor and the deadline are fighting here" is a faster
+route to a decision than arguing the merits as though only one principle were in play.
+
+**Correct against your own pull.** Aristotle's coaching instruction is that aiming straight at the
+golden mean undershoots, because your own habit is already bending you. Learn which way you
+personally miss, then overcorrect. "We shall get into the intermediate state by drawing well away
+from error, as people do in straightening sticks that are bent."
+
+**The red face test.** When a situation is genuinely ambiguous, ask: could I explain this decision
+to a respected leader without being red in the face? If not, do not do it.
+
+# Part 2: AI Foundry Operating Model
 
 ## Flat hierarchy
 
@@ -65,8 +121,8 @@ program, seniority, or AI Foundry leadership role confer no rank inside a team.
 
 What this means in practice:
 
-- **Self-organization.** Teams align on work streams themselves. They divide work by strength
-  and interest, not by status.
+- **Self-organization.** Teams align on work streams themselves. They divide work by strength and
+  interest, not by status.
 - **Equal accountability.** The team owns the outcome together. If a deliverable slips or misses
   the bar, that belongs to everyone on the team.
 - **Peer feedback.** Team members give feedback directly to each other as the first and normal
@@ -95,10 +151,10 @@ With permission from the faculty advisor, undergraduates are eligible to enroll 
 section and be considered for AI Foundry leadership roles.
 :::
 
-The two sections with associated roles for those enrolled in the graduate section does not
-violate the flat hierarchy principle. Inside a client team, an MBA, or an undergraduate enrolled
-in the graduate section, has no rank over a student enrolled in the undergraduate section. Every
-team member has equal accountability and authority for the client work they are staffed to. The
+The two sections with associated roles for those enrolled in the graduate section does not violate
+the flat hierarchy principle. Inside a client team, an MBA, or an undergraduate enrolled in the
+graduate section, has no rank over a student enrolled in the undergraduate section. Every team
+member has equal accountability and authority for the client work they are staffed to. The
 leadership roles are a different responsibility expected only in the graduate course and do not
 invoke any kind of authority over a teammate.
 
@@ -106,15 +162,207 @@ invoke any kind of authority over a teammate.
 
 Everyone is empowered to give feedback to anyone at any time, respectfully and directly. More
 important, our norm is to regularly **ask** for feedback. Asking removes the awkwardness of
-unsolicited criticism, signals humility, and puts each of us in control of our own growth.
-
-A practical habit: at the end of a project, a meeting, or a deliverable review, ask at least one
+unsolicited criticism, signals humility, and puts each of us in control of our own growth. A
+practical habit: at the end of a project, a meeting, or a deliverable review, ask at least one
 person "what is one thing I could have done better?" Feedback flows in every direction, including
 to the faculty advisor. In general, teams should carve out 15 minutes for mutual feedback once
 every two weeks.
 
+The most useful version of that question, given how Part 1 is written, is directional: which way
+did I miss? Too little or too much is a far easier thing for a teammate to answer than a rating,
+and it is the only kind of answer you can act on.
+
 ## Amending this document
 
-This document belongs to the whole team. Anyone may propose a change by commenting or editing
-directly. We review proposed changes together in team meetings and revisit the whole document at
-the start of each semester so it stays alive rather than becoming wall art.
+This document belongs to the whole team. Anyone may propose a change by raising it in a team
+meeting or with the faculty advisor. We review proposed changes together and revisit the whole
+document at the start of each semester so it stays alive rather than becoming wall art.
+
+Because this page is the binding version and members sign against it, it changes by amendment
+rather than by direct edit. When a change is agreed, the faculty advisor updates this page and the
+date at the top reflects the version in force.
+
+# Scripture References
+
+Each superscript number in Part 1 corresponds to an entry below. Each entry names the commitment
+or principle it belongs to, so this section can be read on its own. These are not proof texts.
+They are the older statement of the same idea, and in several cases they name both failures at
+once, which is the whole reason this document is written the way it is.
+
+**1. Hold to the truth, and use it well**
+Commitment 1 | Ephesians 4:15 · Doctrine and Covenants 93:24
+
+> **Ephesians 4:15** But speaking the truth in love, may grow up into him in all things, which is
+> the head, even Christ:
+>
+> **Doctrine and Covenants 93:24** And truth is knowledge of things as they are, and as they were,
+> and as they are to come;
+
+**2. Act with integrity**
+Commitment 1 · Hold to the truth, and use it well | Alma 53:20 · Proverbs 11:3 · Doctrine and Covenants 124:15
+
+> **Alma 53:20** And they were all young men, and they were exceedingly valiant for courage, and
+> also for strength and activity; but behold, this was not all, they were men who were true at all
+> times in whatsoever thing they were entrusted.
+>
+> **Proverbs 11:3** The integrity of the upright shall guide them: but the perverseness of
+> transgressors shall destroy them.
+>
+> **Doctrine and Covenants 124:15** And again, verily I say unto you, blessed is my servant Hyrum
+> Smith; for I, the Lord, love him because of the integrity of his heart, and because he loveth
+> that which is right before me, saith the Lord.
+
+**3. Be discerning**
+Commitment 1 · Hold to the truth, and use it well | Proverbs 11:13 · Proverbs 25:11
+
+> **Proverbs 11:13** A talebearer revealeth secrets: but he that is of a faithful spirit concealeth
+> the matter.
+>
+> **Proverbs 25:11** A word fitly spoken is like apples of gold in pictures of silver.
+
+**4. Be courageous**
+Commitment 1 · Hold to the truth, and use it well | Doctrine and Covenants 121:43 · Joshua 1:9
+
+> **Doctrine and Covenants 121:43** Reproving betimes with sharpness, when moved upon by the Holy
+> Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved,
+> lest he esteem thee to be his enemy;
+>
+> **Joshua 1:9** Have not I commanded thee? Be strong and of a good courage; be not afraid, neither
+> be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.
+
+**5. Think hard and stay teachable**
+Commitment 2 | Doctrine and Covenants 88:118
+
+> **Doctrine and Covenants 88:118** And as all have not faith, seek ye diligently and teach one
+> another words of wisdom; yea, seek ye out of the best books words of wisdom; seek learning, even
+> by study and also by faith.
+
+**6. Be curious**
+Commitment 2 · Think hard and stay teachable | Proverbs 18:15 · 1 Nephi 10:19
+
+> **Proverbs 18:15** The heart of the prudent getteth knowledge; and the ear of the wise seeketh
+> knowledge.
+>
+> **1 Nephi 10:19** For he that diligently seeketh shall find; and the mysteries of God shall be
+> unfolded unto them, by the power of the Holy Ghost, as well in these times as in times of old,
+> and as well in times of old as in times to come; wherefore, the course of the Lord is one
+> eternal round.
+
+**7. Be rigorous**
+Commitment 2 · Think hard and stay teachable | Doctrine and Covenants 9:8 · 1 Thessalonians 5:21
+
+> **Doctrine and Covenants 9:8** But, behold, I say unto you, that you must study it out in your
+> mind; then you must ask me if it be right, and if it is right I will cause that your bosom shall
+> burn within you; therefore, you shall feel that it is right.
+>
+> **1 Thessalonians 5:21** Prove all things; hold fast that which is good.
+
+**8. Choose humility**
+Commitment 2 · Think hard and stay teachable | Alma 32:16 · Ether 12:27 · Proverbs 11:2
+
+> **Alma 32:16** Therefore, blessed are they who humble themselves without being compelled to be
+> humble; or rather, in other words, blessed is he that believeth in the word of God, and is
+> baptized without stubbornness of heart, yea, without being brought to know the word, or even
+> compelled to know, before they will believe.
+>
+> **Ether 12:27** And if men come unto me I will show unto them their weakness. I give unto men
+> weakness that they may be humble; and my grace is sufficient for all men that humble themselves
+> before me; for if they humble themselves before me, and have faith in me, then will I make weak
+> things become strong unto them.
+>
+> **Proverbs 11:2** When pride cometh, then cometh shame: but with the lowly is wisdom.
+
+**9. Seek personal improvement**
+Commitment 2 · Think hard and stay teachable | 2 Nephi 28:30 · Doctrine and Covenants 93:12–13
+
+> **2 Nephi 28:30** For behold, thus saith the Lord God: I will give unto the children of men line
+> upon line, precept upon precept, here a little and there a little; and blessed are those who
+> hearken unto my precepts, and lend an ear unto my counsel, for they shall learn wisdom; for unto
+> him that receiveth I will give more; and from them that shall say, We have enough, from them
+> shall be taken away even that which they have.
+>
+> **Doctrine and Covenants 93:12–13** And I, John, saw that he received not of the fulness at the
+> first, but received grace for grace; And he received not of the fulness at first, but continued
+> from grace to grace, until he received a fulness;
+
+**10. Do great work**
+Commitment 3 | Ecclesiastes 9:10
+
+> **Ecclesiastes 9:10** Whatsoever thy hand findeth to do, do it with thy might; for there is no
+> work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
+
+**11. Act in faith**
+Commitment 3 · Do great work | Ether 12:6 · James 2:17
+
+> **Ether 12:6** And now, I, Moroni, would speak somewhat concerning these things; I would show
+> unto the world that faith is things which are hoped for and not seen; wherefore, dispute not
+> because ye see not, for ye receive no witness until after the trial of your faith.
+>
+> **James 2:17** Even so faith, if it hath not works, is dead, being alone.
+
+**12. Strive for excellence**
+Commitment 3 · Do great work | Colossians 3:23 · Doctrine and Covenants 4:2
+
+> **Colossians 3:23** And whatsoever ye do, do it heartily, as to the Lord, and not unto men;
+>
+> **Doctrine and Covenants 4:2** Therefore, O ye that embark in the service of God, see that ye
+> serve him with all your heart, might, mind and strength, that ye may stand blameless before God
+> at the last day.
+
+**13. Demonstrate high agency**
+Commitment 3 · Do great work | Doctrine and Covenants 58:26–28
+
+> **Doctrine and Covenants 58:26–28** For behold, it is not meet that I should command in all
+> things; for he that is compelled in all things, the same is a slothful and not a wise servant;
+> wherefore he receiveth no reward. Verily I say, men should be anxiously engaged in a good cause,
+> and do many things of their own free will, and bring to pass much righteousness; For the power
+> is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in
+> nowise lose their reward.
+
+**14. Show patience**
+Commitment 3 · Do great work | Mosiah 4:27 · Doctrine and Covenants 123:17
+
+> **Mosiah 4:27** And see that all these things are done in wisdom and order; for it is not
+> requisite that a man should run faster than he has strength. And again, it is expedient that he
+> should be diligent, that thereby he might win the prize; therefore, all things must be done in
+> order.
+>
+> **Doctrine and Covenants 123:17** Therefore, dearly beloved brethren, let us cheerfully do all
+> things that lie in our power; and then may we stand still, with the utmost assurance, to see the
+> salvation of God, and for his arm to be revealed.
+
+**15. Make each other better**
+Commitment 4 | Doctrine and Covenants 88:122
+
+> **Doctrine and Covenants 88:122** Appoint among yourselves a teacher, and let not all be
+> spokesmen at once; but let one speak at a time and let all listen unto his sayings, that when all
+> have spoken that all may be edified of all, and that every man may have an equal privilege.
+
+**16. Respect others**
+Commitment 4 · Make each other better | James 1:19 · Acts 10:34
+
+> **James 1:19** Wherefore, my beloved brethren, let every man be swift to hear, slow to speak,
+> slow to wrath:
+>
+> **Acts 10:34** Then Peter opened his mouth, and said, Of a truth I perceive that God is no
+> respecter of persons:
+
+**17. Forgive quickly**
+Commitment 4 · Make each other better | Doctrine and Covenants 64:9–10 · Ephesians 4:32
+
+> **Doctrine and Covenants 64:9–10** Wherefore, I say unto you, that ye ought to forgive one
+> another; for he that forgiveth not his brother his trespasses standeth condemned before the
+> Lord; for there remaineth in him the greater sin. I, the Lord, will forgive whom I will forgive,
+> but of you it is required to forgive all men.
+>
+> **Ephesians 4:32** And be ye kind one to another, tenderhearted, forgiving one another, even as
+> God for Christ's sake hath forgiven you.
+
+**18. Develop others**
+Commitment 4 · Make each other better | Luke 22:32 · Ephesians 4:12
+
+> **Luke 22:32** But I have prayed for thee, that thy faith fail not: and when thou art converted,
+> strengthen thy brethren.
+>
+> **Ephesians 4:12** For the perfecting of the saints, for the work of the ministry, for the
+> edifying of the body of Christ:
