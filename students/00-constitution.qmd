@@ -10,7 +10,8 @@ format:
 # Part 1: The AI Foundry Constitution
 
 We seek to establish a world-class culture. Following Brigham Young's admonition to gather up all
-the good and true principles wherever we find them, hence we've draw inspiration from many places including:
+the good and true principles wherever we find them, we draw inspiration from many places,
+including:
 
 - [BYU Marriott School of Business, Vision, Mission, and Values](https://marriott.byu.edu/our-story/mission/)
 - [The Church of Jesus Christ of Latter-day Saints, the standard works](https://www.churchofjesuschrist.org/study/scriptures?lang=eng)
@@ -23,12 +24,12 @@ the good and true principles wherever we find them, hence we've draw inspiration
 
 ## Our principles
 
-List of values often list principles to be maximized such as: be excellent, be truthful, be bold. Such lists are helpful but often suffer from two limitations.
+Lists of values often list principles to be maximized such as: be excellent, be truthful, be bold. Such lists are helpful but often suffer from two limitations.
 
 1) Almost any good quality can be taken to excess. Excellence can overshoot into perfectionism.
 Boldness can overshoot into recklessness. A simple list of values usually provides no way to acknowledge "it's possible to do too much of a good thing."
 
-2) Two good principles may collide with each. Speed collides with rigor. Candor collides
+2) Two good principles may collide with each other. Speed collides with rigor. Candor collides
 with kindness. Excellence collides with a deadline.
 
 Fortunately, Aristotle elegantly solved both limitations by using a concept he called the Golden Mean. The character traits we seek often sit between two failure modes: doing too little or doing too much. Courage is not the opposite of cowardice; it sits as a Golden Mean, that is, a weighted average, between cowardice and recklessness. Generosity sits between stinginess and waste.
@@ -39,8 +40,8 @@ good judgment comes from reflecting on real experience, either your own or that 
 Aristotle called these qualities virtues. We call them principles, which is more modern language
 for the same concept. Each of the fourteen below is written with possible failure modes named.
 
-These principles are aspirational and we may frequently miss Golden Mean. Yet we keep
-striving, and over time develop true wisdom and good judgement.
+These principles are aspirational and we may frequently miss the Golden Mean. Yet we keep
+striving, and over time develop true wisdom and good judgment.
 
 We are successful when we can honestly say this of ourselves:
 
@@ -50,6 +51,9 @@ We are successful when we can honestly say this of ourselves:
 > John Wooden
 
 ## Our four commitments
+
+Superscript numbers refer to the [Scripture References](#scripture-references) at the end of
+this document.
 
 ### 1. Seek truth, and use it well^1^
 
@@ -87,7 +91,7 @@ We are successful when we can honestly say this of ourselves:
 
 ## When there is no golden mean
 
-Aristotle is explicit that the idea of the golden mean has limits: some thing "imply by their
+Aristotle is explicit that the idea of the golden mean has limits: some things "imply by their
 names that they are themselves bad," and of those "it is not possible, then, ever to be right with
 regard to them." 
 
@@ -97,7 +101,7 @@ They will. Rigor says check it again; the deadline says ship. Courage says say i
 says not in this room, not in front of these people. Excellence says raise the bar; patience says
 this is not the week.
 
-Three things can be helpful when collision occur:
+Three things can be helpful when collisions occur:
 
 **Name the collision out loud.** "I think rigor and the deadline are fighting here" is a faster
 route to a decision than arguing the merits as though only one principle were in play.
