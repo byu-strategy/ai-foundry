@@ -35,7 +35,7 @@ project's purpose. In general the following categories fall outside our mandate:
 4. **Gambling:** sports betting, prediction markets, gamified retail trading, and
    casino-mechanic monetization.
 5. **Pornography and the commodification of sex**, in any form or channel.
-6. **Predatory or high-interest lending:** payday, title, and refund anticipation.
+6. **High-interest lending:** payday, title, and refund anticipation.
 7. **Political work:** parties, campaigns, candidates, PACs, legislative offices, ballot
    initiative advocacy, and lobbying on a client's behalf.
 8. Products marketed on **unproven or deceptive claims.**
