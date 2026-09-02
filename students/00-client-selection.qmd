@@ -17,11 +17,11 @@ flourishing.**
 Human flourishing can be defined in a variety of ways. We seek to do work that focuses on four
 dimensions.
 
-| Dimension | We seek work that | We decline work that |
+| Dimension | In-scope of mandate | Out of scope of mandate |
 |---|---|---|
 | **Physical** | Extends capability, health, and safety | Grows consumption of habit-forming substances |
 | **Mental / Intellectual** | Builds resilience, judgment, and skill | Monetizes compulsion or distress |
-| **Social** | Strengthens teams, families, and communities, and expands opportunity | Surveils, divides, monetizes anger or conflict |
+| **Social** | Strengthens teams, families, and communities, and expands opportunity | Monetizes anger or conflict |
 | **Spiritual** | Serves dignity, purpose, and meaning | Degrades dignity for attention or profit |
 
 ## Work that sits outside our mandate
