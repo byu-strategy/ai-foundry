@@ -98,7 +98,7 @@ principles are actually visible in the work, and which ones do we only talk abou
 |---|---|
 | Per student | The language of their development summary, in their reviewers' own words |
 | Per student, against their self-citation | A principle they claim that nobody else saw. A conversation, never a penalty |
-| Per pod | Whether a team lived a principle or merely had it on the wall |
+| Per team | Whether a team lived a principle or merely had it on the wall |
 | Per cohort, per principle | Which principles the Foundry is actually teaching. A principle nobody cites all year is either not visible in the work or not real |
 
 The last row is the reason this is worth collecting. If Candor with charity gets cited four
@@ -177,32 +177,62 @@ work they saw.
 
 ### The running mechanism
 
-Every two weeks, fifteen minutes of mutual feedback with the people on your pod, per the
+Every two weeks, fifteen minutes of mutual feedback with your teammate, per the
 constitution. This is not collected and it is not graded. It exists so that nothing in the
 formal rounds is new information.
 
 ### The exposure list
 
-Two weeks before the end of the semester, every student submits a list of everyone who saw
-their work:
+Every student keeps an exposure list in the Cockpit all semester: everyone who saw their work,
+added as the work happens rather than reconstructed at the end.
 
 | Source | Who | Can speak to |
 |---|---|---|
-| **Peers** | Every Foundry member you worked with: pod teammates, engagement lead, QC lead, design lead | All four axes |
+| **Peers** | Every Foundry member you worked with: your teammate on each engagement, and anyone on an internal project or who reviewed your work | All four axes |
 | **Clients** | Every client contact you worked with directly | Client Hands and Communication, plus Ownership if they saw it. Never Collaboration |
-| **Faculty and TAs** | Scott, and any TA who supervised the pod | All four axes |
+| **Faculty** | Scott, on every student, after every engagement | All four axes |
 | **Self** | You | Your own four ratings, against the published anchors |
 
-For each person you record the project, the nature of the work, and the **exposure depth**,
-which the professor confirms against staffing records:
+For each person you record whether they are a peer or a client, the **context** (which client
+engagement or internal project), how they saw the work, and the **exposure depth**:
 
-- **Deep.** Same engagement, most weeks, for most of the semester.
-- **Moderate.** Same engagement for part of the term, or a different engagement with regular
-  contact.
+- **Deep.** Same engagement or project, most of its weeks.
+- **Moderate.** Part of an engagement, or regular contact from a different one.
 - **Light.** A handful of interactions. A review, a few meetings, one shared sprint.
 
-You do not choose who reviews you. You report who saw the work, and the professor adds anyone
-the staffing records show you worked with.
+The Cockpit suggests names from staffing records. The professor approves each new name and adds
+anyone staffing shows you worked with. You do not choose who reviews you. You report who saw
+the work, and leaving someone off does not remove them.
+
+### When the survey goes out
+
+Each person on the list gets the survey **when your work together ends**: at roll-off for client
+work, or when you mark an internal project done. Peers see it on their Cockpit page under
+"Feedback you owe" and by email. Clients get one email with a private link, no sign-in, and one
+form covers every student on the team who listed them. Reminders go at three and seven days.
+
+Someone who worked with you in two contexts rates each one, but counts as **one person** toward
+the thresholds below.
+
+### Two releases a semester
+
+Responses arrive all semester. You see them twice: at the **midterm release** and the **final
+release**. Between releases nothing you can see changes, so the arrival of any one response is
+invisible.
+
+- **You see the combined result only,** as the Consultant diamond, with the number of people
+  behind each axis. Never who said what, never the split by source.
+- **An axis appears once three different people have rated it.** Until then it reads "not
+  enough ratings yet."
+- **An axis changes at the final release only if at least two more people have rated it since
+  midterm.** If one person had rated you in between, the change would be their rating, exactly.
+  Held back, it still counts toward your grade; it just does not move the chart.
+- **Written comments go to the professor only,** and come back to you as themes in your
+  development summary, never word for word.
+- **The professor sees everything as it arrives,** attributed, by source.
+
+Teams are two people and engagements are six weeks, so one engagement alone rarely produces
+three raters. That is why the list and the thresholds run across the whole semester.
 
 ### Three instruments, one question set
 
@@ -213,12 +243,15 @@ to be scheduled together.
 | Instrument | Who fills it | Rates | Effort |
 |---|---|---|---|
 | [Self-Assessment](self-assessment-survey.md) | You | All four axes. **Not in your composite** | ~20 min, once |
-| [Peer Evaluation](peer-evaluation-survey.md) | Every Foundry member on your confirmed list | All four axes | ~4 min per person reviewed |
-| [Client Evaluation](client-evaluation-survey.md) | Every client contact you worked with | Client Hands, Communication, and Ownership. Never Collaboration | ~15 min per pod |
+| [Peer Evaluation](peer-evaluation-survey.md) | Every Foundry member on your exposure list | All four axes | ~5 min per person, when the shared work ends |
+| [Client Evaluation](client-evaluation-survey.md) | Every client contact on an exposure list | Client Hands, Communication, and Ownership. Never Collaboration | ~10 min per engagement, at roll-off |
 
-**Order matters.** Self closes first, before you have seen anything. Peer opens next. Client runs
-in parallel and never sees either. Your self-rating is worthless as a measure of calibration if
-it was produced after you read your reviews.
+All three are built into the Cockpit, not Google Forms: the exposure list, the thresholds, and
+the release rules all run on its data.
+
+**Order matters.** Your self-assessment closes before each release, so it is always produced
+before you have seen anything. Your self-rating is worthless as a measure of calibration if it
+was produced after you read your reviews.
 
 ### The same question, three ways
 
@@ -250,7 +283,7 @@ rater can see what a 5 actually claims.
 
 1. **Every client, once per round.** Fifteen minutes, and it doubles as a renewal and referral
    call. This one is not about grades and would be worth doing if grades did not exist.
-2. **Material disagreement between sources.** The pod rates someone 4.5 and the client says they
+2. **Material disagreement between sources.** The team rates someone 4.5 and the client says they
    would not have them back, or the reverse. A large calibration gap counts here too.
 3. **A composite within 0.25 of a cap boundary.** Never let a form alone decide the difference
    between a B and a B-.
@@ -366,7 +399,7 @@ override.
 ### Step 1. The composite
 
 You will have several peer reviewers, sometimes several client contacts, and one or two faculty.
-They are not thrown into one average, because six peers and one client would let the pod
+They are not thrown into one average, because several peers and one client would let the peers
 outvote the person paying for the work. Aggregation runs in three passes.
 
 #### Pass 1. Aggregate inside each source
@@ -423,7 +456,7 @@ instance does not enter any average.
 
 **Divergence is a finding, not an error.** Where the peer score and the client score on the same
 axis differ by more than 1.0, the professor interviews before the composite is finalized. The
-common pattern is a student the pod loves and the client never hears from, and the instrument is
+common pattern is a student the team loves and the client never hears from, and the instrument is
 built to make that visible rather than average it away.
 
 ### The calibration gap
@@ -484,7 +517,7 @@ arithmetic.
 | Confidentiality breach, or anything failing the red face test | Leaves this model entirely. Conduct matter |
 
 The first cap is the one that makes the instrument real. Without it, a student can coast on a
-pod that ships well, and every principle in the constitution becomes advisory.
+team that ships well, and every principle in the constitution becomes advisory.
 
 ### Step 4. Calibration, and why there is no curve
 
@@ -513,8 +546,8 @@ it is not clawed back for exceeding it.
 **Inflation is managed by design, not by a curve.** Extreme ratings require a specific instance
 or they are dropped. Reviewers are weighted by exposure. Peer ratings sit alongside independent
 client and faculty ratings, and where those diverge the divergence is visible and triggers an
-interview. Part C of the peer form is zero-sum inside a pod, so a cohort that rates everyone a 5
-still has to say who they most and least wanted to work with.
+interview. The peer form's 100-point split is zero-sum between teammates, so a pair that rates
+each other a 5 still has to say how the work was actually divided.
 
 ### What this is not
 
@@ -523,7 +556,7 @@ still has to say who they most and least wanted to work with.
   reason in the development summary. More than one band means the input was wrong and the
   instrument needs fixing, not the student.
 - **Not the whole course grade.** It is 36% of it. Milestones and the client's team score grade
-  the product and the pod. This grades the person.
+  the product and the team. This grades the person.
 - **Not a peer popularity vote.** Reviewers rate against published anchors with required
   examples, weighted by exposure, triangulated across peers, clients, and faculty. A student
   cannot be sunk by one teammate or floated by one friend.
@@ -548,40 +581,37 @@ nothing in a final summary should be news. If it surprises you, you were not ask
 
 | When | What |
 |---|---|
-| Week 1 | The model, the four axes, the anchors, and the conversion table are explained to the full team |
-| Midterm | Practice round. Draft exposure list, all three surveys run light, snapshot returned. No points |
-| Two weeks before the end of the semester | Final exposure list due. Professor confirms it against staffing records |
-| The following week, in order | **Self-Assessment closes.** Then peer forms open. Client forms run in parallel |
-| Finals period | Client calls, escalation interviews, composites computed, development summaries delivered |
+| Week 1 | The model, the four axes, the anchors, and the conversion table are explained to everyone. Exposure lists open |
+| All semester | Add people to your list as you work with them. Surveys go out as each engagement or project ends |
+| Before the midterm release | Self-Assessment closes |
+| Midterm release | Your diamond as of midterm, every axis with three or more raters. No points |
+| Before the final release | Self-Assessment closes again. The professor confirms every list against staffing records |
+| Final release | The diamond updates where at least two more people have rated you |
+| Finals period | Client calls, escalation interviews, composites computed from every response, development summaries delivered |
 | One week after summaries | Video reflections due |
 
-The midterm round is what makes this developmental rather than judgmental. A rating delivered
+The midterm release is what makes this developmental rather than judgmental. A rating delivered
 only at the end is a verdict. A rating delivered at the midpoint is a chance.
-
-The ordering inside the final round is not a convenience. Self must close before peer opens, or
-the calibration gap measures nothing, and the video reflection has nothing to be about.
 
 ## Open questions
 
 1. **The undergraduate section.** The 3.4 to 3.6 range is the graduate expectation. STRAT 490R
-   students sit in the same room, on the same pods, rated by the same reviewers against the same
+   students sit in the same room, on the same teams, rated by the same reviewers against the same
    anchors. Whether their conversion table shifts, and how that is explained when two students on
-   one pod compare grades, is unresolved.
+   one team compare grades, is unresolved.
 2. **MBA internal leadership.** MBAs are rated on the same four axes twice, once for client work
    and once for running the Foundry. Whether those combine into one composite or stay separate on
    the summary is unresolved.
-3. **Discovery-only engagements.** A pod whose client stops after discovery has less client
+3. **Discovery-only engagements.** A team whose client stops after discovery has less client
    contact to be rated on. The coverage floor handles it mechanically, but a semester where the
-   professor personally rates Client Hands for a whole pod is a weaker measurement and should
+   professor personally rates Client Hands for a whole team is a weaker measurement and should
    be named as such in those summaries.
-4. **Whether students see their axis scores** or only the written development summary. The
-   conversion table is published either way, so a student who sees their points can back out
-   their composite. That argues for showing the scores.
+4. **Release dates.** Midterm and final release dates are not yet set on the calendar.
 5. **Whether the coverage data is published back to the cohort.** The per-principle counts
    across a whole cohort are the most interesting thing this system produces and say more about
    how the Foundry is being run than about any student. Showing them to everyone would be in the
    spirit of radical truthfulness. It would also tell students which principles get cited, which
    is exactly how you corrupt the measure. Unresolved.
-6. **Whether the midterm round carries any points.** Currently it carries none, which is what
+6. **Whether the midterm release carries any points.** Currently it carries none, which is what
    makes it safe to be honest in. The risk is that a zero-stakes round gets filled out carelessly
-   and the snapshot is worthless.
+   and the midterm diamond is worthless.

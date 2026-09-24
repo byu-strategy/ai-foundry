@@ -1,11 +1,20 @@
 # Client Evaluation Survey
 
-*Internal spec. Source of truth for the Google Form of the same name.*
+*Internal spec. Source of truth for the client form in the Cockpit.*
 
-Run twice per engagement: at **midterm** for development only, and at **end of year** as an
-input to grades. Same instrument both times, so the second round is measurable against the
-first. Descended from the APM Lab mentor evaluation, rebuilt for a pod delivering to a paying
-client rather than a single intern inside a company.
+Sent **once per engagement, at roll-off,** to every client contact on any team member's exposure
+list. One form covers every student on the team who listed that contact, so a client never
+fills in two forms for one engagement. It arrives as a private link from a Foundry address, with
+no sign-in. Descended from the APM Lab mentor evaluation, rebuilt for a team of two delivering
+to a paying client rather than a single intern inside a company.
+
+At the engagement's midpoint the client gets only a two-question check-in (satisfaction and
+likelihood to recommend, the same two questions that open Section 4). It rates no one and
+exists to catch a problem while there is still time to fix it.
+
+Individual ratings from this form reach a student only at the midterm and final releases,
+combined with at least two other people, and never attributed. See section 4 of the
+[developmentship model](developmentship-model.md).
 
 ## Design rules
 
@@ -32,11 +41,10 @@ inflation lives.
 
 | Question | Type |
 |---|---|
-| Company name | Short answer |
-| Your name | Short answer |
-| Your role | Short answer |
-| Engagement / project name | Short answer |
-| Which round is this? | Midterm check-in / End of engagement |
+| Company name | Filled in from the link |
+| Your name | Filled in from the link |
+| Your role | Short answer, filled in if the Cockpit has it |
+| Engagement | Filled in from the link |
 
 ---
 
@@ -167,6 +175,14 @@ person the client actually trusts, without asking anyone to rank anybody.
 > This section is not shared with the students. It is for us, to decide whether the program is
 > worth running the way we are running it.
 
+It opens with the two scores the Cockpit tracks for every engagement, the same two the midpoint
+check-in asks:
+
+- **How satisfied are you with the engagement?** 1 to 5.
+- **How likely are you to recommend the AI Foundry to a colleague?** 0 to 10.
+
+Then:
+
 1. **Value against fee.** Set against what you paid, how would you characterize the return?
    - Well below the fee
    - Somewhat below the fee
@@ -180,7 +196,7 @@ person the client actually trusts, without asking anyone to rank anybody.
    - About what we expected
    - Less than we expected
 
-3. **Team size.** The pod was two dedicated builders plus an engagement lead. For work like
+3. **Team size.** The team was two builders. For work like
    yours, what would have been right?
    - Fewer people
    - The same
@@ -208,7 +224,7 @@ person the client actually trusts, without asking anyone to rank anybody.
 
 | Form section | Feeds |
 |---|---|
-| Section 1 | Client Evaluation component, team level, same score for everyone on the pod |
+| Section 1 | Client Evaluation component, team level, same score for everyone on the team |
 | Section 2A | Client Hands axis, client weighted Deep |
 | Section 2B | Communication axis, client weighted Deep |
 | Section 2C | Workstream Ownership axis, client weighted Moderate, skipped if blank |

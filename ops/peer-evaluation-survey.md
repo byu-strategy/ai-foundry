@@ -1,9 +1,12 @@
 # Peer Evaluation Survey
 
-*Internal spec. Source of truth for the Google Form of the same name.*
+*Internal spec. Source of truth for the peer form in the Cockpit.*
 
-Run twice: at **midterm** as a practice round that changes nothing but tells everyone where they
-stand, and at **end of year** as an input to grades. Same instrument both times.
+Sent to everyone on a student's exposure list who is a Foundry member, **when their work
+together ends**: at roll-off for client work, or when an internal project is marked done. One
+form per person reviewed, per context. The results reach the student only at the midterm and
+final releases, combined with at least two other people, and never attributed. See section 4 of
+the [developmentship model](developmentship-model.md) for the release rules.
 
 ## Why this is not the client survey
 
@@ -20,7 +23,7 @@ that matter.
 So the client form hides the framework and asks what happened. This form shows the framework,
 shows the anchors, and spends its design budget on making inflation expensive.
 
-## The five anti-inflation devices
+## The four anti-inflation devices
 
 1. **Anchors are printed next to every rating.** Not adjectives. A 5 on Client Hands says
    "the client asks for this person by name," which is hard to hand a friend without noticing
@@ -28,14 +31,11 @@ shows the anchors, and spends its design budget on making inflation expensive.
 2. **Evidence is required at both extremes.** Any 5 requires a specific instance. Any 1 or 2
    requires a specific instance. Policing only the top would make the form a one-way ratchet
    toward the middle.
-3. **Two forced-choice items that cannot be inflated.** Most-want and least-want to work with
-   again are zero-sum inside a pod. Everyone can rate everyone a 5 and still has to name one
-   person for each.
-4. **The contribution allocation.** One hundred points across the pod, including yourself. Also
-   zero-sum. The signal is not the number, it is the gap between how you allocate yourself and
-   how the pod allocates you.
-5. **Triangulation is visible.** Peer ratings sit next to client and faculty ratings on the same
-   axes. Where a pod rates each other high and the client rates them low, the divergence is the
+3. **The contribution split.** One hundred points between you and the person you are reviewing.
+   Zero-sum. The signal is not the number, it is the gap between how you split it and how they
+   split it.
+4. **Triangulation is visible.** Peer ratings sit next to client and faculty ratings on the same
+   axes. Where teammates rate each other high and the client rates them low, the divergence is the
    finding.
 
 **This form never touches money.** Stipends come from logged, verified hours, not from peer
@@ -46,43 +46,17 @@ Scale is **1 to 5**, the published anchors, same as everywhere else.
 
 ---
 
-## Part A. Your exposure list
+## Part A. The exposure list
 
-*Due two weeks before the end of the semester, before the review form opens.*
-
-*Intro text on the form:*
-
-> List everyone in the Foundry who saw your work this semester. You are not choosing your
-> reviewers. You are reporting who was there, and Professor Murff will add anyone the staffing
-> records show you worked with and you left off. Leaving someone off does not remove them.
-
-Repeating block:
-
-| Field | Type |
-|---|---|
-| Name | Dropdown, Foundry roster |
-| Project or engagement | Short answer |
-| What you worked on together | Short answer |
-| Exposure depth | Deep / Moderate / Light |
-
-**Depth definitions, printed on the form:**
-
-- **Deep.** Same engagement, most weeks, for most of the semester.
-- **Moderate.** Same engagement for part of the term, or a different engagement with regular
-  contact.
-- **Light.** A handful of interactions. A review, a few meetings, one shared sprint.
-
-Also collected here:
-
-- Anyone outside your pod whose work you saw closely enough to speak to
-- Anyone who saw your work whom you would rather not be reviewed by, and why *(this does not
-  remove them; it is context the professor reads before weighing the input)*
+Not on this form. Each student keeps their exposure list in the Cockpit all semester, and this
+form is sent from it. The list's fields, depth definitions, and approval step are in section 4
+of the [developmentship model](developmentship-model.md).
 
 ---
 
 ## Part B. Reviewing each person
 
-*Repeats for every person on your confirmed list. Roughly four minutes each.*
+*One person, one context. Roughly five minutes.*
 
 *Intro text on the form:*
 
@@ -154,7 +128,7 @@ failed a value would be asking twenty-year-olds to judge each other's character 
 weight, which is not a thing we are going to do. Failures of principle are conduct, they are
 raised directly, and they never travel through a survey.
 
-**Required of everyone.** Would you choose this person for your next pod?
+**Required of everyone.** Would you choose this person for your next engagement?
 
 - Yes, first pick
 - Yes
@@ -164,29 +138,29 @@ raised directly, and they never travel through a survey.
 
 ---
 
-## Part C. Your pod, forced choice
+## Part C. The split
 
 *Intro text on the form:*
 
-> Everyone can rate everyone highly. These three questions cannot be answered that way, which is
+> Everyone can rate everyone highly. These two questions cannot be answered that way, which is
 > exactly why they are here. They are confidential and never attributed.
 
-1. **Who on your pod did you most want to work with again?** One name, one sentence on why.
-2. **Who did you least want to work with again?** One name, one sentence on why. *("Genuinely no
-   one" is an available answer, and choosing it more than once across rounds is itself noted.)*
-3. **Allocate 100 points across your pod, including yourself,** reflecting each person's share of
-   what actually got delivered. An even split is a legitimate answer if it is the true one.
-4. **Did one person carry this pod?** If so, who, and what would have happened without them?
+1. **Split 100 points between you and this person,** reflecting each person's share of what
+   actually got delivered. An even split is a legitimate answer if it is the true one.
+2. **Did one of you carry this work?** If so, who, and what would have happened without them?
    *(Paragraph)*
+
+Teams are two people, so the old most-want and least-want questions are gone: with one teammate
+they have one possible answer.
 
 ---
 
 ## Part D. Yourself
 
 Not here. Your self-ratings live in the [Self-Assessment Survey](self-assessment-survey.md),
-which **closes before this form opens**.
+which **closes before each release**.
 
-The sequencing is deliberate. Rating yourself in the same sitting where you rate five teammates
+The sequencing is deliberate. Rating yourself in the same sitting where you rate a teammate
 anchors your self-rating to theirs, and the calibration gap is only meaningful if the two were
 produced independently.
 
@@ -194,14 +168,14 @@ produced independently.
 
 *Intro text on the form:*
 
-> Not shared with your pod, and not part of anyone's grade. This is how problems reach Professor
+> Not shared with your team, and not part of anyone's grade. This is how problems reach Professor
 > Murff before they become permanent.
 
 1. Was the load fairly shared? Yes / Mostly / No
 2. Did anything go wrong on this engagement that Professor Murff does not know about?
    *(Paragraph)*
-3. Did anything happen on this pod that made you uncomfortable? *(Paragraph)*
-4. What should change about how pods are staffed next semester? *(Paragraph)*
+3. Did anything happen on this team that made you uncomfortable? *(Paragraph)*
+4. What should change about how teams are staffed next semester? *(Paragraph)*
 
 ---
 
@@ -209,15 +183,14 @@ produced independently.
 
 | Part | Feeds |
 |---|---|
-| A | The reviewer set and the exposure weights. Confirmed against staffing records |
+| Exposure list (in the Cockpit) | The reviewer set and the exposure weights. Confirmed against staffing records |
 | B, four ratings | The four axis composites, weighted by exposure depth |
 | B, evidence questions | Required to validate an extreme rating. A 5 or a 1 with no instance behind it is dropped from the composite |
 | B, principle citation | The development summary. Coverage counts across reviewers. Never scored |
 | B, "one thing to work on" | The development summary, unattributed |
-| B, "next pod" | Triangulation against the client's version of the same question |
-| C1 and C2 | Not scored. Read as a within-pod ranking against the composite ranking. Divergence is a flag |
-| C3 | Not scored. The self-versus-pod allocation gap is a finding, not a number |
-| C4, E | Staffing, pod design, and conduct. Never a grade input |
+| B, "next engagement" | Triangulation against the client's version of the same question |
+| C1 | Not scored. The gap between the two teammates' splits is a finding, not a number |
+| C2, E | Staffing, team design, and conduct. Never a grade input |
 
 **Coverage floor.** An axis with fewer than three independent reviewers is not scored from input
 alone. The professor rates it directly and says so in the development summary. Client Hands

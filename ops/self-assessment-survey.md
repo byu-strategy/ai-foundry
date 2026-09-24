@@ -1,9 +1,9 @@
 # Self-Assessment Survey
 
-*Internal spec. Source of truth for the Google Form of the same name.*
+*Internal spec. Source of truth for the self-assessment form in the Cockpit.*
 
-The third of the three instruments. Run at the **same two moments** as the other two, midterm and
-end of year, and **submitted before you see anyone else's input**. That ordering is the whole
+The third of the three instruments. Taken twice, **closing before the midterm release and again
+before the final release**, so it is always submitted before you see anyone else's input. That ordering is the whole
 point: a self-rating collected after you have read your reviews measures nothing.
 
 ## What this is for
@@ -26,12 +26,12 @@ anything, and it would reward understating your baseline.
 
 Three reasons, and they are all about sequencing.
 
-- **It must close before peer input opens.** If you rate yourself in the same sitting where you
-  rate five teammates, your ratings of them anchor your rating of yourself.
+- **It must close before each release.** If you rate yourself after seeing your diamond, or in
+  the same sitting where you rate a teammate, their ratings anchor yours.
 - **It asks different questions.** The peer and client forms ask what somebody *observed*. This
   one asks you to *produce evidence*, which is a harder task and the only version of self-rating
   that resists wishful thinking.
-- **It is the one instrument you keep.** Your own four numbers across four rounds are the
+- **It is the one instrument you keep.** Your own four numbers at midterm and final are the
   clearest picture anyone in the Foundry gets of their own trajectory.
 
 Scale is **1 to 5**, the published anchors, identical to the other two forms.
@@ -42,10 +42,8 @@ Scale is **1 to 5**, the published anchors, identical to the other two forms.
 
 | Question | Type |
 |---|---|
-| Your name | Dropdown, Foundry roster |
-| Engagement(s) you were staffed on | Short answer |
-| Your role on the pod | Engagement Lead / Builder A / Builder B / QC / Design |
-| Which round is this? | Midterm / End of year |
+| Your name, engagements, and internal projects | Filled in from the Cockpit |
+| Which release is this for? | Filled in: midterm or final |
 
 ---
 
@@ -80,11 +78,11 @@ Each question is the same underlying question the other two forms ask, turned ar
 | # | Question | Axis |
 |---|---|---|
 | 1 | **What did you own end to end this semester** that nobody had to chase you about? Who decided what the steps were? | Workstream Ownership |
-| 2 | **When did the work get stuck, and what did you do next?** How did the rest of the pod find out, and when? | Workstream Ownership |
+| 2 | **When did the work get stuck, and what did you do next?** How did the rest of your teammate find out, and when? | Workstream Ownership |
 | 3 | **What did you do that made someone else's work better?** Name the person and the piece of work. | Collaboration |
 | 4 | **What is the last correction you received, and what changed in the next piece of work?** | Collaboration |
 | 5 | **Point to one thing you wrote that someone acted on** without needing you in the room. | Communication |
-| 6 | **When something was going badly, how did the client and the pod hear about it?** From you, from someone else, or from the result? | Communication |
+| 6 | **When something was going badly, how did the client and your teammate hear about it?** From you, from someone else, or from the result? | Communication |
 | 7 | **How did you earn the client's trust over the engagement?** What did you do, and how could you tell it worked? | Client Hands |
 | 8 | **Was there something the client needed to hear that they would not like?** Who said it? | Client Hands |
 
@@ -108,8 +106,8 @@ event with a specific outcome rather than asking you to characterize yourself.
 2. **On which axis do you expect them to rate you lowest?** Why? *(Paragraph)*
 3. **What is the one criticism you expect to see,** stated the way you think they will state it?
    *(Paragraph)*
-4. **Who on your pod do you think would pick you first for their next engagement, and who would
-   not?** *(Paragraph. Never shared with anyone named.)*
+4. **Which of the people on your exposure list do you think would pick you first for their next
+   engagement, and who would not?** *(Paragraph. Never shared with anyone named.)*
 
 Question 3 is the highest-value item on this form. A student who can write their own criticism
 before reading it has already done the developmental work, and a student who cannot has told us
