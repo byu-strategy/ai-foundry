@@ -57,7 +57,7 @@ Systems, Agentic Workflow, and Launch and Learn. Students self-report on all six
 fall semester and again in December, and see their own profile both times.
 
 **The Consultant** is what changes when the work belongs to someone else. Four axes: Workstream
-Ownership, Client Presence, Communication, and Collaboration. These are not self-reported. Faculty and
+Ownership, Client Hands, Communication, and Collaboration. These are not self-reported. Faculty and
 teammates rate them against observed behavior at midterm and at the end of the term.
 
 Nobody arrives strong on all ten. Teams are staffed so the team covers every Builder axis even

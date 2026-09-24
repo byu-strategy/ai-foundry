@@ -22,7 +22,7 @@ shows the anchors, and spends its design budget on making inflation expensive.
 
 ## The five anti-inflation devices
 
-1. **Anchors are printed next to every rating.** Not adjectives. A 5 on Client Presence says
+1. **Anchors are printed next to every rating.** Not adjectives. A 5 on Client Hands says
    "the client asks for this person by name," which is hard to hand a friend without noticing
    what you just claimed.
 2. **Evidence is required at both extremes.** Any 5 requires a specific instance. Any 1 or 2
@@ -113,7 +113,7 @@ Each of the four axes is a 1 to 5 item with the full anchor text printed inline 
 |---|---|---|---|---|
 | Updates are late or absent. The reader has to ask what happened | Reports activity in the order it happened. The reader extracts the point themselves | Answer first, support underneath. Someone reading the first line knows the state of the work | Writes for the specific reader. Names the decision being asked for. The memo holds up without narration | Produces the artifact the team reuses. A senior stakeholder can act on it without a meeting |
 
-**Client Presence.** Client hands: how they work with the client and earn their trust.
+**Client Hands.** Client hands: how they work with the client and earn their trust.
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
@@ -220,5 +220,5 @@ produced independently.
 | C4, E | Staffing, pod design, and conduct. Never a grade input |
 
 **Coverage floor.** An axis with fewer than three independent reviewers is not scored from input
-alone. The professor rates it directly and says so in the development summary. Client Presence
+alone. The professor rates it directly and says so in the development summary. Client Hands
 on a discovery-only engagement is the case this exists for.

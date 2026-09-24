@@ -18,7 +18,7 @@ The model has one measuring instrument. Four axes, rated 1 to 5, observed by oth
 | **Workstream Ownership** | Move Work Forward | Whether you drive the work |
 | **Collaboration** | Move Work Forward | Whether people want you on their team |
 | **Communication** | Create Impact with People | The artifacts: updates, decks, memos |
-| **Client Presence** | Create Impact with People | Client hands: how you work with the client and earn their trust |
+| **Client Hands** | Create Impact with People | How you work with the client and earn their trust |
 
 Four ratings, not sixteen. A reviewer can hold four judgments and mean them. Ask for sixteen
 and they will straight-line the form.
@@ -151,7 +151,7 @@ reviewers land in the same place.
    holds up without anyone narrating it.
 5. Produces the artifact the team reuses. A senior stakeholder can act on it without a meeting.
 
-### Client Presence
+### Client Hands
 
 1. Treats the client as an audience rather than a collaborator. Talks to them only when
    required, and the client learns about problems or slipped commitments from someone else.
@@ -165,10 +165,10 @@ reviewers land in the same place.
    risk before the client finds it, and the relationship is stronger after the bad news than
    before it.
 
-This axis is what the industry calls client hands: collaboration with the client and the trust
-built with them over the whole engagement, not only how someone performs in a meeting. A
-student can be quiet in the room and still rate a 4 if the client relies on them between
-meetings.
+Client hands is the industry phrase, and it is the axis name on purpose: collaboration with the
+client and the trust built with them over the whole engagement, not only how someone performs
+in a meeting. A student can be quiet in the room and still rate a 4 if the client relies on them
+between meetings.
 
 ## 4. How input is gathered
 
@@ -189,7 +189,7 @@ their work:
 | Source | Who | Can speak to |
 |---|---|---|
 | **Peers** | Every Foundry member you worked with: pod teammates, engagement lead, QC lead, design lead | All four axes |
-| **Clients** | Every client contact you worked with directly | Client Presence and Communication, plus Ownership if they saw it. Never Collaboration |
+| **Clients** | Every client contact you worked with directly | Client Hands and Communication, plus Ownership if they saw it. Never Collaboration |
 | **Faculty and TAs** | Scott, and any TA who supervised the pod | All four axes |
 | **Self** | You | Your own four ratings, against the published anchors |
 
@@ -214,7 +214,7 @@ to be scheduled together.
 |---|---|---|---|
 | [Self-Assessment](self-assessment-survey.md) | You | All four axes. **Not in your composite** | ~20 min, once |
 | [Peer Evaluation](peer-evaluation-survey.md) | Every Foundry member on your confirmed list | All four axes | ~4 min per person reviewed |
-| [Client Evaluation](client-evaluation-survey.md) | Every client contact you worked with | Client Presence, Communication, and Ownership. Never Collaboration | ~15 min per pod |
+| [Client Evaluation](client-evaluation-survey.md) | Every client contact you worked with | Client Hands, Communication, and Ownership. Never Collaboration | ~15 min per pod |
 
 **Order matters.** Self closes first, before you have seen anything. Peer opens next. Client runs
 in parallel and never sees either. Your self-rating is worthless as a measure of calibration if
@@ -230,7 +230,7 @@ actually has. This is the coherence spine of the model.
 | **Workstream Ownership** | Did they drive the work, or wait to be told? | Did they drive their piece, or wait to be pointed at it? | What did you own end to end that nobody had to chase you about? |
 | **Collaboration** | Did they make the people around them better? | *Not asked. Invisible to a client* | What did you do that made someone else's work better? |
 | **Communication** | Could you tell the state of the work from what they wrote? | Could you act on what they sent you without them in the room? | Point to one thing you wrote that someone acted on |
-| **Client Presence** | Did the client come to trust them, and what did they do to earn it? | Did you come to trust them? Would you bring them your next problem? | How did you earn the client's trust, and how could you tell? |
+| **Client Hands** | Did the client come to trust them, and what did they do to earn it? | Did you come to trust them? Would you bring them your next problem? | How did you earn the client's trust, and how could you tell? |
 
 Peers and clients are asked what they **observed**. You are asked to **produce evidence**. That
 asymmetry is deliberate: producing an instance is a harder task than recognizing one, and it is
@@ -317,7 +317,7 @@ visible change in the next piece of work or just a pleasant nod.*
 *Listening for: answer first versus activity log. Whether bad news traveled at the same speed as
 good news.*
 
-### Client Presence
+### Client Hands
 
 9. **How did the client's trust in them change over the engagement?** What did they do that
    earned it, or cost it? Did the client start coming to them directly?
@@ -398,7 +398,7 @@ stabilizer.
 | Workstream Ownership | 50% | 20% | 30% |
 | Collaboration | 60% | none | 40% |
 | Communication | 40% | 35% | 25% |
-| Client Presence | 25% | 50% | 25% |
+| Client Hands | 25% | 50% | 25% |
 
 **Missing sources are reweighted, not zeroed.** If a client skipped the Ownership question, or
 your engagement stopped after discovery and there is no meaningful client contact, the remaining
@@ -415,7 +415,7 @@ delightful and ships nothing are two versions of the same failure.
 #### The guardrails on the aggregation
 
 **Coverage floor.** An axis with fewer than three independent reviewers is not scored from input
-alone. The professor rates it directly and says so in the development summary. Client Presence on
+alone. The professor rates it directly and says so in the development summary. Client Hands on
 a discovery-only engagement is the case this exists for.
 
 **Unsupported extremes are dropped.** A 5, a 1, or a 2 submitted without the required specific
@@ -572,7 +572,7 @@ the calibration gap measures nothing, and the video reflection has nothing to be
    the summary is unresolved.
 3. **Discovery-only engagements.** A pod whose client stops after discovery has less client
    contact to be rated on. The coverage floor handles it mechanically, but a semester where the
-   professor personally rates Client Presence for a whole pod is a weaker measurement and should
+   professor personally rates Client Hands for a whole pod is a weaker measurement and should
    be named as such in those summaries.
 4. **Whether students see their axis scores** or only the written development summary. The
    conversion table is published either way, so a student who sees their points can back out

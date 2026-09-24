@@ -209,7 +209,7 @@ person the client actually trusts, without asking anyone to rank anybody.
 | Form section | Feeds |
 |---|---|
 | Section 1 | Client Evaluation component, team level, same score for everyone on the pod |
-| Section 2A | Client Presence axis, client weighted Deep |
+| Section 2A | Client Hands axis, client weighted Deep |
 | Section 2B | Communication axis, client weighted Deep |
 | Section 2C | Workstream Ownership axis, client weighted Moderate, skipped if blank |
 | Section 2D | Development summary, quoted unattributed |
