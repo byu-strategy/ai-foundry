@@ -18,7 +18,7 @@ The model has one measuring instrument. Four axes, rated 1 to 5, observed by oth
 | **Workstream Ownership** | Move Work Forward | Whether you drive the work |
 | **Collaboration** | Move Work Forward | Whether people want you on their team |
 | **Communication** | Create Impact with People | The artifacts: updates, decks, memos |
-| **Client Presence** | Create Impact with People | The conduct: how you show up in front of someone senior |
+| **Client Presence** | Create Impact with People | Client hands: how you work with the client and earn their trust |
 
 Four ratings, not sixteen. A reviewer can hold four judgments and mean them. Ask for sixteen
 and they will straight-line the form.
@@ -153,19 +153,22 @@ reviewers land in the same place.
 
 ### Client Presence
 
-1. Avoids client contact. Silent in the room, or speaks and creates confusion someone else
-   repairs afterward.
-2. Attends client meetings and answers direct questions. Arrives unprepared. Defers everything
-   to the engagement lead.
-3. Prepared and credible on their own work. Answers questions about what they built. Does not
-   yet steer the conversation.
-4. Runs a portion of the meeting. Sets expectations, says plainly what will not fit in the time
-   available, and follows up when they said they would.
-5. The client asks for this person by name. Surfaces a risk before the client finds it, and the
-   relationship is stronger after the bad news than before it.
+1. Treats the client as an audience rather than a collaborator. Talks to them only when
+   required, and the client learns about problems or slipped commitments from someone else.
+2. Responsive when the client reaches out, but only reacts. Waits to be asked, and leaves the
+   relationship to a teammate or the advisor.
+3. Reliable with the client. Keeps commitments, answers promptly, and is prepared and credible
+   on their own work. The client trusts what they deliver but does not yet bring them problems.
+4. Works with the client as a partner. Understands what the client needs and why, says early
+   what will not fit, and the client starts coming to them directly.
+5. The client asks for this person by name and brings them problems beyond the scope. Surfaces a
+   risk before the client finds it, and the relationship is stronger after the bad news than
+   before it.
 
-*"Client hands" is the industry phrase for the fourth axis. Worth teaching, not worth putting
-on the chart.*
+This axis is what the industry calls client hands: collaboration with the client and the trust
+built with them over the whole engagement, not only how someone performs in a meeting. A
+student can be quiet in the room and still rate a 4 if the client relies on them between
+meetings.
 
 ## 4. How input is gathered
 
@@ -227,7 +230,7 @@ actually has. This is the coherence spine of the model.
 | **Workstream Ownership** | Did they drive the work, or wait to be told? | Did they drive their piece, or wait to be pointed at it? | What did you own end to end that nobody had to chase you about? |
 | **Collaboration** | Did they make the people around them better? | *Not asked. Invisible to a client* | What did you do that made someone else's work better? |
 | **Communication** | Could you tell the state of the work from what they wrote? | Could you act on what they sent you without them in the room? | Point to one thing you wrote that someone acted on |
-| **Client Presence** | How were they in front of the client? | How did they show up with you? | Describe a moment you owned in front of the client |
+| **Client Presence** | Did the client come to trust them, and what did they do to earn it? | Did you come to trust them? Would you bring them your next problem? | How did you earn the client's trust, and how could you tell? |
 
 Peers and clients are asked what they **observed**. You are asked to **produce evidence**. That
 asymmetry is deliberate: producing an instance is a harder task than recognizing one, and it is
@@ -316,7 +319,8 @@ good news.*
 
 ### Client Presence
 
-9. **Describe them in front of the client.** What did they actually say and do?
+9. **How did the client's trust in them change over the engagement?** What did they do that
+   earned it, or cost it? Did the client start coming to them directly?
 10. **Was there a moment the client needed to hear something they would not like?** Who said it,
     and what happened after?
 11. **Did they ever commit to something in a client meeting?** Did it happen when they said it
@@ -461,8 +465,8 @@ this is the largest single input to it.
 
 Read the anchors alongside this table and the standard is plain. **A 3 is a reliable teammate
 who does what is asked**, and it converts at 77%. **A 4 is someone who owns a workstream, makes
-their team better, writes something a stakeholder can act on, and can be put in front of a
-client.** That is the expectation, and it converts at 90%. Above 4.5 is rare on purpose.
+their team better, writes something a stakeholder can act on, and has earned a client's
+trust.** That is the expectation, and it converts at 90%. Above 4.5 is rare on purpose.
 
 This table does not move. It is published in week 1 so every student knows what an A requires
 before they do any work.

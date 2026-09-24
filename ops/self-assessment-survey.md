@@ -85,7 +85,7 @@ Each question is the same underlying question the other two forms ask, turned ar
 | 4 | **What is the last correction you received, and what changed in the next piece of work?** | Collaboration |
 | 5 | **Point to one thing you wrote that someone acted on** without needing you in the room. | Communication |
 | 6 | **When something was going badly, how did the client and the pod hear about it?** From you, from someone else, or from the result? | Communication |
-| 7 | **Describe a moment you owned in front of the client.** What did you actually say? | Client Presence |
+| 7 | **How did you earn the client's trust over the engagement?** What did you do, and how could you tell it worked? | Client Presence |
 | 8 | **Was there something the client needed to hear that they would not like?** Who said it? | Client Presence |
 
 **9. Which principle did you live this semester, and what did you do?** Pick one from the

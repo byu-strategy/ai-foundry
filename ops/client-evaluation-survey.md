@@ -95,11 +95,11 @@ comment on anything rated 3 or below.
 
 Repeat per student. Four questions, roughly two minutes each.
 
-**A. In front of you.** How did this person show up in meetings and on calls?
+**A. Working with you.** How was this person to work with, and did you come to trust them?
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
-| Silent, or created confusion someone else fixed | Answered direct questions, arrived unprepared | Prepared and credible on their own work | Ran part of the meeting, said plainly what would not fit | We would ask for this person by name |
+| We could not rely on them | Responsive when asked, did not go further | Reliable: did what they said, when they said | Understood what we needed and told us early what would not fit | We would ask for this person by name and bring them our next problem |
 
 *Plus:* Not enough contact to say
 

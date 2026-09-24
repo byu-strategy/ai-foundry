@@ -113,11 +113,11 @@ Each of the four axes is a 1 to 5 item with the full anchor text printed inline 
 |---|---|---|---|---|
 | Updates are late or absent. The reader has to ask what happened | Reports activity in the order it happened. The reader extracts the point themselves | Answer first, support underneath. Someone reading the first line knows the state of the work | Writes for the specific reader. Names the decision being asked for. The memo holds up without narration | Produces the artifact the team reuses. A senior stakeholder can act on it without a meeting |
 
-**Client Presence.** How they show up in front of someone senior.
+**Client Presence.** Client hands: how they work with the client and earn their trust.
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
-| Avoids client contact. Silent, or speaks and creates confusion someone else repairs | Attends and answers direct questions. Arrives unprepared. Defers everything to the lead | Prepared and credible on their own work. Does not yet steer the conversation | Runs a portion of the meeting. Says plainly what will not fit in the time. Follows up when they said they would | The client asks for this person by name. Surfaces a risk before the client finds it |
+| Treats the client as an audience. The client hears about problems or slipped commitments from someone else | Responsive when the client reaches out, but only reacts. Leaves the relationship to a teammate or the advisor | Reliable with the client. Keeps commitments, prepared and credible on their own work. The client does not yet bring them problems | Works with the client as a partner. Understands what they need, says early what will not fit. The client comes to them directly | The client asks for this person by name and brings them problems beyond the scope. Surfaces a risk before the client finds it |
 
 ### The evidence questions
 
