@@ -15,21 +15,23 @@ and hand it over without a handoff inside the team.
 | Role | Who | Hours |
 |---|---|---|
 | **Engagement lead** | MBA | 4 per week |
-| **Builder A** | Undergraduate builder or technical MBA | 10 per week |
-| **Builder B** | Undergraduate builder or technical MBA | 10 per week |
+| **Builders** (two) | Undergraduate builders or technical MBAs | 10 per week each |
 | **QC lead** | The Product Evaluation and QC function | 2 per week |
 | **Design lead** | The UX/UI function, on demand | As needed |
 | **Faculty advisor** | Scott Murff | Oversight |
 
-The client pays for 640 builder hours across eight months. QC, design, and faculty time ride on
-top of that. This is why the one rule that never bends is that **a builder is on exactly one
-engagement at a time**. Your ten hours are sold.
+A standard engagement runs **six weeks with a team of two builders**, 10 hours each per week.
+QC, design, and faculty time ride on top of that. This is why the one rule that never bends is
+that **a builder is on exactly one engagement at a time**. Your ten hours are sold.
+
+Every stint starts with a **tentative roll-off six weeks out**. At that point the team either
+extends with the client or rolls off and goes back on the board for the next engagement.
 
 **Engagement lead** owns the client relationship: the weekly call, the weekly update, the
-decision log, scope, and escalation. Owns the answer to "is this still inside 640 hours."
+decision log, scope, and escalation. Owns the answer to "does this still fit in six weeks."
 
-**Builder A** is accountable for the architecture. Builder B is accountable for shipping
-alongside them. Both write code.
+**Builders** build. There are no builder roles: both write code, both own the architecture, and
+both are accountable for shipping.
 
 **QC lead** is a gate. Nothing reaches the client without passing it, and the review happens at
 kickoff and at every phase boundary, not the night before a milestone.
@@ -97,9 +99,9 @@ Sitting on the bench since September should be an advantage. It should not be an
 2. **The fit gate runs.** We publish the eligible roster for that project. Eligibility is the
    matching rule plus being free of any other engagement. If you are not eligible, you cannot
    bid and you lose nothing.
-3. **Builder A is appointed, not auctioned.** Faculty names the builder rated 3 in the primary
+3. **One seat is appointed, not auctioned.** Faculty names a builder rated 3 in the primary
    archetype and confirms the two-deep backup.
-4. **Builder B is auctioned.** Sealed bids from the eligible roster. One bid each, 72-hour
+4. **The other seat is auctioned.** Sealed bids from the eligible roster. One bid each, 72-hour
    window, no revisions.
 5. **Second price wins.** The highest bid takes the seat and pays the **second-highest bid plus
    one point**. Everyone else pays nothing and keeps their balance.
@@ -134,9 +136,9 @@ not many of these, and you will know which ones they are because the brief says 
 ## Discovery Teams
 
 A discovery-only engagement is not a full pod. It is an engagement lead plus one builder, four
-to six weeks, and its job is to find out whether the real project fits in 640 hours.
+to six weeks, and its job is to find out whether the real project fits in a six-week build.
 
-If the build phase then signs, the builder who ran discovery gets first claim on the Builder A
+If the build phase then signs, the builder who ran discovery gets first claim on the appointed
 seat without bidding. The context they built is worth more than the scheduling convenience of
 reopening it.
 
