@@ -560,8 +560,8 @@ each other a 5 still has to say how the work was actually divided.
 - **Not a peer popularity vote.** Reviewers rate against published anchors with required
   examples, weighted by exposure, triangulated across peers, clients, and faculty. A student
   cannot be sunk by one teammate or floated by one friend.
-- **Not connected to stipends.** Stipends come from logged, verified hours. Nothing on the peer
-  form moves anyone's money.
+- **Not connected to stipends.** Stipends come from client weeks with utilization credit.
+  Nothing on the peer form moves anyone's money.
 
 ### Development summary
 
