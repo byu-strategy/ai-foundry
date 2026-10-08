@@ -244,7 +244,7 @@ to be scheduled together.
 |---|---|---|---|
 | [Self-Assessment](self-assessment-survey.md) | You | All four axes. **Not in your composite** | ~20 min, once |
 | [Peer Evaluation](peer-evaluation-survey.md) | Every Foundry member on your exposure list | All four axes | ~5 min per person, when the shared work ends |
-| [Client Evaluation](client-evaluation-survey.md) | Every client contact on an exposure list | Client Hands, Communication, and Ownership. Never Collaboration | ~10 min per engagement, at roll-off |
+| [Client Feedback](client-feedback.md) | Every client contact on an exposure list | Client Hands, Communication, and Ownership (from Timeliness and High Agency). Never Collaboration | ~5 to 8 min, at the end of every 5-week block |
 
 All three are built into the Cockpit, not Google Forms: the exposure list, the thresholds, and
 the release rules all run on its data.
@@ -260,7 +260,7 @@ actually has. This is the coherence spine of the model.
 
 | Axis | Peers are asked | The client is asked | You are asked |
 |---|---|---|---|
-| **Workstream Ownership** | Did they drive the work, or wait to be told? | Did they drive their piece, or wait to be pointed at it? | What did you own end to end that nobody had to chase you about? |
+| **Workstream Ownership** | Did they drive the work, or wait to be told? | Did they do what they said, when they said? Did they move the work forward on their own? | What did you own end to end that nobody had to chase you about? |
 | **Collaboration** | Did they make the people around them better? | *Not asked. Invisible to a client* | What did you do that made someone else's work better? |
 | **Communication** | Could you tell the state of the work from what they wrote? | Could you act on what they sent you without them in the room? | Point to one thing you wrote that someone acted on |
 | **Client Hands** | Did the client come to trust them, and what did they do to earn it? | Did you come to trust them? Would you bring them your next problem? | How did you earn the client's trust, and how could you tell? |
@@ -375,9 +375,9 @@ against reality.
 
 ### The client call
 
-Runs against the [Client Evaluation Survey](client-evaluation-survey.md) rather than this guide.
-Section 3 of that form is the interview: what the team was optimistic about, who the client went
-to when they needed something, and what hard thing got said. Fifteen minutes, and it doubles as
+Runs against [Client Feedback](client-feedback.md) rather than this guide. Its event questions
+are the interview: what the team was optimistic about, who the client went to when they needed
+something, and what hard thing got said. Fifteen minutes, and it doubles as
 a relationship call.
 
 ### Rules for the professor

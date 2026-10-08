@@ -8,9 +8,9 @@ form per person reviewed, per context. The results reach the student only at the
 final releases, combined with at least two other people, and never attributed. See section 4 of
 the [developmentship model](developmentship-model.md) for the release rules.
 
-## Why this is not the client survey
+## Why this is not the client form
 
-The client survey and this one look different because the raters are different in three ways
+The [client form](client-feedback.md) and this one look different because the raters are different in three ways
 that matter.
 
 | | Client | Peer |
@@ -18,7 +18,7 @@ that matter.
 | **What they can see** | Two axes clearly, a third sometimes. Never Collaboration | All four, and Collaboration best of all |
 | **What they know about the model** | Nothing, deliberately | Everything. They were taught the anchors in week 1 |
 | **How they can be wrong** | Too little contact, too polite | Reciprocal inflation, friendship, retaliation |
-| **How much we can ask of them** | Ten minutes, once | Forty minutes, and they owe it to each other |
+| **How much we can ask of them** | Five to eight minutes, every 5 weeks | Forty minutes, and they owe it to each other |
 
 So the client form hides the framework and asks what happened. This form shows the framework,
 shows the anchors, and spends its design budget on making inflation expensive.
