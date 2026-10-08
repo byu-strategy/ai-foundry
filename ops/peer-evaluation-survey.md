@@ -192,6 +192,6 @@ produced independently.
 | C1 | Not scored. The gap between the two teammates' splits is a finding, not a number |
 | C2, E | Staffing, team design, and conduct. Never a grade input |
 
-**Coverage floor.** An axis with fewer than three independent reviewers is not scored from input
-alone. The professor rates it directly and says so in the development summary. The client side
-of Collaboration on a discovery-only engagement is the case this exists for.
+**Coverage floor.** An axis with fewer than three independent reviewers is held and left out of
+the composite. Faculty may add a rating to reach the floor but never has to. The client side of
+Collaboration on a discovery-only engagement is the case this exists for.

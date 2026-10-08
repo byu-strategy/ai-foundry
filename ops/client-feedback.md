@@ -210,7 +210,7 @@ Never shared with students; never enters a grade.
   a teammate sees ownership from inside, and a near-equal one for Communication and
   Collaboration, where the client is the reader and the other half of the relationship.
 - **Team of one:** no peer is on the engagement, so the peer source is often empty and the
-  formula reweights. The client and faculty then carry every axis. Intended.
+  formula reweights. The client then carries every axis, with faculty if Scott rated (optional). Intended.
 - **Repeat ratings:** a client who rates a student at the end of three blocks is still one rater
   toward the three-rater minimum (`raterKey`). Their ratings are averaged per rater first, so a
   client with three blocks weighs the same as a client with one.
