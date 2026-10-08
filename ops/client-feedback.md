@@ -4,8 +4,8 @@
 portal (aifoundry.byu.edu/app, Give feedback) and through the private link `/app/f/[token]` for
 contacts without an account. Replaces `client-evaluation-survey.md` (2026-10-08).*
 
-Status: **drafted, not built.** The live form implements an earlier version; the gaps are listed
-at the end.
+Status: **forms 1, 2 and 4 built** (strategy repo, migrations 053 and 055, 2026-10-08). Form 3
+and the Client Evaluation grade are not built yet; see "What the live form asks today".
 
 ## The four forms
 
@@ -247,11 +247,14 @@ grading must be published in the syllabus before the term it applies to. Items 2
 
 ## What the live form asks today
 
-Live at `/app/f/[token]` (2026-10-08): per student, the old A (working with you), B (what they
-sent you), C (ownership, optional), one thing done well and one to work on, next engagement;
-then satisfaction, recommend, optimistic, and stuck with you. Missing from it: Timeliness, High
-Agency, Technical Competency, Contribution, Judgment and Taking feedback, which means the Client Evaluation grade
-component has no data source today; and all of form 3 beyond the two scores.
+Live at `/app/f/[token]` (2026-10-08): form 2 as written above, per student, with one thing done
+well and one to work on, then satisfaction and recommend. A review is ready at each block end
+(every 5 weeks from kickoff) in which the student was staffed, and goes out again for the next
+block once answered. A final stub shorter than 3 weeks is folded into the block before it, so a
+7-week engagement has one review, at week 7. Forms 1 and 4 are in the client portal's Give
+feedback page. Not built: form 3 (the final review questions beyond the two scores), the
+Client Evaluation grade computed from the 477R five, and Technical Competency beside the
+builder chart.
 
 ## Open decisions
 
@@ -275,3 +278,5 @@ component has no data source today; and all of form 3 beyond the two scores.
   changed to "Saw what needed doing and did it before we noticed" (its old text moved to
   Judgment); Working with you now feeds Collaboration, averaged with Taking feedback; clients
   now rate all four axes; items renumbered; new weights.
+- 2026-10-08: built in the strategy repo. Status and "What the live form asks today" updated;
+  the short final stub folds into the block before it.
