@@ -209,7 +209,7 @@ added as the work happens rather than reconstructed at the end.
 |---|---|---|
 | **Peers** | Every Foundry member you worked with: your teammate on each engagement, and anyone on an internal project or who reviewed your work | All four axes |
 | **Clients** | Every client contact you worked with directly | All four axes |
-| **Faculty** | Scott, on every student, after every engagement | All four axes |
+| **Faculty** | Scott, when he chooses to. Optional, never required | All four axes |
 | **Self** | You | Your own four ratings, against the published anchors |
 
 For each person you record whether they are a peer or a client, the **context** (which client
@@ -447,7 +447,8 @@ score, and your self score.**
 Sources are weighted by what they can actually see. Peers see the most of your work, so they
 carry the most weight on every axis, and the most on Ownership, which a client sees least. The
 client is close behind on Communication and Collaboration, where they are the reader and the
-other half of the relationship. Faculty is present everywhere as a stabilizer.
+other half of the relationship. Faculty ratings are optional: when Scott rates, his rating is one
+more source at the weight shown, and when he does not, the other weights scale up.
 
 | Axis | Peers | Client | Faculty |
 |---|---|---|---|
@@ -459,8 +460,8 @@ other half of the relationship. Faculty is present everywhere as a stabilizer.
 **Missing sources are reweighted, not zeroed.** If a client skipped the Ownership question, or
 your engagement stopped after discovery and there is no meaningful client contact, the remaining
 weights scale up proportionally. A student is never penalized for a source that did not exist.
-On a team of one there is no peer on the engagement, so the client and faculty carry every axis
-for that engagement. That is intended.
+On a team of one there is no peer on the engagement, so the client carries every axis for that
+engagement, with faculty if Scott rated. That is intended.
 
 Your self score is **not** in this calculation. It sits beside the result.
 
@@ -468,13 +469,15 @@ Your self score is **not** in this calculation. It sits beside the result.
 
 The composite is the mean of the four axis scores, weighted equally. No axis is worth more than
 another, because a student who drives work nobody wants to receive and a student who is
-delightful and ships nothing are two versions of the same failure.
+delightful and ships nothing are two versions of the same failure. If an axis is held by the coverage
+floor, the composite is the mean of the axes that are scored.
 
 #### The guardrails on the aggregation
 
-**Coverage floor.** An axis with fewer than three independent reviewers is not scored from input
-alone. The professor rates it directly and says so in the development summary. The client side
-of Collaboration on a discovery-only engagement is the case this exists for.
+**Coverage floor.** An axis with fewer than three independent reviewers is held: it shows as
+"not enough raters yet" and is left out of the composite, which then averages the axes that are
+scored. Faculty may add a rating to reach the floor but never has to. The client side of
+Collaboration on a discovery-only engagement is the case this exists for.
 
 **Unsupported extremes are dropped.** A 5, a 1, or a 2 submitted without the required specific
 instance does not enter any average.
@@ -629,9 +632,9 @@ only at the end is a verdict. A rating delivered at the midpoint is a chance.
    and once for running the Foundry. Whether those combine into one composite or stay separate on
    the summary is unresolved.
 3. **Discovery-only engagements.** A team whose client stops after discovery has less client
-   contact to be rated on. The coverage floor handles it mechanically, but a semester where the
-   professor personally rates the client side of Collaboration for a whole team is a weaker
-   measurement and should be named as such in those summaries.
+   contact to be rated on. The coverage floor holds any axis with fewer than three reviewers, so
+   those students may finish with a composite built from fewer axes, and their summaries should
+   say so.
 4. **Release dates.** Midterm and final release dates are not yet set on the calendar.
 5. **Whether the coverage data is published back to the cohort.** The per-principle counts
    across a whole cohort are the most interesting thing this system produces and say more about
