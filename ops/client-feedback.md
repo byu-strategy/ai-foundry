@@ -22,15 +22,19 @@ student in one sitting.
 ## Design rules
 
 - **Ask only what the client saw.** A client sees deadlines, what lands in their inbox, whether
-  they came to trust someone, whether a person proposed the next step, and whether the thing
-  works in their environment. They rarely see who drove the work inside the team and never see
-  how teammates treat each other. So the client form asks about the outside of the work; the
-  [peer form](peer-evaluation-survey.md) asks about the inside.
+  a recommendation held up, whether they came to trust someone, how a person took pushback,
+  whether a person proposed the next step, and whether the thing works in their environment.
+  They rarely see who drove the work inside the team or how teammates treat each other. So the
+  client form asks about the outside of the work and the client's side of the relationship; the
+  [peer form](peer-evaluation-survey.md) asks about the inside. Between them, all four axes are
+  rated by both.
 - **The same five questions as STRAT 477R.** Timeliness, Communication, High Agency, Technical
   Competency and Contribution are what any supervisor-type rater can see, and they are the APM
   Lab mentor survey's five (`~/courses/apm-lab/partners/03-evaluation.qmd`). Using them here
-  gives one question set for mentors and clients. The Foundry adds one question 477R does not
-  ask, about trust, because it is the one thing the client sees better than anyone.
+  gives one question set for mentors and clients. The Foundry adds three questions 477R does not
+  ask: whether their thinking held up (Judgment), how they were to work with, and how they
+  responded to pushback (both Collaboration). These three feed the diamond only, never the
+  Client Evaluation grade.
 - **Per student, no separate team section.** Teams are one or two students, so rating each
   costs the client little. A team score, where one is needed, is the average of its students.
 - **The client never sees the framework.** No axis names, no diamond, no anchors framed as a
@@ -82,7 +86,7 @@ combined with other people's ratings, never with your name on them."
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
-| Waited to be told at every step | Did what was asked, nothing more | Owned their piece once it was scoped | Proposed the next step before we did | Reframed the problem in a way that changed what we asked for |
+| Waited to be told at every step | Did what was asked, nothing more | Owned their piece once it was scoped | Proposed the next step before we did | Saw what needed doing and did it before we noticed |
 
 **4. Technical competency.** Does what they built work?
 
@@ -98,26 +102,38 @@ combined with other people's ratings, never with your name on them."
 |---|---|---|---|---|
 | We would not want it again | Below what we expected | About what we expected | Better than we expected | It changed a decision we were going to make anyway |
 
-**6. Working with you.** How was this person to work with, and did you come to trust them?
+**6. Judgment.** Did their thinking hold up?
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| Their recommendations did not hold up | Did what we asked without questioning whether it was the right thing | Sound, and told us where the evidence was thin | Told us what the facts supported, even when it was not what we hoped | Reframed the problem in a way that changed what we asked for |
+
+**7. Working with you.** How was this person to work with, and did you come to trust them?
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
 | We could not rely on them | Responsive when asked, did not go further | Reliable: did what they said, when they said | Understood what we needed and told us early what would not fit | We would ask for this person by name and bring them our next problem |
 
-Every item from 1 to 6 also offers "Not enough contact to say."
+**8. Taking feedback.** When you pushed back or asked for changes, how did they respond?
 
-**7. Required, one sentence each.** One thing this person did well. One thing they should work
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| Got defensive, or agreed and changed nothing | Changed only what we spelled out | Took it in, and the next piece showed it | Asked for our view before we offered it | Disagreed with us openly when they had reason, and changed position when we were right |
+
+Every item from 1 to 8 also offers "Not enough contact to say."
+
+**9. Required, one sentence each.** One thing this person did well. One thing they should work
 on.
 
-**8. Would you want this person on your next engagement?** Yes, specifically / Yes / Yes, with
+**10. Would you want this person on your next engagement?** Yes, specifically / Yes / Yes, with
 reservations / No / Not enough contact to say.
 
 ### About the team (once)
 
-**9. Did anything the team told you turn out to be more optimistic than reality?** What was it,
+**11. Did anything the team told you turn out to be more optimistic than reality?** What was it,
 and how did you find out? *(Optional paragraph)*
 
-**10. Did anyone on the team do something that stuck with you?** It does not have to be about
+**12. Did anyone on the team do something that stuck with you?** It does not have to be about
 the deliverable. *(Optional paragraph)* Our principle citation, asked in plain language; tagged
 to a principle on our side. Positive-only by construction.
 
@@ -167,30 +183,34 @@ Never shared with students; never enters a grade.
 
 | Item | Diamond (consultant) | Client Evaluation grade | Other |
 |---|---|---|---|
-| 2.1 Timeliness | Workstream Ownership, half of the client source | Yes | |
+| 2.1 Timeliness | Ownership, half of the client source | Yes | |
 | 2.2 Communication | Communication | Yes | |
-| 2.3 High agency | Workstream Ownership, half of the client source | Yes | |
+| 2.3 High agency | Ownership, half of the client source | Yes | |
 | 2.4 Technical competency | No | Yes | Shown beside the builder chart as an outside view, never blended into it |
 | 2.5 Contribution | No | Yes | |
-| 2.6 Working with you | Client Hands | No | |
-| 2.7 Did well / work on | No | No | Development summary, quoted unattributed |
-| 2.8 Next engagement | No | No | Triangulation: a "No" against high peer ratings is worth a conversation |
-| 2.9 Optimistic | No | No | Evidence the professor weighs when sources disagree |
-| 2.10 Stuck with you | No | No | Principle tag; development summary only |
+| 2.6 Judgment | Judgment | No | |
+| 2.7 Working with you | Collaboration, half of the client source | No | |
+| 2.8 Taking feedback | Collaboration, half of the client source | No | |
+| 2.9 Did well / work on | No | No | Development summary, quoted unattributed |
+| 2.10 Next engagement | No | No | Triangulation: a "No" against high peer ratings is worth a conversation |
+| 2.11 Optimistic | No | No | Evidence the professor weighs when sources disagree |
+| 2.12 Stuck with you | No | No | Principle tag; development summary only |
 | Forms 1 and 3 | No | No | Program, pricing and renewal decisions; satisfaction and recommend tracked per engagement on the Pipeline |
 | Form 4 | No | No | Scott only |
 
 ### Diamond mechanics
 
-- **Client source per axis, per student:** Workstream Ownership = mean of the usable Timeliness
-  and High Agency ratings, counted as one response. Communication = item 2. Client Hands = item 6.
-  Collaboration: none.
-- **Weights unchanged** (`WEIGHTS` in `consultant.ts`): Ownership peer 0.5, client 0.2, faculty
-  0.3; Communication 0.4, 0.35, 0.25; Client Hands 0.25, 0.5, 0.25; Collaboration 0.6, 0, 0.4.
-  The client is the main source for Client Hands and a minor one for Ownership, because a
-  teammate sees ownership from inside.
+- **Client source per axis, per student:** Judgment = item 6. Ownership = mean of the usable
+  Timeliness and High Agency ratings, counted as one response. Communication = item 2.
+  Collaboration = mean of the usable Working with you and Taking feedback ratings, counted as
+  one response. Clients rate all four axes.
+- **Weights** (`WEIGHTS` in `consultant.ts`), peer, client, faculty: Judgment 0.4, 0.3, 0.3;
+  Ownership 0.5, 0.2, 0.3; Communication 0.4, 0.35, 0.25; Collaboration 0.4, 0.35, 0.25. A
+  missing source is reweighted, not zeroed. The client is a minor source for Ownership, because
+  a teammate sees ownership from inside, and a near-equal one for Communication and
+  Collaboration, where the client is the reader and the other half of the relationship.
 - **Team of one:** no peer is on the engagement, so the peer source is often empty and the
-  formula reweights. The client and faculty then carry Ownership. Intended.
+  formula reweights. The client and faculty then carry every axis. Intended.
 - **Repeat ratings:** a client who rates a student at the end of three blocks is still one rater
   toward the three-rater minimum (`raterKey`). Their ratings are averaged per rater first, so a
   client with three blocks weighs the same as a client with one.
@@ -204,18 +224,21 @@ the **team** on these five dimensions, at mid-term for development and at the en
 and the average converts to points. This spec keeps that rule exactly: the graded number is the
 team average of items 2.1 to 2.5 across its students, from the reviews that end in the term.
 Per-student scores are collected now so the rule can change later. Any change to per-student
-grading must be published in the syllabus before the term it applies to.
+grading must be published in the syllabus before the term it applies to. Items 2.6 to 2.8
+(Judgment, Working with you, Taking feedback) never enter the grade.
 
 ---
 
 ## What changes in the app (strategy repo)
 
-- `CLIENT_QUESTIONS` (`src/lib/practice/feedback.ts`): six per-student items with the anchors
-  above, plus the escape options.
-- `FeedbackResponse`: add timeliness, agency, technical, contribution. Ownership for a client is
-  derived, not stored.
-- `consultant.ts`: client Ownership from Timeliness and High Agency; per-rater averaging before
-  the client source mean.
+- `CLIENT_QUESTIONS` (`src/lib/practice/feedback.ts`): eight rated per-student items with the
+  anchors above, plus the escape options.
+- `FeedbackResponse`: add timeliness, agency, technical, contribution, judgment, taking
+  feedback. Ownership and Collaboration for a client are derived, not stored.
+- `consultant.ts`: the four axes are Judgment, Ownership, Communication, Collaboration (Client
+  Hands removed, Workstream Ownership renamed); new `WEIGHTS` as above; client Ownership from
+  Timeliness and High Agency, client Collaboration from Working with you and Taking feedback;
+  per-rater averaging before the client source mean.
 - Requests per 5-week block: `feedback_requests.block`, ready when the block ends, not when the
   student's last stint ends (today's `workEnded`).
 - `/app/f/[token]` form: render form 2 (and form 3 on the last block).
@@ -227,7 +250,7 @@ grading must be published in the syllabus before the term it applies to.
 Live at `/app/f/[token]` (2026-10-08): per student, the old A (working with you), B (what they
 sent you), C (ownership, optional), one thing done well and one to work on, next engagement;
 then satisfaction, recommend, optimistic, and stuck with you. Missing from it: Timeliness, High
-Agency, Technical Competency and Contribution, which means the Client Evaluation grade
+Agency, Technical Competency, Contribution, Judgment and Taking feedback, which means the Client Evaluation grade
 component has no data source today; and all of form 3 beyond the two scores.
 
 ## Open decisions
@@ -247,3 +270,8 @@ component has no data source today; and all of form 3 beyond the two scores.
   ratings; four forms (midpoint, team review, final review, Scott); program questions moved to
   the final review only; scale rule stated with its one exception; question counts fixed;
   "builders" and "Cockpit" replaced.
+- 2026-10-08: Consultant diamond recut to Judgment, Ownership, Communication, Collaboration.
+  Added per-student items Judgment (2.6) and Taking feedback (2.8); High Agency anchor 5
+  changed to "Saw what needed doing and did it before we noticed" (its old text moved to
+  Judgment); Working with you now feeds Collaboration, averaged with Taking feedback; clients
+  now rate all four axes; items renumbered; new weights.

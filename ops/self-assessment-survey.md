@@ -57,10 +57,10 @@ Scale is **1 to 5**, the published anchors, identical to the other two forms.
 
 Four items, 1 to 5, full anchor text printed inline, identical wording to the peer form:
 
-- **Workstream Ownership**
-- **Collaboration**
+- **Judgment**
+- **Ownership**
 - **Communication**
-- **Client Hands**
+- **Collaboration**
 
 **No "could not observe" option.** You were there for all of it.
 
@@ -77,20 +77,20 @@ Each question is the same underlying question the other two forms ask, turned ar
 
 | # | Question | Axis |
 |---|---|---|
-| 1 | **What did you own end to end this semester** that nobody had to chase you about? Who decided what the steps were? | Workstream Ownership |
-| 2 | **When did the work get stuck, and what did you do next?** How did the rest of your teammate find out, and when? | Workstream Ownership |
-| 3 | **What did you do that made someone else's work better?** Name the person and the piece of work. | Collaboration |
-| 4 | **What is the last correction you received, and what changed in the next piece of work?** | Collaboration |
+| 1 | **Point to a decision where your framing or your reading of the facts changed what the team or client did.** What did you see that others had not? | Judgment |
+| 2 | **Was there something the team or the client needed to hear that they would not like?** Who said it, and what happened? | Judgment |
+| 3 | **What did you own end to end this semester** that nobody had to chase you about? Who decided what the steps were? | Ownership |
+| 4 | **When did the work get stuck, and what did you do next?** How did your teammate find out, and when? | Ownership |
 | 5 | **Point to one thing you wrote that someone acted on** without needing you in the room. | Communication |
 | 6 | **When something was going badly, how did the client and your teammate hear about it?** From you, from someone else, or from the result? | Communication |
-| 7 | **How did you earn the client's trust over the engagement?** What did you do, and how could you tell it worked? | Client Hands |
-| 8 | **Was there something the client needed to hear that they would not like?** Who said it? | Client Hands |
+| 7 | **How did you earn the trust of your team and your client?** What did you do, and how could you tell it worked? | Collaboration |
+| 8 | **What is the last correction you received, from a teammate or the client, and what changed in the next piece of work?** | Collaboration |
 
 **9. Which principle did you live this semester, and what did you do?** Pick one from the
 constitution and point at something specific. *(Dropdown plus paragraph. Positive only. You are
 not asked which principle you failed, and neither is anyone else.)*
 
-Questions 2, 6 and 8 are the ones that produce honest answers, because they ask about a specific
+Questions 2, 4, 6 and 8 are the ones that produce honest answers, because they ask about a specific
 event with a specific outcome rather than asking you to characterize yourself.
 
 ---

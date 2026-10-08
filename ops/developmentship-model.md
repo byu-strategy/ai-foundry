@@ -15,16 +15,35 @@ The model has one measuring instrument. Four axes, rated 1 to 5, observed by oth
 
 | Axis | Imperative behind it | Judged on |
 |---|---|---|
-| **Workstream Ownership** | Move Work Forward | Whether you drive the work |
-| **Collaboration** | Move Work Forward | Whether people want you on their team |
-| **Communication** | Create Impact with People | The artifacts: updates, decks, memos |
-| **Client Hands** | Create Impact with People | How you work with the client and earn their trust |
+| **Judgment** | Think Clearly, and Get to the Right Answer | Whether you solve the right problem and say what the facts support |
+| **Ownership** | Move Work Forward | Whether you drive the work |
+| **Communication** | Create Impact with People: do people *understand* it | The artifacts: what you produce for a reader (updates, decks, memos) |
+| **Collaboration** | Create Impact with People: do people *trust* you | How your team and your client experience working with you, and whether they want you on the next one |
 
 Four ratings, not sixteen. A reviewer can hold four judgments and mean them. Ask for sixteen
 and they will straight-line the form.
 
-Two axes point inward at the work and the team. Two point outward at the client and the reader.
-That is the whole diamond.
+The axes come from the Four Imperatives taught in STRAT 325. Two are about the work: Judgment
+asks whether it is the right work, and Ownership asks whether it moves. Two are about people,
+and they follow 325's guiding question for Create Impact with People, "Do people understand,
+trust, and act on this work?" Communication is the *understand* half and is judged on the
+artifact. Collaboration is the *trust* half and is judged on the relationship, with anyone you
+work with, teammate or client.
+
+An earlier draft had three people axes: Communication, Collaboration (teammates only), and
+Client Hands (the client relationship). They were cut on two different lines, one by medium and
+two by audience, so they overlapped, and the draft drew on only two of the four imperatives.
+Judgment was missing. The client relationship now sits inside Collaboration, and clients rate
+all four axes.
+
+### Ten dimensions
+
+Together with the six Builder axes (Discovery, Design, Application Architecture, AI Systems,
+Agentic Workflow, Launch and Learn), that makes ten dimensions. The Builder axes are what you can
+make, graded on artifacts in the Build course. The Consultant axes are how you work, observed by
+the people around you in the Foundry. Judgment runs through every Builder axis, Discovery most of
+all. That overlap is deliberate: the Build course grades judgment as it shows up in an artifact,
+and this diamond rates it as it shows up in decisions other people watched you make.
 
 ### Why not the Builder hexagon
 
@@ -116,7 +135,20 @@ Same 1 to 5 scale on every axis. No adjectives like "strong" or "excellent." Eve
 something a reviewer could point at in a week of work, which is what makes two different
 reviewers land in the same place.
 
-### Workstream Ownership
+### Judgment
+
+1. Solves the problem as handed over, even when it is the wrong one. Conclusions run ahead of
+   the evidence.
+2. Sound on the task in front of them, but does not ask whether it is the right task. Reports
+   what the data says, not what it means.
+3. Checks that the question is the right one before starting. Conclusions follow from the
+   evidence, and they say where it is thin.
+4. Reframes the problem when the facts call for it. Separates what is known from what is
+   assumed; recommendations hold up when tested.
+5. The team or client changes direction because of how they framed it. Says what the facts
+   support when it is not what anyone hoped.
+
+### Ownership
 
 1. Waits to be told. Work stops when the next step is unclear. Blockers surface at the
    deadline rather than before it.
@@ -129,18 +161,6 @@ reviewers land in the same place.
 5. Owns a workstream and pulls others along. Reprioritizes when the client changes direction,
    and what comes back is better than what was asked for.
 
-### Collaboration
-
-1. Works alone and the team finds out late. Takes feedback as criticism, or agrees with it and
-   changes nothing.
-2. Does their own part. Does not look at anyone else's. Applies feedback only where told to.
-3. Reliable teammate. Reviews others' work when asked, shares context without being chased, and
-   acts on feedback the next time.
-4. Makes the people around them better. Asks for feedback before it is offered, and the
-   correction is visible in the next piece of work.
-5. Raises the standard of the whole team. Handles disagreement without it becoming personal,
-   and changes position publicly when someone else is right.
-
 ### Communication
 
 1. Updates are late or absent. The reader has to ask what happened.
@@ -151,24 +171,23 @@ reviewers land in the same place.
    holds up without anyone narrating it.
 5. Produces the artifact the team reuses. A senior stakeholder can act on it without a meeting.
 
-### Client Hands
+### Collaboration
 
-1. Treats the client as an audience rather than a collaborator. Talks to them only when
-   required, and the client learns about problems or slipped commitments from someone else.
-2. Responsive when the client reaches out, but only reacts. Waits to be asked, and leaves the
-   relationship to a teammate or the advisor.
-3. Reliable with the client. Keeps commitments, answers promptly, and is prepared and credible
-   on their own work. The client trusts what they deliver but does not yet bring them problems.
-4. Works with the client as a partner. Understands what the client needs and why, says early
-   what will not fit, and the client starts coming to them directly.
-5. The client asks for this person by name and brings them problems beyond the scope. Surfaces a
-   risk before the client finds it, and the relationship is stronger after the bad news than
-   before it.
+1. Works alone; the team and the client find out late. Takes feedback as criticism, or agrees
+   and changes nothing.
+2. Does their own part and reacts when asked. Leaves teammates' work and the client
+   relationship to others; applies feedback only where told.
+3. Reliable to work with. Keeps commitments to teammates and the client, shares context without
+   being chased, and acts on feedback the next time.
+4. Makes the people around them better. Asks for feedback before it is offered, says early what
+   will not fit, and teammates and the client come to them directly.
+5. People ask to work with them again, by name. Handles disagreement without it becoming
+   personal, changes position when someone else is right, and surfaces a risk before anyone else
+   finds it.
 
-Client hands is the industry phrase, and it is the axis name on purpose: collaboration with the
-client and the trust built with them over the whole engagement, not only how someone performs
-in a meeting. A student can be quiet in the room and still rate a 4 if the client relies on them
-between meetings.
+Collaboration covers everyone you work with, teammates and the client alike, and it is rated by
+both. It is about the trust built over the whole engagement, so a student can be quiet in a
+client meeting and still rate a 4 if the client relies on them between meetings.
 
 ## 4. How input is gathered
 
@@ -189,7 +208,7 @@ added as the work happens rather than reconstructed at the end.
 | Source | Who | Can speak to |
 |---|---|---|
 | **Peers** | Every Foundry member you worked with: your teammate on each engagement, and anyone on an internal project or who reviewed your work | All four axes |
-| **Clients** | Every client contact you worked with directly | Client Hands and Communication, plus Ownership if they saw it. Never Collaboration |
+| **Clients** | Every client contact you worked with directly | All four axes |
 | **Faculty** | Scott, on every student, after every engagement | All four axes |
 | **Self** | You | Your own four ratings, against the published anchors |
 
@@ -244,7 +263,7 @@ to be scheduled together.
 |---|---|---|---|
 | [Self-Assessment](self-assessment-survey.md) | You | All four axes. **Not in your composite** | ~20 min, once |
 | [Peer Evaluation](peer-evaluation-survey.md) | Every Foundry member on your exposure list | All four axes | ~5 min per person, when the shared work ends |
-| [Client Feedback](client-feedback.md) | Every client contact on an exposure list | Client Hands, Communication, and Ownership (from Timeliness and High Agency). Never Collaboration | ~5 to 8 min, at the end of every 5-week block |
+| [Client Feedback](client-feedback.md) | Every client contact on an exposure list | All four axes, through plain-language items (Ownership from Timeliness and High Agency, Collaboration from Working with you and Taking feedback) | ~5 to 8 min, at the end of every 5-week block |
 
 All three are built into the Cockpit, not Google Forms: the exposure list, the thresholds, and
 the release rules all run on its data.
@@ -260,10 +279,10 @@ actually has. This is the coherence spine of the model.
 
 | Axis | Peers are asked | The client is asked | You are asked |
 |---|---|---|---|
-| **Workstream Ownership** | Did they drive the work, or wait to be told? | Did they do what they said, when they said? Did they move the work forward on their own? | What did you own end to end that nobody had to chase you about? |
-| **Collaboration** | Did they make the people around them better? | *Not asked. Invisible to a client* | What did you do that made someone else's work better? |
+| **Judgment** | Did they solve the right problem, and say what the facts supported? | Did their thinking hold up? Did they tell you what the facts supported, even when it was not what you hoped? | Point to a decision where your framing or your reading of the facts changed what the team or client did |
+| **Ownership** | Did they drive the work, or wait to be told? | Did they do what they said, when they said? Did they move the work forward on their own? | What did you own end to end that nobody had to chase you about? |
 | **Communication** | Could you tell the state of the work from what they wrote? | Could you act on what they sent you without them in the room? | Point to one thing you wrote that someone acted on |
-| **Client Hands** | Did the client come to trust them, and what did they do to earn it? | Did you come to trust them? Would you bring them your next problem? | How did you earn the client's trust, and how could you tell? |
+| **Collaboration** | Did they make the people around them better, and do you want them on your next team? | How was this person to work with, and did you come to trust them? When you pushed back, how did they respond? | How did you earn the trust of your team and your client, and how could you tell? |
 
 Peers and clients are asked what they **observed**. You are asked to **produce evidence**. That
 asymmetry is deliberate: producing an instance is a harder task than recognizing one, and it is
@@ -318,49 +337,52 @@ reviewer who is told the framework starts producing evidence to fit it.
 The last sentence matters. It gives permission for "I never saw that," which is what keeps a
 reviewer from inventing a middling answer to be polite.
 
-### Workstream Ownership
+### Judgment
 
-1. **What did they own?** Walk me through a piece of work that was theirs end to end. Who
+1. **Was there a point where they asked whether the team was solving the right problem?** What
+   prompted it, and what happened next?
+2. **Think of a recommendation they made, or a conclusion they drew from data.** Did it hold up?
+   Did they say where the evidence was thin? Was there something the client needed to hear that
+   they would not like, and who said it?
+
+*Listening for: whether the framing came from them or was handed to them. Whether conclusions
+stayed inside the evidence. Whether an unwelcome finding was stated plainly or softened away.*
+
+### Ownership
+
+3. **What did they own?** Walk me through a piece of work that was theirs end to end. Who
    decided what the steps were?
-2. **Tell me about a time the work got stuck.** How did you find out? What did they do next?
-3. **When the client changed direction or a deadline moved,** what did they do without being
-   asked?
+4. **Tell me about a time the work got stuck.** How did you find out? What did they do next?
+5. **When the client changed direction or a deadline moved,** what did they do without being
+   asked? If they committed to something in a client meeting, did it happen when they said?
 
 *Listening for: whether the plan came from them or was handed to them. Whether blockers arrived
 early or at the deadline. Whether "not my job" ever appeared in any form.*
 
-### Collaboration
-
-4. **Would you staff them on your next project?** Why, specifically?
-5. **Tell me about a disagreement on the team.** What was their part in it, and how did it end?
-6. **When was the last time they changed their mind because of something a teammate said?** What
-   happened when someone gave them a correction?
-
-*Listening for: whether the disagreement stayed about the work. Whether feedback produced a
-visible change in the next piece of work or just a pleasant nod.*
-
 ### Communication
 
-7. **Think of something they wrote, an update, a memo, a deck.** Could you tell the state of the
+6. **Think of something they wrote, an update, a memo, a deck.** Could you tell the state of the
    work from the first few lines, or did you have to dig? Did you need them in the room for it to
    make sense?
-8. **When something was going badly, how did you hear about it?** From them, from someone else,
+7. **When something was going badly, how did you hear about it?** From them, from someone else,
    or from the result?
 
 *Listening for: answer first versus activity log. Whether bad news traveled at the same speed as
 good news.*
 
-### Client Hands
+### Collaboration
 
+8. **Would you staff them on your next project?** Why, specifically?
 9. **How did the client's trust in them change over the engagement?** What did they do that
    earned it, or cost it? Did the client start coming to them directly?
-10. **Was there a moment the client needed to hear something they would not like?** Who said it,
-    and what happened after?
-11. **Did they ever commit to something in a client meeting?** Did it happen when they said it
-    would?
+10. **Tell me about a disagreement, on the team or with the client.** What was their part in it,
+    and how did it end?
+11. **When was the last time they changed their mind because of something a teammate or the
+    client said?** What happened when someone gave them a correction?
 
-*Listening for: prepared or improvising. Whether the client's interest came ahead of looking
-good. Whether a hard truth was delivered in a way the relationship survived.*
+*Listening for: whether the disagreement stayed about the work. Whether feedback produced a
+visible change in the next piece of work or just a pleasant nod. Whether the client's interest
+came ahead of looking good.*
 
 ### Closing
 
@@ -422,20 +444,23 @@ score, and your self score.**
 
 #### Pass 2. Combine the sources, per axis
 
-Sources are weighted by what they can actually see. The client is heaviest where they are the
-only real witness, peers are heaviest where they are, and faculty is present everywhere as a
-stabilizer.
+Sources are weighted by what they can actually see. Peers see the most of your work, so they
+carry the most weight on every axis, and the most on Ownership, which a client sees least. The
+client is close behind on Communication and Collaboration, where they are the reader and the
+other half of the relationship. Faculty is present everywhere as a stabilizer.
 
 | Axis | Peers | Client | Faculty |
 |---|---|---|---|
-| Workstream Ownership | 50% | 20% | 30% |
-| Collaboration | 60% | none | 40% |
+| Judgment | 40% | 30% | 30% |
+| Ownership | 50% | 20% | 30% |
 | Communication | 40% | 35% | 25% |
-| Client Hands | 25% | 50% | 25% |
+| Collaboration | 40% | 35% | 25% |
 
 **Missing sources are reweighted, not zeroed.** If a client skipped the Ownership question, or
 your engagement stopped after discovery and there is no meaningful client contact, the remaining
 weights scale up proportionally. A student is never penalized for a source that did not exist.
+On a team of one there is no peer on the engagement, so the client and faculty carry every axis
+for that engagement. That is intended.
 
 Your self score is **not** in this calculation. It sits beside the result.
 
@@ -448,8 +473,8 @@ delightful and ships nothing are two versions of the same failure.
 #### The guardrails on the aggregation
 
 **Coverage floor.** An axis with fewer than three independent reviewers is not scored from input
-alone. The professor rates it directly and says so in the development summary. Client Hands on
-a discovery-only engagement is the case this exists for.
+alone. The professor rates it directly and says so in the development summary. The client side
+of Collaboration on a discovery-only engagement is the case this exists for.
 
 **Unsupported extremes are dropped.** A 5, a 1, or a 2 submitted without the required specific
 instance does not enter any average.
@@ -497,9 +522,10 @@ this is the largest single input to it.
 | Below 2.00 | Reviewed individually | |
 
 Read the anchors alongside this table and the standard is plain. **A 3 is a reliable teammate
-who does what is asked**, and it converts at 77%. **A 4 is someone who owns a workstream, makes
-their team better, writes something a stakeholder can act on, and has earned a client's
-trust.** That is the expectation, and it converts at 90%. Above 4.5 is rare on purpose.
+who does what is asked**, and it converts at 77%. **A 4 is someone who reframes the problem when
+the facts call for it, owns a workstream, writes something a stakeholder can act on, and makes
+the team and the client around them better.** That is the expectation, and it converts at 90%.
+Above 4.5 is rare on purpose.
 
 This table does not move. It is published in week 1 so every student knows what an A requires
 before they do any work.
@@ -604,8 +630,8 @@ only at the end is a verdict. A rating delivered at the midpoint is a chance.
    the summary is unresolved.
 3. **Discovery-only engagements.** A team whose client stops after discovery has less client
    contact to be rated on. The coverage floor handles it mechanically, but a semester where the
-   professor personally rates Client Hands for a whole team is a weaker measurement and should
-   be named as such in those summaries.
+   professor personally rates the client side of Collaboration for a whole team is a weaker
+   measurement and should be named as such in those summaries.
 4. **Release dates.** Midterm and final release dates are not yet set on the calendar.
 5. **Whether the coverage data is published back to the cohort.** The per-principle counts
    across a whole cohort are the most interesting thing this system produces and say more about

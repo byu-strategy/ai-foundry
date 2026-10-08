@@ -15,7 +15,7 @@ that matter.
 
 | | Client | Peer |
 |---|---|---|
-| **What they can see** | Two axes clearly, a third sometimes. Never Collaboration | All four, and Collaboration best of all |
+| **What they can see** | All four, from the outside: what reached them and how working with the team felt. Ownership least | All four, from the inside, and Ownership best of all |
 | **What they know about the model** | Nothing, deliberately | Everything. They were taught the anchors in week 1 |
 | **How they can be wrong** | Too little contact, too polite | Reciprocal inflation, friendship, retaliation |
 | **How much we can ask of them** | Five to eight minutes, every 5 weeks | Forty minutes, and they owe it to each other |
@@ -25,9 +25,9 @@ shows the anchors, and spends its design budget on making inflation expensive.
 
 ## The four anti-inflation devices
 
-1. **Anchors are printed next to every rating.** Not adjectives. A 5 on Client Hands says
-   "the client asks for this person by name," which is hard to hand a friend without noticing
-   what you just claimed.
+1. **Anchors are printed next to every rating.** Not adjectives. A 5 on Collaboration says
+   "people ask to work with them again, by name," which is hard to hand a friend without
+   noticing what you just claimed.
 2. **Evidence is required at both extremes.** Any 5 requires a specific instance. Any 1 or 2
    requires a specific instance. Policing only the top would make the form a one-way ratchet
    toward the middle.
@@ -69,17 +69,17 @@ of the [developmentship model](developmentship-model.md).
 Each of the four axes is a 1 to 5 item with the full anchor text printed inline and a
 **Could not observe** option.
 
-**Workstream Ownership.** Whether they drive the work.
+**Judgment.** Whether they solve the right problem and say what the facts support.
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| Solves the problem as handed over, even when it is the wrong one. Conclusions run ahead of the evidence | Sound on the task in front of them, but does not ask whether it is the right task. Reports what the data says, not what it means | Checks that the question is the right one before starting. Conclusions follow from the evidence, and they say where it is thin | Reframes the problem when the facts call for it. Separates what is known from what is assumed; recommendations hold up when tested | The team or client changes direction because of how they framed it. Says what the facts support when it is not what anyone hoped |
+
+**Ownership.** Whether they drive the work.
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
 | Waits to be told. Work stops when the next step is unclear. Blockers surface at the deadline | Does assigned tasks well but does not extend past them. Asks what to do next rather than proposing it | Owns a defined piece and finishes it. Raises blockers early. Still needs the plan handed to them | Owns a workstream end to end. Makes the plan, unblocks themselves, reports what they decided | Owns a workstream and pulls others along. Reprioritizes when the client changes direction, and what comes back is better than what was asked for |
-
-**Collaboration.** Whether people want them on their team.
-
-| 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|
-| Works alone and the team finds out late. Takes feedback as criticism, or agrees and changes nothing | Does their own part, does not look at anyone else's. Applies feedback only where told | Reliable teammate. Reviews others' work when asked, shares context, acts on feedback next time | Makes the people around them better. Asks for feedback before it is offered, and the correction shows in the next piece of work | Raises the standard of the whole team. Handles disagreement without it becoming personal, and changes position publicly when someone else is right |
 
 **Communication.** The artifacts: updates, decks, memos.
 
@@ -87,11 +87,11 @@ Each of the four axes is a 1 to 5 item with the full anchor text printed inline 
 |---|---|---|---|---|
 | Updates are late or absent. The reader has to ask what happened | Reports activity in the order it happened. The reader extracts the point themselves | Answer first, support underneath. Someone reading the first line knows the state of the work | Writes for the specific reader. Names the decision being asked for. The memo holds up without narration | Produces the artifact the team reuses. A senior stakeholder can act on it without a meeting |
 
-**Client Hands.** Client hands: how they work with the client and earn their trust.
+**Collaboration.** Whether the team and the client trust them and want them on the next one.
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
-| Treats the client as an audience. The client hears about problems or slipped commitments from someone else | Responsive when the client reaches out, but only reacts. Leaves the relationship to a teammate or the advisor | Reliable with the client. Keeps commitments, prepared and credible on their own work. The client does not yet bring them problems | Works with the client as a partner. Understands what they need, says early what will not fit. The client comes to them directly | The client asks for this person by name and brings them problems beyond the scope. Surfaces a risk before the client finds it |
+| Works alone; the team and the client find out late. Takes feedback as criticism, or agrees and changes nothing | Does their own part and reacts when asked. Leaves teammates' work and the client relationship to others; applies feedback only where told | Reliable to work with. Keeps commitments to teammates and the client, shares context without being chased, and acts on feedback the next time | Makes the people around them better. Asks for feedback before it is offered, says early what will not fit, and teammates and the client come to them directly | People ask to work with them again, by name. Handles disagreement without it becoming personal, changes position when someone else is right, and surfaces a risk before anyone else finds it |
 
 ### The evidence questions
 
@@ -193,5 +193,5 @@ produced independently.
 | C2, E | Staffing, team design, and conduct. Never a grade input |
 
 **Coverage floor.** An axis with fewer than three independent reviewers is not scored from input
-alone. The professor rates it directly and says so in the development summary. Client Hands
-on a discovery-only engagement is the case this exists for.
+alone. The professor rates it directly and says so in the development summary. The client side
+of Collaboration on a discovery-only engagement is the case this exists for.
