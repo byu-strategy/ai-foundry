@@ -20,15 +20,15 @@ and hand it over without a handoff inside the team.
 | **Design lead** | The UX/UI function, on demand | As needed |
 | **Faculty advisor** | Scott Murff | Oversight |
 
-A standard engagement runs **six weeks with a team of two builders**, 10 hours each per week.
+A standard engagement runs **five weeks with a team of two builders**, 10 hours each per week.
 QC, design, and faculty time ride on top of that. This is why the one rule that never bends is
 that **a builder is on exactly one engagement at a time**. Your ten hours are sold.
 
-Every stint starts with a **tentative roll-off six weeks out**. At that point the team either
+Every stint starts with a **tentative roll-off five weeks out**. At that point the team either
 extends with the client or rolls off and goes back on the board for the next engagement.
 
 **Engagement lead** owns the client relationship: the weekly call, the weekly update, the
-decision log, scope, and escalation. Owns the answer to "does this still fit in six weeks."
+decision log, scope, and escalation. Owns the answer to "does this still fit in five weeks."
 
 **Builders** build. There are no builder roles: both write code, both own the architecture, and
 both are accountable for shipping.
@@ -136,7 +136,7 @@ not many of these, and you will know which ones they are because the brief says 
 ## Discovery Teams
 
 A discovery-only engagement is not a full pod. It is an engagement lead plus one builder, four
-to six weeks, and its job is to find out whether the real project fits in a six-week build.
+to six weeks, and its job is to find out whether the real project fits in a five-week build.
 
 If the build phase then signs, the builder who ran discovery gets first claim on the appointed
 seat without bidding. The context they built is worth more than the scheduling convenience of

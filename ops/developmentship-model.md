@@ -250,7 +250,7 @@ invisible.
   development summary, never word for word.
 - **The professor sees everything as it arrives,** attributed, by source.
 
-Teams are two people and engagements are six weeks, so one engagement alone rarely produces
+Teams are two people and engagements are five weeks, so one engagement alone rarely produces
 three raters. That is why the list and the thresholds run across the whole semester.
 
 ### Three instruments, one question set
