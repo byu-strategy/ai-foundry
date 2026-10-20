@@ -1,0 +1,223 @@
+---
+title: "Sprints"
+author: "Scott Murff"
+date: "10/23/2026"
+format:
+  html: default
+  pdf: default
+---
+
+From Friday, October 23, Foundry work runs in two-week sprints. Every student runs every sprint,
+whether you are staffed on a client engagement, on a studio project, or between the two. Each
+sprint you say what you will do, do it, show it working, and say what happened.
+
+The sprint replaces the weekly update email. Your sprint plan, review, and Loom demo are how
+Professor Murff, your teammates, and the Foundry know what you are working on.
+
+## The fall sprints
+
+| Sprint | Starts | Plan due | Wrap-up and certification due | Certification deliverable |
+|---|---|---|---|---|
+| 1 | Fri, Oct 23 | Mon, Oct 26, 11:59 PM | Fri, Nov 6, 8:00 AM | A Skill or custom command, plus hooks (Claude Code in Action) |
+| 2 | Fri, Nov 6 | Mon, Nov 9, 11:59 PM | Fri, Nov 20, 8:00 AM | An MCP server (Introduction to MCP) |
+| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Fri, Dec 4, 8:00 AM | A written answer to your weakest exam domain, with code (Prep Course) |
+
+A sprint starts and ends at the Friday studio. The Wrap-up is due at 8:00 AM, when studio
+starts, so studio that day can open with demos.
+
+Each sprint is worth 100 points across two Canvas assignments, **Sprint N Plan** (10) and
+**Sprint N Wrap-up** (90). The certification deliverable is a third assignment, worth 20, due at
+the same time as the Wrap-up. See [Grading](01-syllabus.qmd#grading) in the syllabus for how
+these add up.
+
+## Staffed or not, you sprint
+
+Engagement length is set with each client, and engagements start and end on the client's
+schedule. The sprint calendar does not move with them. Whatever you are working on during a
+sprint is what you plan, build, and demo.
+
+| If during the sprint you are | You sprint on |
+|---|---|
+| On a client engagement | Your part of the engagement |
+| On a [studio project](09-studio-projects.qmd) | The studio project |
+| Between engagements | A studio project, or internal Foundry work Professor Murff or a Foundry leader assigns you |
+
+Every plan names at least one person, other than you and Professor Murff, who will use or see
+the work: the client, a user, or a teammate who depends on it. Work with no one at the other end
+is an exercise, and `/sprint-plan` will ask you who that person is.
+
+**When your staffing changes mid-sprint,** run `/sprint-plan` again. It records what changed and
+why, and your work is read against the plan as it stands at the end. Being staffed, unstaffed,
+or moved partway through a sprint costs nothing.
+
+**On a team,** everyone plans, reviews, and demos on their own. Teammates often share a goal.
+Your plan says which part of it is yours, and your Output is graded on that part, with the
+team's result as context.
+
+## What you turn in
+
+| Deliverable | What it is | Where it lives | How you turn it in | When | Points |
+|---|---|---|---|---|--:|
+| **Plan** | What you will do, for whom, your part of it, why, how you will know it is done, and how hard you expect it to be. `/sprint-plan` writes it with you | `sprints/sprint-N-plan.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Plan** on Canvas | The Monday after the sprint starts, 11:59 PM | 10 |
+| **Output** | What you finished this sprint: code, a deployed change, an agent or automation, research, a design, a client deliverable | The client repo, your studio repo, a link, or your demo | Nothing separate. List every place it lives under **Where the work lives** in your README | Wrap-up due date | 50 |
+| **Review** | What `/sprint-review` produces: a report on your sprint, then your answers to its retro questions | `sprints/sprint-N-review.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 20 |
+| **Demo** | 2 to 3 minutes on Loom of your work, working | Loom | Paste the Loom link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 20 |
+
+### Your Foundry repo
+
+Your plans and reviews live in your own repo, made from the
+[builder template](https://github.com/byu-strategy/builder-template), the same template MSB 341
+uses. Name it `<your NetID>_foundry`, keep it private, and add Professor Murff (`sdmurff`) as a
+collaborator. If you also take MSB 341, keep the two repos separate: each course numbers its
+sprints differently.
+
+Your client code does not go in this repo. It stays in the engagement's repo in the
+`ai-foundry-byu` organization, which Professor Murff can already see. Your Foundry repo holds
+your plans, your reviews, and a README that says where the work lives.
+
+The first time you run `/sprint-plan` in the repo, it asks which course the repo is for. Answer
+AI Foundry. We set this up together in studio on October 23.
+
+### The plan
+
+Run `/sprint-plan` on the first day of the sprint. It interviews you and writes
+`sprints/sprint-N-plan.md`:
+
+```markdown
+# Sprint N Plan
+
+**Engagement:** The client, your studio project, or the internal work.
+
+**Teammates:** Who else is working on it, or "Solo."
+
+**Goal:** What will be true in two weeks that is not true now?
+
+**My part:** Which part of the goal is yours.
+
+**Who will see it:** The client, user, or teammate who will use or see the work,
+and what they will see.
+
+**Why this:** Why is this the right next thing?
+
+**Done looks like:** How will you know the goal was met? Specific enough that
+someone else could check.
+
+**Certification:** What you will build for this sprint's certification
+deliverable, and where it will live.
+
+**Predicted difficulty:** 1 to 5.
+```
+
+On time, with every field filled in, earns all 10 points. The plan is graded for completion, and
+your predicted difficulty is not graded. Aim high.
+
+**You can change the plan.** Plans change once you learn something, and on client work they
+change when the client does. Run `/sprint-plan` again during the sprint. It asks what is changing
+and why, updates the plan, adds a dated note, and commits it. There is nothing to resubmit on
+Canvas: your plan link always shows the current file. A change with no note is the one thing to
+avoid, because nobody reading the plan can then tell what you set out to do.
+
+### The review
+
+On or before the Wrap-up due date, run `/sprint-review` in your Foundry repo. It shows you the
+projects you worked in during the sprint and asks which ones belong to this sprint, including the
+client repo. It reads only the projects you confirm, then writes a report: when you worked, where
+you got stuck and how you got unstuck, what took the most time, and which Builder axes your work
+advanced. Nothing leaves your computer except the report.
+
+Then it asks six retro questions:
+
+1. Did you hit the goal? Yes, partly, or no, and why.
+2. What did the client or your users say or do about the work?
+3. What did the report show you that you did not expect?
+4. If the plan changed, why?
+5. Actual difficulty, 1 to 5, and why it differed from what you predicted.
+6. What will you change next sprint?
+
+Answer in your own words. It saves your answers exactly as you write them at the bottom of
+`sprints/sprint-N-review.md`, then commits and pushes the file.
+
+### The demo
+
+Record 2 to 3 minutes on [Loom](https://www.loom.com) of your work, working, with real content.
+No intro and no reflection: the work itself, opened, for most of the video. On a team, show your
+part and say what you did.
+
+| If your sprint was | Your demo shows |
+|---|---|
+| A feature or a deployed change | The feature in use: click through it |
+| An agent, automation, or integration | It running, start to finish, on a real input |
+| An evaluation harness or tests | The tests running and the results they return |
+| Discovery or research | One or two of your notes opened, and what you concluded |
+| A client deliverable (memo, deck, plan) | The deliverable, and the decision it asks the client to make |
+| Design | The interface or designs, clicked or scrolled through |
+
+**Loom only.** A demo on Google Drive, YouTube, or an uploaded file scores 0. Set the Loom to
+"Anyone with the link" or share it with scott.murff@byu.edu. A video Professor Murff cannot open
+is not graded until it is shared.
+
+**Client confidentiality.** Loom is an outside service. If your engagement's confidentiality
+terms do not allow recording the client's data, demo the same work on sample or fake data, and
+say so at the start of the video. If you are not sure what your client allows, ask Professor
+Murff before you record.
+
+Keep real names, emails, and phone numbers off the screen.
+
+### The Wrap-up
+
+Submit two links in **Sprint N Wrap-up** on Canvas: your review file on GitHub and your Loom.
+Before you do, make sure the **Where the work lives** section of your README lists every repo,
+deployed app, and document someone needs to check your output.
+
+## Grading rubric
+
+| Category | Points | What earns full marks |
+|---|--:|---|
+| **Plan** | 10 | Its GitHub link submitted on Canvas by the Monday deadline, with every field filled in. Graded for completion |
+| **Output** | 50 | Your part of the goal, real, finished, and checkable. Read against your plan as it stands at the end, and, from Sprint 2 on, weighed by how hard the work was for you. A goal that needs someone else's yes is graded on the asks you made |
+| **Review** | 20 | Report committed, with your retro answering all six questions and responding to something specific in the report |
+| **Demo** | 20 | 2 to 3 minutes on Loom of your work, working, with real or clearly labeled sample content, viewable by Professor Murff |
+
+**Output on client work.** A client engagement does not always produce something new every two
+weeks: a client goes quiet, a data export is late, a decision waits on their meeting. Output is
+read against what was in your control. Record what you were waiting on, when you asked, and what
+you did meanwhile, and that work is graded as output.
+
+**Goals that need someone else to say yes.** A client sign-off, a user agreeing to test, a
+meeting booked: you control the asks, not the answers. For these goals, Output is graded on the
+asks you made and can show: who you asked, when, what you asked for, and what they said. A no or
+a "not yet" costs no points when the ask is on record and your retro says what you learned.
+
+**Demo length.** A demo up to 3:30 loses no points. From Sprint 2, each started 30 seconds past
+3:30 costs 1 point (3:31 to 4:00 is minus 1, 4:01 to 4:30 minus 2, and so on).
+
+**Late work.** Canvas applies the late penalty: 10% per day, up to 9 days. Graders never deduct
+for lateness themselves.
+
+## The certification deliverable
+
+Each fall sprint carries one course from the [certification track](08-certification.qmd) and the
+thing that course has you build. It is its own Canvas assignment, **Certification:
+&lt;course&gt;**, worth 20 points and due with the Wrap-up.
+
+| Part | Points | What earns full marks |
+|---|--:|---|
+| **Certificate** | 5 | The course's certificate of completion from the Anthropic Academy, as a PDF or screenshot |
+| **Working deliverable** | 15 | The deliverable in a repo, used in your real work (client engagement or studio project), and shown working in your sprint demo or a separate Loom of up to 2 minutes |
+
+Build the deliverable into the sprint's work where you can. A Skill your team uses on the client
+repo counts as both sprint output and the certification deliverable.
+
+If you finished Building with the Claude API and built its evaluation harness this fall, you may
+submit the harness in place of any one of the three deliverables. Say so in that sprint's plan.
+
+## Your sprint feedback
+
+After each sprint is graded, your score appears in Canvas, and your sprint report appears on the
+**Builder** tab of your profile in the Foundry app, [aifoundry.byu.edu/app](https://aifoundry.byu.edu/app).
+The report shows how each category was scored, what your work showed on the Builder axes, and
+what to do next sprint.
+
+**Questions about your sprint feedback:** reply to the Canvas comment your score came with,
+saying which part of the report you mean and what you think was missed. Professor Murff reads
+every reply.

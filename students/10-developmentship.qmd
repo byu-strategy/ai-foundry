@@ -7,6 +7,13 @@ format:
   pdf: default
 ---
 
+::: {.callout-note}
+**Fall 2026.** This page is being revised for the fall round. In fall, colleague and client
+feedback is worth 140 of 500 points, and the round runs November 20 to December 14. The fall
+version of this page, with the conversion table set to 140 points, is published before
+November 20. See [Grading](01-syllabus.qmd#grading).
+:::
+
 Developmentship is the individual instrument in this course and the largest single component of
 your grade, worth 180 of 500 points. This page is the whole model: what it measures, who rates
 you, how several reviewers become one number, and how that number becomes points.

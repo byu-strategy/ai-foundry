@@ -21,6 +21,7 @@ book:
     - part: The Course
       chapters:
         - students/01-syllabus.qmd
+        - students/11-sprints.qmd
         - students/02-getting-started.qmd
         - students/08-certification.qmd
         - students/09-studio-projects.qmd

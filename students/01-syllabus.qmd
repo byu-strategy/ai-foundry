@@ -35,8 +35,8 @@ and uses Canvas as the LMS. Register under whichever number fits your program.
 | STRAT 490R | 001 | Topics in Strategic Management | 3.0 |
 
 ::: {.callout-note}
-**Canvas** is used only for submitting milestone deliverables and your final video reflection,
-and for reviewing grades. All other course content lives on this website.
+**Canvas** is used for submitting sprint plans, sprint Wrap-ups, and certification
+deliverables, and for grades. All other course content lives on this website.
 :::
 
 ## Description
@@ -86,7 +86,7 @@ this year.
 - **Claude access.** You will have a Claude plan for Foundry work, either provided on the
   Foundry's Claude Enterprise account or reimbursed if you hold your own. The specific plan and
   the mechanism are set each term and communicated before it begins.
-- **LMS.** Canvas, for milestone submissions, the video reflection, and grades.
+- **LMS.** Canvas, for sprint and certification submissions, and grades.
 - **Other AI tools.** Anything else you want to use is yours to arrange.
 
 All readings and reference material are on this website at no cost.
@@ -155,163 +155,71 @@ underperform.
 
 ## Schedule
 
-Engagements start on a rolling basis, so this course has no fixed course-wide calendar. Your
-team's phase boundaries and milestone dates are set at kick-off and posted in Canvas. The
-certification track runs on a common schedule across the cohort; see
-[The Certification Track](08-certification.qmd).
+Engagements start on a rolling basis, and each client sets its own length and dates with the
+team at kick-off. The course itself runs on a common calendar of two-week
+[sprints](11-sprints.qmd), the same for every student, with one certification deliverable due
+each sprint.
 
 ## Grading
 
-### Grade Components (500 points possible)
+Fall and winter are graded separately. This is the fall grade. It replaced the original
+500-point plan on October 23, when the course moved to [two-week sprints](11-sprints.qmd).
+Winter's grade is published before winter starts, and adds the client evaluation and the video
+reflection.
 
-| Component | Points | Weight | Level |
-|-----------|--------|--------|-------|
-| Weekly Update Emails | 56 pts | 11% | Individual |
-| Milestone Deliverables | 160 pts | 32% | Team |
-| Client Evaluation | 64 pts | 13% | Team |
-| Developmentship | 180 pts | 36% | Individual |
-| Video Reflection | 40 pts | 8% | Individual |
-| **Base Total** | **500 pts** | 100% | |
-| Extra Credit (BYU Student Ratings) | 10 pts | +2% | |
+Developmentship is how the Foundry develops its members, and every part of this grade feeds it.
+Your sprints show what you can build, on the six Builder axes. Feedback from colleagues and
+clients shows how you work, on the four Consultant axes. See
+[The Builder and the Consultant](06-builder-and-consultant.qmd).
 
-Two components grade the **product and the pod**: milestones and the evaluation of the team, 224
-points between them. Three grade **you**: your updates, your developmentship composite, and your
-reflection, 276 points. A pod's strong results cannot earn an A for a member who contributed little,
-and a strong individual on a struggling pod keeps the 276 individual points they earn.
+### Fall grade (500 points)
 
-### Weekly Update Emails (56 points)
+| Component | Points | Weight |
+|-----------|--------|--------|
+| [Sprints](11-sprints.qmd), 3 × 100 | 300 pts | 60% |
+| Colleague and client feedback | 140 pts | 28% |
+| [Certification deliverables](11-sprints.qmd#the-certification-deliverable), 3 × 20 | 60 pts | 12% |
+| **Total** | **500 pts** | 100% |
+| Extra credit: BYU student ratings | 10 pts | |
+| Extra credit: weekly updates sent before sprints began | 2 pts each | |
 
-Every Saturday you send an individual end-of-week update to **aifoundry@byu.edu**, CC your client
-lead: what you accomplished, what you are doing next week, and anything blocking you. 28 emails
-across two semesters, 2 points each.
+Every component is individual. Teammates often share a goal, and each of you is graded on your
+own part of it.
 
-| Status | Points |
-|--------|--------|
-| On time (Saturday by 11:59 PM) | 2 pts |
-| Late (by Monday 8:00 AM) | 1 pt |
-| After Monday 8:00 AM | 0 pts |
+### Sprints (300 points)
 
-This component scores **compliance only**: whether the update arrived, on time. Whether it was
-any good is graded on the Communication axis of your developmentship composite, from the same
-emails, by the people who had to read them. Format, examples, and the distinction from the team's
-client update are in [Weekly Updates](03-weekly-updates.qmd).
+Three two-week sprints, 100 points each: Plan 10, Output 50, Review 20, Demo 20. Every student
+runs every sprint, staffed on a client engagement or not. The calendar, the deliverables, and the
+rubric are on the [Sprints](11-sprints.qmd) page.
 
-### Milestone Deliverables (160 points)
+### Colleague and client feedback (140 points)
 
-Four milestones, 40 points each, graded by the faculty advisor against the
-[Build Standards](04-build-standards.qmd), not by the client.
+Your colleagues and your clients rate you on the four Consultant axes: Judgment, Ownership,
+Communication, and Collaboration, against the written anchors in
+[The Developmentship Model](10-developmentship.qmd). The fall round runs from November 20 to
+December 14. The fall version of that page, with its conversion table set to 140 points, is
+published before November 20.
 
-| Milestone | What is due |
-|-----------|-------------|
-| **D: Discovery** | An AI-specific audit of the organization. Where AI actually helps, what is worth building, what is worth automating, with an estimate and a sequence |
-| **B1: Working build** | Software that runs, integrated with real systems or a realistic stand-in, with the architecture documented |
-| **B2: Shipped** | Production code running in the client's environment. Tested, deployed, monitored |
-| **T: Transfer** | Handoff documentation, a walkthrough with their own people, and a repository they can run without us |
+Your self-assessment is collected first and is never part of your score. You see it as an
+outline over what everyone else saw, so you can compare the two.
 
-Each milestone is scored on four dimensions, 10 points each: **Correctness**, **Usefulness**,
-**Explainability**, and **Craft**. The full rubric is in
-[Build Standards](04-build-standards.qmd).
+### Certification deliverables (60 points)
 
-Due dates are set per engagement at kick-off and posted in Canvas. Teams on a discovery-only
-engagement complete D and a scaled transfer. Studio projects run the same four milestones, scaled
-to one or two builders.
+One per sprint, 20 points each: the course certificate (5) and a working deliverable used in your
+real work (15). See [The certification deliverable](11-sprints.qmd#the-certification-deliverable).
+Sitting the exam itself is optional; see [The Certification Track](08-certification.qmd).
 
-### Client Evaluation (64 points)
+### Extra credit
 
-Your client evaluates the **team** twice: at mid-term for development only, and at the end of the
-year as an input to your grade. Five dimensions, 1 to 5, each with written behavioral
-descriptions the client rates against.
-
-| Dimension | The question the client answers |
-|-----------|----------------------------------|
-| Timeliness | Did the team deliver what they promised, when they promised it? |
-| Communication | Could you tell where the work stood without having to ask? |
-| Agency | Did the team move the work forward on its own? |
-| Technical Competency | Did they build something that actually works? |
-| Contribution | Was the output worth the engagement? |
-
-The five dimensions are averaged, and the average converts to points:
-
-| Team average | Points |
-|--------------|--------|
-| 4.75 to 5.00 | 64 |
-| 4.50 to 4.74 | 62 |
-| 4.25 to 4.49 | 60 |
-| 4.00 to 4.24 | 58 |
-| 3.75 to 3.99 | 55 |
-| 3.50 to 3.74 | 53 |
-| 3.25 to 3.49 | 51 |
-| 3.00 to 3.24 | 49 |
-| 2.75 to 2.99 | 47 |
-| 2.50 to 2.74 | 45 |
-| 2.00 to 2.49 | 40 |
-| Below 2.00 | Reviewed individually |
-
-**This score is the same for everyone on the pod.** The client also answers a short set of
-questions about each of you individually, and those feed your developmentship composite rather
-than this component.
-
-On a studio project, your users answer the same five questions in place of a client.
-
-### Developmentship (180 points)
-
-The individual instrument, and the largest single component of your grade. It scores the four
-Consultant axes: Judgment, Ownership, Communication, and Collaboration, rated by peers,
-clients, and faculty against written behavioral anchors.
-
-The anchors, the three surveys, the weighting, the conversion table, the grade caps, and the
-timeline are all set out in [The Developmentship Model](10-developmentship.qmd). Read it in week
-1. Nothing in it is a surprise later.
-
-### Video Reflection (40 points)
-
-Every other component measures your work. The video reflection asks what you did with those
-measurements.
-
-**Due:** one week after end-of-year feedback is released.
-**Submission:** record 2 to 4 minutes. Upload to YouTube (unlisted) or Loom and submit the link
-via Canvas.
-
-Before you record, re-read three things: your own self-assessment from before the round, your
-development summary, and your calibration gap.
-
-**Prompt.** Four questions.
-
-1. **Your prediction.** Before the round you named the axis you expected to rate highest, the one
-   you expected to rate lowest, and the criticism you expected to see. Were you right? Where were
-   you off, and why?
-2. **The hardest piece of feedback.** Quote one specific thing a reviewer or your client said. Do
-   you agree with it? What are you doing about it?
-3. **The gap.** Your composite and your self-rating differ. Account for the difference. If they
-   matched closely, say what you got right about reading yourself.
-4. **Next time.** If you restarted this engagement knowing what you know now, what would you do
-   differently?
-
-Keep it conversational. I am looking for honest self-assessment, not polish. A reflection that
-admits a mistake and says what changes is worth more than one that explains why every criticism was
-situational.
-
-| Criteria | Excellent (10) | Good (7) | Adequate (4) | Weak (0-2) |
-|----------|----------------|----------|--------------|------------|
-| **Calibration** | Engages the gap between prediction and result directly, and explains it | Notices the gap, explains it thinly | Mentions the gap in passing | Ignores it, or disputes the data instead of engaging it |
-| **Engages feedback** | Quotes specific client and peer comments and responds to them | Acknowledges feedback generally | Mentions feedback in passing | Ignores or dismisses |
-| **Growth mindset** | Concrete plan tied to a named axis | General intentions | Minimal forward-looking | No reflection on change |
-| **Clarity** | Organized, right length, professional | Minor issues | Rambling or too brief | Unprepared or inappropriate |
-
-::: {.callout-note}
-Disagreeing with your feedback is allowed and is sometimes correct. What is graded is whether you
-engage the evidence behind it. "Three people independently said this and I think they are reading
-one incident wrong, here is why" is a strong answer. "I disagree" is not.
-:::
-
-### Extra Credit (10 points)
-
-Complete the BYU end-of-semester student ratings survey to earn 10 extra credit points.
+- **Student ratings (10 points).** Complete the BYU end-of-semester student ratings survey.
+- **Weekly updates (2 points each).** Weekly update emails ended with the week of October 12, and
+  none of them cost points. Each update you sent for the weeks of September 14 through October 12
+  earns 2 extra credit points.
 
 ### Late Work Policy
 
-Milestone deliverables and the video reflection are accepted up to 9 days late with a 10% penalty
-per day.
+Sprint plans, Wrap-ups, and certification deliverables are accepted up to 9 days late with a 10%
+penalty per day. Canvas applies the penalty.
 
 | Days Late | Penalty |
 |-----------|---------|
@@ -320,12 +228,10 @@ per day.
 | 7-9 | -70% to -90% |
 | 10+ | No credit |
 
-Weekly update emails run on their own schedule, above.
-
-A milestone that is going to slip must be raised with the faculty advisor and the client
-**before** the due date, not after. A slip that is flagged early and rescheduled with the client
-is a scheduling decision. A slip discovered on the due date is a broken commitment, and it is
-graded as one.
+Client deadlines are a separate matter. A client deliverable that is going to slip must be raised
+with Professor Murff and the client **before** the due date. A slip flagged early and rescheduled
+with the client is a scheduling decision. A slip discovered on the due date is a broken
+commitment, and colleague and client feedback will reflect it.
 
 ### Grading Scale
 
@@ -368,7 +274,7 @@ In roughly this order:
 - Email or Teams the TAs
 - Email or Teams Professor Murff, or come to office hours
 
-Raise blockers within 48 hours. Not at the weekly call, and not at the milestone review.
+Raise blockers within 48 hours. Not at the weekly call, and not at the end of the sprint.
 
 ## Confidentiality and Client Data
 
@@ -396,8 +302,8 @@ that come with it:
 - **Every deliverable must be explainable.** If you cannot walk the client through why the model
   recommends what it recommends, it is not done.
 - **Client data goes only into approved tools.** See the confidentiality section above.
-- **Disclose your method.** Milestone documentation should say what tools and models you
-  used and how you validated the output.
+- **Disclose your method.** Project documentation and your sprint reviews should say what tools
+  and models you used and how you validated the output.
 
 ## Instructor Bio
 
