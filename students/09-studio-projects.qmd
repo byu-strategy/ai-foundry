@@ -1,0 +1,111 @@
+# Studio Projects
+
+Not every builder is on a client engagement at any given moment, and that is a matter of
+arithmetic rather than merit. The Foundry runs six concurrent engagements at capacity. Each pod
+seats two builders. That is twelve client seats against a cohort of thirty.
+
+If you are not staffed, you are on a **studio project**. It is the same work held to the same
+standard, without a client paying for it.
+
+## This is not a holding pattern
+
+A studio project is a real product with real users, built to the
+[Build Standards](04-build-standards.qmd) that govern client work. It ships. It gets reviewed at
+the same milestones. The only thing it lacks is an invoice.
+
+Three reasons it matters more than it sounds.
+
+**It is how you get staffed.** The matching rule gates eligibility on your archetype ratings, and
+ratings move when you ship, not when you study. A 1 becomes a 2 the first time you build
+something real in that archetype. Shipping a studio project in an archetype where you are weak is
+the fastest route onto the client engagement you actually want.
+
+**It is how the Foundry stays able to sign work.** Rule 4 of the matching rule, the two-deep rule,
+requires a second builder rated 3 in the primary archetype sitting on the bench. Without that
+depth we cannot sign a build phase at all. Studio projects are where the bench gets deep enough
+to say yes to a client.
+
+**It is the lab for your certification.** Client work is unpredictable and will not exercise
+every skill on a schedule. A studio project is yours to shape, so you can deliberately build the
+thing the [certification track](08-certification.qmd) asks for: an evaluation harness, an MCP
+server, a Skill your team uses.
+
+## Shape
+
+| | |
+|---|---|
+| **Team** | Solo or a pair. No larger |
+| **Hours** | The same 10 per week that a client engagement would take |
+| **Duration** | One semester, extendable to two if it is going somewhere |
+| **Surface** | One product surface. The same rule that governs client engagements |
+| **Users** | At least three real people who are not in the Foundry, using it for their own reasons |
+
+The user requirement is the one that makes this real. A project nobody uses is an exercise. Find
+the three users before you start building, not after.
+
+## What qualifies
+
+A studio project has to be something a client could plausibly have paid for. In practice that
+means it clears three bars:
+
+- **It solves someone's actual problem.** Not a demo, not a tutorial reimplementation, not a
+  wrapper around a model with no user in mind.
+- **It uses Claude as material, not decoration.** The API, an agentic loop, an MCP integration,
+  or all three. If removing the AI leaves the product intact, pick something else.
+- **It runs somewhere other than your laptop.** Deployed, reachable, and running when you are
+  asleep.
+
+Faculty approves the brief in the first two weeks of the semester. Bring a one-page description
+of the problem, the three users, the archetype it exercises, and what shipping looks like.
+
+## Milestones
+
+Studio projects run the same four milestones as client engagements, scaled to one or two
+builders, and graded on the same four dimensions: correctness, usefulness, explainability, and
+craft.
+
+| Milestone | What is due |
+|-----------|-------------|
+| **D: Discovery** | The problem, the three users and what you learned from them, what you will build, and what you will not |
+| **B1: Working build** | Software that runs, with the architecture documented |
+| **B2: Shipped** | Deployed, reachable, tested, and in front of your users |
+| **T: Transfer** | Documentation good enough for someone else to run it, and a decision about what happens to it next |
+
+Transfer is not a formality. At T you decide whether the project gets handed to another builder,
+opened up, folded into a Foundry engagement, or shut down honestly. Shutting something down and
+saying why is a passing answer.
+
+## How it is graded
+
+Studio projects carry the same weight as client work. The milestone component is identical. The
+one component that has no direct analog is the client's evaluation, so it is replaced.
+
+| Component | Client engagement | Studio project |
+|-----------|-------------------|----------------|
+| Milestone deliverables | Graded by faculty against the Build Standards | Identical |
+| Client evaluation | Your client rates the team on five dimensions | **Your users** rate the product on the same five dimensions |
+| Weekly update emails | Identical | Identical |
+| Developmentship | Identical | Identical |
+| Video reflection | Identical | Identical |
+
+Your three users answer the same questionnaire the client answers: timeliness, communication,
+agency, technical competency, and contribution. If you cannot get three users to answer five
+questions, that is information about the project.
+
+::: {.callout-note}
+A studio project is not worth fewer points than a client engagement, and being unstaffed is not
+a grade penalty. The Foundry cannot seat everyone on a client, and it would be dishonest to
+build a course that quietly punishes you for that.
+:::
+
+## Getting staffed from here
+
+Points keep accruing while you are on a studio project, capped at 300, exactly as they would
+otherwise. Nothing about being on a studio project costs you standing in the auction.
+
+If a new engagement signs and its primary archetype matches what you just shipped, say so.
+Faculty calibrates archetype ratings, and a shipped studio project is the strongest evidence
+available that a rating should move.
+
+The path is short and it is the one the Foundry actually wants you to walk: ship something, raise
+the rating, clear the fit gate, win the seat.

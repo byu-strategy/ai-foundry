@@ -124,8 +124,8 @@ Introduced on the site in `index.qmd`, `students/01-syllabus.qmd`, and
 | # | Item | Status | Why it matters |
 |---|------|--------|----------------|
 | 11 | **Builder axes** | Six, settled: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, Launch and Learn | 50-item self-report instrument is live and has one cohort of responses |
-| 12 | **Consultant axes** | Four, settled: Workstream Ownership, Client Presence, Communication, Collaboration. Derived from the Four Imperatives in STRAT 325 | Behavioral anchors drafted for Workstream Ownership only. The other three are not written yet |
-| 13 | **Consultant rating mechanics** | Proposed: faculty plus teammates, midterm and end of term, 1 to 5 with written anchors | Syllabus says it feeds Client Evaluation and Peer / Team Evaluation without adding points. Untested |
+| 12 | **Consultant axes** | Four, settled 2026-10-08: Judgment, Ownership, Communication, Collaboration. Derived from the Four Imperatives in STRAT 325: Judgment from Think Clearly and Get to the Right Answer, Ownership from Move Work Forward, Communication and Collaboration from Create Impact with People (understand and trust). Replaced Workstream Ownership, Client Hands, Communication, Collaboration, whose three people axes overlapped and which left Judgment out; the client relationship moved into Collaboration, and clients rate all four | Anchors written for all four, in `ops/developmentship-model.md` |
+| 13 | **Consultant rating mechanics** | Proposed: faculty, teammates, and clients, midterm and end of term, 1 to 5 with written anchors | Syllabus says it feeds Client Evaluation and Peer / Team Evaluation without adding points. Untested |
 | 14 | **Tiers: Shadow, Contribute, Own** | Proposed | Replaces the earlier idea of a hard prerequisite. Not yet reflected in the milestone rubric, which assumes everyone ships |
 | 15 | **Prerequisite removed** | Settled. `index.qmd` no longer says students typically complete MSB 341 first | Two classes run in parallel. Readiness affects staffing, not enrollment |
 | 16 | **Baseline survey cadence** | Proposed: September and December | December re-run has not happened. Comparison claim is untested |
@@ -204,7 +204,61 @@ conversation will be easy to have and expensive to skip.
 | 17 | **Prerequisite** | Steady state: Build, IS 693R / MSB 341, is required, offered fall and winter. Exceptions granted for 2026-2027 only | Site now states it as policy with a footnote. Confirm the catalog can carry it, or that instructor consent is the mechanism |
 | 18 | **Three pathways for 2026-2027** | Published from Scott's 2026-08-12 email to the cohort | Option 2 asks students to carry both classes at once. No one has done that yet |
 | 19 | **Student hours** | Published as 10 hours per week | Same as open item 6. Now student-facing, so it is harder to walk back |
-| 20 | **Stipend** | Published as: applied to the student account, follows a funded engagement, not employment, intended to also cover AI subscription costs. No amounts published | Mechanism, timing, and who administers it are unresolved. Ties to open item 3, where the money goes |
-| 21 | **AI subscriptions** | Students carry their own. The Foundry does not provide seats | Sets a real cost of participation. Confirm this is what you want before students enroll |
-| 22 | **Constitution on the site** | Full text published at `students/00-constitution.qmd` | Living version stays the team Google Doc. The site copy will drift unless someone re-syncs it |
+| 20 | ~~Stipend~~ | **Reversed 2026-09-03. No stipend or compensation is promised anywhere.** All stipend language, the revenue waterfall, and the utilization model are removed from the syllabus, `06-builder-and-consultant.qmd`, and the welcome letter | The only money statement that remains is Claude plan coverage, below. Open item 3, where the money goes, is now internal only |
+| 21 | ~~AI subscriptions~~ | **Reversed 2026-09-03. The Foundry covers a Claude plan**, either on the Foundry's Claude Enterprise account or by reimbursing a plan the student holds. No tier is named and no dollar figure is published; the plan and mechanism are set each term | Removes the cost-of-participation barrier. Confirm the Enterprise account can carry the seats before the term begins |
+| 22 | ~~Constitution on the site~~ | **Resolved 2026-09-02. The published page is the binding version.** The Google Doc was an interim step to gather feedback and that feedback is now in. Amendments go through the faculty advisor, who updates the page | Members sign against this page in the welcome letter, so drift is now a contract question rather than a tidiness one |
 
+
+## Added 2026-08-31: the three-track curriculum and the Developer certification
+
+Scott's framing: the curriculum is three things. Actual client work, the Claude Developer
+certification, and building your own project if you are not staffed. Two new pages implement it,
+`students/08-certification.qmd` and `students/09-studio-projects.qmd`, both added to `_quarto.yml`
+under "The Course".
+
+### Why Developer, Foundations and not Architect
+
+BYU is already a Claude Partner Network member. Three of Anthropic's four certifications count
+toward network tier eligibility. Associate does not, and Anthropic states that on the
+certification card itself.
+
+Developer, Foundations is the efficient choice: $125, same tier value as Architect Foundations,
+but four prep courses instead of seven. Anthropic's own role framing describes it as being for
+"engineers who build with the Claude API, Claude Code, and Model Context Protocol", which is the
+builder role exactly.
+
+Target is **ten passes per year, every year**. Ten active certified individuals is one of the
+three gates for Select tier, alongside two joint customers deployed in production in a trailing
+twelve months and one public customer story. Certifications expire after 12 months, so the ten is
+a standing annual target, not a one-time push.
+
+### The staffing arithmetic that forced track three
+
+Six concurrent engagements at capacity, two builder seats per pod, is twelve client seats against
+thirty builders. Roughly sixty percent of the cohort is unstaffed at any time.
+
+This means the guardrail in `students/05-how-teams-are-staffed.qmd`, "Nobody sits out a semester.
+If you have zero engagements by the midpoint of the term, you get a directed placement into the
+next opening", cannot be kept. There are not enough openings. Studio projects are the honest
+answer, and that page now carries the arithmetic openly rather than promising placements that do
+not exist. **The guardrail text in 05 still needs rewriting to match.**
+
+### Open, and blocking a publish
+
+| # | Item | Status | Why it matters |
+|---|------|--------|----------------|
+| 23 | **Syllabus does not reflect either new page** | Open | The 500-point table, the Milestone Deliverables section, and the Client Evaluation section all assume every student is on a client engagement. 224 of 500 points are unearnable by an unstaffed builder as currently written |
+| 24 | **User evaluation replaces client evaluation for studio projects** | Proposed | Three real users answer the same five-dimension questionnaire the client answers. Untested, and the response rate is the obvious risk |
+| 25 | **Exam is extra credit, prep is required** | Proposed | The four courses are free and inside our control, so they are required coursework. The sitting depends on Pearson scheduling and Anthropic pricing, so it does not gate a grade |
+| 26 | **Who pays the $125** | Unresolved | Ten passes needs more than ten sittings. Budget roughly 15 at $125, about $1,875 in year one. The 50% partner discount only arrives at Select, which is the thing the sittings are meant to earn, so year one is full price. Ties to open item 3 |
+| 27 | **Do student `@byu.edu` addresses clear exam registration?** | Untested | Registration requires "a partner email address on a recognized company domain". This is the single assumption the whole track rests on. Test with one student before scheduling a cohort |
+| 28 | **Can an academic program be listed in the partner directory?** | Unknown | All 78 listed partners are commercial consultancies or systems integrators. No university appears anywhere in the directory |
+| 29 | **Does a Foundry engagement count as a "joint customer deployed in production"?** | Unknown | The phrasing suggests a deployment made jointly with Anthropic. A student build for a paying client may not qualify |
+| 30 | **Public customer story** | Open, and time-sensitive | One published story is a Select gate. Foundry policy is that nothing goes public without written client permission and that IP belongs to the client, so a public reference has to be negotiated at signing. Breckenridge is already underway, so that conversation happens separately and soon |
+
+### Sourcing note
+
+Exam specifications, the list of qualifying certifications, tier thresholds, policies, and prep
+course lists are all confirmed on Anthropic's own pages. Several third-party prep sites publish a
+five-domain blueprint with percentage weights for Architect Foundations that conflicts with
+Anthropic's own description of that exam. Do not plan curriculum against those weights.

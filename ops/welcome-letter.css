@@ -1,0 +1,108 @@
+@page {
+  size: Letter;
+  margin: 0.72in 0.9in 0.6in;
+  @bottom-center {
+    content: "AI Foundry Welcome Letter  ·  Page " counter(page) " of " counter(pages);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.06em;
+    color: #8b95a1;
+  }
+}
+
+:root { --navy: #002E5D; --ink: #1b1f24; --muted: #5f6b78; --rule: #dfe4ea; }
+
+body {
+  font-family: Charter, "Iowan Old Style", Georgia, serif;
+  font-size: 9.9pt;
+  line-height: 1.42;
+  color: var(--ink);
+  margin: 0;
+  hyphens: none;
+}
+
+p { margin: 0 0 0.52em; }
+strong { color: var(--navy); font-weight: 700; }
+a { color: var(--navy); text-decoration: none; overflow-wrap: anywhere; }
+
+/* Masthead */
+.kicker {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8pt; font-weight: 600;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 10px;
+}
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 24pt; font-weight: 700; letter-spacing: -0.012em;
+  color: var(--navy);
+  margin: 0 0 6px; line-height: 1.1;
+}
+.subtitle {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.5pt; color: var(--muted); margin: 0 0 4px;
+}
+hr { border: 0; border-top: 2.5px solid var(--navy); margin: 12px 0 15px; }
+
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.5pt; font-weight: 700;
+  letter-spacing: 0.13em; text-transform: uppercase;
+  color: var(--navy);
+  margin: 15px 0 8px; padding-bottom: 4px;
+  border-bottom: 1px solid var(--rule);
+  break-after: avoid;
+}
+
+/* Numbered commitments */
+ol { counter-reset: item; list-style: none; padding: 0; margin: 0; }
+ol > li {
+  counter-increment: item;
+  position: relative;
+  padding-left: 26px;
+  margin-bottom: 7px;
+  break-inside: avoid;
+}
+ol > li::before {
+  content: counter(item);
+  position: absolute; left: 0; top: 0.08em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.5pt; font-weight: 700;
+  color: #fff; background: var(--navy);
+  width: 16px; height: 16px; border-radius: 50%;
+  text-align: center; line-height: 16px;
+}
+
+ul { padding-left: 17px; margin: 0 0 0.6em; }
+ul li { margin-bottom: 6px; break-inside: avoid; }
+ul li::marker { color: var(--navy); }
+
+/* Reference links under a commitment */
+.ref {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8.2pt; color: var(--muted); line-height: 1.45;
+}
+.ref a { color: var(--muted); }
+
+/* Tables */
+table { width: 100%; border-collapse: collapse; margin: 4px 0 12px; break-inside: avoid; }
+th {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8pt; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--navy); text-align: left;
+  padding: 0 10px 5px 0; border-bottom: 1.5px solid var(--navy);
+}
+td { padding: 5px 10px 5px 0; border-bottom: 1px solid var(--rule); font-size: 9.6pt; }
+
+/* Signature block */
+.ack { break-inside: avoid; }
+.sig { margin-top: 14px; break-inside: avoid; }
+.sig-row { display: flex; align-items: flex-end; gap: 14px; margin-bottom: 19px; }
+.sig-label {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 8pt; font-weight: 600; letter-spacing: 0.09em; text-transform: uppercase;
+  color: var(--muted); width: 155px; flex: none; padding-bottom: 3px;
+}
+.sig-line { flex: 1; border-bottom: 1px solid #9aa4b0; height: 20px; }
+.sig-line.short { flex: 0 0 210px; }

@@ -1,0 +1,122 @@
+# The Certification Track
+
+Every builder in the Foundry works toward the **Claude Certified Developer, Foundations**
+credential. The preparation is coursework. The exam is optional.
+
+This is the one part of the year that every builder does, whether you are staffed on a client
+engagement or building your own product. Client work is unpredictable and does not exercise
+every skill on schedule. This track does.
+
+## Why this certification
+
+The Foundry is a member of the Claude Partner Network. Three of Anthropic's four certifications
+count toward the network's tier requirements, and Developer, Foundations is the one written for
+the work our builders actually do: engineers who build with the Claude API, Claude Code, and
+Model Context Protocol, from first integration to production agents.
+
+It is also the most efficient of the three. Same price as Architect, Foundations, same value
+toward the Foundry's standing, and four courses of preparation instead of seven.
+
+| | |
+|---|---|
+| **Exam** | Claude Certified Developer, Foundations |
+| **Cost** | $125. The Foundry intends to cover the exam fee; arrangements are confirmed before you register |
+| **Format** | Multiple choice and scenario-based multiple response, 120 minutes |
+| **Delivery** | Online proctored, or a Pearson test center |
+| **Validity** | 12 months, renewable free with an open-book assessment |
+| **Retakes** | 14 days after a first failure, 30 after a second, 90 after a third |
+| **Preparation** | Four courses, all free on the Anthropic Partner Academy |
+
+Registration requires a Foundry email address. Personal addresses will not work. Sitting the
+exam requires a valid, unexpired government-issued ID whose name matches your registration.
+
+## The four courses
+
+All four are free. Take them in this order.
+
+| # | Course | Level | What it covers |
+|---|--------|-------|----------------|
+| 1 | Building with the Claude API | 100 to 200 | Authentication, prompt engineering, evaluations, tool use, RAG, agents, production patterns |
+| 2 | Claude Code in Action | 200 | Context management, hooks, custom commands, the Agent SDK |
+| 3 | Introduction to Model Context Protocol | 200 | Building MCP servers and clients in Python. Tools, resources, and prompts |
+| 4 | Claude Certified Developer, Foundations Prep Course | n/a | The exam-specific review, built for this certification |
+
+Courses 1 and 3 also appear on the Architect tracks, so nothing here is wasted if you later
+sit a different exam.
+
+## Every course ships something
+
+You are not watching videos for a badge. Each course carries a deliverable that goes into the
+work you are already doing, client engagement or studio project. The deliverable is what gets
+reviewed at studio, not your course completion percentage.
+
+| Course | What you ship |
+|--------|---------------|
+| Building with the Claude API | An evaluation harness for your project. Real test cases, a scoring method, and a documented baseline you can regress against |
+| Claude Code in Action | A Skill or custom command your team actually uses, committed to the project repo, plus configured hooks |
+| Introduction to MCP | An MCP server against a real system: your client's, or your studio project's data layer |
+| Prep Course | A written answer to the mock exam's weakest domain for you, with the code to back it up |
+
+The evaluation harness is the one to take seriously. Evals are the thinnest skill in the cohort
+and the fastest way to raise your AI Systems axis.
+
+## The calendar
+
+Studio blocks are Fridays, 8:00 to 11:50 AM. Course work happens between sessions. Studio time
+is for the deliverable and the review, not for watching lectures together.
+
+### Fall
+
+| Weeks | What runs |
+|-------|-----------|
+| 1 to 2 | Onboarding, staffing, kick-off. No certification work |
+| 3 to 5 | Building with the Claude API. Eval harness due week 5 |
+| 6 to 8 | Claude Code in Action. Skill and hooks due week 8 |
+| 9 to 11 | Introduction to MCP. MCP server due week 11 |
+| 12 to 14 | Prep Course and a cohort mock exam |
+
+### Winter
+
+| Weeks | What runs |
+|-------|-----------|
+| 1 to 2 | **First sitting.** A studio block is reserved. Seat time is about 135 minutes, so it fits |
+| 4 to 5 | Second sitting, for anyone retaking after the 14-day wait |
+| 9 to 10 | Third sitting, after the 30-day wait |
+
+Three windows inside winter is deliberate. The retake schedule means a first-attempt failure in
+January still leaves room for two more attempts before the year ends. Nobody who wants the
+credential should run out of calendar.
+
+Exact dates are confirmed against the university calendar at kick-off and posted in Canvas.
+
+## How it is graded
+
+**The four courses and their four deliverables are required coursework.** They are free, they
+are scheduled, and the deliverables feed your project. These are graded as part of your
+milestone work.
+
+**Sitting the exam is extra credit.** Passing earns extra credit. Failing does not cost you
+points. Fee arrangements are confirmed with you before you register.
+
+The split is deliberate. The learning is inside our control, so it is required. The exam depends
+on a third party's scheduling, proctoring, and pricing, none of which the Foundry controls, so
+it does not gate your grade.
+
+## What the exam does not cover
+
+Anthropic's own description of the Developer certification stops at building. It does not test
+engagement economics, client communication, responsible deployment, or how to decide whether a
+thing is worth building at all.
+
+That is the Foundry's half of the curriculum, and it is the half that is harder to learn
+anywhere else. The certification proves you can build on Claude. It does not prove you should
+have built what you built. Keep the distinction clear when you put it on a résumé.
+
+## For the Foundry
+
+The Foundry needs ten active certified builders to reach **Select** tier in the Claude Partner
+Network, alongside two client engagements deployed to production and one published customer
+story. Select is the first tier that appears in Anthropic's public partner directory.
+
+Certifications expire after 12 months, so this is a standing annual target rather than a
+one-time push. Ten passes a year, every year.

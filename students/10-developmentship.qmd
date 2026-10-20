@@ -1,0 +1,221 @@
+---
+title: "The Developmentship Model"
+author: "Scott Murff"
+date: "9/3/2026"
+format:
+  html: default
+  pdf: default
+---
+
+Developmentship is the individual instrument in this course and the largest single component of
+your grade, worth 180 of 500 points. This page is the whole model: what it measures, who rates
+you, how several reviewers become one number, and how that number becomes points.
+
+It scores the four Consultant axes: **Judgment**, **Ownership**, **Communication**, and
+**Collaboration**. These are what changes when the work belongs to someone else. See
+[The Builder and the Consultant](06-builder-and-consultant.qmd) for how the Consultant diamond
+sits alongside the Builder hexagon.
+
+| Axis | Imperative behind it (STRAT 325) | Judged on |
+|---|---|---|
+| **Judgment** | Think Clearly, and Get to the Right Answer | Whether you solve the right problem and say what the facts support |
+| **Ownership** | Move Work Forward | Whether you drive the work |
+| **Communication** | Create Impact with People: do people *understand* it | The artifacts: what you produce for a reader (updates, decks, memos) |
+| **Collaboration** | Create Impact with People: do people *trust* you | How your team and your client experience working with you, and whether they want you on the next one |
+
+Two axes are about the work: Judgment asks whether it is the right work, and Ownership asks
+whether it moves. Two are about people, and they follow the guiding question for Create Impact
+with People, "Do people understand, trust, and act on this work?" Communication is the
+*understand* half, judged on what you write. Collaboration is the *trust* half, judged on the
+relationship with everyone you work with, teammates and the client alike.
+
+## The anchors
+
+The same 1 to 5 scale applies on every axis. There are no adjectives like "strong" or
+"excellent." Every level is something a reviewer could point at in a week of work, which is what
+makes two different reviewers land in the same place.
+
+### Judgment
+
+| | |
+|---|---|
+| **1** | Solves the problem as handed over, even when it is the wrong one. Conclusions run ahead of the evidence. |
+| **2** | Sound on the task in front of them, but does not ask whether it is the right task. Reports what the data says, not what it means. |
+| **3** | Checks that the question is the right one before starting. Conclusions follow from the evidence, and they say where it is thin. |
+| **4** | Reframes the problem when the facts call for it. Separates what is known from what is assumed; recommendations hold up when tested. |
+| **5** | The team or client changes direction because of how they framed it. Says what the facts support when it is not what anyone hoped. |
+
+### Ownership
+
+| | |
+|---|---|
+| **1** | Waits to be told. Work stops when the next step is unclear. Blockers surface at the deadline rather than before it. |
+| **2** | Does assigned tasks well but does not extend past them. Asks what to do next rather than proposing it. |
+| **3** | Owns a defined piece and finishes it. Raises blockers early. Still needs the plan handed to them. |
+| **4** | Owns a workstream end to end. Makes the plan, unblocks themselves, and reports what they decided rather than asking what to do. |
+| **5** | Owns a workstream and pulls others along. Reprioritizes when the client changes direction, and what comes back is better than what was asked for. |
+
+### Communication
+
+| | |
+|---|---|
+| **1** | Updates are late or absent. The reader has to ask what happened. |
+| **2** | Reports activity in the order it happened. The reader has to extract the point themselves. |
+| **3** | Answer first, support underneath. Someone who reads only the first line knows the state of the work. |
+| **4** | Writes for the specific reader. Names the decision being asked for, and the memo or deck holds up without anyone narrating it. |
+| **5** | Produces the artifact the team reuses. A senior stakeholder can act on it without a meeting. |
+
+### Collaboration
+
+How your teammates and your client experience working with you, over the whole engagement. A
+student can be quiet in a client meeting and still rate a 4 if the client relies on them between
+meetings.
+
+| | |
+|---|---|
+| **1** | Works alone; the team and the client find out late. Takes feedback as criticism, or agrees and changes nothing. |
+| **2** | Does their own part and reacts when asked. Leaves teammates' work and the client relationship to others; applies feedback only where told. |
+| **3** | Reliable to work with. Keeps commitments to teammates and the client, shares context without being chased, and acts on feedback the next time. |
+| **4** | Makes the people around them better. Asks for feedback before it is offered, says early what will not fit, and teammates and the client come to them directly. |
+| **5** | People ask to work with them again, by name. Handles disagreement without it becoming personal, changes position when someone else is right, and surfaces a risk before anyone else finds it. |
+
+## How input is gathered
+
+**Three surveys, one question set.** You are rated from three directions, and every form is built
+from the same underlying questions asked from the vantage that rater actually has.
+
+| Survey | Who fills it | Rates | When |
+|--------|--------------|-------|------|
+| **Self-Assessment** | You | All four axes. **Not in your composite** | Closes first, before you see anything |
+| **Peer Evaluation** | Every Foundry member who saw your work | All four axes | Opens after self closes |
+| **Client Evaluation** | Every client contact you worked with | All four axes, through plain-language questions | In parallel, sees neither |
+
+The ordering is deliberate. A self-rating collected after you have read your reviews measures
+nothing.
+
+Faculty may also rate any of the four axes, from observed behavior across studio, milestone
+reviews, and client calls. It is optional, and your score never depends on it.
+
+**You do not choose your reviewers.** Two weeks before the end of each semester you submit an
+exposure list naming everyone who saw your work, and faculty adds anyone the staffing records
+show you worked with.
+
+## How several reviewers become one number
+
+Ratings are not thrown into a single average, because six teammates and one client would let
+your pod outvote the person paying for the work. Three passes.
+
+**First,** ratings are averaged within each source, weighted by how much of your work that person
+saw.
+
+| Exposure | Weight |
+|----------|--------|
+| Deep. Same engagement, most weeks, most of the semester | 3 |
+| Moderate. Part of the term, or regular contact on another engagement | 2 |
+| Light. A handful of interactions | 1 |
+
+**Second,** the peer, client, and faculty scores are combined per axis, weighted by what that
+source can actually see.
+
+| Axis | Peers | Client | Faculty |
+|------|-------|--------|---------|
+| Judgment | 40% | 30% | 30% |
+| Ownership | 50% | 20% | 30% |
+| Communication | 40% | 35% | 25% |
+| Collaboration | 40% | 35% | 25% |
+
+If a source is missing, the remaining weights scale up. You are never penalized for a rater who
+did not exist, which is what makes a discovery-only engagement gradeable. On a team of one there
+is no peer on the engagement, so the client carries every axis for it, with faculty if Scott
+rated.
+
+**Third,** the four axis scores are averaged equally into your composite.
+
+**Extreme ratings require evidence.** A 5, a 1, or a 2 submitted without a specific instance
+behind it is dropped rather than averaged in. This applies in both directions.
+
+**Your self-assessment is never in your composite.** It is compared against it and reported to
+you as a calibration gap. The gap does not move your grade. What it does is set up your video
+reflection, which is where self-awareness is actually graded.
+
+## The principles are not a fifth axis
+
+There is no values score. Every reviewer is asked one optional question instead: which principle
+from the [Constitution](00-constitution.qmd) did they see you live, and what did you do? It is
+**positive only**. No form in this course asks anyone which principle you failed, because a
+principle is not something you rate on a scale, and rating each other's adherence to values is
+not an instrument we are going to build.
+
+The citations are not scored. They come back to you in your development summary, in your
+reviewers' own words, and they tell the Foundry which of its principles are actually visible in
+the work.
+
+Failures of principle do not travel through a survey. They are raised directly, and the serious
+ones are conduct matters that leave this model entirely.
+
+## How the composite becomes points
+
+| Composite | Points | Equivalent |
+|-----------|--------|------------|
+| 4.75 to 5.00 | 180 | 100% |
+| 4.50 to 4.74 | 173 | 96% |
+| 4.25 to 4.49 | 168 | 93% |
+| 4.00 to 4.24 | 162 | 90% |
+| 3.75 to 3.99 | 156 | 87% |
+| 3.50 to 3.74 | 150 | 83% |
+| 3.25 to 3.49 | 144 | 80% |
+| 3.00 to 3.24 | 138 | 77% |
+| 2.75 to 2.99 | 131 | 73% |
+| 2.50 to 2.74 | 126 | 70% |
+| 2.00 to 2.49 | 113 | 63% |
+| Below 2.00 | Reviewed individually | |
+
+Read this against the anchors and the standard is plain. **A 3 is a reliable teammate who does
+what is asked**, and in a graduate course that converts at 77%. **A 4 is someone who reframes the
+problem when the facts call for it, owns a workstream, writes something a stakeholder can act on,
+and makes the team and the client around them better.** That is the expectation, and it converts at 90%. Above 4.5 is rare on
+purpose.
+
+**There is no curve.** This table is published in week 1 and does not move. If everyone in the
+section earns a 4.5, everyone gets an A. Excellence over everything is the first principle in our
+constitution, and grading you against your classmates would contradict it. It would also make
+helping the person next to you cost you something, which is the one thing Collaboration cannot
+survive.
+
+::: {.callout-warning}
+**Two rules override the point total.**
+
+- A composite **below 3.00** caps the course grade at **B**, whatever the team components say.
+- A rating of **1 on any axis from two or more independent reviewers** caps the course grade at
+  **B-**. The axes are not tradeable at the bottom.
+
+A composite below 2.00 is reviewed individually and a failing grade is available. A
+confidentiality breach or anything failing the red face test leaves this model entirely and
+becomes a conduct matter.
+:::
+
+## Timeline
+
+| When | What |
+|---|---|
+| Week 1 | The model, the four axes, the anchors, and the conversion table are explained to the full team |
+| Midterm | Practice round. Draft exposure list, all three surveys run light, snapshot returned. **No points** |
+| Two weeks before the end of the semester | Final exposure list due. Faculty confirms it against staffing records |
+| The following week, in order | Self-Assessment closes. Then peer forms open. Client forms run in parallel |
+| Finals period | Client calls, escalation interviews, composites computed, development summaries delivered |
+| One week after summaries | Video reflections due |
+
+The midterm round is what makes this developmental rather than judgmental. A rating delivered
+only at the end is a verdict. A rating delivered at the midpoint is a chance.
+
+The ordering inside the final round is not a convenience. Self must close before peer opens, or
+the calibration gap measures nothing, and the video reflection has nothing to be about.
+
+## What you receive
+
+A development summary, not just a number: your four axis scores, the themes across everyone who
+reviewed you, where sources disagreed, and the two things to work on next. Individual comments
+are never attributed.
+
+Your video reflection is graded on what you do with it. See the
+[Syllabus](01-syllabus.qmd#video-reflection-40-points).

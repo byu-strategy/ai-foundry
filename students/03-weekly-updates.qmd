@@ -30,6 +30,11 @@ update went out under someone else's name.
 
 - **To:** aifoundry@byu.edu
 - **CC:** Your client lead
+- **Subject:** `Foundry Weekly - [Your Name] - [Client] - Week of [Date]`
+
+Use this subject line exactly. Updates are logged from it, and an update that does not use it may
+not be credited. If you are not staffed on a client engagement that week, put `Studio` in the
+client slot.
 
 ## Email Format
 
@@ -52,8 +57,8 @@ Your update should include three sections.
 - Include items you need from others
 - Mention any questions or decisions needed
 
-Close with your hours for the week, split between base and surge. This is the same number you
-log for utilization, and the two need to agree.
+Close with your hours for the week, split between base and surge. This is the same number your
+team logs, and the two need to agree.
 
 ## Example Email
 
@@ -93,13 +98,25 @@ time.
 | Status | Points |
 |--------|--------|
 | On time (Saturday by 11:59 PM) | 2 pts |
-| Late (by Monday 12:00 PM noon) | 1 pt |
-| After Monday noon | 0 pts |
+| Late (by Monday 8:00 AM) | 1 pt |
+| After Monday 8:00 AM | 0 pts |
 
 Whether it was any good is graded on the Communication axis of your developmentship composite,
 from these same emails, by the people who had to read them. A three-line update that arrives
 every Saturday earns full compliance points and a poor Communication rating, and that trade is
 not a good one.
+
+## Staffed Weeks
+
+Your Foundry update is also the record of which weeks you were staffed. A week counts as a
+staffed week when both are true:
+
+1. The staffing roster has you on a client engagement that week. Discovery engagements count.
+2. Your Foundry update for that week reports work for that client and arrives by Monday 8:00 AM.
+
+An update that arrives, but reports work for a client you are not staffed on, or reports only
+studio or certification work, is graded for compliance as usual and does not count as a staffed
+week.
 
 ---
 

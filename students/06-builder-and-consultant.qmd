@@ -12,8 +12,8 @@ consultants**.
 
 An AI builder can build things for themselves. That alone makes a great entrepreneur. Adding the
 consultant dimension raises the challenge, because now you have to build something great *for
-someone else*, which puts real weight on communication, collaboration, client presence, and
-ownership of the outcome.
+someone else*, which puts real weight on judgment, ownership of the
+outcome, communication, and collaboration.
 
 Two toolkits describe that person.
 
@@ -23,10 +23,11 @@ Two toolkits describe that person.
 Systems, Agentic Workflow, and Launch and Learn. You self-report these at the start of fall
 semester and again in December, and you get your own profile back both times.
 
-**The Consultant** is what changes when the work belongs to someone else. Four axes: Workstream
-Ownership, Client Presence, Communication, and Collaboration. These are not self-reported. The
-faculty advisor and your teammates rate them against observed behavior at midterm and at the end
-of each term.
+**The Consultant** is what changes when the work belongs to someone else. Four axes: Judgment,
+Ownership, Communication, and Collaboration. Two are about the work (is it the right work, and
+does it move) and two are about people (do they understand it, and do they trust you). These
+are not self-reported. The faculty advisor, your teammates, and your clients rate them against
+observed behavior at midterm and at the end of each term.
 
 Nobody arrives strong on all ten. Teams are staffed so the team covers every Builder axis even
 when no single member does.
@@ -98,23 +99,12 @@ the client sees your name on. See
 Friday studio block, plus **typically another 10 hours** in weeks when client demand calls for
 it. That is what this work actually takes, and it is what a paying client is counting on.
 
-**Your tools.** You are responsible for your own AI subscriptions. We build on frontier agent
-tooling, and at this stage of the program the Foundry does not provide seats. Plan on carrying
-your own.
+**Your tools.** You will have a Claude plan for Foundry work, either provided on the Foundry's
+Claude Enterprise account or reimbursed if you hold your own. The specific plan and the mechanism
+are set each term and communicated before it begins. Any other AI tooling you want to use is
+yours to arrange. See [Required Materials](01-syllabus.qmd#required-materials).
 
-**The stipend.** Foundry engagements are paid for by the client. Students staffed on a funded
-engagement receive a **stipend applied to their student account**. It does two things: it
-recognizes your contribution to paid client work, and it is meant to cover the cost of the AI
-subscriptions the work requires.
+**Credit.** Three credit hours per semester, six across the year, for the base 10 hours.
 
-A few things to be clear about:
-
-- The stipend follows the engagement. Students who are not staffed on a funded engagement in a
-  given term do not receive one.
-- Amounts come from a published revenue waterfall and your logged utilization, not from a
-  per-engagement negotiation. See
-  [What You Give and What You Get](01-syllabus.qmd#what-you-give-and-what-you-get).
-- This is a stipend, not employment. You are not an hourly employee of the university or of the
-  client.
-- Money applied to a student account can interact with a financial aid package. If you receive
-  need-based aid, check with the financial aid office before assuming it is additive.
+**Real work you can point at.** Production software running in an organization's hands, shipped
+under your name, with a client who will take your call.

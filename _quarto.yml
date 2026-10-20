@@ -22,6 +22,9 @@ book:
       chapters:
         - students/01-syllabus.qmd
         - students/02-getting-started.qmd
+        - students/08-certification.qmd
+        - students/09-studio-projects.qmd
+        - students/10-developmentship.qmd
     - part: On a Client Team
       chapters:
         - students/05-how-teams-are-staffed.qmd

@@ -1,7 +1,7 @@
 ---
 title: "Syllabus"
 author: "Scott Murff"
-date: "9/2/2026"
+date: "9/3/2026"
 format:
   html: default
   pdf: default
@@ -15,7 +15,8 @@ MBA 693R · STRAT 490R
 
 |                           |                            |
 |---------------------------|----------------------------|
-| **Instructor**            | Scott Murff                |
+| **Instructor**            | Scott Murff, scott.murff@byu.edu |
+| **TAs**                   | To be announced            |
 | **Class Time**            | Fridays, 8:00–11:50 AM     |
 | **Class Location**        | 1244 TNRB                  |
 | **Office Hours**          | Wednesdays 1:30–3:30 PM, Fridays 3:00–3:30 PM |
@@ -38,100 +39,106 @@ and uses Canvas as the LMS. Register under whichever number fits your program.
 and for reviewing grades. All other course content lives on this website.
 :::
 
-## What This Course Is
+## Description
 
-The AI Foundry is an AI-native product studio and consultancy. You are on a delivery team for a
-paying client. The client is paying a fixed fee, retains the intellectual property, and expects
-professional work. Your grade reflects both the quality of what you ship and the professionalism
-with which you ship it.
+The AI Foundry is an AI-native product studio and consultancy inside the BYU Marriott School of
+Business. Most of the time you will be on a delivery team for a paying client. The client is
+paying a fee, retains the intellectual property, and expects professional work. Your grade
+reflects both the quality of your work and the professionalism with which you do it.
 
-We ship, not advise. Discovery work is real and comes first, but it exists to point at something
-to build. Every engagement ends with software running in the client's hands, not with a deck.
+The Foundry builds software. Discovery work comes first, and its purpose is to decide what to
+build. Every engagement ends with software the client is running.
 
-This is a two-semester course. You enroll each semester. Engagements are accepted on a rolling
-basis, so your team's phase boundaries come from your kick-off rather than from a course-wide
-calendar.
+As at any consulting firm, client work arrives on the clients' schedule. There will be times when
+you are not staffed to a client project. In those periods you work through a set curriculum
+instead, beginning with the Claude Developer certification and then your own product.
 
-## What You Give and What You Get
+Participation is a two-semester sequence, fall and winter.
 
-Joining the Foundry is a trade, and both sides of it are written down here so nobody has to
-guess.
+## Purpose
 
-### What you give
+This course develops students who can take a problem from discovery to production software that
+an organization uses, and who can manage the client relationship while they do it.
+
+## Learning Outcomes
+
+| # | Learning Outcome | BYU Aims Supported |
+|:-:|:-----------------|:-------------------|
+| 1 | Take a problem from discovery through a shipped, production system running in an organization's environment | Intellectually Enlarging |
+| 2 | Build with Claude across the API, Claude Code, and Model Context Protocol to the standard validated by the Claude Certified Developer credential | Intellectually Enlarging; Lifelong Learning and Service |
+| 3 | Own a workstream for a paying client: scope it, report its status without being asked, and defend the decisions behind it | Character Building; Lifelong Learning and Service |
+| 4 | Judge whether a piece of work is worth building at all, weighing cost, risk, and the effect on the people it touches | Spiritually Strengthening; Character Building |
+| 5 | Give and receive direct feedback, and change observable behavior in response to it | Character Building; Spiritually Strengthening |
+
+## Prerequisites
+
+**Build**, IS 693R / MSB 341, is the prerequisite. It is offered every fall and every winter.
+
+Exceptions are granted for the 2026-2027 school year, since the Foundry is running for the first
+time and nobody has had the chance to take it yet. See
+[The Builder and the Consultant](06-builder-and-consultant.qmd) for the three pathways through
+this year.
+
+## Required Materials
+
+- **Laptop.** Mac or Windows, capable of running VS Code or Cursor and a local development
+  environment. 8GB RAM minimum, more is better.
+- **Claude access.** You will have a Claude plan for Foundry work, either provided on the
+  Foundry's Claude Enterprise account or reimbursed if you hold your own. The specific plan and
+  the mechanism are set each term and communicated before it begins.
+- **LMS.** Canvas, for milestone submissions, the video reflection, and grades.
+- **Other AI tools.** Anything else you want to use is yours to arrange.
+
+All readings and reference material are on this website at no cost.
+
+## What You Will Work On
+
+Foundry work takes three forms. You will be on one of the first two at any given time, and on
+the third throughout.
+
+**Funded engagements.** A client pays a fee, retains the intellectual property, and expects
+professional delivery. These carry the tightest obligations.
+
+**Unfunded engagements.** Real outside organizations with real stakes and no fee: nonprofits,
+university units, early-stage ventures, and mission-driven work the Foundry takes because it is
+worth doing. The standard of work is identical, and the confidentiality and intellectual property
+obligations still apply on the terms set for that engagement.
+
+**Studio projects.** The Foundry cannot seat every builder on an outside engagement at once. When
+you are not staffed, you build your own product to the same standard, with real users, and ship
+it. See [Studio Projects](09-studio-projects.qmd).
+
+**Alongside all three, the certification track.** Every builder works toward the Claude Certified
+Developer, Foundations credential. The preparation is coursework and the deliverables feed
+whatever project you are on. See [The Certification Track](08-certification.qmd).
+
+Which form you are on is a matter of staffing and timing rather than merit, and it can change
+between terms. How you are assigned is set out in
+[How Teams Are Staffed](05-how-teams-are-staffed.qmd).
+
+## Time Commitment
 
 | | |
 |---|---|
-| **Base commitment** | 10 hours per week, including the Friday studio block |
-| **Surge commitment** | Typically an additional 10 hours per week when client demand calls for it |
-| **Your tools** | You carry your own frontier AI subscriptions |
-| **Your time horizon** | Two semesters, fall and winter |
+| **Class commitment** | 10 hours per week, including the Friday studio block |
+| **Client commitment** | Typically an additional 10 hours per week when client demand calls for it |
 
-The base 10 hours is the course. The surge hours are what real client delivery costs when a
-deadline is real and the client is paying. Surge is not every week, and it is not open-ended,
-but it is not optional either when your team is in it.
+The base 10 hours is the course, and it is what 3.0 credit hours per semester represents. The
+surge hours are the extra time client delivery takes when a paying client has a deadline.
+Surge is not every week, and it is not open-ended, but it is not optional either when your team
+is in it.
 
-### What you get
+Students enroll each semester for a total of 6.0 credit hours across the year.
 
-**Three credits per semester, six across the year.** The credit is the compensation for the
-base 10 hours. That is the academic side of the trade, and it is guaranteed whether or not your
-engagement is a funded one.
-
-**A stipend for the surge hours.** Credit pays for the base. Cash pays for the hours above it.
-Foundry engagements are paid for by the client, and a defined share of that revenue comes back
-to the students who did the work.
-
-**Real work you can point at.** Production software running in a company's hands, shipped under
-your name, with a client who will take your call.
-
-### How stipends are calculated
-
-Two inputs, and only two.
-
-1. **The size of the stipend pool**, which is a published share of total Foundry revenue for the
-   year. See the allocation table below.
-2. **Your utilization**, which is your logged, verified hours on funded client work as a share of
-   all such hours across the Foundry that term.
-
-Your stipend is your utilization share of the pool. If you carried twice the load of a teammate,
-you receive twice the stipend. Hours are logged weekly and confirmed by your team, and hours
-that are not logged do not count.
-
-A few things to be clear about:
-
-- The stipend follows funded work. Students staffed only on pro bono or internal work in a given
-  term do not draw from the pool for those hours.
-- It is applied to your student account.
-- This is a stipend, not employment. You are not an hourly employee of the university or of the
-  client, and the stipend is not a wage or a guaranteed rate.
-- Money applied to a student account can interact with a financial aid package. If you receive
-  need-based aid, check with the financial aid office before assuming it is additive.
-
-### Where the money goes
-
-Not every dollar the Foundry earns goes back to Foundry members, and you should know what the
-other dollars do. Revenue is allocated as a published waterfall:
-
-| Claim | Share | Why it exists |
-|-------|-------|---------------|
-| Strategy program | 30% | The Foundry sits inside the BYU strategy program, which provides the faculty, the classroom, the accreditation, and the students. The Foundry funds it back. |
-| Reserve | 10% | Down years. A studio that cannot survive a slow semester cannot make commitments to clients or to you. |
-| Program operations | 10% | Events, swag, travel to client sites and competitions |
-| **Student stipend pool** | **The remainder, never less than 50%** | **You** |
-
-The strategy program share is capped. The annual amount is set and published before the year
-begins, and once it is met, every additional dollar of that 30% flows into the student stipend
-pool instead. The cap is the point. The Foundry funds the program that houses it, and then it
-stops taking.
-
-These percentages are set for the year and published before engagements are staffed. They are
-not adjusted after the fact.
+If a week comes when you cannot deliver your hours, tell your team and the faculty advisor in
+advance. Told in advance, your team can plan around the missed hours. Found out late, the missed hours
+delay work for the client.
 
 ## Studio Time
 
-The Friday 8:00 to 11:50 AM block in 1244 TNRB is your team's standing work session:
-co-working, cross-team critique, and client calls. Office hours are Wednesdays 1:30 to 3:30 PM
-in 587 TNRB and Fridays 3:00 to 3:30 PM by phone. The last 30 minutes on Wednesday are also by
-phone.
+The Friday 8:00 to 11:50 AM block in 1244 TNRB is your team's standing work session: co-working,
+cross-team critique, and client calls. Office hours are Wednesdays 1:30 to 3:30 PM in 587 TNRB
+and Fridays 3:00 to 3:30 PM by phone. The last 30 minutes on Wednesday are also by phone.
 
 **Required sessions:**
 
@@ -143,43 +150,17 @@ phone.
 | Phase review: transfer and handoff | Set per engagement |
 | End-of-year showcase | Final studio of winter semester |
 
-Engagements start on a rolling basis, so phase reviews are scheduled per team rather than on a
-single course calendar. Your team's review dates are set at kick-off and posted in Canvas.
+All other Fridays are optional but strongly encouraged. Teams that skip studio time consistently
+underperform.
 
-All other Fridays are optional but strongly encouraged. Teams that skip studio time
-consistently underperform.
+## Schedule
 
-## How You Are Assessed
-
-Two instruments run alongside the point total, and they measure different things in different
-ways.
-
-**The Builder**, six axes: Discovery, Design, Application Architecture, AI Systems, Agentic
-Workflow, and Launch and Learn. You self-report these at the start of fall semester and again in
-December. They are **not graded**. They exist so you can see your own profile, so teams can be
-staffed for coverage, and so the program can tell whether the year moved you.
-
-**The Consultant**, four axes: Workstream Ownership, Client Presence, Communication, and
-Collaboration.
-These are what changes when the work belongs to someone else, and they are **not self-reported**.
-The faculty advisor and your teammates rate them against observed behavior at midterm and at the
-end of each semester, using the same 1 to 5 scale with written behavioral anchors.
-
-The Consultant diamond is the **Developmentship** component below, worth 180 of 500 points. It is
-the largest single input to your grade and the only one that is purely individual. How ratings
-are gathered, weighted, and converted to points is set out in the Developmentship Model.
-
-| | Builder | Consultant |
-|---|---|---|
-| **What it measures** | What you can make | What changes when the work is for someone else |
-| **Who rates it** | You | Faculty and teammates |
-| **When** | September and December | Midterm and end of term |
-| **Graded** | No | Feeds two existing components |
+Engagements start on a rolling basis, so this course has no fixed course-wide calendar. Your
+team's phase boundaries and milestone dates are set at kick-off and posted in Canvas. The
+certification track runs on a common schedule across the cohort; see
+[The Certification Track](08-certification.qmd).
 
 ## Grading
-
-Grades are based on weekly update emails, four milestone deliverables, client evaluation,
-peer evaluation, and a video reflection.
 
 ### Grade Components (500 points possible)
 
@@ -193,10 +174,10 @@ peer evaluation, and a video reflection.
 | **Base Total** | **500 pts** | 100% | |
 | Extra Credit (BYU Student Ratings) | 10 pts | +2% | |
 
-Two components grade the **product and the pod**: milestones and the client's evaluation of the
-team, 224 points between them. Three grade **you**: your updates, your developmentship
-composite, and your reflection, 276 points. A pod that ships well cannot carry a passenger to an
-A, and a strong individual on a struggling pod is not sunk by it.
+Two components grade the **product and the pod**: milestones and the evaluation of the team, 224
+points between them. Three grade **you**: your updates, your developmentship composite, and your
+reflection, 276 points. A pod's strong results cannot earn an A for a member who contributed little,
+and a strong individual on a struggling pod keeps the 276 individual points they earn.
 
 ### Weekly Update Emails (56 points)
 
@@ -207,52 +188,44 @@ across two semesters, 2 points each.
 | Status | Points |
 |--------|--------|
 | On time (Saturday by 11:59 PM) | 2 pts |
-| Late (by Monday 12:00 PM noon) | 1 pt |
-| After Monday noon | 0 pts |
-
-This is yours and it is not the same email as the team's weekly client update, which the client
-lead sends once on behalf of everyone. Both go out Saturday. Only this one is scored here.
+| Late (by Monday 8:00 AM) | 1 pt |
+| After Monday 8:00 AM | 0 pts |
 
 This component scores **compliance only**: whether the update arrived, on time. Whether it was
 any good is graded on the Communication axis of your developmentship composite, from the same
-emails, by the people who had to read them. See [Weekly Updates](03-weekly-updates.qmd).
+emails, by the people who had to read them. Format, examples, and the distinction from the team's
+client update are in [Weekly Updates](03-weekly-updates.qmd).
 
 ### Milestone Deliverables (160 points)
 
-Four milestones, 40 points each. These are graded by the faculty advisor against the
+Four milestones, 40 points each, graded by the faculty advisor against the
 [Build Standards](04-build-standards.qmd), not by the client.
 
 | Milestone | What is due |
 |-----------|-------------|
-| **D: Discovery** | An AI-specific audit of the client's business. Where AI actually helps them, what is worth building, what is worth automating, with an estimate and a sequence. Client signs off. |
-| **B1: Working build** | Software that runs, integrated with the client's systems or a realistic stand-in, with the architecture documented |
+| **D: Discovery** | An AI-specific audit of the organization. Where AI actually helps, what is worth building, what is worth automating, with an estimate and a sequence |
+| **B1: Working build** | Software that runs, integrated with real systems or a realistic stand-in, with the architecture documented |
 | **B2: Shipped** | Production code running in the client's environment. Tested, deployed, monitored |
-| **T: Transfer** | Handoff documentation, a walkthrough with the client's own people, and a repository they can run without us |
+| **T: Transfer** | Handoff documentation, a walkthrough with their own people, and a repository they can run without us |
 
-Milestone due dates are set per engagement at kick-off and posted in Canvas. Teams on a
-discovery-only engagement complete D and a scaled transfer; teams on a full engagement complete
-all four.
+Each milestone is scored on four dimensions, 10 points each: **Correctness**, **Usefulness**,
+**Explainability**, and **Craft**. The full rubric is in
+[Build Standards](04-build-standards.qmd).
 
-Each milestone is scored on four dimensions, 10 points each:
-
-| Dimension | What earns full marks |
-|-----------|----------------------|
-| **Correctness** | It works. Analysis reconciles, code does what it claims, assumptions are stated and defensible. |
-| **Usefulness** | Someone at the client would actually use it. It solves the problem they have. |
-| **Explainability** | Someone outside the team can follow how it works and why it does what it does. |
-| **Craft** | Clean repository, readable code, tests where they matter, documents proofread, professional presentation. |
+Due dates are set per engagement at kick-off and posted in Canvas. Teams on a discovery-only
+engagement complete D and a scaled transfer. Studio projects run the same four milestones, scaled
+to one or two builders.
 
 ### Client Evaluation (64 points)
 
-Your client evaluates the **team** twice: at mid-term for development only, and at the end of
-the year as an input to your grade. Five dimensions, 1 to 5, each with written behavioral
-descriptions the client can point at. Faculty sends the same questionnaire both times, and you
-see the results.
+Your client evaluates the **team** twice: at mid-term for development only, and at the end of the
+year as an input to your grade. Five dimensions, 1 to 5, each with written behavioral
+descriptions the client rates against.
 
 | Dimension | The question the client answers |
 |-----------|----------------------------------|
 | Timeliness | Did the team deliver what they promised, when they promised it? |
-| Communication | Could you tell where the work stood without chasing anyone? |
+| Communication | Could you tell where the work stood without having to ask? |
 | Agency | Did the team move the work forward on its own? |
 | Technical Competency | Did they build something that actually works? |
 | Contribution | Was the output worth the engagement? |
@@ -278,139 +251,28 @@ The five dimensions are averaged, and the average converts to points:
 questions about each of you individually, and those feed your developmentship composite rather
 than this component.
 
+On a studio project, your users answer the same five questions in place of a client.
+
 ### Developmentship (180 points)
 
-This is the individual instrument, and it is the largest single component of your grade. It
-scores the four Consultant axes: Workstream Ownership, Collaboration, Communication, and Client
-Presence.
+The individual instrument, and the largest single component of your grade. It scores the four
+Consultant axes: Judgment, Ownership, Communication, and Collaboration, rated by peers,
+clients, and faculty against written behavioral anchors.
 
-**Three surveys, one question set.** You are rated from three directions, and every form is
-built from the same underlying questions asked from the vantage that rater actually has.
-
-| Survey | Who fills it | Rates | When |
-|--------|--------------|-------|------|
-| **Self-Assessment** | You | All four axes. **Not in your composite** | Closes first, before you see anything |
-| **Peer Evaluation** | Every Foundry member who saw your work | All four axes | Opens after self closes |
-| **Client Evaluation** | Every client contact you worked with | Client Presence, Communication, and Ownership. Never Collaboration | In parallel, sees neither |
-
-The ordering is deliberate. A self-rating collected after you have read your reviews measures
-nothing.
-
-**You do not choose your reviewers.** Two weeks before the end of each semester you submit an
-exposure list naming everyone who saw your work, and faculty adds anyone the staffing records
-show you worked with.
-
-**How several reviewers become one number.** Ratings are not thrown into a single average, because
-six teammates and one client would let your pod outvote the person paying for the work. Three
-passes:
-
-*First,* ratings are averaged **within each source**, weighted by how much of your work that
-person saw.
-
-| Exposure | Weight |
-|----------|--------|
-| Deep. Same engagement, most weeks, most of the semester | 3 |
-| Moderate. Part of the term, or regular contact on another engagement | 2 |
-| Light. A handful of interactions | 1 |
-
-*Second,* the peer, client, and faculty scores are **combined per axis**, weighted by what that
-source can actually see:
-
-| Axis | Peers | Client | Faculty |
-|------|-------|--------|---------|
-| Workstream Ownership | 50% | 20% | 30% |
-| Collaboration | 60% | none | 40% |
-| Communication | 40% | 35% | 25% |
-| Client Presence | 25% | 50% | 25% |
-
-If a source is missing, the remaining weights scale up. You are never penalized for a rater who
-did not exist, which is what makes a discovery-only engagement gradeable.
-
-*Third,* the four axis scores are averaged equally into your composite.
-
-**Extreme ratings require evidence.** A 5, a 1, or a 2 submitted without a specific instance
-behind it is dropped rather than averaged in. This applies in both directions.
-
-**Your self-assessment is never in your composite.** It is compared against it and reported to
-you as a calibration gap. The gap does not move your grade. What it does is set up your video
-reflection, which is where self-awareness is actually graded.
-
-**The principles are not a fifth axis and there is no values score.** Every reviewer is asked one
-optional question instead: which principle from the constitution did they see you live, and what
-did you do? It is **positive only**. No form in this course asks anyone which principle you
-failed, because a principle is not something you rate on a scale, and rating each other's
-adherence to values is not an instrument we are going to build. The citations are not scored.
-They come back to you in your development summary, in your reviewers' own words, and they tell
-the Foundry which of its principles are actually visible in the work.
-
-Failures of principle do not travel through a survey. They are raised directly, and the serious
-ones are conduct matters that leave this model entirely.
-
-The four axis scores are averaged, and the composite converts to points:
-
-| Composite | Points | Equivalent |
-|-----------|--------|------------|
-| 4.75 to 5.00 | 180 | 100% |
-| 4.50 to 4.74 | 173 | 96% |
-| 4.25 to 4.49 | 168 | 93% |
-| 4.00 to 4.24 | 162 | 90% |
-| 3.75 to 3.99 | 156 | 87% |
-| 3.50 to 3.74 | 150 | 83% |
-| 3.25 to 3.49 | 144 | 80% |
-| 3.00 to 3.24 | 138 | 77% |
-| 2.75 to 2.99 | 131 | 73% |
-| 2.50 to 2.74 | 126 | 70% |
-| 2.00 to 2.49 | 113 | 63% |
-| Below 2.00 | Reviewed individually | |
-
-Read this against the anchors and the standard is plain. **A 3 is a reliable teammate who does
-what is asked**, and in a graduate course that converts at 77%. **A 4 is someone who owns a
-workstream, makes their team better, writes something a stakeholder can act on, and can be put
-in front of a client.** That is the expectation, and it converts at 90%. Above 4.5 is rare on
-purpose.
-
-**There is no curve.** This table is published in week 1 and does not move. If everyone in the
-section earns a 4.5, everyone gets an A. Excellence over everything is the first principle in
-our constitution, and grading you against your classmates would contradict it. It would also
-make helping the person next to you cost you something, which is the one thing Collaboration
-cannot survive.
-
-::: {.callout-warning}
-**Two rules override the point total.**
-
-- A composite **below 3.00** caps the course grade at **B**, whatever the team components say.
-- A rating of **1 on any axis from two or more independent reviewers** caps the course grade at
-  **B-**. The axes are not tradeable at the bottom.
-
-A composite below 2.00 is reviewed individually and a failing grade is available. A
-confidentiality breach or anything failing the red face test leaves this model entirely and
-becomes a conduct matter.
-:::
-
-**A practice round runs at midterm.** It carries no points. It exists so that nothing in the
-final round is new information, and so you still have a semester to act on what you hear.
-
-**You receive a development summary,** not just a number: your four axis scores, the themes
-across everyone who reviewed you, where sources disagreed, and the two things to work on next.
-Individual comments are never attributed.
-
-::: {.callout-note}
-**Developmentship has nothing to do with stipends.** Stipends come from logged, verified hours.
-Nothing your teammates say about you moves your money, and nothing about your money should shape
-what you say about them.
-:::
+The anchors, the three surveys, the weighting, the conversion table, the grade caps, and the
+timeline are all set out in [The Developmentship Model](10-developmentship.qmd). Read it in week
+1. Nothing in it is a surprise later.
 
 ### Video Reflection (40 points)
 
-This is where the loop closes. Everything else measures you. This is the one component that asks
-what you did with the measurement.
+Every other component measures your work. The video reflection asks what you did with those
+measurements.
 
-**Due:** One week after end-of-year feedback is released
-
-**Submission:** Record 2 to 4 minutes. Upload to YouTube (unlisted) or Loom and submit the link
+**Due:** one week after end-of-year feedback is released.
+**Submission:** record 2 to 4 minutes. Upload to YouTube (unlisted) or Loom and submit the link
 via Canvas.
 
-**Before you record,** re-read three things: your own self-assessment from before the round, your
+Before you record, re-read three things: your own self-assessment from before the round, your
 development summary, and your calibration gap.
 
 **Prompt.** Four questions.
@@ -418,18 +280,16 @@ development summary, and your calibration gap.
 1. **Your prediction.** Before the round you named the axis you expected to rate highest, the one
    you expected to rate lowest, and the criticism you expected to see. Were you right? Where were
    you off, and why?
-2. **The hardest piece of feedback.** Quote one specific thing a reviewer or your client said.
-   Do you agree with it? What are you doing about it?
+2. **The hardest piece of feedback.** Quote one specific thing a reviewer or your client said. Do
+   you agree with it? What are you doing about it?
 3. **The gap.** Your composite and your self-rating differ. Account for the difference. If they
-   matched closely, say what you think you actually got right about reading yourself.
+   matched closely, say what you got right about reading yourself.
 4. **Next time.** If you restarted this engagement knowing what you know now, what would you do
    differently?
 
 Keep it conversational. I am looking for honest self-assessment, not polish. A reflection that
-admits a miss and says what changes is worth more than one that explains why every criticism was
+admits a mistake and says what changes is worth more than one that explains why every criticism was
 situational.
-
-**Rubric:**
 
 | Criteria | Excellent (10) | Good (7) | Adequate (4) | Weak (0-2) |
 |----------|----------------|----------|--------------|------------|
@@ -448,6 +308,25 @@ one incident wrong, here is why" is a strong answer. "I disagree" is not.
 
 Complete the BYU end-of-semester student ratings survey to earn 10 extra credit points.
 
+### Late Work Policy
+
+Milestone deliverables and the video reflection are accepted up to 9 days late with a 10% penalty
+per day.
+
+| Days Late | Penalty |
+|-----------|---------|
+| 1-3 | -10% to -30% |
+| 4-6 | -40% to -60% |
+| 7-9 | -70% to -90% |
+| 10+ | No credit |
+
+Weekly update emails run on their own schedule, above.
+
+A milestone that is going to slip must be raised with the faculty advisor and the client
+**before** the due date, not after. A slip that is flagged early and rescheduled with the client
+is a scheduling decision. A slip discovered on the due date is a broken commitment, and it is
+graded as one.
+
 ### Grading Scale
 
 | Grade | % | Points (of 500) |
@@ -465,16 +344,31 @@ Complete the BYU end-of-semester student ratings survey to earn 10 extra credit 
 | D- | 60–62% | 300–314 |
 | E | Below 60% | Below 300 |
 
-## Credit Hours
+## Classroom Culture
 
-| | Hours/Week | Compensated by |
-|---|------------|----------------|
-| Base commitment | 10 hours | 3.0 credit hours per semester |
-| Surge, as client demand requires | Typically +10 hours | Stipend, proportional to logged utilization |
+**Laptops are the tool.** This is a build studio, so laptops are open and expected. The
+obligation that comes with that is attention: if you are in a client call or a critique, you are
+in it.
 
-Students enroll each semester for a total of 6.0 credit hours across the year. See
-[What You Give and What You Get](#what-you-give-and-what-you-get) for how the stipend is
-calculated.
+**Cold calling.** I call on people, because when only the most confident students speak, the
+class learns less. If you are not ready, say so plainly and I
+will come back to you.
+
+**Attendance.** The Friday block is where cross-team critique happens and where most client calls
+are scheduled. When you miss it, your teammates cover for you, so treat it as a professional commitment
+rather than a class.
+
+## Getting Help
+
+In roughly this order:
+
+- Ask Claude and search this site
+- Ask your pod. Someone has probably solved the same problem already
+- Bring it to studio time. Do not wait a week with a blocker
+- Email or Teams the TAs
+- Email or Teams Professor Murff, or come to office hours
+
+Raise blockers within 48 hours. Not at the weekly call, and not at the milestone review.
 
 ## Confidentiality and Client Data
 
@@ -489,28 +383,28 @@ and strategy. This is a condition of the work, and it carries obligations.
 - Deliverables and intellectual property belong to the client, not to you and not to BYU.
 - When the project ends, you delete local copies of client data.
 
-A confidentiality breach is an Honor Code matter and will also end the engagement. Treat this
-as the professional obligation it is.
+A confidentiality breach is an Honor Code matter and will also end the engagement. Treat this as
+the professional obligation it is.
 
 ## AI Use Policy
 
-You are expected to use AI tools aggressively. That is the point of the Foundry. The
-obligations that come with it:
+You are expected to use AI tools extensively. That is the point of the Foundry. The obligations
+that come with it:
 
 - **You own the output.** "The model produced it" is not a defense for a wrong number, a
   fabricated citation, or an analysis you cannot explain.
-- **Every deliverable must be explainable.** If you cannot walk the client through why the
-  model recommends what it recommends, it is not done.
+- **Every deliverable must be explainable.** If you cannot walk the client through why the model
+  recommends what it recommends, it is not done.
 - **Client data goes only into approved tools.** See the confidentiality section above.
-- **Disclose method, not apology.** Milestone documentation should say what tools and models
-  you used and how you validated the output.
+- **Disclose your method.** Milestone documentation should say what tools and models you
+  used and how you validated the output.
 
 ## Instructor Bio
 
 Scott Murff is an Associate Teaching Professor of Strategy at the BYU Marriott School of
 Business, where he also serves as faculty advisor and teaches courses on business strategy,
-decision-making, and artificial intelligence. He brings over 15 years of experience at the
-intersection of business and technology, having worked as a consultant, product manager, and
+decision-making, and artificial intelligence. He brings over 15 years of experience in
+business and technology, having worked as a consultant, product manager, and
 data scientist.
 
 Prior to joining BYU, Scott spent nearly seven years at McKinsey & Company in roles ranging
@@ -523,15 +417,9 @@ Scott holds a Master's degree in Management Science & Engineering from Stanford 
 a B.A. in Economics with a minor in Math, from BYU. He is passionate about helping students
 apply AI, analytics, and strategy to meaningful real-world problems with both rigor and purpose.
 
-## Getting Help
-
-- Use email or Teams to contact the TAs and Professor Murff
-- Attend office hours
-- Bring blockers to studio time. Do not sit on them for a week.
-
 ## Mission and Aims
 
-The mission of Brigham Young University — founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints: is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.
+The mission of Brigham Young University, founded, supported, and guided by The Church of Jesus Christ of Latter-day Saints, is to assist individuals in their quest for perfection and eternal life. That assistance should provide a period of intensive learning in a stimulating setting where a commitment to excellence is expected and the full realization of human potential is pursued.
 
 BYU seeks to develop students of faith, intellect, and character who have the skills and the desire to continue learning and to serve others throughout their lives.
 
