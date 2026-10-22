@@ -72,9 +72,13 @@ def fmt_local(local_str):
 
 
 def lock_after(local_str, days=LATE_DAYS):
-    """The local wall-clock moment `days` after the due time, as UTC for Canvas."""
-    d = dt.datetime.strptime(local_str, "%Y-%m-%d %H:%M") + dt.timedelta(days=days)
-    return due(d.strftime("%Y-%m-%d %H:%M"))
+    """Exactly `days` x 24 hours after the due time, as UTC for Canvas.
+
+    Elapsed time, not wall-clock time: Canvas counts days late by elapsed time, so a lock set on
+    the wall clock across the Nov 1 time change would leave an hour that scores 0.
+    """
+    d = dt.datetime.fromisoformat(due(local_str).replace("Z", "+00:00")) + dt.timedelta(days=days)
+    return d.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def plan_description(n, due_local):
@@ -245,7 +249,7 @@ def print_plan(items, state):
     lp = state["late_policy"]
     print(f"  now: {'none set' if not lp else json.dumps({k: lp.get(k) for k in LATE_POLICY})}")
     print(f"  plan: {'create' if not lp else 'update'} {json.dumps(LATE_POLICY)}")
-    print(f"  Each assignment locks {LATE_DAYS} days after its due time (local wall clock), so the most a")
+    print(f"  Each assignment locks exactly {LATE_DAYS} x 24 hours after its due time, so the most a")
     print("  late submission can lose is 90%, and nothing is accepted on day 10.")
     print()
 
