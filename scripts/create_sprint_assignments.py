@@ -143,12 +143,12 @@ def build_plan():
     for n, plan_due, wrap_due in SPRINTS:
         items.append(dict(
             name=f"Sprint {n} Plan", group=MAIN_GROUP, points_possible=10,
-            due_local=plan_due, due_at=due(plan_due), lock_at=lock_after(plan_due),
+            due_local=plan_due, due_at=due(plan_due), lock_at=None,
             submission_types=["online_text_entry"], published=True, in_module=True,
             description=plan_description(n, plan_due)))
         items.append(dict(
             name=f"Sprint {n} Wrap-up", group=MAIN_GROUP, points_possible=110,
-            due_local=wrap_due, due_at=due(wrap_due), lock_at=lock_after(wrap_due),
+            due_local=wrap_due, due_at=due(wrap_due), lock_at=None,
             submission_types=["online_text_entry"], published=True, in_module=True,
             description=wrapup_description(n, wrap_due)))
     items.append(dict(
@@ -249,7 +249,7 @@ def print_plan(items, state):
     lp = state["late_policy"]
     print(f"  now: {'none set' if not lp else json.dumps({k: lp.get(k) for k in LATE_POLICY})}")
     print(f"  plan: {'create' if not lp else 'update'} {json.dumps(LATE_POLICY)}")
-    print(f"  Each assignment locks exactly {LATE_DAYS} x 24 hours after its due time, so the most a")
+    print(f"  No lock dates, as in MSB 341: the late policy handles late work. (lock_after is unused.) The most a")
     print("  late submission can lose is 90%, and nothing is accepted on day 10.")
     print()
 
