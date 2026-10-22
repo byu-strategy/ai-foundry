@@ -67,15 +67,9 @@ is for the deliverable and the review, not for watching lectures together.
 
 ### Fall
 
-| When | What runs |
-|-------|-----------|
-| Through Oct 23 | Onboarding, staffing, Building with the Claude API |
-| Sprint 1, Oct 23 to Nov 6 | Claude Code in Action. Skill or custom command plus hooks, due with the Wrap-up |
-| Sprint 2, Nov 6 to Nov 20 | Introduction to MCP. MCP server due with the Wrap-up |
-| Sprint 3, Nov 20 to Dec 4 | Prep Course and a cohort mock exam. Weakest-domain write-up due with the Wrap-up |
-
-An evaluation harness from Building with the Claude API may stand in for any one of the three
-fall deliverables. See [Sprints](11-sprints.qmd#the-certification-deliverable).
+The courses are Learn items on the [sprint menu](11-sprints.qmd#the-sprint-menu). Take them in
+any sprint, in the order above, and build each one's deliverable into your real work. A cohort
+mock exam runs in Sprint 3 for anyone planning to sit the exam in winter.
 
 ### Winter
 
@@ -93,10 +87,9 @@ Exact dates are confirmed against the university calendar at kick-off and posted
 
 ## How it is graded
 
-**The courses and their deliverables are required coursework.** They are free, they are
-scheduled, and the deliverables feed your project. In fall, each sprint carries one deliverable,
-worth 20 points: 5 for the course certificate and 15 for the working deliverable. See
-[Sprints](11-sprints.qmd#the-certification-deliverable).
+**The courses are graded as sprint work.** In fall they are Learn items on the
+[sprint menu](11-sprints.qmd#what-counts-as-learn-output): the certificate plus the deliverable,
+used in your real work, is the sprint's proof.
 
 **Sitting the exam is extra credit.** Passing earns extra credit. Failing does not cost you
 points. Fee arrangements are confirmed with you before you register.

@@ -35,8 +35,7 @@ and uses Canvas as the LMS. Register under whichever number fits your program.
 | STRAT 490R | 001 | Topics in Strategic Management | 3.0 |
 
 ::: {.callout-note}
-**Canvas** is used for submitting sprint plans, sprint Wrap-ups, and certification
-deliverables, and for grades. All other course content lives on this website.
+**Canvas** is used for submitting sprint plans and sprint Wrap-ups, and for grades. All other course content lives on this website.
 :::
 
 ## Description
@@ -86,7 +85,7 @@ this year.
 - **Claude access.** You will have a Claude plan for Foundry work, either provided on the
   Foundry's Claude Enterprise account or reimbursed if you hold your own. The specific plan and
   the mechanism are set each term and communicated before it begins.
-- **LMS.** Canvas, for sprint and certification submissions, and grades.
+- **LMS.** Canvas, for sprint submissions and grades.
 - **Other AI tools.** Anything else you want to use is yours to arrange.
 
 All readings and reference material are on this website at no cost.
@@ -157,8 +156,7 @@ underperform.
 
 Engagements start on a rolling basis, and each client sets its own length and dates with the
 team at kick-off. The course itself runs on a common calendar of two-week
-[sprints](11-sprints.qmd), the same for every student, with one certification deliverable due
-each sprint.
+[sprints](11-sprints.qmd), the same for every student.
 
 ## Grading
 
@@ -176,9 +174,8 @@ clients shows how you work, on the four Consultant axes. See
 
 | Component | Points | Weight |
 |-----------|--------|--------|
-| [Sprints](11-sprints.qmd), 3 × 100 | 300 pts | 60% |
+| [Sprints](11-sprints.qmd), 3 × 120 | 360 pts | 72% |
 | Colleague and client feedback | 140 pts | 28% |
-| [Certification deliverables](11-sprints.qmd#the-certification-deliverable), 3 × 20 | 60 pts | 12% |
 | **Total** | **500 pts** | 100% |
 | Extra credit: BYU student ratings | 10 pts | |
 | Extra credit: weekly updates sent before sprints began | 2 pts each | |
@@ -186,11 +183,13 @@ clients shows how you work, on the four Consultant axes. See
 Every component is individual. Teammates often share a goal, and each of you is graded on your
 own part of it.
 
-### Sprints (300 points)
+### Sprints (360 points)
 
-Three two-week sprints, 100 points each: Plan 10, Output 50, Review 20, Demo 20. Every student
-runs every sprint, staffed on a client engagement or not. The calendar, the deliverables, and the
-rubric are on the [Sprints](11-sprints.qmd) page.
+Three two-week sprints, 120 points each: Plan 10, Output 60, Review 25, Demo 25. Every student
+runs every sprint, staffed on a client engagement or not. Each sprint you choose your work from
+the sprint menu: Build, for a client, the Foundry, or your own product, and Learn, from a Claude
+course or the Product Management book. The calendar, the menu, the deliverables, and the rubric
+are on the [Sprints](11-sprints.qmd) page.
 
 ### Colleague and client feedback (140 points)
 
@@ -203,11 +202,10 @@ published before November 20.
 Your self-assessment is collected first and is never part of your score. You see it as an
 outline over what everyone else saw, so you can compare the two.
 
-### Certification deliverables (60 points)
+### The certification track
 
-One per sprint, 20 points each: the course certificate (5) and a working deliverable used in your
-real work (15). See [The certification deliverable](11-sprints.qmd#the-certification-deliverable).
-Sitting the exam itself is optional; see [The Certification Track](08-certification.qmd).
+The Claude courses are on the sprint menu as Learn items, graded as part of the sprint. Sitting
+the exam itself is optional and earns extra credit; see [The Certification Track](08-certification.qmd).
 
 ### Extra credit
 
@@ -218,7 +216,7 @@ Sitting the exam itself is optional; see [The Certification Track](08-certificat
 
 ### Late Work Policy
 
-Sprint plans, Wrap-ups, and certification deliverables are accepted up to 9 days late with a 10%
+Sprint plans and Wrap-ups are accepted up to 9 days late with a 10%
 penalty per day. Canvas applies the penalty.
 
 | Days Late | Penalty |

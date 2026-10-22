@@ -8,43 +8,53 @@ format:
 ---
 
 From Friday, October 23, Foundry work runs in two-week sprints. Every student runs every sprint,
-whether you are staffed on a client engagement, on a studio project, or between the two. Each
-sprint you say what you will do, do it, show it working, and say what happened.
+whether you are staffed on a client engagement or not. Each sprint you choose your work from the
+sprint menu, say what you will do, do it, show it working, and say what happened.
 
 The sprint replaces the weekly update email. Your sprint plan, review, and Loom demo are how
 Professor Murff, your teammates, and the Foundry know what you are working on.
 
 ## The fall sprints
 
-| Sprint | Starts | Plan due | Wrap-up and certification due | Certification deliverable |
-|---|---|---|---|---|
-| 1 | Fri, Oct 23 | Mon, Oct 26, 11:59 PM | Fri, Nov 6, 8:00 AM | A Skill or custom command, plus hooks (Claude Code in Action) |
-| 2 | Fri, Nov 6 | Mon, Nov 9, 11:59 PM | Fri, Nov 20, 8:00 AM | An MCP server (Introduction to MCP) |
-| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Fri, Dec 4, 8:00 AM | A written answer to your weakest exam domain, with code (Prep Course) |
+| Sprint | Starts | Plan due | Wrap-up due |
+|---|---|---|---|
+| 1 | Fri, Oct 23 | Mon, Oct 26, 11:59 PM | Fri, Nov 6, 8:00 AM |
+| 2 | Fri, Nov 6 | Mon, Nov 9, 11:59 PM | Fri, Nov 20, 8:00 AM |
+| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Fri, Dec 4, 8:00 AM |
 
 A sprint starts and ends at the Friday studio. The Wrap-up is due at 8:00 AM, when studio
 starts, so studio that day can open with demos.
 
-Each sprint is worth 100 points across two Canvas assignments, **Sprint N Plan** (10) and
-**Sprint N Wrap-up** (90). The certification deliverable is a third assignment, worth 20, due at
-the same time as the Wrap-up. See [Grading](01-syllabus.qmd#grading) in the syllabus for how
-these add up.
+Each sprint is worth 120 points across two Canvas assignments, **Sprint N Plan** (10) and
+**Sprint N Wrap-up** (110). See [Grading](01-syllabus.qmd#grading) in the syllabus.
 
-## Staffed or not, you sprint
+## The sprint menu
 
-Engagement length is set with each client, and engagements start and end on the client's
-schedule. The sprint calendar does not move with them. Whatever you are working on during a
-sprint is what you plan, build, and demo.
+Each sprint, your plan holds one or two items from the menu.
 
-| If during the sprint you are | You sprint on |
+| Item | What it is |
 |---|---|
-| On a client engagement | Your part of the engagement |
-| On a [studio project](09-studio-projects.qmd) | The studio project |
-| Between engagements | A studio project, or internal Foundry work Professor Murff or a Foundry leader assigns you |
+| **Build** | Real work on any part of the value chain: discovery, design, engineering, go-to-market, pricing, sales and outreach, analytics, operations |
+| **Learn** | A Claude course or chapters of the Product Management book, ending in proof you can use what you learned |
 
-Every plan names at least one person, other than you and Professor Murff, who will use or see
-the work: the client, a user, or a teammate who depends on it. Work with no one at the other end
-is an exercise, and `/sprint-plan` will ask you who that person is.
+Two items can share a sprint. For example: Build for your client, on go-to-market, plus Learn,
+Claude Code in Action, with a Skill your team uses on the client repo.
+
+### Who your Build is for
+
+Every Build item names who the work is for.
+
+| Who it's for | What that means |
+|---|---|
+| **A client** | Your part of an engagement the Foundry is staffed on, funded or unfunded |
+| **The Foundry** | Work on the Foundry itself: internal tools, business development with a prospective client, a customer story, recruiting |
+| **Your own product** | A [studio project](09-studio-projects.qmd) or a product you or your team own |
+
+**If you are staffed on an engagement, your Build is for your client first.** Add a second item
+if you have hours left. If you are not staffed, choose freely.
+
+Every Build plan names at least one person, other than you and Professor Murff, who will use or
+see the work: the client, a user, or a teammate who depends on it.
 
 **When your staffing changes mid-sprint,** run `/sprint-plan` again. It records what changed and
 why, and your work is read against the plan as it stands at the end. Being staffed, unstaffed,
@@ -54,14 +64,47 @@ or moved partway through a sprint costs nothing.
 Your plan says which part of it is yours, and your Output is graded on that part, with the
 team's result as context.
 
+### What counts as Build output
+
+The same rule applies whoever the work is for. Output is real, finished for this sprint, and
+checkable by the course. It does not have to be public, launched, or used by anyone yet.
+
+| If your work was | Output means |
+|---|---|
+| A feature or deployed change | It works, in a repo or deployed, and your demo shows it working |
+| An agent, automation, or integration | It runs, and your demo shows it running |
+| Design | The interface or the designs exist |
+| Discovery or research | The findings are written up, with what you concluded |
+| A client deliverable (memo, deck, plan) | The deliverable, and the decision it asks the client to make |
+| A landing page or campaign | The page or campaign is built, published or ready to publish |
+| Pricing or financial modeling | The model exists and runs on real numbers |
+| Marketing or sales copy | The copy is finished |
+| Selling, outreach, or business development | The asks are made and on record: who you asked, when, what you asked for, and what they said |
+| Analytics or measurement | The tracking returns real data |
+
+If your work fits none of these, say in your plan what output means for it.
+
+### What counts as Learn output
+
+Studying alone leaves nothing to check, so every Learn item ends in proof.
+
+| Learn from | Proof |
+|---|---|
+| A Claude course on the Anthropic Academy (see [The Certification Track](08-certification.qmd)) | The certificate of completion, plus the thing the course teaches you to build, used in your real work: a Skill or custom command with hooks, an MCP server, an evaluation harness |
+| Chapters of the [Product Management book](https://byu-strategy.github.io/product-management/) | Your `/learn` logs for those chapters, plus your result on the Builder practice exam |
+
+A course takes hours, and a sprint is two weeks of work, so Learn usually shares a sprint with a
+Build item. A sprint that is Learn only is allowed once in fall, and only when you are not
+staffed.
+
 ## What you turn in
 
 | Deliverable | What it is | Where it lives | How you turn it in | When | Points |
 |---|---|---|---|---|--:|
-| **Plan** | What you will do, for whom, your part of it, why, how you will know it is done, and how hard you expect it to be. `/sprint-plan` writes it with you | `sprints/sprint-N-plan.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Plan** on Canvas | The Monday after the sprint starts, 11:59 PM | 10 |
-| **Output** | What you finished this sprint: code, a deployed change, an agent or automation, research, a design, a client deliverable | The client repo, your studio repo, a link, or your demo | Nothing separate. List every place it lives under **Where the work lives** in your README | Wrap-up due date | 50 |
-| **Review** | What `/sprint-review` produces: a report on your sprint, then your answers to its retro questions | `sprints/sprint-N-review.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 20 |
-| **Demo** | 2 to 3 minutes on Loom of your work, working | Loom | Paste the Loom link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 20 |
+| **Plan** | Your menu items, who the work is for, your part, why, how you will know it is done, and how hard you expect it to be. `/sprint-plan` writes it with you | `sprints/sprint-N-plan.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Plan** on Canvas | The Monday after the sprint starts, 11:59 PM | 10 |
+| **Output** | What you finished this sprint, as defined above | The client repo, your own repo, a link, or your demo | Nothing separate. List every place it lives under **Where the work lives** in your README | Wrap-up due date | 60 |
+| **Review** | What `/sprint-review` produces: a report on your sprint, then your answers to its retro questions | `sprints/sprint-N-review.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 25 |
+| **Demo** | 2 to 3 minutes on Loom of your work, working | Loom | Paste the Loom link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 25 |
 
 ### Your Foundry repo
 
@@ -71,9 +114,9 @@ uses. Name it `<your NetID>_foundry`, keep it private, and add Professor Murff (
 collaborator. If you also take MSB 341, keep the two repos separate: each course numbers its
 sprints differently.
 
-Your client code does not go in this repo. It stays in the engagement's repo in the
-`ai-foundry-byu` organization, which Professor Murff can already see. Your Foundry repo holds
-your plans, your reviews, and a README that says where the work lives.
+Client code does not go in this repo. It stays in the engagement's repo in the `ai-foundry-byu`
+organization, which Professor Murff can already see. Your Foundry repo holds your plans, your
+reviews, and a README that says where the work lives.
 
 The first time you run `/sprint-plan` in the repo, it asks which course the repo is for. Answer
 AI Foundry. We set this up together in studio on October 23.
@@ -86,7 +129,9 @@ Run `/sprint-plan` on the first day of the sprint. It interviews you and writes
 ```markdown
 # Sprint N Plan
 
-**Engagement:** The client, your studio project, or the internal work.
+**Menu:** Build, Learn, or both. For each Build, who it's for: a client
+(name it), the Foundry, or your own product. For each Learn, the course
+or chapters.
 
 **Teammates:** Who else is working on it, or "Solo."
 
@@ -101,9 +146,6 @@ and what they will see.
 
 **Done looks like:** How will you know the goal was met? Specific enough that
 someone else could check.
-
-**Certification:** What you will build for this sprint's certification
-deliverable, and where it will live.
 
 **Predicted difficulty:** 1 to 5.
 ```
@@ -128,7 +170,8 @@ advanced. Nothing leaves your computer except the report.
 Then it asks six retro questions:
 
 1. Did you hit the goal? Yes, partly, or no, and why.
-2. What did the client or your users say or do about the work?
+2. What did the client or your users say or do about the work? For a Learn-only sprint, who did
+   you show it to, and what did they say?
 3. What did the report show you that you did not expect?
 4. If the plan changed, why?
 5. Actual difficulty, 1 to 5, and why it differed from what you predicted.
@@ -141,16 +184,18 @@ Answer in your own words. It saves your answers exactly as you write them at the
 
 Record 2 to 3 minutes on [Loom](https://www.loom.com) of your work, working, with real content.
 No intro and no reflection: the work itself, opened, for most of the video. On a team, show your
-part and say what you did.
+part and say what you did. For Learn, show the thing you built with it running, or explain one
+concept from what you learned using your own work.
 
-| If your sprint was | Your demo shows |
+| If your work was | Your demo shows |
 |---|---|
-| A feature or a deployed change | The feature in use: click through it |
+| A feature or deployed change | The feature in use: click through it |
 | An agent, automation, or integration | It running, start to finish, on a real input |
 | An evaluation harness or tests | The tests running and the results they return |
 | Discovery or research | One or two of your notes opened, and what you concluded |
-| A client deliverable (memo, deck, plan) | The deliverable, and the decision it asks the client to make |
+| A client deliverable | The deliverable, and the decision it asks the client to make |
 | Design | The interface or designs, clicked or scrolled through |
+| Go-to-market, pricing, or sales | The page, the model with one input changed, or the asks you sent and your pipeline |
 
 **Loom only.** A demo on Google Drive, YouTube, or an uploaded file scores 0. Set the Loom to
 "Anyone with the link" or share it with scott.murff@byu.edu. A video Professor Murff cannot open
@@ -167,49 +212,32 @@ Keep real names, emails, and phone numbers off the screen.
 
 Submit two links in **Sprint N Wrap-up** on Canvas: your review file on GitHub and your Loom.
 Before you do, make sure the **Where the work lives** section of your README lists every repo,
-deployed app, and document someone needs to check your output.
+deployed app, certificate, and document someone needs to check your output.
 
 ## Grading rubric
 
 | Category | Points | What earns full marks |
 |---|--:|---|
 | **Plan** | 10 | Its GitHub link submitted on Canvas by the Monday deadline, with every field filled in. Graded for completion |
-| **Output** | 50 | Your part of the goal, real, finished, and checkable. Read against your plan as it stands at the end, and, from Sprint 2 on, weighed by how hard the work was for you. A goal that needs someone else's yes is graded on the asks you made |
-| **Review** | 20 | Report committed, with your retro answering all six questions and responding to something specific in the report |
-| **Demo** | 20 | 2 to 3 minutes on Loom of your work, working, with real or clearly labeled sample content, viewable by Professor Murff |
+| **Output** | 60 | Your part of the plan, real, finished, and checkable, as defined for Build and Learn above. Read against your plan as it stands at the end, and, from Sprint 2 on, weighed by how hard the work was for you |
+| **Review** | 25 | Report committed, with your retro answering all six questions and responding to something specific in the report |
+| **Demo** | 25 | 2 to 3 minutes on Loom of your work, working, with real or clearly labeled sample content, viewable by Professor Murff |
 
-**Output on client work.** A client engagement does not always produce something new every two
+**Waiting on a client.** A client engagement does not always produce something new every two
 weeks: a client goes quiet, a data export is late, a decision waits on their meeting. Output is
 read against what was in your control. Record what you were waiting on, when you asked, and what
 you did meanwhile, and that work is graded as output.
 
-**Goals that need someone else to say yes.** A client sign-off, a user agreeing to test, a
-meeting booked: you control the asks, not the answers. For these goals, Output is graded on the
-asks you made and can show: who you asked, when, what you asked for, and what they said. A no or
-a "not yet" costs no points when the ask is on record and your retro says what you learned.
+**Goals that need someone else to say yes.** A client sign-off, a prospect agreeing to a call, a
+user agreeing to test: you control the asks, not the answers. For these goals, Output is graded
+on the asks you made and can show: who you asked, when, what you asked for, and what they said. A
+no or a "not yet" costs no points when the ask is on record and your retro says what you learned.
 
 **Demo length.** A demo up to 3:30 loses no points. From Sprint 2, each started 30 seconds past
 3:30 costs 1 point (3:31 to 4:00 is minus 1, 4:01 to 4:30 minus 2, and so on).
 
 **Late work.** Canvas applies the late penalty: 10% per day, up to 9 days. Graders never deduct
 for lateness themselves.
-
-## The certification deliverable
-
-Each fall sprint carries one course from the [certification track](08-certification.qmd) and the
-thing that course has you build. It is its own Canvas assignment, **Certification:
-&lt;course&gt;**, worth 20 points and due with the Wrap-up.
-
-| Part | Points | What earns full marks |
-|---|--:|---|
-| **Certificate** | 5 | The course's certificate of completion from the Anthropic Academy, as a PDF or screenshot |
-| **Working deliverable** | 15 | The deliverable in a repo, used in your real work (client engagement or studio project), and shown working in your sprint demo or a separate Loom of up to 2 minutes |
-
-Build the deliverable into the sprint's work where you can. A Skill your team uses on the client
-repo counts as both sprint output and the certification deliverable.
-
-If you finished Building with the Claude API and built its evaluation harness this fall, you may
-submit the harness in place of any one of the three deliverables. Say so in that sprint's plan.
 
 ## Your sprint feedback
 
