@@ -50,8 +50,8 @@ Every Build item names who the work is for.
 | **The Foundry** | Work on the Foundry itself: internal tools, business development with a prospective client, a customer story, recruiting |
 | **Your own product** | A [studio project](09-studio-projects.qmd) or a product you or your team own |
 
-**If you are staffed on an engagement, your Build is for your client first.** Add a second item
-if you have hours left. If you are not staffed, choose freely.
+**If you are staffed on an engagement, your Build is for your client first.** You can add a
+second item, such as a Claude course. If you are not staffed, choose freely.
 
 Every Build plan names at least one person, other than you and Professor Murff, who will use or
 see the work: the client, a user, or a teammate who depends on it.
@@ -94,7 +94,7 @@ Studying alone leaves nothing to check, so every Learn item ends in proof.
 | Chapters of the [Product Management book](https://byu-strategy.github.io/product-management/) | Your `/learn` logs for those chapters, plus your result on the Builder practice exam |
 
 A sprint can be Learn only. A single course takes hours and a sprint is two weeks of work, so a
-Learn-only sprint covers enough to fill it, for example several courses, or several chapters and
+Learn-only sprint covers two weeks of learning, for example several courses, or several chapters and
 the practice exam, each with its proof.
 
 ## What you turn in

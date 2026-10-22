@@ -1,20 +1,20 @@
 # Studio Projects
 
-Not every builder is on a client engagement at any given moment, and that is a matter of
-arithmetic rather than merit. The Foundry runs six concurrent engagements at capacity. Each pod
-seats two builders. That is twelve client seats against a cohort of thirty.
+Not every builder is on a client engagement at any given moment. The cohort has more builders
+than there are seats on client engagements, so some builders are always unstaffed. Being
+unstaffed says nothing about merit.
 
 If you are not staffed, you are on a **studio project**. It is the same work held to the same
 standard, without a client paying for it.
 
-## This is not a holding pattern
+## A studio project is real work
 
 A studio project is a real product with real users, built to the
 [Build Standards](04-build-standards.qmd) that govern client work. It ships. On the
 [sprint menu](11-sprints.qmd#the-sprint-menu) it is a **Build for your own product**, planned,
 reviewed, demoed, and graded exactly like client work. The only thing it lacks is an invoice.
 
-Three reasons it matters more than it sounds.
+It matters for three reasons.
 
 **It is how you get staffed.** Engagements are staffed by reputation, and reputation comes from
 work people have seen. A shipped studio project, with sprint reviews and demos behind it, is the
@@ -25,8 +25,8 @@ yet.
 it has more than one builder who can do that kind of work. Studio projects are where that depth
 comes from.
 
-**It is the lab for your certification.** Client work is unpredictable and will not exercise
-every skill on a schedule. A studio project is yours to shape, so you can deliberately build the
+**It is where you can practice what a Claude course teaches.** Client work is unpredictable and
+will not use every skill on a schedule. A studio project is yours to shape, so you can deliberately build the
 thing a Claude course teaches, an evaluation harness, an MCP server, a Skill, and count it as a
 Learn item in the same sprint. See [The Certification Track](08-certification.qmd).
 
@@ -48,10 +48,10 @@ the three users before you start building, not after.
 A studio project has to be something a client could plausibly have paid for. In practice that
 means it clears three bars:
 
-- **It solves someone's actual problem.** Not a demo, not a tutorial reimplementation, not a
-  wrapper around a model with no user in mind.
-- **It uses Claude as material, not decoration.** The API, an agentic loop, an MCP integration,
-  or all three. If removing the AI leaves the product intact, pick something else.
+- **It solves someone's actual problem.** A demo, a reimplemented tutorial, or a model wrapper
+  with no user in mind does not qualify.
+- **Claude does real work in it,** through the API, an agentic loop, an MCP integration, or all
+  three. If removing the AI leaves the product intact, pick something else.
 - **It runs somewhere other than your laptop.** Deployed, reachable, and running when you are
   asleep.
 
@@ -67,9 +67,8 @@ is your answer to the second retro question. Colleague and client feedback works
 see [The Developmentship Model](10-developmentship.qmd).
 
 ::: {.callout-note}
-A studio project is not worth fewer points than a client engagement, and being unstaffed is not
-a grade penalty. The Foundry cannot seat everyone on a client, and it would be dishonest to
-build a course that quietly punishes you for that.
+A studio project earns the same points as client work. Being unstaffed does not cost you
+points.
 :::
 
 When you finish, decide what happens to it next: hand it to another builder, open it up, fold it
