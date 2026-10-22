@@ -10,25 +10,25 @@ standard, without a client paying for it.
 ## This is not a holding pattern
 
 A studio project is a real product with real users, built to the
-[Build Standards](04-build-standards.qmd) that govern client work. It ships. It gets reviewed at
-the same milestones. The only thing it lacks is an invoice.
+[Build Standards](04-build-standards.qmd) that govern client work. It ships. On the
+[sprint menu](11-sprints.qmd#the-sprint-menu) it is a **Build for your own product**, planned,
+reviewed, demoed, and graded exactly like client work. The only thing it lacks is an invoice.
 
 Three reasons it matters more than it sounds.
 
-**It is how you get staffed.** The matching rule gates eligibility on your archetype ratings, and
-ratings move when you ship, not when you study. A 1 becomes a 2 the first time you build
-something real in that archetype. Shipping a studio project in an archetype where you are weak is
-the fastest route onto the client engagement you actually want.
+**It is how you get staffed.** Engagements are staffed by reputation, and reputation comes from
+work people have seen. A shipped studio project, with sprint reviews and demos behind it, is the
+strongest evidence you can offer that you can carry a kind of work you have not done for a client
+yet.
 
-**It is how the Foundry stays able to sign work.** Rule 4 of the matching rule, the two-deep rule,
-requires a second builder rated 3 in the primary archetype sitting on the bench. Without that
-depth we cannot sign a build phase at all. Studio projects are where the bench gets deep enough
-to say yes to a client.
+**It is how the Foundry stays able to sign work.** The Foundry can only take an engagement when
+it has more than one builder who can do that kind of work. Studio projects are where that depth
+comes from.
 
 **It is the lab for your certification.** Client work is unpredictable and will not exercise
 every skill on a schedule. A studio project is yours to shape, so you can deliberately build the
-thing the [certification track](08-certification.qmd) asks for: an evaluation harness, an MCP
-server, a Skill your team uses.
+thing a Claude course teaches, an evaluation harness, an MCP server, a Skill, and count it as a
+Learn item in the same sprint. See [The Certification Track](08-certification.qmd).
 
 ## Shape
 
@@ -55,42 +55,16 @@ means it clears three bars:
 - **It runs somewhere other than your laptop.** Deployed, reachable, and running when you are
   asleep.
 
-Faculty approves the brief in the first two weeks of the semester. Bring a one-page description
-of the problem, the three users, the archetype it exercises, and what shipping looks like.
-
-## Milestones
-
-Studio projects run the same four milestones as client engagements, scaled to one or two
-builders, and graded on the same four dimensions: correctness, usefulness, explainability, and
-craft.
-
-| Milestone | What is due |
-|-----------|-------------|
-| **D: Discovery** | The problem, the three users and what you learned from them, what you will build, and what you will not |
-| **B1: Working build** | Software that runs, with the architecture documented |
-| **B2: Shipped** | Deployed, reachable, tested, and in front of your users |
-| **T: Transfer** | Documentation good enough for someone else to run it, and a decision about what happens to it next |
-
-Transfer is not a formality. At T you decide whether the project gets handed to another builder,
-opened up, folded into a Foundry engagement, or shut down honestly. Shutting something down and
-saying why is a passing answer.
+Your first sprint plan on a studio project says what the problem is, who the three users are,
+and what shipping looks like.
 
 ## How it is graded
 
-Studio projects carry the same weight as client work. The milestone component is identical. The
-one component that has no direct analog is the client's evaluation, so it is replaced.
-
-| Component | Client engagement | Studio project |
-|-----------|-------------------|----------------|
-| Milestone deliverables | Graded by faculty against the Build Standards | Identical |
-| Client evaluation | Your client rates the team on five dimensions | **Your users** rate the product on the same five dimensions |
-| Weekly update emails | Identical | Identical |
-| Developmentship | Identical | Identical |
-| Video reflection | Identical | Identical |
-
-Your three users answer the same questionnaire the client answers: timeliness, communication,
-agency, technical competency, and contribution. If you cannot get three users to answer five
-questions, that is information about the project.
+A studio project is graded the way every sprint is graded: Plan, Output, Review, and Demo, on the
+same rubric as client work. See [Sprints](11-sprints.qmd). Your users take the place of the
+client: they are the people your plan names under **Who will see it**, and what they said or did
+is your answer to the second retro question. Colleague and client feedback works the same way;
+see [The Developmentship Model](10-developmentship.qmd).
 
 ::: {.callout-note}
 A studio project is not worth fewer points than a client engagement, and being unstaffed is not
@@ -98,14 +72,12 @@ a grade penalty. The Foundry cannot seat everyone on a client, and it would be d
 build a course that quietly punishes you for that.
 :::
 
+When you finish, decide what happens to it next: hand it to another builder, open it up, fold it
+into a Foundry engagement, or shut it down. Shutting something down and saying why is a sound
+answer, and it belongs in that sprint's review.
+
 ## Getting staffed from here
 
-Points keep accruing while you are on a studio project, capped at 300, exactly as they would
-otherwise. Nothing about being on a studio project costs you standing in the auction.
-
-If a new engagement signs and its primary archetype matches what you just shipped, say so.
-Faculty calibrates archetype ratings, and a shipped studio project is the strongest evidence
-available that a rating should move.
-
-The path is short and it is the one the Foundry actually wants you to walk: ship something, raise
-the rating, clear the fit gate, win the seat.
+If a new engagement needs the kind of work you just shipped, say so to Professor Murff, and
+point to the sprint where it shows. When you are staffed partway through a sprint, run
+`/sprint-plan` again and note the change. It costs nothing.

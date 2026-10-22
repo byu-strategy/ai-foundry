@@ -34,7 +34,8 @@ students/                       # everything rendered
   01-syllabus.qmd               # Grading, policies, confidentiality, AI use, BYU boilerplate
   02-getting-started.qmd        # Onboarding, team roles, first two weeks
   05-how-teams-are-staffed.qmd  # Pods, archetypes, matching rule, the points auction
-  03-weekly-updates.qmd         # Weekly client email format and examples
+  03-weekly-updates.qmd         # Client update email (the individual Foundry update retired 2026-10-23)
+  11-sprints.qmd                # Two-week sprints: the sprint menu, deliverables, rubric (from 2026-10-23)
   04-build-standards.qmd        # Quality bar, repo standards, decision log, QC gate
 
 client-facing/                  # NOT rendered. Porting source for aifoundry.byu.edu
@@ -77,7 +78,9 @@ Styles for both classes live at the bottom of `styles.css`.
   per engagement at kick-off. Do not reintroduce fixed dates into partner-facing pages
 - **Scott's title**: Faculty Advisor
 - **Contact**: aifoundry.byu.edu, aifoundry@byu.edu
-- **Key student deliverable**: weekly client update, sent Saturday by 11:59 PM by the client lead
+- **Key student deliverable**: the two-week sprint (plan, review, Loom demo), for every student,
+  staffed or not, from 2026-10-23. The sprint model is shared across courses and specified in
+  `byu-strategy/builder-template/.claude/sprint-model.md`; this site's Sprints page must agree with it
 
 ## Open Decisions
 

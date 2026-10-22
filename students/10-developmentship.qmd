@@ -224,5 +224,5 @@ A development summary, not just a number: your four axis scores, the themes acro
 reviewed you, where sources disagreed, and the two things to work on next. Individual comments
 are never attributed.
 
-Your video reflection is graded on what you do with it. See the
-[Syllabus](01-syllabus.qmd#video-reflection-40-points).
+In winter, your video reflection is graded on what you do with it. Its rubric is published with
+the winter grade.

@@ -1,124 +1,22 @@
-# Weekly Updates
+# Client Updates
 
-Two emails go out at the end of every week, and they do different jobs. The **client update**
-keeps the client informed and creates the record of the engagement. The **Foundry update** keeps
-the faculty advisor informed about you, individually, and is what your Weekly Update Email points
-are scored against.
+On a client engagement, the team sends the client one update at the end of every week. It keeps
+the client informed and creates the record of the engagement.
 
 | | Who sends | To | What it covers |
 |---|---|---|---|
 | **Client update** | Client lead, once, for the team | Client point of contact | What the team shipped |
-| **Foundry update** | Every student, individually | aifoundry@byu.edu | What you did |
 
-Both are due **Saturday by 11:59 PM**.
+It is due **Saturday by 11:59 PM** in every week the engagement runs.
 
-- First weekly email due: **September 5, 2026**
-- Final weekly email due: **April 10, 2027**
-- Total weekly emails: **28** (14 per semester)
+::: {.callout-note}
+**The individual Foundry update email ended with the week of October 12, 2026.** Your
+[sprint](11-sprints.qmd) plan, review, and Loom demo replaced it. See the
+[Syllabus](01-syllabus.qmd#extra-credit) for extra credit on the updates you sent.
+:::
 
 The end-of-week timing is intentional. It forces reflection on what actually got done, sets
 priorities before Monday, and surfaces blockers while there is still time to fix them.
-
----
-
-# The Foundry Update
-
-This is the individual one. Every student sends it, every week, including weeks when the client
-update went out under someone else's name.
-
-## Recipients
-
-- **To:** aifoundry@byu.edu
-- **CC:** Your client lead
-- **Subject:** `Foundry Weekly - [Your Name] - [Client] - Week of [Date]`
-
-Use this subject line exactly. Updates are logged from it, and an update that does not use it may
-not be credited. If you are not staffed on a client engagement that week, put `Studio` in the
-client slot.
-
-## Email Format
-
-Your update should include three sections.
-
-**1. What I worked on and accomplished this week [Required]**
-
-- List completed tasks and deliverables
-- Be specific about outcomes, not just activities
-- Include the number, the finding, or the decision where there is one
-
-**2. Plans for next week [Required]**
-
-- Outline your priorities and planned tasks
-- Be realistic about what you can accomplish
-
-**3. Blockers, risks, or dependencies [May exclude if none]**
-
-- Flag anything that might impact your progress
-- Include items you need from others
-- Mention any questions or decisions needed
-
-Close with your hours for the week, split between base and surge. This is the same number your
-team logs, and the two need to agree.
-
-## Example Email
-
-```
-Subject: Foundry Weekly - Ana Torres - Meridian Health - Week of Oct 5
-
-Hi Professor Murff,
-
-This week I worked on and accomplished the following:
-- Reconciled the revenue baseline to Meridian's FY26 actuals. We were off by
-  2.3% on specialty; the gap was a channel mapping issue, now corrected.
-- Built the sensitivity harness for price erosion and launch timing, and ran
-  the first pass across the 42 scored products.
-- Ran the Wednesday client call while Tyler was out.
-
-Next week, my priorities are:
-- Finish the sensitivity pass on the remaining 18 products
-- Identify which rankings are fragile and write that up for the discovery doc
-- Pair with Josh on the ingestion script so I am not the only one who can run it
-
-There are a couple things to flag:
-- Still waiting on read access to the 2024-2025 gross-to-net detail (requested
-  Tuesday). If it does not land next week, discovery goes out with modeled
-  margin rather than actuals.
-- I have a midterm Thursday and will be offline that day.
-
-Hours: 11 base, 4 surge.
-
-Ana
-```
-
-## Grading
-
-The Weekly Update Email component scores **compliance only**: whether your update arrived, on
-time.
-
-| Status | Points |
-|--------|--------|
-| On time (Saturday by 11:59 PM) | 2 pts |
-| Late (by Monday 8:00 AM) | 1 pt |
-| After Monday 8:00 AM | 0 pts |
-
-Whether it was any good is graded on the Communication axis of your developmentship composite,
-from these same emails, by the people who had to read them. A three-line update that arrives
-every Saturday earns full compliance points and a poor Communication rating, and that trade is
-not a good one.
-
-## Staffed Weeks
-
-Your Foundry update is also the record of which weeks you were staffed. A week counts as a
-staffed week when both are true:
-
-1. The staffing roster has you on a client engagement that week. Discovery engagements count.
-2. Your Foundry update for that week reports work for that client and arrives by Monday 8:00 AM.
-
-An update that arrives, but reports work for a client you are not staffed on, or reports only
-studio or certification work, is graded for compliance as usual and does not count as a staffed
-week.
-
----
 
 # The Client Update
 
@@ -211,5 +109,5 @@ This applies to both emails.
 | **Monday** | Team stand-up, confirm week's priorities and owners |
 | **Midweek** | Standing client call, execute |
 | **Thursday** | QC lead reviews anything going to the client |
-| **Friday** | Studio time in 1244 TNRB, cross-team critique |
-| **Saturday** | Client lead sends the client update; everyone sends their Foundry update, by 11:59 PM |
+| **Friday** | Studio time in 1244 TNRB, cross-team critique; sprint demos every other Friday |
+| **Saturday** | Client lead sends the client update, by 11:59 PM |

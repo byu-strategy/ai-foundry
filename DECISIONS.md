@@ -262,3 +262,20 @@ Exam specifications, the list of qualifying certifications, tier thresholds, pol
 course lists are all confirmed on Anthropic's own pages. Several third-party prep sites publish a
 five-domain blueprint with percentage weights for Architect Foundations that conflicts with
 Anthropic's own description of that exam. Do not plan curriculum against those weights.
+
+## Added 2026-10-22: two-week sprints and the sprint menu
+
+- From 2026-10-23 every student runs two-week sprints (plan, output, review, Loom demo), staffed
+  or not. The sprint replaces the individual weekly update email (forgiven through the week of
+  Oct 12, with extra credit for those sent).
+- Each sprint holds one or two items from the sprint menu: **Build** (any part of the value
+  chain, for a client, the Foundry, or your own product; staffed students build for their client
+  first) or **Learn** (a Claude course or Product Management book chapters, ending in proof).
+- Fall grade: 3 sprints x 120 (Plan 10, Output 60, Review 25, Demo 25) + colleague and client
+  feedback 140 = 500. Winter adds the client evaluation and the video reflection.
+- Engagement length is set per client; the sprint calendar does not depend on it.
+- The model is shared with MSB 341 and STRAT 477R; the spec is
+  `byu-strategy/builder-template/.claude/sprint-model.md`.
+- Still open: a Learn-only sprint once in fall when unstaffed; whether certification is expected
+  of everyone; the extra credit amount; whether the client update stays; the staffing page
+  rewrite (no points or auction since 2026-09-23).

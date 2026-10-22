@@ -62,29 +62,40 @@ Teams are staffed for coverage rather than for balance: every Builder axis has s
 team who can carry it, even though no individual carries all six. If you are the only person on
 your team strong on an axis, that is not an accident.
 
-## Key Dates
+## Your Sprints
 
-| Milestone | When |
-|-----------|------|
-| Engagement kick-off | Set per engagement, rolling |
-| D: Discovery | Set at kick-off |
-| B1: Working build | Set at kick-off |
-| B2: Shipped | Set at kick-off |
-| T: Transfer | Set at kick-off |
-| Weekly updates due (individual and client) | Saturday by 11:59 PM |
+Every student runs the same two-week [sprints](11-sprints.qmd), staffed or not. Your engagement's
+own dates (kick-off, phase reviews, roll-off) are set with the client and do not change the
+sprint calendar.
 
-Engagements are accepted on a rolling basis, so your team's dates come from your kick-off, not
-from a course-wide calendar.
+| Sprint | Starts | Plan due | Wrap-up due |
+|---|---|---|---|
+| 1 | Fri, Oct 23 | Mon, Oct 26, 11:59 PM | Fri, Nov 6, 8:00 AM |
+| 2 | Fri, Nov 6 | Mon, Nov 9, 11:59 PM | Fri, Nov 20, 8:00 AM |
+| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Fri, Dec 4, 8:00 AM |
+
+### Set up your Foundry repo
+
+We do this together in studio on October 23.
+
+1. Create your repo from the [builder template](https://github.com/byu-strategy/builder-template),
+   named `<your NetID>_foundry`, private, under your own GitHub account.
+2. Add Professor Murff (`sdmurff`) as a collaborator.
+3. Open the repo in VS Code, start Claude Code, and run `/sprint-plan`. The first time, it asks
+   which course the repo is for: answer AI Foundry.
+4. Commit and push your Sprint 1 plan, and paste its GitHub link into **Sprint 1 Plan** on Canvas.
+
+If you also take MSB 341, keep the two repos separate.
 
 ## Your Responsibilities
 
 - **Confirm expectations** and ask clarifying questions rather than guessing
-- **Deliver on schedule.** A client who is surprised at a milestone has been failed earlier
+- **Deliver on schedule.** A client who is surprised at a deadline has been failed earlier
 - **Come prepared** to client calls with an agenda, progress, and specific asks
-- **Raise blockers within 48 hours.** Not at the weekly call, and not at the milestone
+- **Raise blockers within 48 hours.** Not at the weekly call, and not at the end of the sprint
 - **Protect client data** per the confidentiality terms in the [Syllabus](01-syllabus.qmd)
-- **Send your end-of-week update** to aifoundry@byu.edu every Saturday, CC your client lead.
-  This is individual and separate from the team's client update
+- **Run every sprint:** plan by Monday, review and Loom demo by the Friday it ends. This is
+  individual and separate from the team's client update
 - **Carry your share.** Your teammates grade you on this
 
 ## What You'll Be Working On

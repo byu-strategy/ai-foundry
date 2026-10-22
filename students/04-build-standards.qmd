@@ -1,7 +1,7 @@
 # Build Standards
 
-Milestones are graded against these standards. They are also what separates work a client pays
-for from work a client tolerates.
+Client work you submit as sprint output is read against these standards. They are also what
+separates work a client pays for from work a client tolerates.
 
 ## The Four Dimensions
 
@@ -55,7 +55,7 @@ client-<slug>/
   app/               The application. Whatever stack the job calls for
   integrations/      Connections into the client's systems
   analysis/          Notebooks and scripts, in order, that reproduce every number
-  deliverables/      What the client actually receives, versioned by milestone
+  deliverables/      What the client actually receives, versioned by delivery
   docs/              Handoff docs, meeting notes, decision log, scope changes
 ```
 
@@ -94,8 +94,8 @@ Nothing goes to the client without the QC lead's sign-off. The QC lead checks:
 - [ ] No client data or secrets in the repository
 - [ ] Document is proofread, charts are labeled, filenames are clean
 
-A milestone that fails QC after it reaches the client costs the whole team craft points. Catch
-it internally.
+Work that fails QC after it reaches the client is a miss for the whole team, and the client
+notices it. Catch it internally.
 
 ## Working with AI
 
@@ -107,5 +107,5 @@ Use AI tools hard. They are why a team of five can deliver what used to take fif
   engagements.
 - **Keep client data out of unapproved tools.** See the confidentiality terms in the
   [Syllabus](01-syllabus.qmd).
-- **Document your method.** Milestone documentation should state which tools you used, for
+- **Document your method.** Project documentation and your sprint reviews should state which tools you used, for
   what, and how you validated the output. This is not a confession, it is methodology.
