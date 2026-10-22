@@ -205,6 +205,20 @@ class Canvas:
         except urllib.error.HTTPError as e:
             return e.code, None
 
+    def graphql(self, query):
+        if not self.allow_writes:
+            raise RuntimeError("refusing GraphQL mutation: dry run")
+        req = urllib.request.Request(self.base[: -len("/v1")] + "/graphql",
+                                     data=json.dumps({"query": query}).encode(), method="POST",
+                                     headers={"Authorization": f"Bearer {self._token}",
+                                              "Content-Type": "application/json"})
+        with urllib.request.urlopen(req) as r:
+            out = json.load(r)
+        errs = [e for v in (out.get("data") or {}).values() if v for e in (v.get("errors") or [])]
+        if out.get("errors") or errs:
+            sys.exit(f"GraphQL failed: {out.get('errors') or errs}")
+        return out
+
     def get(self, path):
         status, out = self._req("GET", path)
         return out if status == 200 else None
@@ -321,6 +335,14 @@ def apply(api, items, state):
         body["assignment_group_id"] = groups[a["group"]]["id"]
         created[a["name"]] = api.write("POST", f"/courses/{COURSE_ID}/assignments", {"assignment": body})
         print(f"created: {a['name']}")
+
+    # The REST field post_manually is ignored on create (found 2026-10-22: every assignment came
+    # back False and the first extra-credit scores posted). The post policy is GraphQL only.
+    api.graphql(f'mutation {{ setCoursePostPolicy(input:{{courseId:"{COURSE_ID}", postManually:true}}) {{ errors {{ message }} }} }}')
+    for a in items:
+        aid = created[a["name"]]["id"]
+        api.graphql(f'mutation {{ setAssignmentPostPolicy(input:{{assignmentId:"{aid}", postManually:true}}) {{ errors {{ message }} }} }}')
+    print("post policy: manual, course and every assignment")
 
     mod = state["modules"].get("Sprints")
     if not mod:
