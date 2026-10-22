@@ -49,8 +49,9 @@ The Foundry builds software. Discovery work comes first, and its purpose is to d
 build. Every engagement ends with software the client is running.
 
 As at any consulting firm, client work arrives on the clients' schedule. There will be times when
-you are not staffed to a client project. In those periods you work through a set curriculum
-instead, beginning with the Claude Developer certification and then your own product.
+you are not staffed to a client project. In those periods you choose your work from the
+[sprint menu](11-sprints.qmd#the-sprint-menu): a studio project, work for the Foundry, or
+learning, such as the Claude courses or the Product Management book.
 
 Participation is a two-semester sequence, fall and winter.
 
@@ -107,9 +108,9 @@ obligations still apply on the terms set for that engagement.
 you are not staffed, you build your own product to the same standard, with real users, and ship
 it. See [Studio Projects](09-studio-projects.qmd).
 
-**Alongside all three, the certification track.** Every builder works toward the Claude Certified
-Developer, Foundations credential. The preparation is coursework and the deliverables feed
-whatever project you are on. See [The Certification Track](08-certification.qmd).
+**Alongside all three, the Claude courses.** Anthropic's free Claude courses are on the sprint
+menu as Learn items, and what they teach you to build goes into whatever project you are on. See
+[The Certification Track](08-certification.qmd).
 
 Which form you are on is a matter of staffing and timing rather than merit, and it can change
 between terms. How you are assigned is set out in
@@ -205,7 +206,9 @@ outline over what everyone else saw, so you can compare the two.
 ### The certification track
 
 The Claude courses are on the sprint menu as Learn items, graded as part of the sprint. Sitting
-the exam itself is optional and earns extra credit; see [The Certification Track](08-certification.qmd).
+the Claude Certified Developer exam is optional, and nothing in your grade depends on it. Whether
+Foundry builders can register for it through the Foundry is up to Anthropic and is not yet
+arranged. See [The Certification Track](08-certification.qmd).
 
 ### Extra credit
 

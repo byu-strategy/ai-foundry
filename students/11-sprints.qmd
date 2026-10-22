@@ -93,9 +93,9 @@ Studying alone leaves nothing to check, so every Learn item ends in proof.
 | A Claude course on the Anthropic Academy (see [The Certification Track](08-certification.qmd)) | The certificate of completion, plus the thing the course teaches you to build, used in your real work: a Skill or custom command with hooks, an MCP server, an evaluation harness |
 | Chapters of the [Product Management book](https://byu-strategy.github.io/product-management/) | Your `/learn` logs for those chapters, plus your result on the Builder practice exam |
 
-A course takes hours, and a sprint is two weeks of work, so Learn usually shares a sprint with a
-Build item. A sprint that is Learn only is allowed once in fall, and only when you are not
-staffed.
+A sprint can be Learn only. A single course takes hours and a sprint is two weeks of work, so a
+Learn-only sprint covers enough to fill it, for example several courses, or several chapters and
+the practice exam, each with its proof.
 
 ## What you turn in
 

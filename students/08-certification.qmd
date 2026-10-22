@@ -1,11 +1,16 @@
 # The Certification Track
 
-Every builder in the Foundry works toward the **Claude Certified Developer, Foundations**
-credential. The preparation is coursework. The exam is optional.
+The Foundry wants its builders to be able to earn the **Claude Certified Developer, Foundations**
+credential. The preparation courses are free, and they are on the
+[sprint menu](11-sprints.qmd#the-sprint-menu) as Learn items. The exam is optional.
 
-This is the one part of the year that every builder does, whether you are staffed on a client
-engagement or building your own product. Client work is unpredictable and does not exercise
-every skill on schedule. This track does.
+::: {.callout-note}
+**The exam is not yet available through the Foundry.** Registering through the Foundry depends
+on Anthropic, and it is not yet arranged. Nothing in your grade depends on the exam. The courses
+count as Learn items whether or not you ever sit it.
+:::
+
+Client work is unpredictable and does not exercise every skill on schedule. These courses do.
 
 ## Why this certification
 
@@ -91,8 +96,8 @@ Exact dates are confirmed against the university calendar at kick-off and posted
 [sprint menu](11-sprints.qmd#what-counts-as-learn-output): the certificate plus the deliverable,
 used in your real work, is the sprint's proof.
 
-**Sitting the exam is extra credit.** Passing earns extra credit. Failing does not cost you
-points. Fee arrangements are confirmed with you before you register.
+**Sitting the exam, once it is available through the Foundry, is extra credit.** Passing earns
+extra credit. Failing does not cost you points. Fee arrangements are confirmed with you before you register.
 
 The split is deliberate. The learning is inside our control, so it is required. The exam depends
 on a third party's scheduling, proctoring, and pricing, none of which the Foundry controls, so
