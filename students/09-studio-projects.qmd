@@ -38,10 +38,10 @@ Learn item in the same sprint. See [The Certification Track](08-certification.qm
 | **Hours** | The same 10 per week that a client engagement would take |
 | **Duration** | One semester, extendable to two if it still has active users |
 | **Surface** | One product surface. The same rule that governs client engagements |
-| **Users** | At least three real people who are not in the Foundry, using it for their own reasons |
+| **Users** | Aim for at least three people outside the Foundry using it for their own reasons by the end of the project. Each sprint plan names at least one |
 
-The user requirement matters most: without users, nobody outside the course can say whether the
-product works. Find the three users before you start building.
+Users are how you find out whether the product works. Find your first one before you start
+building. The three-user aim is a standard to work toward; it is not graded.
 
 ## What qualifies
 
@@ -55,8 +55,8 @@ means it meets three requirements:
 - **It runs somewhere other than your laptop.** Deployed, reachable, and running when you are
   asleep.
 
-Your first sprint plan on a studio project says what the problem is, who the three users are,
-and what shipping looks like.
+Your first sprint plan on a studio project says what the problem is, who its users are or will
+be, and what shipping looks like.
 
 ## How it is graded
 
