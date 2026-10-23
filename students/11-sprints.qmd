@@ -144,7 +144,7 @@ and what they will see.
 
 **Why this:** Why is this the right next thing?
 
-**Done looks like:** How will you know the goal was met? Specific enough that
+**What done looks like:** How will you know the goal was met? Specific enough that
 someone else could check.
 
 **Predicted difficulty:** 1 to 5.
