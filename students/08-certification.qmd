@@ -51,9 +51,9 @@ sit a different exam.
 
 ## Every course ships something
 
-You are not watching videos for a badge. Each course carries a deliverable that goes into the
-work you are already doing, client engagement or studio project. The deliverable is what gets
-reviewed at studio, not your course completion percentage.
+Each course carries a deliverable that goes into the
+work you are already doing, client engagement or studio project. Studio reviews the
+deliverable.
 
 | Course | What you ship |
 |--------|---------------|
@@ -62,8 +62,8 @@ reviewed at studio, not your course completion percentage.
 | Introduction to MCP | An MCP server against a real system: your client's, or your studio project's data layer |
 | Prep Course | A written answer to the mock exam's weakest domain for you, with the code to back it up |
 
-The evaluation harness is the one to take seriously. Evals are the thinnest skill in the cohort
-and the fastest way to raise your AI Systems axis.
+Start with the evaluation harness. Evals are the skill the cohort rated itself lowest on, and
+building one is the fastest way to raise your AI Systems axis.
 
 ## The calendar
 
@@ -85,8 +85,8 @@ mock exam runs in Sprint 3 for anyone planning to sit the exam in winter.
 | 9 to 10 | Third sitting, after the 30-day wait |
 
 Three windows inside winter is deliberate. The retake schedule means a first-attempt failure in
-January still leaves room for two more attempts before the year ends. Nobody who wants the
-credential should run out of calendar.
+January still leaves room for two more attempts before the year ends. Anyone who wants the
+credential has time for three attempts.
 
 Exact dates are confirmed against the university calendar at kick-off and posted in Canvas.
 
@@ -109,9 +109,9 @@ Anthropic's own description of the Developer certification stops at building. It
 engagement economics, client communication, responsible deployment, or how to decide whether a
 thing is worth building at all.
 
-That is the Foundry's half of the curriculum, and it is the half that is harder to learn
-anywhere else. The certification proves you can build on Claude. It does not prove you should
-have built what you built. Keep the distinction clear when you put it on a résumé.
+That is the part of the curriculum the Foundry teaches. The certification shows you can build on
+Claude. It does not test judgment about what to build. List it on a résumé as a building
+credential.
 
 ## For the Foundry
 
@@ -120,4 +120,4 @@ Network, alongside two client engagements deployed to production and one publish
 story. Select is the first tier that appears in Anthropic's public partner directory.
 
 Certifications expire after 12 months, so this is a standing annual target rather than a
-one-time push. Ten passes a year, every year.
+one-time push. The target is ten passes each year.

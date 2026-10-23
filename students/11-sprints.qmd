@@ -99,16 +99,16 @@ the practice exam, each with its proof.
 
 ## What you turn in
 
-| Deliverable | What it is | Where it lives | How you turn it in | When | Points |
+| Deliverable | What it is | Where it is saved | How you turn it in | When | Points |
 |---|---|---|---|---|--:|
 | **Plan** | Your menu items, who the work is for, your part, why, how you will know it is done, and how hard you expect it to be. `/sprint-plan` writes it with you | `sprints/sprint-N-plan.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Plan** on Canvas | The Monday after the sprint starts, 11:59 PM | 10 |
-| **Output** | What you finished this sprint, as defined above | The client repo, your own repo, a link, or your demo | Nothing separate. List every place it lives under **Where the work lives** in your README | Wrap-up due date | 60 |
+| **Output** | What you finished this sprint, as defined above | The client repo, your own repo, a link, or your demo | Nothing separate. List every repo, app, and file under **Work files and links** in your README | Wrap-up due date | 60 |
 | **Review** | What `/sprint-review` produces: a report on your sprint, then your answers to its retro questions | `sprints/sprint-N-review.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 25 |
-| **Demo** | 2 to 3 minutes on Loom of your work, working | Loom | Paste the Loom link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 25 |
+| **Demo** | 2 to 3 minutes on Loom showing your work running | Loom | Paste the Loom link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 25 |
 
 ### Your Foundry repo
 
-Your plans and reviews live in your own repo, made from the
+Your plans and reviews are saved in your own repo, made from the
 [builder template](https://github.com/byu-strategy/builder-template), the same template MSB 341
 uses. Name it `<your NetID>_foundry`, keep it private, and add Professor Murff (`sdmurff`) as a
 collaborator. If you also take MSB 341, keep the two repos separate: each course numbers its
@@ -116,7 +116,7 @@ sprints differently.
 
 Client code does not go in this repo. It stays in the engagement's repo in the `ai-foundry-byu`
 organization, which Professor Murff can already see. Your Foundry repo holds your plans, your
-reviews, and a README that says where the work lives.
+reviews, and a README listing your work files and links.
 
 The first time you run `/sprint-plan` in the repo, it asks which course the repo is for. Answer
 AI Foundry. We set this up together in studio on October 23.
@@ -182,7 +182,7 @@ Answer in your own words. It saves your answers exactly as you write them at the
 
 ### The demo
 
-Record 2 to 3 minutes on [Loom](https://www.loom.com) of your work, working, with real content.
+Record 2 to 3 minutes on [Loom](https://www.loom.com) showing your work running, with real content.
 No intro and no reflection: the work itself, opened, for most of the video. On a team, show your
 part and say what you did. For Learn, show the thing you built with it running, or explain one
 concept from what you learned using your own work.
@@ -211,7 +211,7 @@ Keep real names, emails, and phone numbers off the screen.
 ### The Wrap-up
 
 Submit two links in **Sprint N Wrap-up** on Canvas: your review file on GitHub and your Loom.
-Before you do, make sure the **Where the work lives** section of your README lists every repo,
+Before you do, make sure the **Work files and links** section of your README lists every repo,
 deployed app, certificate, and document someone needs to check your output.
 
 ## Grading rubric
@@ -221,7 +221,7 @@ deployed app, certificate, and document someone needs to check your output.
 | **Plan** | 10 | Its GitHub link submitted on Canvas by the Monday deadline, with every field filled in. Graded for completion |
 | **Output** | 60 | Your part of the plan, real, finished, and checkable, as defined for Build and Learn above. Read against your plan as it stands at the end, and, from Sprint 2 on, weighed by how hard the work was for you |
 | **Review** | 25 | Report committed, with your retro answering all six questions and responding to something specific in the report |
-| **Demo** | 25 | 2 to 3 minutes on Loom of your work, working, with real or clearly labeled sample content, viewable by Professor Murff |
+| **Demo** | 25 | 2 to 3 minutes on Loom showing your work running, with real or clearly labeled sample content, viewable by Professor Murff |
 
 **Waiting on a client.** A client engagement does not always produce something new every two
 weeks: a client goes quiet, a data export is late, a decision waits on their meeting. Output is
@@ -229,7 +229,7 @@ read against what was in your control. Record what you were waiting on, when you
 you did meanwhile, and that work is graded as output.
 
 **Goals that need someone else to say yes.** A client sign-off, a prospect agreeing to a call, a
-user agreeing to test: you control the asks, not the answers. For these goals, Output is graded
+user agreeing to test: you make the asks, and the other person decides the answer. For these goals, Output is graded
 on the asks you made and can show: who you asked, when, what you asked for, and what they said. A
 no or a "not yet" costs no points when the ask is on record and your retro says what you learned.
 

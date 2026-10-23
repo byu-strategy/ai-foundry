@@ -103,8 +103,8 @@ def wrapup_description(n, due_local):
 <a href="{SPRINTS_PAGE}#grading-rubric">rubric</a>.</p>
 <h3>What you need by the due date</h3>
 <ul>
-<li>Your output: your part of the plan, real, finished, and checkable. List every place it lives under
-<strong>Where the work lives</strong> in your README. See <a href="{SPRINTS_PAGE}#what-counts-as-build-output">Build output</a>
+<li>Your output: your part of the plan, real, finished, and checkable. List every repo, app, and file under
+<strong>Work files and links</strong> in your README. See <a href="{SPRINTS_PAGE}#what-counts-as-build-output">Build output</a>
 and <a href="{SPRINTS_PAGE}#what-counts-as-learn-output">Learn output</a>.</li>
 <li>Your review, <code>sprints/sprint-{n}-review.md</code>: run <code>/sprint-review</code>, answer its six retro
 questions, and commit and push the file. See <a href="{SPRINTS_PAGE}#the-review">The review</a>.</li>

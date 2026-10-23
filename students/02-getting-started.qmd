@@ -23,9 +23,9 @@ guide gets you productive in the first two weeks.
 - [ ] Identify the three assumptions that, if wrong, break the whole project
 
 ::: {.callout-tip}
-The single most common failure in a Foundry project is building the right thing for the wrong
-question. Spend the first two weeks making sure the question is right. The client will
-appreciate the challenge more than the compliance.
+The most common failure in a Foundry project is building a correct answer to a question the
+client did not need answered. Spend the first two weeks making sure the question is right.
+Clients expect you to question the brief in that time.
 :::
 
 ## Team Roles
@@ -38,18 +38,18 @@ Every team has the same three roles. They rotate by milestone unless the team ag
 | **Builders** | The work. Analysis, modeling, code, documents. |
 | **QC lead** | The standard. Nothing goes to the client without QC sign-off. |
 
-The QC lead role is not decorative. Client-facing work that contains an unreconciled number or
+The QC lead's sign-off is required. Client-facing work that contains an unreconciled number or
 an unexplainable model output is a QC failure, and it is graded as one.
 
 ## Where You Start on a Team
 
 Roles say what you do. Tier says how much of it you own. Your starting tier comes from what you
-have already built and shipped, not from what you rated yourself on the baseline survey.
+have already built and shipped. Your baseline survey ratings do not set it.
 
 | Tier | What it means |
 |------|---------------|
 | **Shadow** | You are on the project, in the meetings, reading the repo. You do not own a workstream yet |
-| **Contribute** | You own a piece of the work, with an experienced teammate backstopping you |
+| **Contribute** | You own a piece of the work, with an experienced teammate checking your work |
 | **Own** | You own a workstream end to end, and the client sees your name on it |
 
 Client lead is an Own-tier role. Students at Shadow or Contribute do not run the client
@@ -58,9 +58,9 @@ relationship in their first engagement.
 Tiers move during the semester, and they are meant to. Ask your QC lead what would have to be
 true for you to move up, then go do that. Nobody stays at Shadow because of a survey answer.
 
-Teams are staffed for coverage rather than for balance: every Builder axis has someone on the
-team who can carry it, even though no individual carries all six. If you are the only person on
-your team strong on an axis, that is not an accident.
+Teams are staffed so that every Builder axis is covered: someone on the team is strong on each
+axis, though no one is strong on all six. If you are the only person on
+your team strong on an axis, you were staffed for that axis.
 
 ## Your Sprints
 
@@ -90,7 +90,7 @@ If you also take MSB 341, keep the two repos separate.
 ## Your Responsibilities
 
 - **Confirm expectations** and ask clarifying questions rather than guessing
-- **Deliver on schedule.** A client who is surprised at a deadline has been failed earlier
+- **Deliver on schedule.** Tell the client about a likely slip as soon as you see it
 - **Come prepared** to client calls with an agenda, progress, and specific asks
 - **Raise blockers within 48 hours.** Not at the weekly call, and not at the end of the sprint
 - **Protect client data** per the confidentiality terms in the [Syllabus](01-syllabus.qmd)
@@ -107,9 +107,9 @@ Foundry teams ship software. Depending on the engagement, that includes:
 - **AI integration and orchestration.** Agents and copilots over the client's own data,
   automations across Slack, Notion, and their existing stack, document processing, extraction,
   routing, and summarization
-- **AI enablement.** Setting the client's own team up on frontier agent tooling, co-working
-  alongside their staff, then handing off
+- **AI enablement.** Setting the client's own team up on current agent tools such as
+  Claude Code, working alongside their staff, then handing off
 
-Discovery work comes first and is real analysis: where AI actually helps this business, what is
-worth building, what is worth automating. But discovery exists to point at something to build.
-The engagement ends with software running in the client's hands, not with a deck.
+Discovery work comes first: where AI helps this business, what is worth building, what is worth
+automating. The purpose of discovery is to decide what to build.
+The engagement ends with software the client is running.

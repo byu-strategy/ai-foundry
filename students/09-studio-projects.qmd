@@ -12,18 +12,18 @@ standard, without a client paying for it.
 A studio project is a real product with real users, built to the
 [Build Standards](04-build-standards.qmd) that govern client work. It ships. On the
 [sprint menu](11-sprints.qmd#the-sprint-menu) it is a **Build for your own product**, planned,
-reviewed, demoed, and graded exactly like client work. The only thing it lacks is an invoice.
+reviewed, demoed, and graded exactly like client work. The only difference is that no client pays for it.
 
 It matters for three reasons.
 
 **It is how you get staffed.** Engagements are staffed by reputation, and reputation comes from
 work people have seen. A shipped studio project, with sprint reviews and demos behind it, is the
-strongest evidence you can offer that you can carry a kind of work you have not done for a client
+strongest evidence you can offer that you can do a kind of work you have not done for a client
 yet.
 
-**It is how the Foundry stays able to sign work.** The Foundry can only take an engagement when
-it has more than one builder who can do that kind of work. Studio projects are where that depth
-comes from.
+**It is how the Foundry can take on engagements.** The Foundry can only take an engagement when
+it has more than one builder who can do that kind of work. Studio projects are where builders get that
+experience.
 
 **It is where you can practice what a Claude course teaches.** Client work is unpredictable and
 will not use every skill on a schedule. A studio project is yours to shape, so you can deliberately build the
@@ -36,17 +36,17 @@ Learn item in the same sprint. See [The Certification Track](08-certification.qm
 |---|---|
 | **Team** | Solo or a pair. No larger |
 | **Hours** | The same 10 per week that a client engagement would take |
-| **Duration** | One semester, extendable to two if it is going somewhere |
+| **Duration** | One semester, extendable to two if it still has active users |
 | **Surface** | One product surface. The same rule that governs client engagements |
 | **Users** | At least three real people who are not in the Foundry, using it for their own reasons |
 
-The user requirement is the one that makes this real. A project nobody uses is an exercise. Find
-the three users before you start building, not after.
+The user requirement matters most: without users, nobody outside the course can say whether the
+product works. Find the three users before you start building.
 
 ## What qualifies
 
 A studio project has to be something a client could plausibly have paid for. In practice that
-means it clears three bars:
+means it meets three requirements:
 
 - **It solves someone's actual problem.** A demo, a reimplemented tutorial, or a model wrapper
   with no user in mind does not qualify.

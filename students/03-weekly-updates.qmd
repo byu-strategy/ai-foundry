@@ -50,8 +50,8 @@ team-level miss and shows up in the client's evaluation of the team.
 
 **4. Blockers, risks, or dependencies [Omit if none]**
 
-- Anything that puts a milestone at risk
-- Flag it the week you see it, not the week it hits
+- Anything that puts a deadline at risk
+- Report it in the week you first see it
 
 ## Example Email
 
@@ -79,7 +79,7 @@ Decisions or input we need from you:
 
 Risks:
 - If the gross-to-net data is not available in the next week, discovery will
-  land with modeled margin rather than actuals, and we will need to revisit the
+  be completed using modeled margin rather than actuals, and we will need to revisit the
   build estimate afterward.
 
 Thanks,
@@ -90,15 +90,15 @@ Thanks,
 
 ## What Makes an Update Good
 
-This applies to both emails.
+This applies to the client update.
 
-- **Lead with the number or the finding.** "11 of 42 products clear the threshold" beats
-  "continued portfolio scoring."
+- **Lead with the number or the finding.** "11 of 42 products clear the threshold" is more
+  useful than "continued portfolio scoring."
 - **Name owners.** Unowned priorities do not get done.
-- **Ask for what you need explicitly.** Clients cannot read minds, and a blocker you did not
-  raise is your fault, not theirs.
-- **Flag risk early and unemotionally.** A risk raised in week 4 is a conversation. The same
-  risk surfaced in week 12 is a failure.
+- **Ask for what you need explicitly.** Clients do not know what you need unless you tell
+  them, and you are responsible for any blocker you did not raise.
+- **Flag risk early and unemotionally.** A risk raised in week 4 can still be planned around.
+  Raised in week 12, it usually cannot.
 - **Be concise.** Bullets, not paragraphs.
 - **Never pad.** A short honest week is fine. A long week of activity with no outcomes is not.
 

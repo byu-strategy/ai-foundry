@@ -35,7 +35,7 @@ and uses Canvas as the LMS. Register under whichever number fits your program.
 | STRAT 490R | 001 | Topics in Strategic Management | 3.0 |
 
 ::: {.callout-note}
-**Canvas** is used for submitting sprint plans and sprint Wrap-ups, and for grades. All other course content lives on this website.
+**Canvas** is used for submitting sprint plans and sprint Wrap-ups, and for grades. All other course content is on this website.
 :::
 
 ## Description
@@ -166,7 +166,7 @@ Fall and winter are graded separately. This is the fall grade. It replaced the o
 Winter's grade is published before winter starts, and adds the client evaluation and the video
 reflection.
 
-Developmentship is how the Foundry develops its members, and every part of this grade feeds it.
+Developmentship is how the Foundry develops its members, and every part of this grade counts toward it.
 Your sprints show what you can build, on the six Builder axes. Feedback from colleagues and
 clients shows how you work, on the four Consultant axes. See
 [The Builder and the Consultant](06-builder-and-consultant.qmd).
