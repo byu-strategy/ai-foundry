@@ -16,7 +16,7 @@ of the BYU Marriott School of Business. We build AI products. One team works out
 building and then ships it, because those are no longer two jobs.
 
 **This site is the student program guide.** It covers the course, how client teams are staffed,
-and the standard your work is held to. Everything a prospective client reads lives on the
+and the standard your work is held to. Everything written for prospective clients is on the
 official website, [aifoundry.byu.edu](https://aifoundry.byu.edu).
 
 The Foundry is not an internship placement and not a research project. Every engagement ends
