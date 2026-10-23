@@ -180,6 +180,9 @@ Then it asks six retro questions:
 Answer in your own words. It saves your answers exactly as you write them at the bottom of
 `sprints/sprint-N-review.md`, then commits and pushes the file.
 
+If you know Scrum: your demo is the sprint review, and the retro is the retrospective. The review
+file holds the evidence for both.
+
 ### The demo
 
 Record 2 to 3 minutes on [Loom](https://www.loom.com) showing your work running, with real content.
