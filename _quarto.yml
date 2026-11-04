@@ -24,6 +24,7 @@ book:
         - students/11-sprints.qmd
         - students/02-getting-started.qmd
         - students/08-certification.qmd
+        - students/12-practice-final.qmd
         - students/09-studio-projects.qmd
         - students/10-developmentship.qmd
     - part: On a Client Team
