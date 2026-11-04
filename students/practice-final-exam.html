@@ -52,7 +52,6 @@ h2{font:600 22px/1.25 var(--f-display);margin:44px 0 4px;text-wrap:balance}
 .q{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:16px 18px;margin:12px 0}
 .qh{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;margin:0 0 8px}
 .qid{font:500 12.5px var(--f-mono);color:var(--mute)}
-.tag{font:500 11px/1.6 var(--f-mono);text-transform:uppercase;letter-spacing:.06em;padding:0 7px;border-radius:999px;background:var(--amber-soft);color:var(--amber)}
 .mark{margin-left:auto;font:600 12.5px var(--f-body);padding:1px 9px;border-radius:999px}
 .mark.ok{background:var(--good-soft);color:var(--good)}.mark.no{background:var(--bad-soft);color:var(--bad)}.mark.skip{background:var(--rule);color:var(--mute)}
 .stem{font:400 17px/1.55 var(--f-display);margin:0 0 12px;max-width:66ch}
@@ -209,7 +208,7 @@ function render(){
         html+=`<div class="list"><h3>Option list for the next questions</h3><p>${esc(l.instruction)}</p><ol>${Object.entries(l.options).map(([k,v])=>`<li><span class="k">${k}</span>${esc(v)}</li>`).join("")}</ol></div>`}
       const pick=state.answers[x.id], show=shown(x), ok=pick===x.answer;
       const mark = show ? (pick?(ok?'<span class="mark ok">Correct</span>':'<span class="mark no">Incorrect</span>'):'<span class="mark skip">Not answered</span>') : "";
-      html+=`<article class="q${show?" done":""}" id="q-${x.id}"><div class="qh"><span class="qid">Question ${n}</span><span class="tag">${({know:"Know it",use:"Use it",predict:"Predict it"})[x.type]}</span>${mark}</div><p class="stem">${esc(x.stem)}</p>`;
+      html+=`<article class="q${show?" done":""}" id="q-${x.id}"><div class="qh"><span class="qid">Question ${n}</span>${mark}</div><p class="stem">${esc(x.stem)}</p>`;
       if(x.figure) html+=`<div class="fig"><img src="${x.figure}" alt="${esc(x.figure_alt||"Figure for this question")}"></div>`;
       html+=`<fieldset class="opts"><legend class="qid" style="position:absolute;left:-9999px">Options for question ${n}</legend>`;
       for(const [k,v] of Object.entries(optsOf(x))){

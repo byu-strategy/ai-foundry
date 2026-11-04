@@ -4,12 +4,8 @@ title: "Builder Practice Exam"
 
 A practice exam on what every Foundry builder should know: the six builder axes, taught in the
 MSB 341 Product Management book. It follows the same plan as the Builder Final, which is both the
-MSB 341 final and the AI Foundry entrance exam: the same six axes in the same proportions, the same
-three kinds of question, and a short case on each axis. No question here appears on the final.
-
-- **Know it:** what a thing is, or what it is for.
-- **Use it:** a short situation; pick the tool, step, or method that fits.
-- **Predict it:** what happens next, or what went wrong, and why.
+MSB 341 final and the AI Foundry entrance exam: the same six axes in the same proportions, and a
+short case on each axis. No question here appears on the final.
 
 On every question you also mark how sure you are, from 1 (guessing) to 3 (certain). It is never
 scored. Your results show how often you were right at each level, and they list the questions you
