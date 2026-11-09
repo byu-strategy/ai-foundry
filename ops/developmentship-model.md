@@ -52,7 +52,7 @@ different evidence.
 
 The rule across both courses is that **demonstrated proficiency is graded and a self-rating
 never is.** In the Build course the six Builder axes organize the graded work: the sprints, the
-codebase architecture analysis, peer code review, peer product testing. A student's standing on
+codebase architecture analysis, peer product testing. A student's standing on
 an axis there comes from an artifact somebody else evaluated.
 
 The baseline survey is a third thing, and it is graded nowhere. It is a development instrument
