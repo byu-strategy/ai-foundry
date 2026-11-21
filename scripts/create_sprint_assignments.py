@@ -58,11 +58,12 @@ LATE_POLICY = {             # same as 36977's late policy
 MAIN_GROUP = "Assignments"   # exists in 37925 already (unweighted), as in 36977
 EC_GROUP = "Extra credit"
 
-# Sprint calendar, course-local time. Plans are due 11:59 PM; Wrap-ups at 8:00 AM studio start.
+# Sprint calendar, course-local time. Plans are due 11:59 PM; Wrap-ups Saturday 11:59 PM (Sprint 3 on;
+# Sprints 1 and 2 were Friday 8:00 AM, changed 2026-11-21).
 SPRINTS = [
     (1, "2026-10-26 23:59", "2026-11-06 08:00"),
     (2, "2026-11-09 23:59", "2026-11-20 08:00"),
-    (3, "2026-11-23 23:59", "2026-12-04 08:00"),
+    (3, "2026-11-23 23:59", "2026-12-05 23:59"),
 ]
 
 
@@ -98,7 +99,7 @@ always shows the current file.</p>
 
 
 def wrapup_description(n, due_local):
-    return f"""<p><strong>Sprint {n} Wrap-up is due {fmt_local(due_local)}, when studio starts.</strong>
+    return f"""<p><strong>Sprint {n} Wrap-up is due {fmt_local(due_local)}.</strong>
 110 points: Output 60, Review 25, Demo 25. See the
 <a href="{SPRINTS_PAGE}#grading-rubric">rubric</a>.</p>
 <h3>What you need by the due date</h3>

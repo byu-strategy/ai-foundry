@@ -20,10 +20,10 @@ Professor Murff, your teammates, and the Foundry know what you are working on.
 |---|---|---|---|
 | 1 | Fri, Oct 23 | Mon, Oct 26, 11:59 PM | Fri, Nov 6, 8:00 AM |
 | 2 | Fri, Nov 6 | Mon, Nov 9, 11:59 PM | Fri, Nov 20, 8:00 AM |
-| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Fri, Dec 4, 8:00 AM |
+| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Sat, Dec 5, 11:59 PM |
 
-A sprint starts and ends at the Friday studio. The Wrap-up is due at 8:00 AM, when studio
-starts, so studio that day can open with demos.
+Starting with Sprint 3, the Wrap-up is due Saturday at 11:59 PM, the day after the sprint's
+last studio. The next sprint's plan is due the Monday after, at 11:59 PM.
 
 Each sprint is worth 120 points across two Canvas assignments, **Sprint N Plan** (10) and
 **Sprint N Wrap-up** (110). See [Grading](01-syllabus.qmd#grading) in the syllabus.
@@ -101,7 +101,7 @@ the practice exam, each with its proof.
 
 | Deliverable | What it is | Where it is saved | How you turn it in | When | Points |
 |---|---|---|---|---|--:|
-| **Plan** | Your menu items, who the work is for, your part, why, how you will know it is done, and how hard you expect it to be. `/sprint-plan` writes it with you | `sprints/sprint-N-plan.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Plan** on Canvas | The Monday after the sprint starts, 11:59 PM | 10 |
+| **Plan** | Your menu items, who the work is for, your part, why, how you will know it is done, and how hard you expect it to be. `/sprint-plan` writes it with you | `sprints/sprint-N-plan.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Plan** on Canvas | Monday, 11:59 PM, two days after the previous sprint's Wrap-up | 10 |
 | **Output** | What you finished this sprint, as defined above | The client repo, your own repo, a link, or your demo | Nothing separate. List every repo, app, and file under **Work files and links** in your README | Wrap-up due date | 60 |
 | **Review** | What `/sprint-review` produces: a report on your sprint, then your answers to its retro questions | `sprints/sprint-N-review.md` in your Foundry repo | Commit it, and paste its GitHub link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 25 |
 | **Demo** | 2 to 3 minutes on Loom showing your work running | Loom | Paste the Loom link into **Sprint N Wrap-up** on Canvas | Wrap-up due date | 25 |

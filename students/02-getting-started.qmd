@@ -72,7 +72,7 @@ sprint calendar.
 |---|---|---|---|
 | 1 | Fri, Oct 23 | Mon, Oct 26, 11:59 PM | Fri, Nov 6, 8:00 AM |
 | 2 | Fri, Nov 6 | Mon, Nov 9, 11:59 PM | Fri, Nov 20, 8:00 AM |
-| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Fri, Dec 4, 8:00 AM |
+| 3 | Fri, Nov 20 | Mon, Nov 23, 11:59 PM | Sat, Dec 5, 11:59 PM |
 
 ### Set up your Foundry repo
 
@@ -94,7 +94,7 @@ If you also take MSB 341, keep the two repos separate.
 - **Come prepared** to client calls with an agenda, progress, and specific asks
 - **Raise blockers within 48 hours.** Not at the weekly call, and not at the end of the sprint
 - **Protect client data** per the confidentiality terms in the [Syllabus](01-syllabus.qmd)
-- **Run every sprint:** plan by Monday, review and Loom demo by the Friday it ends. This is
+- **Run every sprint:** plan by Monday, review and Loom demo by 11:59 PM the Saturday it ends. This is
   individual and separate from the team's client update
 - **Carry your share.** Your teammates grade you on this
 
