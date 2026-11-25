@@ -151,7 +151,7 @@ letter allows it; otherwise describe the client by industry and size. For exampl
 > from 39% to 17% in two weeks. Led discovery with the clinic's operations team and handed the
 > system over to their staff.
 
-Keep it accurate. The Foundry is a for-credit program with paying clients, so do not list it as
+Keep it accurate. The Foundry is a for-credit program, so do not list it as
 a paid job or an internship. Leave LinkedIn's employment type blank. Do not post screenshots,
 code, data, or client names that the engagement letter keeps confidential, and ask your Project
 Advisor when you are not sure.
