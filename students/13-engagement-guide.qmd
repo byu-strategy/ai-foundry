@@ -15,7 +15,7 @@ These come from what clients told us when an engagement went badly.
 | The client expects | What that means in practice |
 |---|---|
 | **The hours you committed** | Work them every week. If you cannot, tell the client and faculty before the week starts. |
-| **Contact between calls** | Reply to every client message within one business day. Send at least one short written update between weekly calls. Ask questions during working hours, as they come up. |
+| **Contact between calls** | Reply to every client message the day it arrives, even if only to acknowledge it and say when the full answer is coming. A message that arrives after 10 PM gets its reply the next day. Send at least one short written update between weekly calls. Ask questions during working hours, as they come up. |
 | **What they asked for** | Confirm each requested deliverable in writing the same day, and deliver it by the date. If you think something else would serve them better, deliver what they asked for first, then propose the alternative. |
 | **Homework done** | Read the code, documents, and data the client gave you before asking about them. Keep a running log of their answers, and never ask the same question twice. |
 | **A point of view** | Bring a recommendation and your reasoning to every call. Questions are for what you could not find out yourself. |
@@ -90,7 +90,7 @@ Fifteen minutes, three questions. Bring the actual work, with no slides.
 **Every week**
 
 - [ ] Worked the hours you committed, or told the client and faculty in advance
-- [ ] Replied to every client message within one business day
+- [ ] Replied to every client message the same day (next day if it arrived after 10 PM), at least to acknowledge it
 - [ ] Sent at least one written update between calls
 - [ ] Raised every blocker within 48 hours
 - [ ] Brought the actual work to the faculty deep dive
