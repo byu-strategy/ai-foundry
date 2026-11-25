@@ -13,8 +13,8 @@ This page is short on purpose. Read it before your first client call, and run th
 | Role | Who | What they own |
 |---|---|---|
 | **Project Advisor** | Professor Murff or Professor Toborg | The client relationship, the standard of the work, and the weekly deep dive |
-| **Senior Builder-Consultant** | A second-year MBA | The workplan, the weekly client call once the Project Advisor hands it over, and coaching the Builder-Consultants |
-| **Builder-Consultants** | One or two undergraduates | Building, analysis, and shipping |
+| **Senior Builder-Consultant** | A second-year MBA | The workplan, the weekly client call once the Project Advisor hands it over, and coaching the Builder-Consultant |
+| **Builder-Consultant** | An undergraduate junior or senior | Building, analysis, and shipping |
 
 Everyone on the team commits **20 hours a week**. Nobody on the team outranks anyone else:
 the roles say who teaches whom, and everyone is accountable for the result.
