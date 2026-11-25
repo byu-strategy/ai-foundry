@@ -141,8 +141,8 @@ Business**.
 
 | Your role | Titles you can use |
 |---|---|
-| **Senior Builder-Consultant** | Senior Builder-Consultant · Senior AI Consultant · AI Product Lead, Client Engagements |
-| **Builder-Consultant** | Builder-Consultant · AI Consultant · AI Product Builder, Client Engagements |
+| **Senior Builder-Consultant** | Senior AI Builder · Lead Forward-Deployed Engineer · Senior Builder-Consultant |
+| **Builder-Consultant** | AI Builder · Forward-Deployed Engineer · Builder-Consultant |
 
 **Describe what you did and for what kind of client.** Name the client only if your engagement
 letter allows it; otherwise describe the client by industry and size. For example:
