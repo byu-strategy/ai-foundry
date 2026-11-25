@@ -1,4 +1,4 @@
-# Engagement Guide
+# Engagement Success Guide
 
 Your client has the same AI tools you do. They hire the Foundry for people who read what they
 were given, decide what matters, do the work, and say what they recommend. If what you bring to
@@ -7,6 +7,17 @@ they could not get without you.
 
 This page is short on purpose. Read it before your first client call, and run the
 [checklist](#checklist) every week.
+
+## Your team {#team}
+
+| Role | Who | What they own |
+|---|---|---|
+| **Engagement manager** | Professor Murff or Professor Toborg | The client relationship, the standard of the work, and the weekly deep dive |
+| **Associate** | A second-year MBA | The workplan, the weekly client call once the engagement manager hands it over, and coaching the analysts |
+| **Analysts** | One or two undergraduates | Building, analysis, and shipping |
+
+Everyone on the team commits **20 hours a week**. Nobody on the team outranks anyone else:
+the roles say who teaches whom, and everyone is accountable for the result.
 
 ## What the client expects {#client-expects}
 
@@ -20,6 +31,37 @@ These come from what clients told us when an engagement went badly.
 | **Homework done** | Read the code, documents, and data the client gave you before asking about them. Keep a running log of their answers, and never ask the same question twice. |
 | **A point of view** | Bring a recommendation and your reasoning to every call. Questions are for what you could not find out yourself. |
 | **Work you stand behind** | Use AI for the work. Check everything it produces, and give the client only what you have verified and can explain line by line. Never send unreviewed AI output or ask the client to check it for you. |
+
+## The first week {#first-week}
+
+The first week decides how the rest goes. Most stalled engagements stalled here, waiting on
+access nobody asked for.
+
+**Day one: ask for access, in one message.** Send the client a single list of everything you
+need, with who on the team needs each item:
+
+- Code repositories, and the hosting and deployment accounts behind them
+- Data: exports, databases, or read-only reports, and who owns each
+- Documents: process maps, past attempts, and anything the client has already written down
+- The tools the team will use with them: Slack or Teams channel, shared drive, project board
+- Test accounts for any system you will build against
+- Names of the people you should talk to, beyond your main contact
+
+Follow up on anything missing after two business days. Access still blocked after that is a
+blocker: raise it at the deep dive and with your engagement manager.
+
+**Before you touch client data,** sign any nondisclosure agreement the client asks for, and read
+the data and confidentiality terms of the engagement letter. Some clients bar public AI tools
+or require the Foundry's own accounts. Never put client data in a personal account.
+
+**The kickoff call.** Come with an agenda, and leave with these agreed in writing:
+
+- What success looks like at the end of the engagement, in the client's words
+- Who decides, who your day-to-day contact is, and who else needs to be kept informed
+- How you will communicate, and when the weekly call is
+- The first deliverable and its date
+
+Send the summary the same day.
 
 ## The Consultant diamond on a client team {#diamond}
 
@@ -52,6 +94,21 @@ calls this high agency: you see the gap and close it.
 - Handing over a draft and asking the client to finish it
 - Explaining afterward why something was not yours
 
+## When to bring in your engagement manager {#escalate}
+
+Tell your engagement manager the same day when:
+
+- The client asks for work outside the engagement letter. Do not agree to it or refuse it;
+  say you will confirm and come back to them
+- The client has not answered a question that blocks you for three business days
+- Access is still blocked after two business days of follow-up
+- You will miss a date you committed to
+- A teammate is not carrying their share
+- Anything you would not want to read about in the news, including a possible confidentiality
+  slip
+
+Raising it early is part of the job. Raising it late is what costs the client.
+
 ## How your work is checked {#checks}
 
 Every engagement is checked weekly by faculty and by the client at set points. None of these is
@@ -59,7 +116,7 @@ a surprise, and each one is a chance to fix a problem while there is time.
 
 | Check | When | Who | What happens |
 |---|---|---|---|
-| **Faculty deep dive** | Weekly, 25 minutes in class | Your team with Professor Murff or Professor Toborg | You walk through the [deep dive agenda](#deep-dive) |
+| **Faculty deep dive** | Weekly, 25 minutes, Thursday class | Your team with your engagement manager | You walk through the [deep dive agenda](#deep-dive) |
 | **Client midpoint check-in** | Week 3 of the engagement | The client's sponsor, about one minute | Rates no one. A low score means faculty talks with you and the client that week |
 | **Client team review** | End of each block of the engagement | Every client contact who worked with you | Rates each student. Feeds your colleague and client feedback grade |
 | **Peer evaluation** | When your work together ends | Every Foundry member who worked with you | Rates each student. Feeds your colleague and client feedback grade |
@@ -77,15 +134,22 @@ Twenty-five minutes, three questions. Bring the actual work, with no slides.
 2. **What will you recommend to the client this week, and why?**
 3. **What are you stuck on?** Anything you held for more than 48 hours gets named here.
 
+## Your other commitments {#commitments}
+
+Your application listed your other courses, work, projects, and absences. Keep it current:
+update it within a week of any change, and tell your team before a planned absence. A change
+you tell us about early is something we can plan around.
+
 ## Checklist {#checklist}
 
-**Before kickoff**
+**First week**
 
-- [ ] Read the engagement letter: scope, deliverables, dates, and hours
-- [ ] Read everything the client has shared (code, documents, data) before the first call
-- [ ] Agree with the client on who their contact is and how often you will be in touch
-- [ ] Confirm the first deliverable and its date in writing
-- [ ] Start a shared log of questions, answers, and decisions
+- [ ] Signed any nondisclosure agreement and read the engagement letter's data terms
+- [ ] Sent the client one list of every access you need, on day one
+- [ ] Followed up on missing access after two business days
+- [ ] Read everything the client has shared before the kickoff call
+- [ ] Agreed at kickoff, in writing: what success looks like, who decides, your contact, how and when you communicate, and the first deliverable with its date
+- [ ] Started a shared log of questions, answers, and decisions
 
 **Every week**
 
@@ -109,6 +173,8 @@ Twenty-five minutes, three questions. Bring the actual work, with no slides.
 
 **At roll-off**
 
-- [ ] Delivered a written handoff of everything you built and where it lives
+- [ ] Delivered a written handoff of everything you built, where it lives, and how to run it
+- [ ] Moved every repository and account the client will keep into the client's ownership
+- [ ] Returned or deleted client data as the engagement letter says, and gave up your access
 - [ ] Updated your exposure list with every client contact you worked with
 - [ ] Completed your peer evaluations
