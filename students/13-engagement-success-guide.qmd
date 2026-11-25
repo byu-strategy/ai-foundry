@@ -19,6 +19,19 @@ This page is short on purpose. Read it before your first client call, and run th
 Everyone on the team commits **20 hours a week**. Nobody on the team outranks anyone else:
 the roles say who teaches whom, and everyone is accountable for the result.
 
+### Two projects {#two-projects}
+
+Every team works on two projects at once: an outside client engagement and a Foundry product,
+such as the learning harness or the alumni app. Both have stakeholders who depend on you, and the
+Foundry products will have customers of their own. Treat both stakeholders as clients: everything
+on this page applies to each of them.
+
+- Plan every sprint across both projects, with dates for each
+- Agree with each stakeholder on what they get and when
+- When one project needs more of your week, tell the other project's stakeholder what moves, before it moves
+- Never explain a missed date to one stakeholder by pointing at the other project
+- Build the Foundry products against made-up data, never real alumni or student records
+
 ## What the client expects {#client-expects}
 
 These come from what clients told us when an engagement went badly.
@@ -128,10 +141,11 @@ faculty talks with your team that week.
 
 ### The weekly deep dive {#deep-dive}
 
-Twenty-five minutes, three questions. Bring the actual work, with no slides.
+Twenty-five minutes, three questions, asked about both projects. Bring the actual work, with no
+slides.
 
-1. **What did the client ask for last week, and what did you deliver?** Show the artifact.
-2. **What will you recommend to the client this week, and why?**
+1. **What did each stakeholder ask for last week, and what did you deliver?** Show the artifact.
+2. **What will you recommend to each stakeholder this week, and why?**
 3. **What are you stuck on?** Anything you held for more than 48 hours gets named here.
 
 ## On LinkedIn and your resume {#linkedin}
