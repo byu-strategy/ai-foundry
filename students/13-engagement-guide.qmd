@@ -59,7 +59,7 @@ a surprise, and each one is a chance to fix a problem while there is time.
 
 | Check | When | Who | What happens |
 |---|---|---|---|
-| **Faculty deep dive** | Weekly, 15 minutes in class | Your team with Professor Murff or Professor Toborg | You walk through the [deep dive agenda](#deep-dive) |
+| **Faculty deep dive** | Weekly, 20 minutes in class | Your team with Professor Murff or Professor Toborg | You walk through the [deep dive agenda](#deep-dive) |
 | **Client midpoint check-in** | Week 3 of the engagement | The client's sponsor, about one minute | Rates no one. A low score means faculty talks with you and the client that week |
 | **Client team review** | End of each block of the engagement | Every client contact who worked with you | Rates each student. Feeds your colleague and client feedback grade |
 | **Peer evaluation** | When your work together ends | Every Foundry member who worked with you | Rates each student. Feeds your colleague and client feedback grade |
@@ -71,7 +71,7 @@ faculty talks with your team that week.
 
 ### The weekly deep dive {#deep-dive}
 
-Fifteen minutes, three questions. Bring the actual work, with no slides.
+Twenty minutes, three questions. Bring the actual work, with no slides.
 
 1. **What did the client ask for last week, and what did you deliver?** Show the artifact.
 2. **What will you recommend to the client this week, and why?**
