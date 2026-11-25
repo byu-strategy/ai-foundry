@@ -1,0 +1,114 @@
+# Engagement Guide
+
+Your client has the same AI tools you do. They hire the Foundry for people who read what they
+were given, decide what matters, do the work, and say what they recommend. If what you bring to
+a call is something the client could have produced by prompting a model, you have added nothing
+they could not get without you.
+
+This page is short on purpose. Read it before your first client call, and run the
+[checklist](#checklist) every week.
+
+## What the client expects {#client-expects}
+
+These come from what clients told us when an engagement went badly.
+
+| The client expects | What that means in practice |
+|---|---|
+| **The hours you committed** | Work them every week. If you cannot, tell the client and faculty before the week starts. |
+| **Contact between calls** | Reply to every client message within one business day. Send at least one short written update between weekly calls. Ask questions during working hours, as they come up. |
+| **What they asked for** | Confirm each requested deliverable in writing the same day, and deliver it by the date. If you think something else would serve them better, deliver what they asked for first, then propose the alternative. |
+| **Homework done** | Read the code, documents, and data the client gave you before asking about them. Keep a running log of their answers, and never ask the same question twice. |
+| **A point of view** | Bring a recommendation and your reasoning to every call. Questions are for what you could not find out yourself. |
+| **Work you stand behind** | Use AI for the work. Check everything it produces, and give the client only what you have verified and can explain line by line. Never send unreviewed AI output or ask the client to check it for you. |
+
+## The Consultant diamond on a client team {#diamond}
+
+Your clients and colleagues rate you on the four axes of the Consultant diamond
+([The Developmentship Model](10-developmentship.qmd)). On an engagement, each axis asks one
+question.
+
+| Axis | The question | On a client team |
+|---|---|---|
+| **Judgment** | Is it the right work? | Decide what matters most to the client. Form a hypothesis and test it against their data and materials. |
+| **Ownership** | Does the work move? | Own the result from the client's question to working software. Nobody has to chase you. |
+| **Communication** | Can the client act on it without you in the room? | Lead with the answer. Updates say what was done, what is next, and what you need from them. |
+| **Collaboration** | Does the client trust you and want to keep working with you? | Be on time and prepared. Take pushback well. Carry your share inside the team. |
+
+## Ownership {#ownership}
+
+You own the outcome for the client, from the question to the working result. The constitution
+calls this high agency: you see the gap and close it.
+
+**Ownership looks like:**
+
+- Anticipating what the client needs before they ask
+- Flagging a risk or a slip as soon as you see it
+- Delivering complete work, ready to use
+- Following up on every open item until it closes
+
+**Ownership does not look like:**
+
+- Waiting for instructions
+- Handing over a draft and asking the client to finish it
+- Explaining afterward why something was not yours
+
+## How your work is checked {#checks}
+
+Every engagement is checked weekly by faculty and by the client at set points. None of these is
+a surprise, and each one is a chance to fix a problem while there is time.
+
+| Check | When | Who | What happens |
+|---|---|---|---|
+| **Faculty deep dive** | Weekly, 15 minutes in class | Your team with Professor Murff or Professor Toborg | You walk through the [deep dive agenda](#deep-dive) |
+| **Client midpoint check-in** | Week 3 of the engagement | The client's sponsor, about one minute | Rates no one. A low score means faculty talks with you and the client that week |
+| **Client team review** | End of each block of the engagement | Every client contact who worked with you | Rates each student. Feeds your colleague and client feedback grade |
+| **Peer evaluation** | When your work together ends | Every Foundry member who worked with you | Rates each student. Feeds your colleague and client feedback grade |
+| **Self-assessment** | Before the midterm and final releases | You | Never part of your score. Compared with what others saw |
+| **Sprint review and demo** | Every two weeks | You | Graded as part of the sprint ([Sprints](11-sprints.qmd)) |
+
+A client can write to Professor Murff directly at any time. When a client raises a concern,
+faculty talks with your team that week.
+
+### The weekly deep dive {#deep-dive}
+
+Fifteen minutes, three questions. Bring the actual work, with no slides.
+
+1. **What did the client ask for last week, and what did you deliver?** Show the artifact.
+2. **What will you recommend to the client this week, and why?**
+3. **What are you stuck on?** Anything you held for more than 48 hours gets named here.
+
+## Checklist {#checklist}
+
+**Before kickoff**
+
+- [ ] Read the engagement letter: scope, deliverables, dates, and hours
+- [ ] Read everything the client has shared (code, documents, data) before the first call
+- [ ] Agree with the client on who their contact is and how often you will be in touch
+- [ ] Confirm the first deliverable and its date in writing
+- [ ] Start a shared log of questions, answers, and decisions
+
+**Every week**
+
+- [ ] Worked the hours you committed, or told the client and faculty in advance
+- [ ] Replied to every client message within one business day
+- [ ] Sent at least one written update between calls
+- [ ] Raised every blocker within 48 hours
+- [ ] Brought the actual work to the faculty deep dive
+
+**Before each client call**
+
+- [ ] Sent the agenda at least one business day ahead
+- [ ] Finished every requested deliverable, or told the client about the slip before the call
+- [ ] Prepared a recommendation and the reasoning for it
+- [ ] Checked that every question is one the materials cannot answer, and none is a repeat
+- [ ] Verified every piece of AI output you will show, and can explain all of it
+
+**After each client call**
+
+- [ ] Sent a summary the same day: decisions, actions, owners, and dates
+
+**At roll-off**
+
+- [ ] Delivered a written handoff of everything you built and where it lives
+- [ ] Updated your exposure list with every client contact you worked with
+- [ ] Completed your peer evaluations
