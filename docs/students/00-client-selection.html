@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 </head><body class="nav-sidebar floating quarto-light"><header class="book-header-banner">
   <a href="https://aifoundry.byu.edu" target="_blank">
-    <img src="images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
+    <img src="../images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
   </a>
 </header>
 
@@ -100,15 +100,6 @@ ul.task-list li input[type="checkbox"] {
       nums.className = 'sidebar-course-numbers';
       nums.textContent = 'MBA 693R · STRAT 490R';
       title.insertAdjacentElement('afterend', nums);
-    }
-  });
-</script>
-
-<!-- Draft watermark on every page except the resources page -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    if (!/07-resources/.test(window.location.pathname)) {
-      document.body.classList.add('draft-page');
     }
   });
 </script>
@@ -205,7 +196,32 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/11-sprints.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sprints</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/02-getting-started.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Getting Started</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/08-certification.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Certification Track</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/12-practice-final.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Practice Proficiency Exam</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/09-studio-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Studio Projects</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/10-developmentship.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Developmentship Model</span></a>
   </div>
 </li>
       </ul>
@@ -221,12 +237,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/13-engagement-success-guide.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Engagement Success Guide</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/05-how-teams-are-staffed.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">How Teams Are Staffed</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Weekly Updates</span></a>
+  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Client Updates</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -249,7 +270,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#mission" id="toc-mission" class="nav-link active" data-scroll-target="#mission">Mission</a></li>
   <li><a href="#human-flourishing" id="toc-human-flourishing" class="nav-link" data-scroll-target="#human-flourishing">Human flourishing</a></li>
   <li><a href="#work-that-sits-outside-our-mandate" id="toc-work-that-sits-outside-our-mandate" class="nav-link" data-scroll-target="#work-that-sits-outside-our-mandate">Work that sits outside our mandate</a></li>
-  <li><a href="#what-this-means-for-you" id="toc-what-this-means-for-you" class="nav-link" data-scroll-target="#what-this-means-for-you">What this means for you</a></li>
   </ul>
 </nav>
     </div>
@@ -287,8 +307,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This policy governs which engagements the Foundry accepts and which it declines. It is a companion to the <a href="../students/00-constitution.html">Constitution and Operating Model</a>: the Constitution says how we work, this says what we work on.</p>
-<p>It applies to every engagement, paid and pro bono alike, and to every channel, whether a project comes through a partner, a faculty referral, or a student’s own contact.</p>
 <section id="mission" class="level2">
 <h2 class="anchored" data-anchor-id="mission">Mission</h2>
 <p><strong>The purpose of the AI Foundry is to develop disciple-leaders who use AI to enhance human flourishing.</strong></p>
@@ -305,8 +323,8 @@ ul.task-list li input[type="checkbox"] {
 <thead>
 <tr class="header">
 <th>Dimension</th>
-<th>We seek work that</th>
-<th>We decline work that</th>
+<th>In-scope of mandate</th>
+<th>Out of scope of mandate</th>
 </tr>
 </thead>
 <tbody>
@@ -323,7 +341,7 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td><strong>Social</strong></td>
 <td>Strengthens teams, families, and communities, and expands opportunity</td>
-<td>Surveils, divides, monetizes anger or conflict</td>
+<td>Monetizes anger or conflict</td>
 </tr>
 <tr class="even">
 <td><strong>Spiritual</strong></td>
@@ -338,21 +356,16 @@ ul.task-list li input[type="checkbox"] {
 <p>We ensure project fit by considering an organization’s primary business and a particular project’s purpose. In general the following categories fall outside our mandate:</p>
 <ol type="1">
 <li><strong>Alcohol, tobacco, nicotine, cannabis, and other drugs of dependence.</strong></li>
-<li><strong>Caffeinated and high-sugar beverages</strong>, including coffee and tea.</li>
+<li><strong>Coffee, tea</strong>, and similar habit-forming beverages.</li>
+<li><strong>Volume growth for controlled substances:</strong> sales, script volume, and prescriber targeting.</li>
 <li><strong>Gambling:</strong> sports betting, prediction markets, gamified retail trading, and casino-mechanic monetization.</li>
 <li><strong>Pornography and the commodification of sex</strong>, in any form or channel.</li>
-<li><strong>Predatory or high-interest lending:</strong> payday, title, and refund anticipation.</li>
+<li><strong>High-interest lending:</strong> payday, title, and refund anticipation.</li>
 <li><strong>Political work:</strong> parties, campaigns, candidates, PACs, legislative offices, ballot initiative advocacy, and lobbying on a client’s behalf.</li>
-<li>Brands whose <strong>public marketing is sexualized, innuendo-forward, profanity-forward, or built on party or intoxication culture</strong>, regardless of product category.</li>
-<li><strong>Volume growth for controlled substances:</strong> sales, script volume, and prescriber targeting.</li>
 <li>Products marketed on <strong>unproven or deceptive claims.</strong></li>
+<li>Brands whose <strong>public marketing is sexualized, innuendo-forward, profanity-forward, or built on party or intoxication culture</strong>, regardless of product category.</li>
 </ol>
-</section>
-<section id="what-this-means-for-you" class="level2">
-<h2 class="anchored" data-anchor-id="what-this-means-for-you">What this means for you</h2>
-<p>Two things follow for anyone sourcing or staffing work.</p>
-<p><strong>Raise fit early.</strong> If a prospective client or project looks like it touches this list, say so before a scoping call rather than after. Declining early costs a conversation. Declining late costs a relationship.</p>
-<p><strong>Bring it to the Faculty Advisor rather than deciding alone.</strong> Judgment calls are expected, and no one is asked to make them by themselves. The list settles the clear cases so that attention goes to the genuinely hard ones.</p>
+<p>If a prospective client or project looks like it touches this list discuss with the faculty advisor before a scoping call.</p>
 
 
 </section>

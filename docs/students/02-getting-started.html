@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../students/05-how-teams-are-staffed.html" rel="next">
-<link href="../students/01-syllabus.html" rel="prev">
+<link href="../students/08-certification.html" rel="next">
+<link href="../students/11-sprints.html" rel="prev">
 <link href="../images/favicon.svg" rel="icon" type="image/svg+xml">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 </head><body class="nav-sidebar floating quarto-light"><header class="book-header-banner">
   <a href="https://aifoundry.byu.edu" target="_blank">
-    <img src="images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
+    <img src="../images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
   </a>
 </header>
 
@@ -98,15 +98,6 @@ ul.task-list li input[type="checkbox"] {
       nums.className = 'sidebar-course-numbers';
       nums.textContent = 'MBA 693R · STRAT 490R';
       title.insertAdjacentElement('afterend', nums);
-    }
-  });
-</script>
-
-<!-- Draft watermark on every page except the resources page -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    if (!/07-resources/.test(window.location.pathname)) {
-      document.body.classList.add('draft-page');
     }
   });
 </script>
@@ -203,7 +194,32 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/11-sprints.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sprints</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/02-getting-started.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Getting Started</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/08-certification.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Certification Track</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/12-practice-final.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Practice Proficiency Exam</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/09-studio-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Studio Projects</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/10-developmentship.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Developmentship Model</span></a>
   </div>
 </li>
       </ul>
@@ -219,12 +235,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/13-engagement-success-guide.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Engagement Success Guide</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/05-how-teams-are-staffed.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">How Teams Are Staffed</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Weekly Updates</span></a>
+  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Client Updates</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -248,7 +269,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#first-two-weeks" id="toc-first-two-weeks" class="nav-link" data-scroll-target="#first-two-weeks">First Two Weeks</a></li>
   <li><a href="#team-roles" id="toc-team-roles" class="nav-link" data-scroll-target="#team-roles">Team Roles</a></li>
   <li><a href="#where-you-start-on-a-team" id="toc-where-you-start-on-a-team" class="nav-link" data-scroll-target="#where-you-start-on-a-team">Where You Start on a Team</a></li>
-  <li><a href="#key-dates" id="toc-key-dates" class="nav-link" data-scroll-target="#key-dates">Key Dates</a></li>
+  <li><a href="#your-sprints" id="toc-your-sprints" class="nav-link" data-scroll-target="#your-sprints">Your Sprints</a>
+  <ul class="collapse">
+  <li><a href="#set-up-your-foundry-repo" id="toc-set-up-your-foundry-repo" class="nav-link" data-scroll-target="#set-up-your-foundry-repo">Set up your Foundry repo</a></li>
+  </ul></li>
   <li><a href="#your-responsibilities" id="toc-your-responsibilities" class="nav-link" data-scroll-target="#your-responsibilities">Your Responsibilities</a></li>
   <li><a href="#what-youll-be-working-on" id="toc-what-youll-be-working-on" class="nav-link" data-scroll-target="#what-youll-be-working-on">What You’ll Be Working On</a></li>
   </ul>
@@ -309,7 +333,7 @@ Tip
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>The single most common failure in a Foundry project is building the right thing for the wrong question. Spend the first two weeks making sure the question is right. The client will appreciate the challenge more than the compliance.</p>
+<p>The most common failure in a Foundry project is building a correct answer to a question the client did not need answered. Spend the first two weeks making sure the question is right. Clients expect you to question the brief in that time.</p>
 </div>
 </div>
 </section>
@@ -342,11 +366,11 @@ Tip
 </tr>
 </tbody>
 </table>
-<p>The QC lead role is not decorative. Client-facing work that contains an unreconciled number or an unexplainable model output is a QC failure, and it is graded as one.</p>
+<p>The QC lead’s sign-off is required. Client-facing work that contains an unreconciled number or an unexplainable model output is a QC failure, and it is graded as one.</p>
 </section>
 <section id="where-you-start-on-a-team" class="level2">
 <h2 class="anchored" data-anchor-id="where-you-start-on-a-team">Where You Start on a Team</h2>
-<p>Roles say what you do. Tier says how much of it you own. Your starting tier comes from what you have already built and shipped, not from what you rated yourself on the baseline survey.</p>
+<p>Roles say what you do. Tier says how much of it you own. Your starting tier comes from what you have already built and shipped. Your baseline survey ratings do not set it.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 28%">
@@ -365,7 +389,7 @@ Tip
 </tr>
 <tr class="even">
 <td><strong>Contribute</strong></td>
-<td>You own a piece of the work, with an experienced teammate backstopping you</td>
+<td>You own a piece of the work, with an experienced teammate checking your work</td>
 </tr>
 <tr class="odd">
 <td><strong>Own</strong></td>
@@ -375,55 +399,62 @@ Tip
 </table>
 <p>Client lead is an Own-tier role. Students at Shadow or Contribute do not run the client relationship in their first engagement.</p>
 <p>Tiers move during the semester, and they are meant to. Ask your QC lead what would have to be true for you to move up, then go do that. Nobody stays at Shadow because of a survey answer.</p>
-<p>Teams are staffed for coverage rather than for balance: every Builder axis has someone on the team who can carry it, even though no individual carries all six. If you are the only person on your team strong on an axis, that is not an accident.</p>
+<p>Teams are staffed so that every Builder axis is covered: someone on the team is strong on each axis, though no one is strong on all six. If you are the only person on your team strong on an axis, you were staffed for that axis.</p>
 </section>
-<section id="key-dates" class="level2">
-<h2 class="anchored" data-anchor-id="key-dates">Key Dates</h2>
+<section id="your-sprints" class="level2">
+<h2 class="anchored" data-anchor-id="your-sprints">Your Sprints</h2>
+<p>Every student runs the same two-week <a href="../students/11-sprints.html">sprints</a>, staffed or not. Your engagement’s own dates (kick-off, phase reviews, roll-off) are set with the client and do not change the sprint calendar.</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Milestone</th>
-<th>When</th>
+<th>Sprint</th>
+<th>Starts</th>
+<th>Plan due</th>
+<th>Wrap-up due</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Engagement kick-off</td>
-<td>Set per engagement, rolling</td>
+<td>1</td>
+<td>Fri, Oct 23</td>
+<td>Mon, Oct 26, 11:59 PM</td>
+<td>Fri, Nov 6, 8:00 AM</td>
 </tr>
 <tr class="even">
-<td>D: Discovery</td>
-<td>Set at kick-off</td>
+<td>2</td>
+<td>Fri, Nov 6</td>
+<td>Mon, Nov 9, 11:59 PM</td>
+<td>Fri, Nov 20, 8:00 AM</td>
 </tr>
 <tr class="odd">
-<td>B1: Working build</td>
-<td>Set at kick-off</td>
-</tr>
-<tr class="even">
-<td>B2: Shipped</td>
-<td>Set at kick-off</td>
-</tr>
-<tr class="odd">
-<td>T: Transfer</td>
-<td>Set at kick-off</td>
-</tr>
-<tr class="even">
-<td>Weekly updates due (individual and client)</td>
-<td>Saturday by 11:59 PM</td>
+<td>3</td>
+<td>Fri, Nov 20</td>
+<td>Mon, Nov 23, 11:59 PM</td>
+<td>Sat, Dec 5, 11:59 PM</td>
 </tr>
 </tbody>
 </table>
-<p>Engagements are accepted on a rolling basis, so your team’s dates come from your kick-off, not from a course-wide calendar.</p>
+<section id="set-up-your-foundry-repo" class="level3">
+<h3 class="anchored" data-anchor-id="set-up-your-foundry-repo">Set up your Foundry repo</h3>
+<p>We do this together in studio on October 23.</p>
+<ol type="1">
+<li>Create your repo from the <a href="https://github.com/byu-strategy/builder-template">builder template</a>, named <code>&lt;your NetID&gt;_foundry</code>, private, under your own GitHub account.</li>
+<li>Add Professor Murff (<code>sdmurff</code>) as a collaborator.</li>
+<li>Open the repo in VS Code, start Claude Code, and run <code>/sprint-plan</code>. The first time, it asks which course the repo is for: answer AI Foundry.</li>
+<li>Commit and push your Sprint 1 plan, and paste its GitHub link into <strong>Sprint 1 Plan</strong> on Canvas.</li>
+</ol>
+<p>If you also take MSB 341, keep the two repos separate.</p>
+</section>
 </section>
 <section id="your-responsibilities" class="level2">
 <h2 class="anchored" data-anchor-id="your-responsibilities">Your Responsibilities</h2>
 <ul>
 <li><strong>Confirm expectations</strong> and ask clarifying questions rather than guessing</li>
-<li><strong>Deliver on schedule.</strong> A client who is surprised at a milestone has been failed earlier</li>
+<li><strong>Deliver on schedule.</strong> Tell the client about a likely slip as soon as you see it</li>
 <li><strong>Come prepared</strong> to client calls with an agenda, progress, and specific asks</li>
-<li><strong>Raise blockers within 48 hours.</strong> Not at the weekly call, and not at the milestone</li>
+<li><strong>Raise blockers within 48 hours.</strong> Not at the weekly call, and not at the end of the sprint</li>
 <li><strong>Protect client data</strong> per the confidentiality terms in the <a href="../students/01-syllabus.html">Syllabus</a></li>
-<li><strong>Send your end-of-week update</strong> to aifoundry@byu.edu every Saturday, CC your client lead. This is individual and separate from the team’s client update</li>
+<li><strong>Run every sprint:</strong> plan by Monday, review and Loom demo by 11:59 PM the Saturday it ends. This is individual and separate from the team’s client update</li>
 <li><strong>Carry your share.</strong> Your teammates grade you on this</li>
 </ul>
 </section>
@@ -433,9 +464,9 @@ Tip
 <ul>
 <li><strong>Full-stack applications.</strong> Net-new web and mobile products, B2C, B2B, or internal tools, built end to end and deployed to production</li>
 <li><strong>AI integration and orchestration.</strong> Agents and copilots over the client’s own data, automations across Slack, Notion, and their existing stack, document processing, extraction, routing, and summarization</li>
-<li><strong>AI enablement.</strong> Setting the client’s own team up on frontier agent tooling, co-working alongside their staff, then handing off</li>
+<li><strong>AI enablement.</strong> Setting the client’s own team up on current agent tools such as Claude Code, working alongside their staff, then handing off</li>
 </ul>
-<p>Discovery work comes first and is real analysis: where AI actually helps this business, what is worth building, what is worth automating. But discovery exists to point at something to build. The engagement ends with software running in the client’s hands, not with a deck.</p>
+<p>Discovery work comes first: where AI helps this business, what is worth building, what is worth automating. The purpose of discovery is to decide what to build. The engagement ends with software the client is running.</p>
 
 
 </section>
@@ -860,13 +891,13 @@ Tip
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../students/01-syllabus.html" class="pagination-link" aria-label="Syllabus">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Syllabus</span></span>
+      <a href="../students/11-sprints.html" class="pagination-link" aria-label="Sprints">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Sprints</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../students/05-how-teams-are-staffed.html" class="pagination-link" aria-label="How Teams Are Staffed">
-        <span class="nav-page-text"><span class="chapter-title">How Teams Are Staffed</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../students/08-certification.html" class="pagination-link" aria-label="The Certification Track">
+        <span class="nav-page-text"><span class="chapter-title">The Certification Track</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

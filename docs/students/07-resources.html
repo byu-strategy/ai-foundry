@@ -110,7 +110,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }</script>
 </head><body class="nav-sidebar floating quarto-light"><header class="book-header-banner">
   <a href="https://aifoundry.byu.edu" target="_blank">
-    <img src="images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
+    <img src="../images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
   </a>
 </header>
 
@@ -135,15 +135,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       nums.className = 'sidebar-course-numbers';
       nums.textContent = 'MBA 693R · STRAT 490R';
       title.insertAdjacentElement('afterend', nums);
-    }
-  });
-</script>
-
-<!-- Draft watermark on every page except the resources page -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    if (!/07-resources/.test(window.location.pathname)) {
-      document.body.classList.add('draft-page');
     }
   });
 </script>
@@ -240,7 +231,32 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/11-sprints.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sprints</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/02-getting-started.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Getting Started</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/08-certification.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Certification Track</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/12-practice-final.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Practice Proficiency Exam</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/09-studio-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Studio Projects</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/10-developmentship.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Developmentship Model</span></a>
   </div>
 </li>
       </ul>
@@ -256,12 +272,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/13-engagement-success-guide.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Engagement Success Guide</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/05-how-teams-are-staffed.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">How Teams Are Staffed</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Weekly Updates</span></a>
+  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Client Updates</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -400,46 +421,48 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="ex">1.</span> Discovery, what to build and for whom</span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="ex">2.</span> Design, the surface and the flow</span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="ex">3.</span> Application Architecture, how the app is structured, shipped, and kept</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, the intelligence inside the product: context windows,</span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>     <span class="ex">prompting,</span> tool use, RAG, hallucination and verification, evals, cost</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, AI as the way you build: coding agents, agent loops,</span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>     <span class="ex">project</span> instruction files, memory, skills, hooks, subagents, MCP, and</span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">reviewing</span> code an agent wrote</span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Discovery: what to build, and for whom.</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe,</span> including wiring a model in: API calls, retrieval pipelines, cost</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, how the models work and why they behave the way they do:</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">neural</span> networks, next-word prediction, pretraining, fine-tuning and</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>     <span class="ex">RLHF,</span> embeddings and RAG, context windows, hallucination</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, putting AI to work: coding agents, project</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">instruction</span> files, memory, skills, hooks, subagents, MCP, reviewing</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>     <span class="ex">code</span> an agent wrote, and building AI into the product with prompts,</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">tool</span> use, agent loops, and evals</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
 <span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.momtestbook.com/</span></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.producttalk.org/prioritize-opportunities/</span></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.svpg.com/articles/</span></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://basecamp.com/shapeup</span></span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.youtube.com/watch?v=kLe-zy5r0Mk</span></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can state a real user problem, the evidence that it is</span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a><span class="ex">real,</span> and the smallest thing you could build to test it, in one page.</span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Discovery: what to build, and for whom.</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.momtestbook.com/</span></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.producttalk.org/prioritize-opportunities/</span></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.svpg.com/articles/</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://basecamp.com/shapeup</span></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.youtube.com/watch?v=kLe-zy5r0Mk</span></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can state a real user problem, the evidence that it is</span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a><span class="ex">real,</span> and the smallest thing you could build to test it, in one page.</span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="design" class="level2">
 <h2 class="anchored" data-anchor-id="design">Design</h2>
@@ -517,48 +540,50 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="ex">1.</span> Discovery, what to build and for whom</span>
 <span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="ex">2.</span> Design, the surface and the flow</span>
 <span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  <span class="ex">3.</span> Application Architecture, how the app is structured, shipped, and kept</span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe</span></span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, the intelligence inside the product: context windows,</span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>     <span class="ex">prompting,</span> tool use, RAG, hallucination and verification, evals, cost</span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, AI as the way you build: coding agents, agent loops,</span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>     <span class="ex">project</span> instruction files, memory, skills, hooks, subagents, MCP, and</span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">reviewing</span> code an agent wrote</span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Design: the surface and the flow.</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe,</span> including wiring a model in: API calls, retrieval pipelines, cost</span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, how the models work and why they behave the way they do:</span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">neural</span> networks, next-word prediction, pretraining, fine-tuning and</span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>     <span class="ex">RLHF,</span> embeddings and RAG, context windows, hallucination</span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, putting AI to work: coding agents, project</span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">instruction</span> files, memory, skills, hooks, subagents, MCP, reviewing</span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>     <span class="ex">code</span> an agent wrote, and building AI into the product with prompts,</span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">tool</span> use, agent loops, and evals</span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
 <span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
-<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
-<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.refactoringui.com/</span></span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a><span class="ex">https://lawsofux.com/</span></span>
-<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.nngroup.com/articles/definition-user-experience/</span></span>
-<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.nngroup.com/articles/handmade-designs/</span></span>
-<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.lennysnewsletter.com/p/the-design-process-is-dead</span></span>
-<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://ui.shadcn.com/docs</span></span>
-<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
-<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
-<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
-<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
-<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
-<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
-<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
-<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
-<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can take a screen an agent generated for you and name</span>
-<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a><span class="ex">five</span> specific things wrong with it, each with a reason a designer would</span>
-<span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a><span class="ex">accept.</span></span>
-<span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Design: the surface and the flow.</span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
+<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
+<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
+<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.refactoringui.com/</span></span>
+<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://lawsofux.com/</span></span>
+<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.nngroup.com/articles/definition-user-experience/</span></span>
+<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.nngroup.com/articles/handmade-designs/</span></span>
+<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.lennysnewsletter.com/p/the-design-process-is-dead</span></span>
+<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a><span class="ex">https://ui.shadcn.com/docs</span></span>
+<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
+<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
+<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
+<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
+<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
+<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
+<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
+<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
+<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can take a screen an agent generated for you and name</span>
+<span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a><span class="ex">five</span> specific things wrong with it, each with a reason a designer would</span>
+<span id="cb2-54"><a href="#cb2-54" aria-hidden="true" tabindex="-1"></a><span class="ex">accept.</span></span>
+<span id="cb2-55"><a href="#cb2-55" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="application-architecture" class="level2">
 <h2 class="anchored" data-anchor-id="application-architecture">Application Architecture</h2>
@@ -627,53 +652,55 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="ex">1.</span> Discovery, what to build and for whom</span>
 <span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  <span class="ex">2.</span> Design, the surface and the flow</span>
 <span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>  <span class="ex">3.</span> Application Architecture, how the app is structured, shipped, and kept</span>
-<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe</span></span>
-<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, the intelligence inside the product: context windows,</span>
-<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>     <span class="ex">prompting,</span> tool use, RAG, hallucination and verification, evals, cost</span>
-<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
-<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, AI as the way you build: coding agents, agent loops,</span>
-<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>     <span class="ex">project</span> instruction files, memory, skills, hooks, subagents, MCP, and</span>
-<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">reviewing</span> code an agent wrote</span>
-<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
-<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
-<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
-<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
-<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Application Architecture: how the application is</span>
-<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a><span class="ex">structured,</span> shipped, and kept safe.</span>
-<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
-<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
-<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
-<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
-<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
-<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a><span class="ex">https://nextjs.org/learn</span></span>
-<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://supabase.com/docs/guides/auth</span></span>
-<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://use-the-index-luke.com/</span></span>
-<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://owasp.org/Top10/2025/</span></span>
-<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://portswigger.net/web-security</span></span>
-<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://git-scm.com/book/en/v2</span></span>
-<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
-<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
-<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
-<span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
-<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
-<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
-<span id="cb3-48"><a href="#cb3-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
-<span id="cb3-49"><a href="#cb3-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
-<span id="cb3-50"><a href="#cb3-50" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-51"><a href="#cb3-51" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can walk a stranger through your repo: what runs where,</span>
-<span id="cb3-52"><a href="#cb3-52" aria-hidden="true" tabindex="-1"></a><span class="ex">what</span> the schema is, who can see which rows, and what happens between your</span>
-<span id="cb3-53"><a href="#cb3-53" aria-hidden="true" tabindex="-1"></a><span class="ex">machine</span> and the live app.</span>
-<span id="cb3-54"><a href="#cb3-54" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe,</span> including wiring a model in: API calls, retrieval pipelines, cost</span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, how the models work and why they behave the way they do:</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">neural</span> networks, next-word prediction, pretraining, fine-tuning and</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>     <span class="ex">RLHF,</span> embeddings and RAG, context windows, hallucination</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, putting AI to work: coding agents, project</span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">instruction</span> files, memory, skills, hooks, subagents, MCP, reviewing</span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>     <span class="ex">code</span> an agent wrote, and building AI into the product with prompts,</span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">tool</span> use, agent loops, and evals</span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Application Architecture: how the application is</span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a><span class="ex">structured,</span> shipped, and kept safe.</span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
+<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
+<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://nextjs.org/learn</span></span>
+<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://supabase.com/docs/guides/auth</span></span>
+<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://use-the-index-luke.com/</span></span>
+<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://owasp.org/Top10/2025/</span></span>
+<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a><span class="ex">https://portswigger.net/web-security</span></span>
+<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a><span class="ex">https://git-scm.com/book/en/v2</span></span>
+<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
+<span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
+<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
+<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
+<span id="cb3-48"><a href="#cb3-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
+<span id="cb3-49"><a href="#cb3-49" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
+<span id="cb3-50"><a href="#cb3-50" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
+<span id="cb3-51"><a href="#cb3-51" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
+<span id="cb3-52"><a href="#cb3-52" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-53"><a href="#cb3-53" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can walk a stranger through your repo: what runs where,</span>
+<span id="cb3-54"><a href="#cb3-54" aria-hidden="true" tabindex="-1"></a><span class="ex">what</span> the schema is, who can see which rows, and what happens between your</span>
+<span id="cb3-55"><a href="#cb3-55" aria-hidden="true" tabindex="-1"></a><span class="ex">machine</span> and the live app.</span>
+<span id="cb3-56"><a href="#cb3-56" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="ai-systems" class="level2">
 <h2 class="anchored" data-anchor-id="ai-systems">AI Systems</h2>
-<p>The intelligence inside the product.</p>
+<p>How the models work, and why they behave the way they do: the understanding underneath every AI feature you build.</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -689,44 +716,34 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <td>Pretraining through hallucination, tool use, and RLHF, pitched at builders rather than researchers</td>
 </tr>
 <tr class="even">
+<td><a href="https://www.3blue1brown.com/topics/neural-networks">Neural networks</a>, 3Blue1Brown</td>
+<td>Video series, free</td>
+<td>Neural networks, gradient descent, and transformers drawn out visually, ending with how a GPT predicts the next word</td>
+</tr>
+<tr class="odd">
+<td><a href="https://www.youtube.com/watch?v=zjkBMFhNj_g">Intro to Large Language Models</a>, Andrej Karpathy</td>
+<td>Video, 1h</td>
+<td>The one-hour version: what a model is, how it is trained, and why it behaves as it does</td>
+</tr>
+<tr class="even">
+<td><a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>, Jay Alammar</td>
+<td>Article, free</td>
+<td>Attention and the transformer, one diagram at a time</td>
+</tr>
+<tr class="odd">
+<td><a href="https://byu-strategy.github.io/product-management/10-how-models-work.html">How Models Work</a></td>
+<td>Chapter</td>
+<td>The course chapter: next-word prediction, training, and why the same prompt gives different answers</td>
+</tr>
+<tr class="even">
 <td><a href="https://platform.claude.com/docs/en/build-with-claude/context-windows">Context windows</a> and <a href="https://platform.claude.com/docs/en/build-with-claude/prompt-caching">prompt caching</a>, Anthropic</td>
 <td>Docs</td>
 <td>What actually counts against the window, and the most direct lever you have on cost and latency</td>
 </tr>
 <tr class="odd">
-<td><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview">Tool use with Claude</a></td>
-<td>Docs</td>
-<td>Canonical reference for function calling and the agentic loop</td>
-</tr>
-<tr class="even">
-<td><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial">Interactive prompt engineering tutorial</a> and <a href="https://github.com/anthropics/claude-cookbooks">Claude Cookbooks</a></td>
-<td>Notebooks, free</td>
-<td>Runnable examples for RAG, tool use, evals, caching, and cost</td>
-</tr>
-<tr class="odd">
-<td><a href="https://eugeneyan.com/writing/llm-patterns/">Patterns for Building LLM-based Systems and Products</a>, Eugene Yan</td>
-<td>Article, free</td>
-<td>The single best map of the field: evals, RAG, caching, guardrails, defensive UX</td>
-</tr>
-<tr class="even">
-<td><a href="https://ai.hamel.dev/eval-course">AI Evals email course</a>, Hamel Husain and Shreya Shankar</td>
-<td>Course, free</td>
-<td>Seventeen parts plus two free ebooks. Evals are the axis item nobody has, and this is the on-ramp</td>
-</tr>
-<tr class="odd">
 <td><a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/">AI Engineering</a>, Chip Huyen</td>
 <td>Book</td>
 <td>The standard reference for the job title. Free chapter notes at <a href="https://github.com/chiphuyen/aie-book">aie-book</a></td>
-</tr>
-<tr class="even">
-<td><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents</a>, Anthropic</td>
-<td>Article</td>
-<td>Context engineering as the discipline that succeeded prompt engineering</td>
-</tr>
-<tr class="odd">
-<td><a href="https://www.youtube.com/watch?v=BsWxPI9UM4c">Why AI evals are the hottest new skill for product builders</a>, Hamel Husain, Sep 2025</td>
-<td>Podcast</td>
-<td>The best introduction to why evals matter, from the person who teaches them</td>
 </tr>
 <tr class="even">
 <td><a href="https://www.youtube.com/watch?v=qbvY0dQgSJ4">AI Engineering 101</a>, Chip Huyen, Oct 2025</td>
@@ -747,52 +764,54 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="ex">1.</span> Discovery, what to build and for whom</span>
 <span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>  <span class="ex">2.</span> Design, the surface and the flow</span>
 <span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>  <span class="ex">3.</span> Application Architecture, how the app is structured, shipped, and kept</span>
-<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe</span></span>
-<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, the intelligence inside the product: context windows,</span>
-<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>     <span class="ex">prompting,</span> tool use, RAG, hallucination and verification, evals, cost</span>
-<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
-<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, AI as the way you build: coding agents, agent loops,</span>
-<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>     <span class="ex">project</span> instruction files, memory, skills, hooks, subagents, MCP, and</span>
-<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">reviewing</span> code an agent wrote</span>
-<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
-<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
-<span id="cb4-21"><a href="#cb4-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-22"><a href="#cb4-22" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
-<span id="cb4-23"><a href="#cb4-23" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
-<span id="cb4-24"><a href="#cb4-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-25"><a href="#cb4-25" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for AI Systems: the intelligence inside the product.</span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe,</span> including wiring a model in: API calls, retrieval pipelines, cost</span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, how the models work and why they behave the way they do:</span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">neural</span> networks, next-word prediction, pretraining, fine-tuning and</span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>     <span class="ex">RLHF,</span> embeddings and RAG, context windows, hallucination</span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, putting AI to work: coding agents, project</span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">instruction</span> files, memory, skills, hooks, subagents, MCP, reviewing</span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>     <span class="ex">code</span> an agent wrote, and building AI into the product with prompts,</span>
+<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">tool</span> use, agent loops, and evals</span>
+<span id="cb4-21"><a href="#cb4-21" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
+<span id="cb4-22"><a href="#cb4-22" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
+<span id="cb4-23"><a href="#cb4-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-24"><a href="#cb4-24" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
+<span id="cb4-25"><a href="#cb4-25" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
 <span id="cb4-26"><a href="#cb4-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-27"><a href="#cb4-27" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
-<span id="cb4-28"><a href="#cb4-28" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
+<span id="cb4-27"><a href="#cb4-27" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for AI Systems: how the models work, and why they behave the</span>
+<span id="cb4-28"><a href="#cb4-28" aria-hidden="true" tabindex="-1"></a><span class="ex">way</span> they do.</span>
 <span id="cb4-29"><a href="#cb4-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-30"><a href="#cb4-30" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
-<span id="cb4-31"><a href="#cb4-31" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb4-30"><a href="#cb4-30" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
+<span id="cb4-31"><a href="#cb4-31" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
 <span id="cb4-32"><a href="#cb4-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-33"><a href="#cb4-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
-<span id="cb4-34"><a href="#cb4-34" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.youtube.com/watch?v=7xTGNNLPyMI</span></span>
-<span id="cb4-35"><a href="#cb4-35" aria-hidden="true" tabindex="-1"></a><span class="ex">https://platform.claude.com/docs/en/build-with-claude/context-windows</span></span>
-<span id="cb4-36"><a href="#cb4-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://platform.claude.com/docs/en/build-with-claude/prompt-caching</span></span>
-<span id="cb4-37"><a href="#cb4-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview</span></span>
-<span id="cb4-38"><a href="#cb4-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://eugeneyan.com/writing/llm-patterns/</span></span>
-<span id="cb4-39"><a href="#cb4-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://ai.hamel.dev/eval-course</span></span>
-<span id="cb4-40"><a href="#cb4-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents</span></span>
-<span id="cb4-41"><a href="#cb4-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-42"><a href="#cb4-42" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
-<span id="cb4-43"><a href="#cb4-43" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
-<span id="cb4-44"><a href="#cb4-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
-<span id="cb4-45"><a href="#cb4-45" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
-<span id="cb4-46"><a href="#cb4-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
-<span id="cb4-47"><a href="#cb4-47" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
-<span id="cb4-48"><a href="#cb4-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
-<span id="cb4-49"><a href="#cb4-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
-<span id="cb4-50"><a href="#cb4-50" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-51"><a href="#cb4-51" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can explain where your AI feature could be wrong, how you</span>
-<span id="cb4-52"><a href="#cb4-52" aria-hidden="true" tabindex="-1"></a><span class="ex">would</span> find out, and roughly what one use of it costs.</span>
-<span id="cb4-53"><a href="#cb4-53" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb4-33"><a href="#cb4-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
+<span id="cb4-34"><a href="#cb4-34" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb4-35"><a href="#cb4-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-36"><a href="#cb4-36" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
+<span id="cb4-37"><a href="#cb4-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.youtube.com/watch?v=7xTGNNLPyMI</span></span>
+<span id="cb4-38"><a href="#cb4-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.3blue1brown.com/topics/neural-networks</span></span>
+<span id="cb4-39"><a href="#cb4-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.youtube.com/watch?v=zjkBMFhNj_g</span></span>
+<span id="cb4-40"><a href="#cb4-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://jalammar.github.io/illustrated-transformer/</span></span>
+<span id="cb4-41"><a href="#cb4-41" aria-hidden="true" tabindex="-1"></a><span class="ex">https://platform.claude.com/docs/en/build-with-claude/context-windows</span></span>
+<span id="cb4-42"><a href="#cb4-42" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-43"><a href="#cb4-43" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
+<span id="cb4-44"><a href="#cb4-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
+<span id="cb4-45"><a href="#cb4-45" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
+<span id="cb4-46"><a href="#cb4-46" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
+<span id="cb4-47"><a href="#cb4-47" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
+<span id="cb4-48"><a href="#cb4-48" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
+<span id="cb4-49"><a href="#cb4-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
+<span id="cb4-50"><a href="#cb4-50" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
+<span id="cb4-51"><a href="#cb4-51" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-52"><a href="#cb4-52" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can explain, without notes, how a model turns a prompt into</span>
+<span id="cb4-53"><a href="#cb4-53" aria-hidden="true" tabindex="-1"></a><span class="ex">an</span> answer, why it sometimes makes things up, and when I would reach for RAG</span>
+<span id="cb4-54"><a href="#cb4-54" aria-hidden="true" tabindex="-1"></a><span class="ex">instead</span> of fine-tuning.</span>
+<span id="cb4-55"><a href="#cb4-55" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="agentic-workflow" class="level2">
 <h2 class="anchored" data-anchor-id="agentic-workflow">Agentic Workflow</h2>
-<p>AI as the way you build. This axis moves fastest, so favor docs and primary sources over books.</p>
+<p>Putting AI to work, as the way you build and inside the product you build. This axis moves fastest, so favor docs and primary sources over books.</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -857,6 +876,36 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <td>Podcast</td>
 <td>The follow-up, four months later, on how the workflow changed again</td>
 </tr>
+<tr class="even">
+<td><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview">Tool use with Claude</a></td>
+<td>Docs</td>
+<td>Canonical reference for function calling and the agentic loop</td>
+</tr>
+<tr class="odd">
+<td><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial">Interactive prompt engineering tutorial</a> and <a href="https://github.com/anthropics/claude-cookbooks">Claude Cookbooks</a></td>
+<td>Notebooks, free</td>
+<td>Runnable examples for RAG, tool use, evals, caching, and cost</td>
+</tr>
+<tr class="even">
+<td><a href="https://eugeneyan.com/writing/llm-patterns/">Patterns for Building LLM-based Systems and Products</a>, Eugene Yan</td>
+<td>Article, free</td>
+<td>The single best map of the field: evals, RAG, caching, guardrails, defensive UX</td>
+</tr>
+<tr class="odd">
+<td><a href="https://ai.hamel.dev/eval-course">AI Evals email course</a>, Hamel Husain and Shreya Shankar</td>
+<td>Course, free</td>
+<td>Seventeen parts plus two free ebooks. Evals are the axis item nobody has, and this is the on-ramp</td>
+</tr>
+<tr class="even">
+<td><a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents">Effective context engineering for AI agents</a>, Anthropic</td>
+<td>Article</td>
+<td>Context engineering as the discipline that succeeded prompt engineering</td>
+</tr>
+<tr class="odd">
+<td><a href="https://www.youtube.com/watch?v=BsWxPI9UM4c">Why AI evals are the hottest new skill for product builders</a>, Hamel Husain, Sep 2025</td>
+<td>Podcast</td>
+<td>The best introduction to why evals matter, from the person who teaches them</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Create your own curated study plan from these resources.</strong> Copy this into Claude Code. It reads the sources above, finds out what you already know, and teaches against your own project rather than a tutorial app.</p>
@@ -871,48 +920,55 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>  <span class="ex">1.</span> Discovery, what to build and for whom</span>
 <span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>  <span class="ex">2.</span> Design, the surface and the flow</span>
 <span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a>  <span class="ex">3.</span> Application Architecture, how the app is structured, shipped, and kept</span>
-<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe</span></span>
-<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, the intelligence inside the product: context windows,</span>
-<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a>     <span class="ex">prompting,</span> tool use, RAG, hallucination and verification, evals, cost</span>
-<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
-<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, AI as the way you build: coding agents, agent loops,</span>
-<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a>     <span class="ex">project</span> instruction files, memory, skills, hooks, subagents, MCP, and</span>
-<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">reviewing</span> code an agent wrote</span>
-<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
-<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
-<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
-<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
-<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Agentic Workflow: AI as the way you build.</span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe,</span> including wiring a model in: API calls, retrieval pipelines, cost</span>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
+<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, how the models work and why they behave the way they do:</span>
+<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">neural</span> networks, next-word prediction, pretraining, fine-tuning and</span>
+<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a>     <span class="ex">RLHF,</span> embeddings and RAG, context windows, hallucination</span>
+<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, putting AI to work: coding agents, project</span>
+<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">instruction</span> files, memory, skills, hooks, subagents, MCP, reviewing</span>
+<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a>     <span class="ex">code</span> an agent wrote, and building AI into the product with prompts,</span>
+<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">tool</span> use, agent loops, and evals</span>
+<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
+<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
+<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
+<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
 <span id="cb5-26"><a href="#cb5-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
-<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
+<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Agentic Workflow: putting AI to work, as the way I build</span>
+<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a><span class="ex">and</span> inside the product.</span>
 <span id="cb5-29"><a href="#cb5-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-30"><a href="#cb5-30" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
-<span id="cb5-31"><a href="#cb5-31" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb5-30"><a href="#cb5-30" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
+<span id="cb5-31"><a href="#cb5-31" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
 <span id="cb5-32"><a href="#cb5-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-33"><a href="#cb5-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
-<span id="cb5-34"><a href="#cb5-34" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.anthropic.com/engineering/building-effective-agents</span></span>
-<span id="cb5-35"><a href="#cb5-35" aria-hidden="true" tabindex="-1"></a><span class="ex">https://code.claude.com/docs/en/overview</span></span>
-<span id="cb5-36"><a href="#cb5-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://simonwillison.net/guides/agentic-engineering-patterns/</span></span>
-<span id="cb5-37"><a href="#cb5-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.anthropic.com/engineering/writing-tools-for-agents</span></span>
-<span id="cb5-38"><a href="#cb5-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.anthropic.com/engineering/multi-agent-research-system</span></span>
-<span id="cb5-39"><a href="#cb5-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://martinfowler.com/articles/pushing-ai-autonomy.html</span></span>
-<span id="cb5-40"><a href="#cb5-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://modelcontextprotocol.io</span></span>
-<span id="cb5-41"><a href="#cb5-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-42"><a href="#cb5-42" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
-<span id="cb5-43"><a href="#cb5-43" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
-<span id="cb5-44"><a href="#cb5-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
-<span id="cb5-45"><a href="#cb5-45" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
-<span id="cb5-46"><a href="#cb5-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
-<span id="cb5-47"><a href="#cb5-47" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
-<span id="cb5-48"><a href="#cb5-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
-<span id="cb5-49"><a href="#cb5-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
-<span id="cb5-50"><a href="#cb5-50" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-51"><a href="#cb5-51" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can set your project up so an agent does good work in it,</span>
-<span id="cb5-52"><a href="#cb5-52" aria-hidden="true" tabindex="-1"></a><span class="ex">and</span> review what it wrote well enough to catch what it got wrong.</span>
-<span id="cb5-53"><a href="#cb5-53" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb5-33"><a href="#cb5-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
+<span id="cb5-34"><a href="#cb5-34" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb5-35"><a href="#cb5-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-36"><a href="#cb5-36" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
+<span id="cb5-37"><a href="#cb5-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.anthropic.com/engineering/building-effective-agents</span></span>
+<span id="cb5-38"><a href="#cb5-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://code.claude.com/docs/en/overview</span></span>
+<span id="cb5-39"><a href="#cb5-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://simonwillison.net/guides/agentic-engineering-patterns/</span></span>
+<span id="cb5-40"><a href="#cb5-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.anthropic.com/engineering/writing-tools-for-agents</span></span>
+<span id="cb5-41"><a href="#cb5-41" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.anthropic.com/engineering/multi-agent-research-system</span></span>
+<span id="cb5-42"><a href="#cb5-42" aria-hidden="true" tabindex="-1"></a><span class="ex">https://martinfowler.com/articles/pushing-ai-autonomy.html</span></span>
+<span id="cb5-43"><a href="#cb5-43" aria-hidden="true" tabindex="-1"></a><span class="ex">https://modelcontextprotocol.io</span></span>
+<span id="cb5-44"><a href="#cb5-44" aria-hidden="true" tabindex="-1"></a><span class="ex">https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview</span></span>
+<span id="cb5-45"><a href="#cb5-45" aria-hidden="true" tabindex="-1"></a><span class="ex">https://eugeneyan.com/writing/llm-patterns/</span></span>
+<span id="cb5-46"><a href="#cb5-46" aria-hidden="true" tabindex="-1"></a><span class="ex">https://ai.hamel.dev/eval-course</span></span>
+<span id="cb5-47"><a href="#cb5-47" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-48"><a href="#cb5-48" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
+<span id="cb5-49"><a href="#cb5-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
+<span id="cb5-50"><a href="#cb5-50" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
+<span id="cb5-51"><a href="#cb5-51" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
+<span id="cb5-52"><a href="#cb5-52" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
+<span id="cb5-53"><a href="#cb5-53" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
+<span id="cb5-54"><a href="#cb5-54" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
+<span id="cb5-55"><a href="#cb5-55" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
+<span id="cb5-56"><a href="#cb5-56" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-57"><a href="#cb5-57" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can set your project up so an agent does good work in it,</span>
+<span id="cb5-58"><a href="#cb5-58" aria-hidden="true" tabindex="-1"></a><span class="ex">review</span> what it wrote well enough to catch what it got wrong, and put an AI</span>
+<span id="cb5-59"><a href="#cb5-59" aria-hidden="true" tabindex="-1"></a><span class="ex">feature</span> in your product with an eval that tells you when it is wrong.</span>
+<span id="cb5-60"><a href="#cb5-60" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="launch-and-learn" class="level2">
 <h2 class="anchored" data-anchor-id="launch-and-learn">Launch and Learn</h2>
@@ -990,49 +1046,51 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>  <span class="ex">1.</span> Discovery, what to build and for whom</span>
 <span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>  <span class="ex">2.</span> Design, the surface and the flow</span>
 <span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>  <span class="ex">3.</span> Application Architecture, how the app is structured, shipped, and kept</span>
-<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe</span></span>
-<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, the intelligence inside the product: context windows,</span>
-<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>     <span class="ex">prompting,</span> tool use, RAG, hallucination and verification, evals, cost</span>
-<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
-<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, AI as the way you build: coding agents, agent loops,</span>
-<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>     <span class="ex">project</span> instruction files, memory, skills, hooks, subagents, MCP, and</span>
-<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">reviewing</span> code an agent wrote</span>
-<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
-<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
-<span id="cb6-21"><a href="#cb6-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-22"><a href="#cb6-22" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
-<span id="cb6-23"><a href="#cb6-23" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
-<span id="cb6-24"><a href="#cb6-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-25"><a href="#cb6-25" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Launch and Learn: getting it in front of people and</span>
-<span id="cb6-26"><a href="#cb6-26" aria-hidden="true" tabindex="-1"></a><span class="ex">finding</span> out whether it worked.</span>
-<span id="cb6-27"><a href="#cb6-27" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-28"><a href="#cb6-28" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
-<span id="cb6-29"><a href="#cb6-29" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
-<span id="cb6-30"><a href="#cb6-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-31"><a href="#cb6-31" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
-<span id="cb6-32"><a href="#cb6-32" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
-<span id="cb6-33"><a href="#cb6-33" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-34"><a href="#cb6-34" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
-<span id="cb6-35"><a href="#cb6-35" aria-hidden="true" tabindex="-1"></a><span class="ex">https://pmfsurvey.com</span></span>
-<span id="cb6-36"><a href="#cb6-36" aria-hidden="true" tabindex="-1"></a><span class="ex">https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/</span></span>
-<span id="cb6-37"><a href="#cb6-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://amplitude.com/books/north-star/amplitudes-north-star-metric-and-inputs</span></span>
-<span id="cb6-38"><a href="#cb6-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29</span></span>
-<span id="cb6-39"><a href="#cb6-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.aprildunford.com/books</span></span>
-<span id="cb6-40"><a href="#cb6-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://experimentguide.com/</span></span>
-<span id="cb6-41"><a href="#cb6-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-42"><a href="#cb6-42" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
-<span id="cb6-43"><a href="#cb6-43" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
-<span id="cb6-44"><a href="#cb6-44" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
-<span id="cb6-45"><a href="#cb6-45" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
-<span id="cb6-46"><a href="#cb6-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
-<span id="cb6-47"><a href="#cb6-47" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
-<span id="cb6-48"><a href="#cb6-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
-<span id="cb6-49"><a href="#cb6-49" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
-<span id="cb6-50"><a href="#cb6-50" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-51"><a href="#cb6-51" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can name the one metric that would move if your product</span>
-<span id="cb6-52"><a href="#cb6-52" aria-hidden="true" tabindex="-1"></a><span class="ex">were</span> working, say how you would instrument it, and say what number would</span>
-<span id="cb6-53"><a href="#cb6-53" aria-hidden="true" tabindex="-1"></a><span class="fu">make</span> you kill the feature.</span>
-<span id="cb6-54"><a href="#cb6-54" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>     <span class="ex">safe,</span> including wiring a model in: API calls, retrieval pipelines, cost</span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>     <span class="ex">and</span> latency</span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>  <span class="ex">4.</span> AI Systems, how the models work and why they behave the way they do:</span>
+<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a>     <span class="ex">neural</span> networks, next-word prediction, pretraining, fine-tuning and</span>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>     <span class="ex">RLHF,</span> embeddings and RAG, context windows, hallucination</span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>  <span class="ex">5.</span> Agentic Workflow, putting AI to work: coding agents, project</span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>     <span class="ex">instruction</span> files, memory, skills, hooks, subagents, MCP, reviewing</span>
+<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a>     <span class="ex">code</span> an agent wrote, and building AI into the product with prompts,</span>
+<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a>     <span class="ex">tool</span> use, agent loops, and evals</span>
+<span id="cb6-21"><a href="#cb6-21" aria-hidden="true" tabindex="-1"></a>  <span class="ex">6.</span> Launch and Learn, instrumentation, metrics, activation and retention,</span>
+<span id="cb6-22"><a href="#cb6-22" aria-hidden="true" tabindex="-1"></a>     <span class="ex">experiments,</span> positioning and pricing</span>
+<span id="cb6-23"><a href="#cb6-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-24"><a href="#cb6-24" aria-hidden="true" tabindex="-1"></a><span class="ex">I</span> rated myself 1 to 5 on every axis and got back a six-sided chart of my</span>
+<span id="cb6-25"><a href="#cb6-25" aria-hidden="true" tabindex="-1"></a><span class="ex">profile.</span> I am working on one axis at a time, starting with my weakest.</span>
+<span id="cb6-26"><a href="#cb6-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-27"><a href="#cb6-27" aria-hidden="true" tabindex="-1"></a><span class="ex">You</span> are my tutor for Launch and Learn: getting it in front of people and</span>
+<span id="cb6-28"><a href="#cb6-28" aria-hidden="true" tabindex="-1"></a><span class="ex">finding</span> out whether it worked.</span>
+<span id="cb6-29"><a href="#cb6-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-30"><a href="#cb6-30" aria-hidden="true" tabindex="-1"></a><span class="ex">First,</span> ask me at most four questions to find out where I actually am. Do not</span>
+<span id="cb6-31"><a href="#cb6-31" aria-hidden="true" tabindex="-1"></a><span class="ex">skip</span> this and do not ask more than four.</span>
+<span id="cb6-32"><a href="#cb6-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-33"><a href="#cb6-33" aria-hidden="true" tabindex="-1"></a><span class="ex">Then</span> build me an ordered plan from the sources below, with a rough time</span>
+<span id="cb6-34"><a href="#cb6-34" aria-hidden="true" tabindex="-1"></a><span class="ex">estimate</span> for each step. Read each source yourself before you teach from it.</span>
+<span id="cb6-35"><a href="#cb6-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-36"><a href="#cb6-36" aria-hidden="true" tabindex="-1"></a><span class="ex">Sources:</span></span>
+<span id="cb6-37"><a href="#cb6-37" aria-hidden="true" tabindex="-1"></a><span class="ex">https://pmfsurvey.com</span></span>
+<span id="cb6-38"><a href="#cb6-38" aria-hidden="true" tabindex="-1"></a><span class="ex">https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/</span></span>
+<span id="cb6-39"><a href="#cb6-39" aria-hidden="true" tabindex="-1"></a><span class="ex">https://amplitude.com/books/north-star/amplitudes-north-star-metric-and-inputs</span></span>
+<span id="cb6-40"><a href="#cb6-40" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29</span></span>
+<span id="cb6-41"><a href="#cb6-41" aria-hidden="true" tabindex="-1"></a><span class="ex">https://www.aprildunford.com/books</span></span>
+<span id="cb6-42"><a href="#cb6-42" aria-hidden="true" tabindex="-1"></a><span class="ex">https://experimentguide.com/</span></span>
+<span id="cb6-43"><a href="#cb6-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-44"><a href="#cb6-44" aria-hidden="true" tabindex="-1"></a><span class="ex">How</span> to teach me:</span>
+<span id="cb6-45"><a href="#cb6-45" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> One concept per session, thirty minutes maximum. Say where we stopped.</span>
+<span id="cb6-46"><a href="#cb6-46" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> After each concept, give me one small exercise against my own project. Not a</span>
+<span id="cb6-47"><a href="#cb6-47" aria-hidden="true" tabindex="-1"></a>  <span class="ex">toy</span> example. If I do not have a project yet, help me pick one first.</span>
+<span id="cb6-48"><a href="#cb6-48" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Make me explain it back, or show you the work. If I am hand-waving, say so</span>
+<span id="cb6-49"><a href="#cb6-49" aria-hidden="true" tabindex="-1"></a>  <span class="ex">and</span> stay on it.</span>
+<span id="cb6-50"><a href="#cb6-50" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> If a source is out of date or wrong, tell me. Do not summarize uncritically.</span>
+<span id="cb6-51"><a href="#cb6-51" aria-hidden="true" tabindex="-1"></a><span class="ex">-</span> Skip anything I already know. Prove it by asking, not by assuming.</span>
+<span id="cb6-52"><a href="#cb6-52" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-53"><a href="#cb6-53" aria-hidden="true" tabindex="-1"></a><span class="ex">We</span> are done when I can name the one metric that would move if your product</span>
+<span id="cb6-54"><a href="#cb6-54" aria-hidden="true" tabindex="-1"></a><span class="ex">were</span> working, say how you would instrument it, and say what number would</span>
+<span id="cb6-55"><a href="#cb6-55" aria-hidden="true" tabindex="-1"></a><span class="fu">make</span> you kill the feature.</span>
+<span id="cb6-56"><a href="#cb6-56" aria-hidden="true" tabindex="-1"></a><span class="ex">When</span> we get there, tell me plainly what I still cannot do.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="who-to-follow" class="level2">
 <h2 class="anchored" data-anchor-id="who-to-follow">Who to follow</h2>

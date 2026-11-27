@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 </head><body class="nav-sidebar floating quarto-light"><header class="book-header-banner">
   <a href="https://aifoundry.byu.edu" target="_blank">
-    <img src="images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
+    <img src="../images/byu-marriott-ai-foundry.png" alt="BYU Marriott School of Business, AI Foundry">
   </a>
 </header>
 
@@ -100,15 +100,6 @@ ul.task-list li input[type="checkbox"] {
       nums.className = 'sidebar-course-numbers';
       nums.textContent = 'MBA 693R · STRAT 490R';
       title.insertAdjacentElement('afterend', nums);
-    }
-  });
-</script>
-
-<!-- Draft watermark on every page except the resources page -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    if (!/07-resources/.test(window.location.pathname)) {
-      document.body.classList.add('draft-page');
     }
   });
 </script>
@@ -205,7 +196,32 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/11-sprints.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sprints</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/02-getting-started.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Getting Started</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/08-certification.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Certification Track</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/12-practice-final.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Practice Proficiency Exam</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/09-studio-projects.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Studio Projects</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../students/10-developmentship.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Developmentship Model</span></a>
   </div>
 </li>
       </ul>
@@ -221,12 +237,17 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../students/13-engagement-success-guide.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Engagement Success Guide</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../students/05-how-teams-are-staffed.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">How Teams Are Staffed</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Weekly Updates</span></a>
+  <a href="../students/03-weekly-updates.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Client Updates</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -289,11 +310,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>To deliver on the aspiration of the AI Foundry, all of us are striving to become <strong>AI builder consultants</strong>.</p>
-<p>An AI builder can build things for themselves. That alone makes a great entrepreneur. Adding the consultant dimension raises the challenge, because now you have to build something great <em>for someone else</em>, which puts real weight on communication, collaboration, client presence, and ownership of the outcome.</p>
+<p>An AI builder can build things for themselves. That alone makes a great entrepreneur. Adding the consultant dimension raises the challenge, because now you have to build something great <em>for someone else</em>, which puts real weight on judgment, ownership of the outcome, communication, and collaboration.</p>
 <p>Two toolkits describe that person.</p>
 <p><img src="../images/hexagon-and-diamond.png" class="img-fluid"></p>
 <p><strong>The Builder</strong> is what you can make. Six axes: Discovery, Design, Application Architecture, AI Systems, Agentic Workflow, and Launch and Learn. You self-report these at the start of fall semester and again in December, and you get your own profile back both times.</p>
-<p><strong>The Consultant</strong> is what changes when the work belongs to someone else. Four axes: Workstream Ownership, Client Presence, Communication, and Collaboration. These are not self-reported. The faculty advisor and your teammates rate them against observed behavior at midterm and at the end of each term.</p>
+<p><strong>The Consultant</strong> is what changes when the work belongs to someone else. Four axes: Judgment, Ownership, Communication, and Collaboration. Two are about the work (is it the right work, and does it move) and two are about people (do they understand it, and do they trust you). These are not self-reported. The faculty advisor, your teammates, and your clients rate them against observed behavior at midterm and at the end of each term.</p>
 <p>Nobody arrives strong on all ten. Teams are staffed so the team covers every Builder axis even when no single member does.</p>
 <section id="take-the-self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="take-the-self-assessment">Take the self-assessment</h2>
@@ -396,15 +417,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="what-we-expect-and-what-you-receive" class="level2">
 <h2 class="anchored" data-anchor-id="what-we-expect-and-what-you-receive">What we expect, and what you receive</h2>
 <p><strong>The commitment.</strong> The Lab is an intense course. Plan on <strong>10 hours per week</strong>, including the Friday studio block, plus <strong>typically another 10 hours</strong> in weeks when client demand calls for it. That is what this work actually takes, and it is what a paying client is counting on.</p>
-<p><strong>Your tools.</strong> You are responsible for your own AI subscriptions. We build on frontier agent tooling, and at this stage of the program the Foundry does not provide seats. Plan on carrying your own.</p>
-<p><strong>The stipend.</strong> Foundry engagements are paid for by the client. Students staffed on a funded engagement receive a <strong>stipend applied to their student account</strong>. It does two things: it recognizes your contribution to paid client work, and it is meant to cover the cost of the AI subscriptions the work requires.</p>
-<p>A few things to be clear about:</p>
-<ul>
-<li>The stipend follows the engagement. Students who are not staffed on a funded engagement in a given term do not receive one.</li>
-<li>Amounts come from a published revenue waterfall and your logged utilization, not from a per-engagement negotiation. See <a href="../students/01-syllabus.html#what-you-give-and-what-you-get">What You Give and What You Get</a>.</li>
-<li>This is a stipend, not employment. You are not an hourly employee of the university or of the client.</li>
-<li>Money applied to a student account can interact with a financial aid package. If you receive need-based aid, check with the financial aid office before assuming it is additive.</li>
-</ul>
+<p><strong>Your tools.</strong> You will have a Claude plan for Foundry work, either provided on the Foundry’s Claude Enterprise account or reimbursed if you hold your own. The specific plan and the mechanism are set each term and communicated before it begins. Any other AI tooling you want to use is yours to arrange. See <a href="../students/01-syllabus.html#required-materials">Required Materials</a>.</p>
+<p><strong>Credit.</strong> Three credit hours per semester, six across the year, for the base 10 hours.</p>
+<p><strong>Real work you can point at.</strong> Production software running in an organization’s hands, shipped under your name, with a client who will take your call.</p>
 
 
 </section>
