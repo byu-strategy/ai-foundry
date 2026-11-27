@@ -13,7 +13,8 @@ table td {
 }
 
 .book-header-banner img {
-  max-width: 320px;
+  /* The hexagon-and-diamond lockup (2026-11-17) is wider than the old one; 390px keeps it about 34px tall. */
+  max-width: min(390px, 100%);
   height: auto;
   display: block;
   margin: 0 auto;
