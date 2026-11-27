@@ -122,8 +122,8 @@ The AI Foundry is a consultancy and a product studio, with a research lab planne
 
 - **Consultancy.** Client projects for outside organizations. Client work keeps us grounded in
   real problems and current with what organizations need, and client fees fund the Foundry.
-- **Product studio.** Products the Foundry builds and runs for itself, such as the Learning
-  Harness and the AI Foundry app. What we learn from clients shapes what we build.
+- **Product studio.** Products the Foundry builds and operates as a service for clients and other
+  customers. What we learn from clients shapes what we build.
 - **Research lab (future).** Research that grows out of what we build and see with clients.
 
 Each faculty member owns a portfolio of clients end to end, from finding them to delivering the
