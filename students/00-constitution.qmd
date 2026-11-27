@@ -132,21 +132,25 @@ work, and advises the teams that serve them. The Foundry grows by adding faculty
 ## Client teams
 
 A client team is two people: a Senior Builder-Consultant, who is a second-year MBA, and a
-Builder-Consultant, who is an undergraduate junior or senior. Both build and both consult. The
-Senior Builder-Consultant also owns the relationship with the client and directs the work:
-priorities, deliverables, dates, and review before the client sees it.
+Builder-Consultant, who is an undergraduate junior or senior. Both build and both consult, and
+the difference between the roles is small. The Senior Builder-Consultant also coordinates: they
+are the client's main day-to-day contact, have the final say on sprint priorities, and give work a
+last review before the client sees it. The client relationship itself belongs to the Project
+Advisor.
 
 Every team carries two projects: a client project and a Foundry product. Client work comes
 first. When it slows, the Foundry product keeps the team building, so no one waits on a client.
 
-Each team has a Project Advisor, a faculty member who meets with the team every week for sprint
-review and planning and holds the standard of the work. The [Engagement Success
+Each team has a Project Advisor, a faculty member who finds the client, sets the scope and fee,
+meets with the team every week for sprint review and planning, and holds the standard of the
+work. The [Engagement Success
 Guide](13-engagement-success-guide.qmd) sets out what clients expect and how a team works.
 
 What this means in practice:
 
-- **Shared accountability.** The team owns the outcome together. If a deliverable slips or misses
-  the bar, that belongs to both of you.
+- **Who answers for what.** The Project Advisor answers to the client. The Senior
+  Builder-Consultant answers to the Project Advisor for the result. Each Builder-Consultant answers
+  for their own work.
 - **Direct feedback.** Teammates give feedback to each other first, in both directions.
 - **Escalation.** When an issue cannot be resolved within the team, bring it to your Project
   Advisor, and then to Professor Murff.
@@ -160,8 +164,9 @@ for 6 credits in all. Your role comes from your program, not your section:
 
 - **Undergraduates are Builder-Consultants.** Their job is excellent work for the client and the
   Foundry.
-- **Second-year MBAs are Senior Builder-Consultants.** They do the same work and, in addition, own
-  the client relationship and direct the team's work.
+- **Second-year MBAs are Senior Builder-Consultants.** They do the same work and, in addition,
+  coordinate it: the client's main day-to-day contact, the final say on sprint priorities, and a
+  last review before work goes out.
 
 ## Foundry Operations
 

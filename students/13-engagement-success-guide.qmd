@@ -10,20 +10,57 @@ This page is short on purpose. Read it before your first client call, and run th
 
 ## Your team {#team}
 
-| Role | Who | What they own |
-|---|---|---|
-| **Project Advisor** | Professor Murff or Professor Toborg | The standard of the work, coaching, and the weekly deep dive. Steps in with the client when needed |
-| **Senior Builder-Consultant** | A second-year MBA | Builds and consults, owns the client relationship, and directs the work: priorities, deliverables, dates, and review before the client sees it |
-| **Builder-Consultant** | An undergraduate junior or senior | Builds and consults: reads the client's materials, builds, analyzes, ships, and brings recommendations |
+Think of the team as a small consulting firm: the Project Advisor is the partner, the Senior
+Builder-Consultant is the engagement manager, and the Builder-Consultant is the associate. One
+difference from a traditional firm: with AI, both students build and consult. The senior role
+adds coordination; it does not take anyone away from the work.
 
-Everyone on the team commits **20 hours a week**. Nobody on the team outranks anyone else:
-the roles say who teaches whom, and everyone is accountable for the result.
+| Role | Who | Like a | What they own |
+|---|---|---|---|
+| **Project Advisor** | Professor Murff or Professor Toborg | Partner | The client relationship: finding the client, the scope and the fee. The standard of the work and coaching |
+| **Senior Builder-Consultant** | A second-year MBA | Engagement manager | Everything a Builder-Consultant does, plus coordination: the client's main day-to-day contact, the final say on sprint priorities, and a last review before work goes out |
+| **Builder-Consultant** | An undergraduate junior or senior | Associate | Builds and consults: owns workstreams end to end, talks with the client, and presents their own work |
+
+**Both Builder-Consultants:**
+
+- Build and ship: each owns workstreams end to end, from build to demo
+- Consult: talk with the client directly, bring a recommendation to every meeting, and present
+  your own work
+- Read the client's code, documents and data before asking about them
+- Deliver what was agreed, on the date agreed, and reply to the client the same day
+- Plan each sprint together and demo every two weeks
+- Raise risks to your Project Advisor the same day
+- Give each other feedback every two weeks
+
+**The Senior Builder-Consultant also:**
+
+- Is the client's main day-to-day contact
+- Has the final say on sprint priorities when the two of you disagree
+- Gives work a last review before the client sees it
+
+**The Project Advisor:**
+
+- Owns the client relationship: finds the client and sets the scope and fee
+- Answers to the client for the result
+- Runs the Thursday sprint review and coaches you both
+- Steps in when something is at risk
+
+**Who answers for what.** The Project Advisor answers to the client. The Senior
+Builder-Consultant answers to the Project Advisor for the result. Each Builder-Consultant answers
+for their own work.
+
+**Earning the lead.** In a consulting firm, an engagement manager has usually been an associate
+first. Most Senior Builder-Consultants have not, so the lead is handed over in stages. At the
+start, your Project Advisor leads client meetings with the Senior Builder-Consultant beside them.
+Once the Senior Builder-Consultant has shown they can, they lead the meetings, and the Project
+Advisor joins the important ones.
+
+Everyone on the team commits **20 hours a week**.
 
 ### Two projects {#two-projects}
 
-Every team works on two projects at once: an outside client engagement and a Foundry product,
-such as the learning harness or the alumni app. Both have stakeholders who depend on you, and the
-Foundry products will have customers of their own. Treat both stakeholders as clients: everything
+Every team works on two projects at once: an outside client engagement and a Foundry product.
+Both have stakeholders who depend on you, and the Foundry products will have customers of their own. Treat both stakeholders as clients: everything
 on this page applies to each of them.
 
 - Plan every sprint across both projects, with dates for each
