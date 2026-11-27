@@ -162,11 +162,11 @@ What this means in practice:
 Every member of a client team enrolls in both sections of the AI Foundry, STRAT 490R and MBA 693R,
 for 6 credits in all. Your role comes from your program, not your section:
 
-- **Undergraduates are Builder-Consultants.** Their job is excellent work for the client and the
-  Foundry.
-- **Second-year MBAs are Senior Builder-Consultants.** They do the same work and, in addition,
-  coordinate it: the client's main day-to-day contact, the final say on sprint priorities, and a
-  last review before work goes out.
+- **Undergraduates are Builder-Consultants.** They build and consult on the client project and
+  the Foundry product, and each owns one or more workstreams.
+- **Second-year MBAs are Senior Builder-Consultants.** They do the same work. They are also the
+  client's main day-to-day contact, decide sprint priorities when the team disagrees, and review
+  work before it goes to the client.
 
 ## Foundry Operations
 
