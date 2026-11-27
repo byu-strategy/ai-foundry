@@ -171,9 +171,9 @@ run the Foundry as an organization alongside Professor Murff:
 
 - **Chief of Staff:** client operations, the Foundry's records, and the team's weekly priorities.
   Reports to Professor Murff.
-- **Grants and Fundraising Lead:** grants and donor support, with the Marriott School's
+- **Director of Grants and Fundraising:** grants and donor support, with the Marriott School's
   advancement office.
-- **Marketing and Events Lead:** the newsletter, the Foundry's brand voice, recruiting, and
+- **Director of Marketing and Events:** the newsletter, the Foundry's brand voice, recruiting, and
   events.
 
 Foundry Operations audits the course and Strategy Leadership Lab and works together on Thursday
