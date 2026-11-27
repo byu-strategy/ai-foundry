@@ -123,7 +123,7 @@ The AI Foundry is a consultancy and a product studio, with a research lab planne
 - **Consultancy.** Client projects for outside organizations. Client work keeps us grounded in
   real problems and current with what organizations need, and client fees fund the Foundry.
 - **Product studio.** Products the Foundry builds and operates as a service for clients and other
-  customers. What we learn from clients shapes what we build.
+  customers.
 - **Research lab (future).** Research that grows out of what we build and see with clients.
 
 Each faculty member owns a portfolio of clients end to end, from finding them to delivering the
@@ -153,16 +153,15 @@ What this means in practice:
 - **Resetting teams.** If a team does not work well together it can be recomposed. This is a
   normal operating mechanism, not a punishment.
 
-## Two sections, two roles
+## Enrollment and roles
 
-The AI Foundry is cross-listed, with an undergraduate section (STRAT 490R) and a graduate section
-(MBA 693R). Graduate credit has to carry requirements beyond the undergraduate expectations. In the
-AI Foundry, that requirement is met by leading the client team.
+Every member of a client team enrolls in both sections of the AI Foundry, STRAT 490R and MBA 693R,
+for 6 credits in all. Your role comes from your program, not your section:
 
-- **Students in the undergraduate section are Builder-Consultants.** Their job is excellent work
-  for the client and the Foundry.
-- **Students in the graduate section are Senior Builder-Consultants.** They do the same work and,
-  in addition, own the client relationship and direct the team's work.
+- **Undergraduates are Builder-Consultants.** Their job is excellent work for the client and the
+  Foundry.
+- **Second-year MBAs are Senior Builder-Consultants.** They do the same work and, in addition, own
+  the client relationship and direct the team's work.
 
 ## Foundry Operations
 
