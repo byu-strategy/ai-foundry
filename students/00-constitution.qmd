@@ -183,7 +183,11 @@ run the Foundry as an organization alongside Professor Murff:
 Foundry Operations audits the course and Strategy Leadership Lab and works together on Thursday
 mornings.
 
-Students may also attend the Foundry's Tuesday instruction without registering.
+## Ambassadors
+
+Ambassadors audit the course, join Tuesday instruction, and represent the Foundry to classmates,
+clubs and recruiters. When invited, and as their time allows, they help with Foundry Operations or
+client work.
 
 ## The Ask First feedback culture
 
