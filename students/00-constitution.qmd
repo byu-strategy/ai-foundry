@@ -116,51 +116,70 @@ to a respected leader without being red in the face? If not, do not do it.
 
 # Part 2: AI Foundry Operating Model
 
-## Flat hierarchy
+## Three pillars
 
-Client teams operate without hierarchy. A team may be composed of 1 undergrad and 1 MBA, 2
-undergrads, or 2 MBAs; in some cases teams may be slightly larger. In all cases, teams are flat
-with no hierarchy. Every member of the team has equal accountability and equal authority. Degree
-program, seniority, or AI Foundry leadership role confer no rank inside a team.
+The AI Foundry is a consultancy and a product studio, with a research lab planned for the future.
+
+- **Consultancy.** Client projects for outside organizations. Client work keeps us grounded in
+  real problems and current with what organizations need, and client fees fund the Foundry.
+- **Product studio.** Products the Foundry builds and runs for itself, such as the Learning
+  Harness and the AI Foundry app. What we learn from clients shapes what we build.
+- **Research lab (future).** Research that grows out of what we build and see with clients.
+
+Each faculty member owns a portfolio of clients end to end, from finding them to delivering the
+work, and advises the teams that serve them. The Foundry grows by adding faculty.
+
+## Client teams
+
+A client team is two people: a Senior Builder-Consultant, who is a second-year MBA, and a
+Builder-Consultant, who is an undergraduate junior or senior. Both build and both consult. The
+Senior Builder-Consultant also owns the relationship with the client and directs the work:
+priorities, deliverables, dates, and review before the client sees it.
+
+Every team carries two projects: a client project and a Foundry product. Client work comes
+first. When it slows, the Foundry product keeps the team building, so no one waits on a client.
+
+Each team has a Project Advisor, a faculty member who meets with the team every week for sprint
+review and planning and holds the standard of the work. The [Engagement Success
+Guide](13-engagement-success-guide.qmd) sets out what clients expect and how a team works.
 
 What this means in practice:
 
-- **Self-organization.** Teams align on work streams themselves. They divide work by strength and
-  interest, not by status.
-- **Equal accountability.** The team owns the outcome together. If a deliverable slips or misses
-  the bar, that belongs to everyone on the team.
-- **Peer feedback.** Team members give feedback directly to each other as the first and normal
-  channel.
-- **Escalation.** When an issue cannot be resolved within the team, escalations go through JD and
-  Scott.
+- **Shared accountability.** The team owns the outcome together. If a deliverable slips or misses
+  the bar, that belongs to both of you.
+- **Direct feedback.** Teammates give feedback to each other first, in both directions.
+- **Escalation.** When an issue cannot be resolved within the team, bring it to your Project
+  Advisor, and then to Professor Murff.
 - **Resetting teams.** If a team does not work well together it can be recomposed. This is a
   normal operating mechanism, not a punishment.
 
-## Two courses, two roles
+## Two sections, two roles
 
-The AI Foundry is a cross-listed class with an undergraduate section (STRAT 490R) and a graduate
-section (MBA 693R). For cross-listed courses, earning graduate credit is required to carry
-requirements beyond the undergraduate expectations. In the AI Foundry, that requirement is met by
-adding an organization leadership role: students in the graduate section help run the AI Foundry
-itself.
+The AI Foundry is cross-listed, with an undergraduate section (STRAT 490R) and a graduate section
+(MBA 693R). Graduate credit has to carry requirements beyond the undergraduate expectations. In the
+AI Foundry, that requirement is met by leading the client team.
 
-- **Students in the undergraduate section build.** Their job is excellent client work, similar to
-  Sandbox, except building for clients instead of for yourself.
-- **Students in the graduate section build plus administer the organization itself.** They do the
-  same client work, and in addition take on a leadership role in running the AI Foundry as an
-  organization: operations, client pipeline, quality, recruiting, and culture.
+- **Students in the undergraduate section are Builder-Consultants.** Their job is excellent work
+  for the client and the Foundry.
+- **Students in the graduate section are Senior Builder-Consultants.** They do the same work and,
+  in addition, own the client relationship and direct the team's work.
 
-::: {.callout-note}
-With permission from the faculty advisor, undergraduates are eligible to enroll in the graduate
-section and be considered for AI Foundry leadership roles.
-:::
+## Foundry Operations
 
-The two sections with associated roles for those enrolled in the graduate section does not violate
-the flat hierarchy principle. Inside a client team, an MBA, or an undergraduate enrolled in the
-graduate section, has no rank over a student enrolled in the undergraduate section. Every team
-member has equal accountability and authority for the client work they are staffed to. The
-leadership roles are a different responsibility expected only in the graduate course and do not
-invoke any kind of authority over a teammate.
+Foundry Operations is a paid team of three second-year MBAs, hired as BYU student employees, who
+run the Foundry as an organization alongside Professor Murff:
+
+- **Chief of Staff:** client operations, the Foundry's records, and the team's weekly priorities.
+  Reports to Professor Murff.
+- **Grants and Fundraising Lead:** grants and donor support, with the Marriott School's
+  advancement office.
+- **Marketing and Events Lead:** the newsletter, the Foundry's brand voice, recruiting, and
+  events.
+
+Foundry Operations audits the course and Strategy Leadership Lab and works together on Thursday
+mornings.
+
+Students may also attend the Foundry's Tuesday instruction without registering.
 
 ## The Ask First feedback culture
 
