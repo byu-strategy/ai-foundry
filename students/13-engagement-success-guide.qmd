@@ -204,7 +204,7 @@ around it.
 **Every week**
 
 - [ ] Worked the hours you committed, or told the client and faculty in advance
-- [ ] Replied to every client message the same day (next day if it arrived after 10 PM), at least to acknowledge it
+- [ ] Replied to client messages the day they arrived (next day if after 10 PM), at least to acknowledge them
 - [ ] Sent at least one written update between calls
 - [ ] Raised every blocker within 48 hours
 - [ ] Brought the actual work to the faculty deep dive
