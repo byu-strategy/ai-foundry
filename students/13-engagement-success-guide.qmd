@@ -9,16 +9,23 @@ call, and refer to the [checklist](#checklist) often.
 
 ## Your team {#team}
 
-The team works like a small consulting firm. The Project Advisor is the partner, the Engagement
-Lead runs the engagement day to day, and the Associate owns workstreams. Because AI lets everyone
-build, both students build and consult: the Engagement Lead's coordination is added to their
-build work.
+Each client team has three people: a Faculty Project Advisor (Professor Murff or Professor
+Toborg), an MBA Engagement Lead and an undergraduate Associate. Top-tier consulting firms staff
+engagements this way because the structure supports coaching, mentorship and growth at every
+level. To deliver excellent work consistently, the Foundry operates the same way.
+
+Your Project Advisor works closely with your team: solving problems with you and reviewing
+deliverables before they reach the client. They meet with each team for 25 minutes in the
+Thursday 9:30 to 10:45 slot, meet at other times as needed, and frequently join client calls.
 
 | Role | Who | What they own |
 |---|---|---|
-| **Project Advisor** | Professor Murff or Professor Toborg | The client relationship: finding the client, the scope and the fee. Answers to the client for the result, runs the Thursday sprint review, coaches you both, and steps in when something is at risk |
-| **Engagement Lead** | A second-year MBA | Everything an Associate does, plus: the client's main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a last review before work goes to the client. Answers to the Project Advisor for the result |
+| **Faculty Project Advisor** | Professor Murff or Professor Toborg | The client relationship: finding the client, the scope and the fee. Answers to the client for the result. Works through problems with the team, reviews deliverables, meets with the team every Thursday, and joins client calls |
+| **Engagement Lead** | A second-year MBA | Everything an Associate does, plus: the client's main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a review of the team's work before it goes to the Project Advisor and the client. Answers to the Project Advisor for the result |
 | **Associate** | An undergraduate junior or senior | Owns workstreams end to end, talks with the client, and presents their own work |
+
+Because AI lets everyone build, both students build and consult. The Engagement Lead's
+coordination is added to their build work.
 
 **Both of you:**
 
@@ -36,7 +43,7 @@ Each of you answers for your own work.
 **Taking on the lead.** In a consulting firm, the person running an engagement has usually been an
 associate first. Most Engagement Leads have not, so the lead passes to them in stages. Early on,
 your Project Advisor leads client meetings with the Engagement Lead alongside. As the Engagement
-Lead shows they are ready, they lead the meetings and the Project Advisor joins the important ones.
+Lead shows they are ready, they lead the meetings, and the Project Advisor continues to join calls.
 
 Everyone on the team commits **20 hours a week**.
 
@@ -144,7 +151,7 @@ there is time to adjust.
 
 | Check | When | Who | What happens |
 |---|---|---|---|
-| **Faculty deep dive** | Weekly, 25 minutes, Thursday class | Your team with your Project Advisor | You walk through the [deep dive agenda](#deep-dive) |
+| **Faculty deep dive** | Weekly, 25 minutes, in the Thursday 9:30 to 10:45 slot | Your team with your Project Advisor | You walk through the [deep dive agenda](#deep-dive) |
 | **Client midpoint check-in** | Week 3 of the engagement | The client's sponsor, about one minute | Rates the engagement as a whole. If the score is low, faculty meets with you and the client that week |
 | **Client team review** | End of each block of the engagement | Every client contact who worked with you | Rates each student. Feeds your colleague and client feedback grade |
 | **Peer evaluation** | When your work together ends | Every Foundry member who worked with you | Rates each student. Feeds your colleague and client feedback grade |
