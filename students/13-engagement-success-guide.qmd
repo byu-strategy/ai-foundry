@@ -88,7 +88,7 @@ raise it with your Faculty Project Advisor.
 **Before you touch client data,** make sure you understand the client's expectations for AI use
 and data security. Work with your Project Advisor to get them clear.
 
-**The kickoff call.** Come with an agenda, and leave with these agreed in writing:
+**The kickoff call.** Come with an agenda, and leave with answers to these questions:
 
 - What success looks like at the end of the engagement
 - Who decides, who your day-to-day contact is, and who else needs to be kept informed
