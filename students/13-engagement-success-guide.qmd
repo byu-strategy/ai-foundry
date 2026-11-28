@@ -59,7 +59,7 @@ from week to week, so when one team's client needs more of its time, the other t
 
 Clients who hire the AI Foundry expect professional-level work.
 
-| The client expects | What it looks like |
+| Clients expect | What it looks like |
 |---|---|
 | **The hours you committed** | Work them every week. If you cannot, tell the client and faculty before the week starts. |
 | **Contact between calls** | Reply to every client message the day it arrives, even if only to acknowledge it and say when the full answer is coming. A message that arrives after 10 PM gets its reply the next day. Send at least one short written update between weekly calls, and ask questions during working hours as they come up. |
