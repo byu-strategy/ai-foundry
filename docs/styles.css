@@ -115,18 +115,3 @@ table td {
   letter-spacing: 0.02em;
   margin: 0.15rem 0 0.4rem 0;
 }
-
-/* Builder hexagon and Consultant diamond markers in tables (Engagement Success Guide). */
-img.axis-icon {
-  height: 0.85em;
-  width: auto;
-  vertical-align: -0.05em;
-  margin: 0 0 0 0.2em;
-  display: inline;
-}
-
-.table-legend {
-  font-size: 0.8rem;
-  color: #5a6676;
-  margin-top: -0.5rem;
-}

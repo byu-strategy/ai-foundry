@@ -13,19 +13,12 @@ Clients who hire the AI Foundry expect professional-level work.
 
 | Clients expect | What it looks like |
 |---|---|
-| **Builder expertise** ![](../images/icon-hex.svg){.axis-icon fig-alt="Builder hexagon"} | Working software that solves the client's problem, built with skill across the six Builder axes. |
-| **The hours you committed** ![](../images/icon-diamond.svg){.axis-icon fig-alt="Consultant diamond"} | 20 hours a week, the commitment for 6.0 credit hours. |
-| **Contact between calls** ![](../images/icon-diamond.svg){.axis-icon fig-alt="Consultant diamond"} | Reply to client messages the day they arrive, ideally within minutes or hours, even if only to acknowledge them and say when the full answer is coming. If a message comes in after 10 PM, a reply the following day is appropriate. In general, overcommunicate, so the client always knows where things stand and what to expect from you next. |
-| **You've done your homework** ![](../images/icon-diamond.svg){.axis-icon fig-alt="Consultant diamond"} | Read the code, documents and data the client gave you before asking questions whose answers may be in them. Keep a running log of their answers so each question is asked once. |
-| **Your own thinking and a point of view** ![](../images/icon-diamond.svg){.axis-icon fig-alt="Consultant diamond"} | Everyone has the same starting point with AI. Your value is the critical thinking and the right questions you bring to it. Always have a point of view on the right answer, update it as new facts emerge, and be ready to share it. |
-| **Collaboration** ![](../images/icon-diamond.svg){.axis-icon fig-alt="Consultant diamond"} | Speak up when you disagree, and do it respectfully. Act on the feedback you get. Help your teammate get their work done, and share credit. |
-| **A human touch** ![](../images/icon-hex.svg){.axis-icon fig-alt="Builder hexagon"} ![](../images/icon-diamond.svg){.axis-icon fig-alt="Consultant diamond"} | Use AI for the work, then make it yours: read, check and edit everything before it goes out, emails included. Don't send deliverables, emails or other outputs that you cannot stand behind and explain. |
-
-
-::: {.table-legend}
-![](../images/icon-hex.svg){.axis-icon fig-alt="Builder hexagon"} Builder hexagon: shown in your sprints. ![](../images/icon-diamond.svg){.axis-icon fig-alt="Consultant diamond"} [Consultant diamond](#diamond): rated by your
-clients, your teammate and your Project Advisor.
-:::
+| **Builder expertise** | Working software that solves the client's problem, built with skill across the six Builder axes. |
+| **The hours you committed** | 20 hours a week, the commitment for 6.0 credit hours. |
+| **Contact between calls** | Reply to client messages the day they arrive, ideally within minutes or hours, even if only to acknowledge them and say when the full answer is coming. If a message comes in after 10 PM, a reply the following day is appropriate. In general, overcommunicate, so the client always knows where things stand and what to expect from you next. |
+| **You've done your homework** | Read the code, documents and data the client gave you before asking questions whose answers may be in them. Keep a running log of their answers so each question is asked once. |
+| **Your own thinking and a point of view** | Everyone has the same starting point with AI. Your value is the critical thinking and the right questions you bring to it. Always have a point of view on the right answer, update it as new facts emerge, and be ready to share it. |
+| **A human touch** | Use AI for the work, then make it yours: read, check and edit everything before it goes out, emails included. Don't send deliverables, emails or other outputs that you cannot stand behind and explain. |
 
 ## Your team {#team}
 
@@ -130,7 +123,6 @@ behavior below, they say how often you do it, from Rarely to Always.
 | **Judgment** | Solve the right problem in a logical way | Clarify the goal before you start. Focus on what matters most. When something isn't working, find a better way to do it. |
 | **Communication** | Be understood quickly | Put the main point first. Write and speak clearly, and explain technical things in plain language. When you need a decision, state it with a recommendation so it can be settled without a meeting. |
 | **Ownership** | Get the work done and keep people informed | Do what you say you will, by the date you say. Be available when you said you would be. Keep working on a problem until it's solved, without waiting to be told. Send updates without being asked, and report problems as soon as you find them. |
-| **Collaboration** | Work well with the client and your team | Make changes in response to feedback. Speak up when you disagree, and do it respectfully. Help others get their work done, and share credit. |
 
 ### Feedback every two weeks {#feedback}
 
