@@ -113,8 +113,8 @@ menu as Learn items, and what they teach you to build goes into whatever project
 [The Certification Track](08-certification.qmd).
 
 Which form you are on is a matter of staffing and timing rather than merit, and it can change
-between terms. How you are assigned is set out in
-[How Teams Are Staffed](05-how-teams-are-staffed.qmd).
+between terms. How client teams are set up is in the
+[Engagement Success Guide](13-engagement-success-guide.qmd#team).
 
 ## Time Commitment
 

@@ -10,18 +10,18 @@ This page is short on purpose. Read it before your first client call, and run th
 
 ## Your team {#team}
 
-Think of the team as a small consulting firm: the Project Advisor is the partner, the Senior
-Builder-Consultant is the engagement manager, and the Builder-Consultant is the associate. One
-difference from a traditional firm: with AI, both students build and consult. The senior role
-adds coordination; it does not take anyone away from the work.
+Think of the team as a small consulting firm: the Project Advisor is the partner, the Engagement
+Lead runs the engagement day to day, and the Associate owns workstreams. One difference from a
+traditional firm: with AI, both students build and consult, so both are builder-consultants. The
+Engagement Lead adds coordination; it does not take them away from the work.
 
-| Role | Who | Like a | What they own |
-|---|---|---|---|
-| **Project Advisor** | Professor Murff or Professor Toborg | Partner | The client relationship: finding the client, the scope and the fee. The standard of the work and coaching |
-| **Senior Builder-Consultant** | A second-year MBA | Engagement manager | Everything a Builder-Consultant does, plus coordination: the client's main day-to-day contact, the final say on sprint priorities, and a last review before work goes out |
-| **Builder-Consultant** | An undergraduate junior or senior | Associate | Builds and consults: owns workstreams end to end, talks with the client, and presents their own work |
+| Role | Who | What they own |
+|---|---|---|
+| **Project Advisor** | Professor Murff or Professor Toborg | The client relationship: finding the client, the scope and the fee. The standard of the work and coaching |
+| **Engagement Lead** | A second-year MBA | Everything an Associate does, plus coordination: the client's main day-to-day contact, the final say on sprint priorities, and a last review before work goes out |
+| **Associate** | An undergraduate junior or senior | Builds and consults: owns workstreams end to end, talks with the client, and presents their own work |
 
-**Both Builder-Consultants:**
+**Both the Engagement Lead and the Associate:**
 
 - Build and ship: each owns workstreams end to end, from build to demo
 - Consult: talk with the client directly, bring a recommendation to every meeting, and present
@@ -32,7 +32,7 @@ adds coordination; it does not take anyone away from the work.
 - Raise risks to your Project Advisor the same day
 - Give each other feedback every two weeks
 
-**The Senior Builder-Consultant also:**
+**The Engagement Lead also:**
 
 - Is the client's main day-to-day contact
 - Has the final say on sprint priorities when the two of you disagree
@@ -45,14 +45,13 @@ adds coordination; it does not take anyone away from the work.
 - Runs the Thursday sprint review and coaches you both
 - Steps in when something is at risk
 
-**Who answers for what.** The Project Advisor answers to the client. The Senior
-Builder-Consultant answers to the Project Advisor for the result. Each Builder-Consultant answers
-for their own work.
+**Who answers for what.** The Project Advisor answers to the client. The Engagement Lead answers to
+the Project Advisor for the result. Each of you answers for your own work.
 
-**Earning the lead.** In a consulting firm, an engagement manager has usually been an associate
-first. Most Senior Builder-Consultants have not, so the lead is handed over in stages. At the
-start, your Project Advisor leads client meetings with the Senior Builder-Consultant beside them.
-Once the Senior Builder-Consultant has shown they can, they lead the meetings, and the Project
+**Earning the lead.** In a consulting firm, the person running an engagement has usually been an
+associate first. Most Engagement Leads have not, so the lead is handed over in stages. At the
+start, your Project Advisor leads client meetings with the Engagement Lead beside them. Once the
+Engagement Lead has shown they can, they lead the meetings, and the Project
 Advisor joins the important ones.
 
 Everyone on the team commits **20 hours a week**.
@@ -192,8 +191,8 @@ Business**.
 
 | Your role | Titles you can use |
 |---|---|
-| **Senior Builder-Consultant** | Senior AI Builder · Lead Forward-Deployed Engineer · Senior Builder-Consultant |
-| **Builder-Consultant** | AI Builder · Forward-Deployed Engineer · Builder-Consultant |
+| **Engagement Lead** | Engagement Lead · Senior AI Builder · Lead Forward-Deployed Engineer |
+| **Associate** | Associate · AI Builder · Forward-Deployed Engineer |
 
 **Describe what you did and for what kind of client.** Name the client only if your engagement
 letter allows it; otherwise describe the client by industry and size. For example:

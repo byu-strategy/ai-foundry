@@ -90,8 +90,8 @@ in your life.
 
 What you have already shipped does not decide whether you are in the Foundry. It decides what you
 own on a team: shadowing a project, contributing a piece with a backstop, or owning a workstream
-the client sees your name on. See
-[How Teams Are Staffed](05-how-teams-are-staffed.qmd).
+the client sees your name on. See the
+[Engagement Success Guide](13-engagement-success-guide.qmd#team).
 
 ## What we expect, and what you receive
 
