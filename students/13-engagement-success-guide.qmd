@@ -78,7 +78,7 @@ raise it with your Project Advisor.
 **Before you touch client data,** work with your Project Advisor to understand the client's
 requirements for AI use and data security.
 
-**The kickoff call.** Read everything the client has shared first. Come with an agenda, and leave
+**The kickoff call.** Come with an agenda, and leave
 with answers to these questions:
 
 - What does success look like at the end of the engagement?
