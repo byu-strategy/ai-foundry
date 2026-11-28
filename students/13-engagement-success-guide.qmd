@@ -3,9 +3,9 @@
 Clients hire the Foundry with high expectations. This guide exists to help teams meet and exceed
 those expectations, from the first week to roll-off.
 
-Clients have the same AI tools you do. What they value is a team that reads what it was given,
-decides what matters, does the work, and makes a recommendation. Read this guide before your
-first client call, and use the [checklist](#checklist) each week.
+Clients have the same AI tools we do. They are looking for expertise, critical thinking and good
+judgment beyond what they can get from Claude alone. Read this guide before your first client
+call, and refer to the [checklist](#checklist) often.
 
 ## Your team {#team}
 
