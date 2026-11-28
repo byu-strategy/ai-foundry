@@ -4,7 +4,7 @@ Clients hire the Foundry with high expectations. This guide exists to help teams
 those expectations, from the first week to roll-off.
 
 Clients have the same AI tools we do. They are looking for expertise, critical thinking and good
-judgment beyond what they can get from Claude alone. Read this guide before your first client
+judgment beyond what they get from AI tools and coding agents alone. Read this guide before your first client
 call, and refer to the [checklist](#checklist) often.
 
 ## Your team {#team}
