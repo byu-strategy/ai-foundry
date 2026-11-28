@@ -85,10 +85,8 @@ need, with who on the team needs each item:
 Follow up on anything missing after two business days. If access is still blocked after that,
 raise it with your Faculty Project Advisor.
 
-**Before you touch client data,** sign any nondisclosure agreement the client asks for, and read
-the data and confidentiality terms of the engagement letter. Some clients bar public AI tools or
-require the Foundry's own accounts. Keep client data in Foundry or client accounts, never personal
-ones.
+**Before you touch client data,** make sure you understand the client's expectations for AI use
+and data security. Work with your Project Advisor to get them clear.
 
 **The kickoff call.** Come with an agenda, and leave with these agreed in writing:
 
