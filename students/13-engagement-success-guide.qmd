@@ -4,8 +4,23 @@ Clients hire the Foundry with high expectations. This guide exists to help teams
 those expectations, from the first week to roll-off.
 
 Clients have the same AI tools we do. They are looking for expertise, critical thinking and good
-judgment beyond what they get from AI tools and coding agents alone. Read this guide before your first client
-call, and refer to the [checklist](#checklist) often.
+judgment beyond what they get from AI tools and coding agents alone. Read this guide before your
+first client call, and refer to the [checklist](#checklist) often.
+
+## What clients expect {#client-expects}
+
+Clients who hire the AI Foundry expect professional-level work.
+
+| Clients expect | What it looks like |
+|---|---|
+| **The hours you committed** | 20 hours a week, the commitment for 6.0 credit hours. |
+| **Contact between calls** | Reply to client messages the day they arrive, ideally within minutes or hours, even if only to acknowledge them and say when the full answer is coming. If a message comes in after 10 PM, a reply the following day is appropriate. In general, overcommunicate, so the client always knows where things stand and what to expect from you next. |
+| **You've done your homework** | Read the code, documents and data the client gave you before asking questions whose answers may be in them. Keep a running log of their answers so each question is asked once. |
+| **Your own thinking and a point of view** | Everyone has the same starting point with AI. Your value is the critical thinking and the right questions you bring to it. Always have a point of view on the right answer, update it as new facts emerge, and be ready to share it. |
+| **A human touch** | Use AI for the work, then make it yours: read, check and edit everything before it goes out, emails included. Don't send deliverables, emails or other outputs that you cannot stand behind and explain. |
+
+These expectations are what your clients, your teammate and your Project Advisor rate in the
+[Consultant diamond](#diamond) survey.
 
 ## Your team {#team}
 
@@ -24,27 +39,16 @@ Thursday 9:30 to 10:45 slot, meet at other times as needed, and frequently join 
 | **Engagement Lead** | A second-year MBA | Everything an Associate does, plus: the client's main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a review of the team's work before it goes to the Project Advisor and the client. Answers to the Project Advisor for the result |
 | **Associate** | An undergraduate junior or senior | Owns workstreams end to end, talks with the client, and presents their own work |
 
-Because AI lets everyone build, both students build and consult. The Engagement Lead's
-coordination is added to their build work.
-
-**Both of you:**
-
-- Build and ship your workstreams, from build to demo
-- Talk with the client directly, bring a point of view to every meeting, and present your own
-  work
-- Read the client's code, documents and data before asking about them
-- Deliver what was agreed, on the date agreed, and reply to the client the same day
-- Plan each sprint together and demo every week
-- Raise risks to your Project Advisor the same day
-- Give each other feedback every two weeks ([Feedback Guide](14-feedback-guide.qmd))
+Because AI lets everyone build, both students build and consult: each of you owns workstreams from
+build to demo, talks with the client directly, and presents your own work. The Engagement Lead's
+coordination is added to their build work. Both the Engagement Lead and the Associate spend
+**20 hours a week** on the team's work.
 
 **Leading client engagements.** In a consulting firm, the engagement lead has typically been an
-associate first. Most Engagement Leads in the Foundry have not, so taking the lead may be a gradual transition from the Project Advisor. Early on,
-your Project Advisor may lead client meetings with the Engagement Lead alongside. As the
-Engagement Lead demonstrates they are ready, they begin to lead meetings, and the Project Advisor continues to
-join calls where helpful.
-
-Both the Engagement Lead and the Associate spend **20 hours a week** on the team's work.
+associate first. Most Engagement Leads in the Foundry have not, so taking the lead may be a
+gradual transition from the Project Advisor. Early on, your Project Advisor may lead client
+meetings with the Engagement Lead alongside. As the Engagement Lead demonstrates they are ready,
+they begin to lead meetings, and the Project Advisor continues to join calls where helpful.
 
 ### Two projects {#two-projects}
 
@@ -55,19 +59,9 @@ both stakeholders as clients; everything on this page applies to each.
 There are three Foundry products, and two teams work on each one. Client work rises and falls
 from week to week, so when one team's client needs more of its time, the other team steps up.
 
-## What clients expect {#client-expects}
+## The engagement, start to finish {#engagement}
 
-Clients who hire the AI Foundry expect professional-level work.
-
-| Clients expect | What it looks like |
-|---|---|
-| **The hours you committed** | 20 hours a week, the commitment for 6.0 credit hours. |
-| **Contact between calls** | Reply to client messages the day they arrive, ideally within minutes or hours, even if only to acknowledge them and say when the full answer is coming. If a message comes in after 10 PM, a reply the following day is appropriate. In general, overcommunicate, so the client always knows where things stand and what to expect from you next. |
-| **You've done your homework** | Read the code, documents and data the client gave you before asking questions whose answers may be in them. Keep a running log of their answers so each question is asked once. |
-| **Your own thinking and a point of view** | Everyone has the same starting point with AI. Your value is the critical thinking and the right questions you bring to it. Always have a point of view on the right answer, update it as new facts emerge, and be ready to share it. |
-| **A human touch** | Use AI for the work, then make it yours: read, check and edit everything before it goes out, emails included. Don't send deliverables, emails or other outputs that you cannot stand behind and explain. |
-
-## The first week {#first-week}
+### The first week {#first-week}
 
 The first week sets the pace for the engagement. Access is the most common early delay, so ask
 for it on day one.
@@ -83,12 +77,13 @@ need, with who on the team needs each item:
 - Names of the people you should talk to, beyond your main contact
 
 Follow up on anything missing after two business days. If access is still blocked after that,
-raise it with your Faculty Project Advisor.
+raise it with your Project Advisor.
 
 **Before you touch client data,** make sure you understand the client's expectations for AI use
 and data security. Work with your Project Advisor to get them clear.
 
-**The kickoff call.** Come with an agenda, and leave with answers to these questions:
+**The kickoff call.** Read everything the client has shared first. Come with an agenda, and leave
+with answers to these questions:
 
 - What does success look like at the end of the engagement?
 - Who decides, who is your day-to-day contact, and who else needs to be kept informed?
@@ -97,7 +92,27 @@ and data security. Work with your Project Advisor to get them clear.
 
 Send the summary the same day.
 
-## The Consultant diamond on a client team {#diamond}
+### Every week {#every-week}
+
+- **Plan together.** Plan each sprint together, across both projects.
+- **Meet your Project Advisor** on Thursday, and bring the actual work.
+- **The client call.** Send the agenda at least one business day ahead. Finish what you promised
+  for the call, or tell the client about a slip before it. Send a summary the same day:
+  decisions, actions, owners and dates.
+- **Demo** your work every week.
+- **Raise risks and blockers** to your Project Advisor the same day you see them.
+
+### Roll-off {#roll-off}
+
+When the engagement ends, the client should be able to run what you built without you:
+
+- Deliver a written handoff of everything you built, where it lives, and how to run it
+- Move every repository and account the client will keep into the client's ownership
+- Return or delete client data as the engagement letter says, and give up your access
+
+## How you grow {#grow}
+
+### The Consultant diamond {#diamond}
 
 Your clients, your teammate and your Project Advisor rate you on the four axes of the Consultant
 diamond through a survey in the app, at the midpoint and at the end of each engagement. For each
@@ -112,7 +127,7 @@ behavior below, they say how often you do it, from Rarely to Always.
 | **Ownership** | Get the work done and keep people informed | Do what you say you will, by the date you say. Be available when you said you would be. Keep working on a problem until it's solved, without waiting to be told. Send updates without being asked, and report problems as soon as you find them. |
 | **Collaboration** | Work well with the client and your team | Make changes in response to feedback. Speak up when you disagree, and do it respectfully. Help others get their work done, and share credit. |
 
-## Feedback every two weeks {#feedback}
+### Feedback every two weeks {#feedback}
 
 Every two weeks, the two of you set aside 15 minutes to give each other feedback on both the
 Builder and the Consultant axes. The [Feedback Guide](14-feedback-guide.qmd) shows how to run the
@@ -122,41 +137,43 @@ session.
 
 **First week**
 
-- [ ] Signed any nondisclosure agreement and read the engagement letter's data terms
 - [ ] Sent the client one list of every access you need, on day one
 - [ ] Followed up on missing access after two business days
+- [ ] Understood the client's expectations for AI use and data security, with your Project Advisor
 - [ ] Read everything the client has shared before the kickoff call
-- [ ] Agreed at kickoff, in writing: what success looks like, who decides, your contact, how and when you communicate, and the first deliverable with its date
-- [ ] Started a shared log of questions, answers, and decisions
+- [ ] Left the kickoff with answers to the four questions, and sent the summary the same day
+- [ ] Started a running log of the client's answers
 
 **Every week**
 
-- [ ] Worked the hours you committed, or told the client and faculty in advance
-- [ ] Replied to client messages the day they arrived (next day if after 10 PM), at least to acknowledge them
-- [ ] Sent at least one written update between calls
-- [ ] Raised every blocker within 48 hours
-- [ ] Brought the actual work to the faculty deep dive
+- [ ] Worked 20 hours
+- [ ] Replied to client messages the day they arrived (next day if after 10 PM)
+- [ ] Met your Project Advisor on Thursday with the actual work
+- [ ] Demoed your work
+- [ ] Raised every risk and blocker the day you saw it
+
+**Before each client call**
+
+- [ ] Sent the agenda at least one business day ahead
+- [ ] Finished what you promised, or told the client about the slip before the call
+- [ ] Updated your point of view, and can explain your reasoning
+- [ ] Checked that every question is one the materials cannot answer, and none is a repeat
+- [ ] Read, checked and can explain everything you will show
+
+**After each client call**
+
+- [ ] Sent a summary the same day: decisions, actions, owners and dates
 
 **Every two weeks**
 
 - [ ] Held the 15-minute feedback session, and reported back on the change you agreed to last time
 
-**Before each client call**
+**At the midpoint and the end**
 
-- [ ] Sent the agenda at least one business day ahead
-- [ ] Finished every requested deliverable, or told the client about the slip before the call
-- [ ] Updated your point of view with what you learned, and can explain your reasoning
-- [ ] Checked that every question is one the materials cannot answer, and none is a repeat
-- [ ] Verified every piece of AI output you will show, and can explain all of it
-
-**After each client call**
-
-- [ ] Sent a summary the same day: decisions, actions, owners, and dates
+- [ ] Completed the Consultant diamond survey for your teammate
 
 **At roll-off**
 
 - [ ] Delivered a written handoff of everything you built, where it lives, and how to run it
 - [ ] Moved every repository and account the client will keep into the client's ownership
 - [ ] Returned or deleted client data as the engagement letter says, and gave up your access
-- [ ] Updated your exposure list with every client contact you worked with
-- [ ] Completed your peer evaluations

@@ -265,14 +265,22 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#team" id="toc-team" class="nav-link active" data-scroll-target="#team">Your team</a>
+  <li><a href="#client-expects" id="toc-client-expects" class="nav-link active" data-scroll-target="#client-expects">What clients expect</a></li>
+  <li><a href="#team" id="toc-team" class="nav-link" data-scroll-target="#team">Your team</a>
   <ul class="collapse">
   <li><a href="#two-projects" id="toc-two-projects" class="nav-link" data-scroll-target="#two-projects">Two projects</a></li>
   </ul></li>
-  <li><a href="#client-expects" id="toc-client-expects" class="nav-link" data-scroll-target="#client-expects">What clients expect</a></li>
+  <li><a href="#engagement" id="toc-engagement" class="nav-link" data-scroll-target="#engagement">The engagement, start to finish</a>
+  <ul class="collapse">
   <li><a href="#first-week" id="toc-first-week" class="nav-link" data-scroll-target="#first-week">The first week</a></li>
-  <li><a href="#diamond" id="toc-diamond" class="nav-link" data-scroll-target="#diamond">The Consultant diamond on a client team</a></li>
+  <li><a href="#every-week" id="toc-every-week" class="nav-link" data-scroll-target="#every-week">Every week</a></li>
+  <li><a href="#roll-off" id="toc-roll-off" class="nav-link" data-scroll-target="#roll-off">Roll-off</a></li>
+  </ul></li>
+  <li><a href="#grow" id="toc-grow" class="nav-link" data-scroll-target="#grow">How you grow</a>
+  <ul class="collapse">
+  <li><a href="#diamond" id="toc-diamond" class="nav-link" data-scroll-target="#diamond">The Consultant diamond</a></li>
   <li><a href="#feedback" id="toc-feedback" class="nav-link" data-scroll-target="#feedback">Feedback every two weeks</a></li>
+  </ul></li>
   <li><a href="#checklist" id="toc-checklist" class="nav-link" data-scroll-target="#checklist">Checklist</a></li>
   </ul>
 </nav>
@@ -301,60 +309,6 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Clients hire the Foundry with high expectations. This guide exists to help teams meet and exceed those expectations, from the first week to roll-off.</p>
 <p>Clients have the same AI tools we do. They are looking for expertise, critical thinking and good judgment beyond what they get from AI tools and coding agents alone. Read this guide before your first client call, and refer to the <a href="#checklist">checklist</a> often.</p>
-<section id="team" class="level2">
-<h2 class="anchored" data-anchor-id="team">Your team</h2>
-<p>Each client team has three people: a Faculty Project Advisor (Professor Murff or Professor Toborg), an MBA Engagement Lead and an undergraduate Associate. Top-tier consulting firms staff engagements this way because the structure supports coaching, mentorship and growth at every level. To deliver excellent work consistently, the Foundry operates the same way.</p>
-<p>Your Project Advisor works closely with your team: solving problems with you and reviewing deliverables before they reach the client. They meet with each team for 25 minutes in the Thursday 9:30 to 10:45 slot, meet at other times as needed, and frequently join client calls.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Role</th>
-<th>Who</th>
-<th>What they own</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Faculty Project Advisor</strong></td>
-<td>Professor Murff or Professor Toborg</td>
-<td>The client relationship: finding the client, the scope and the fee. Answers to the client for the result. Works through problems with the team, reviews deliverables, meets with the team every Thursday, and joins client calls</td>
-</tr>
-<tr class="even">
-<td><strong>Engagement Lead</strong></td>
-<td>A second-year MBA</td>
-<td>Everything an Associate does, plus: the client’s main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a review of the team’s work before it goes to the Project Advisor and the client. Answers to the Project Advisor for the result</td>
-</tr>
-<tr class="odd">
-<td><strong>Associate</strong></td>
-<td>An undergraduate junior or senior</td>
-<td>Owns workstreams end to end, talks with the client, and presents their own work</td>
-</tr>
-</tbody>
-</table>
-<p>Because AI lets everyone build, both students build and consult. The Engagement Lead’s coordination is added to their build work.</p>
-<p><strong>Both of you:</strong></p>
-<ul>
-<li>Build and ship your workstreams, from build to demo</li>
-<li>Talk with the client directly, bring a point of view to every meeting, and present your own work</li>
-<li>Read the client’s code, documents and data before asking about them</li>
-<li>Deliver what was agreed, on the date agreed, and reply to the client the same day</li>
-<li>Plan each sprint together and demo every week</li>
-<li>Raise risks to your Project Advisor the same day</li>
-<li>Give each other feedback every two weeks (<a href="../students/14-feedback-guide.html">Feedback Guide</a>)</li>
-</ul>
-<p><strong>Leading client engagements.</strong> In a consulting firm, the engagement lead has typically been an associate first. Most Engagement Leads in the Foundry have not, so taking the lead may be a gradual transition from the Project Advisor. Early on, your Project Advisor may lead client meetings with the Engagement Lead alongside. As the Engagement Lead demonstrates they are ready, they begin to lead meetings, and the Project Advisor continues to join calls where helpful.</p>
-<p>Both the Engagement Lead and the Associate spend <strong>20 hours a week</strong> on the team’s work.</p>
-<section id="two-projects" class="level3">
-<h3 class="anchored" data-anchor-id="two-projects">Two projects</h3>
-<p>Every team runs two projects at once: an outside client engagement and a Foundry product. Each has stakeholders who depend on you, and the Foundry products will have customers of their own. Treat both stakeholders as clients; everything on this page applies to each.</p>
-<p>There are three Foundry products, and two teams work on each one. Client work rises and falls from week to week, so when one team’s client needs more of its time, the other team steps up.</p>
-</section>
-</section>
 <section id="client-expects" class="level2">
 <h2 class="anchored" data-anchor-id="client-expects">What clients expect</h2>
 <p>Clients who hire the AI Foundry expect professional-level work.</p>
@@ -392,9 +346,55 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
+<p>These expectations are what your clients, your teammate and your Project Advisor rate in the <a href="#diamond">Consultant diamond</a> survey.</p>
 </section>
-<section id="first-week" class="level2">
-<h2 class="anchored" data-anchor-id="first-week">The first week</h2>
+<section id="team" class="level2">
+<h2 class="anchored" data-anchor-id="team">Your team</h2>
+<p>Each client team has three people: a Faculty Project Advisor (Professor Murff or Professor Toborg), an MBA Engagement Lead and an undergraduate Associate. Top-tier consulting firms staff engagements this way because the structure supports coaching, mentorship and growth at every level. To deliver excellent work consistently, the Foundry operates the same way.</p>
+<p>Your Project Advisor works closely with your team: solving problems with you and reviewing deliverables before they reach the client. They meet with each team for 25 minutes in the Thursday 9:30 to 10:45 slot, meet at other times as needed, and frequently join client calls.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Role</th>
+<th>Who</th>
+<th>What they own</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Faculty Project Advisor</strong></td>
+<td>Professor Murff or Professor Toborg</td>
+<td>The client relationship: finding the client, the scope and the fee. Answers to the client for the result. Works through problems with the team, reviews deliverables, meets with the team every Thursday, and joins client calls</td>
+</tr>
+<tr class="even">
+<td><strong>Engagement Lead</strong></td>
+<td>A second-year MBA</td>
+<td>Everything an Associate does, plus: the client’s main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a review of the team’s work before it goes to the Project Advisor and the client. Answers to the Project Advisor for the result</td>
+</tr>
+<tr class="odd">
+<td><strong>Associate</strong></td>
+<td>An undergraduate junior or senior</td>
+<td>Owns workstreams end to end, talks with the client, and presents their own work</td>
+</tr>
+</tbody>
+</table>
+<p>Because AI lets everyone build, both students build and consult: each of you owns workstreams from build to demo, talks with the client directly, and presents your own work. The Engagement Lead’s coordination is added to their build work. Both the Engagement Lead and the Associate spend <strong>20 hours a week</strong> on the team’s work.</p>
+<p><strong>Leading client engagements.</strong> In a consulting firm, the engagement lead has typically been an associate first. Most Engagement Leads in the Foundry have not, so taking the lead may be a gradual transition from the Project Advisor. Early on, your Project Advisor may lead client meetings with the Engagement Lead alongside. As the Engagement Lead demonstrates they are ready, they begin to lead meetings, and the Project Advisor continues to join calls where helpful.</p>
+<section id="two-projects" class="level3">
+<h3 class="anchored" data-anchor-id="two-projects">Two projects</h3>
+<p>Every team runs two projects at once: an outside client engagement and a Foundry product. Each has stakeholders who depend on you, and the Foundry products will have customers of their own. Treat both stakeholders as clients; everything on this page applies to each.</p>
+<p>There are three Foundry products, and two teams work on each one. Client work rises and falls from week to week, so when one team’s client needs more of its time, the other team steps up.</p>
+</section>
+</section>
+<section id="engagement" class="level2">
+<h2 class="anchored" data-anchor-id="engagement">The engagement, start to finish</h2>
+<section id="first-week" class="level3">
+<h3 class="anchored" data-anchor-id="first-week">The first week</h3>
 <p>The first week sets the pace for the engagement. Access is the most common early delay, so ask for it on day one.</p>
 <p><strong>Day one: ask for access, in one message.</strong> Send the client a single list of everything you need, with who on the team needs each item:</p>
 <ul>
@@ -405,9 +405,9 @@ ul.task-list li input[type="checkbox"] {
 <li>Test accounts for any system you will build against</li>
 <li>Names of the people you should talk to, beyond your main contact</li>
 </ul>
-<p>Follow up on anything missing after two business days. If access is still blocked after that, raise it with your Faculty Project Advisor.</p>
+<p>Follow up on anything missing after two business days. If access is still blocked after that, raise it with your Project Advisor.</p>
 <p><strong>Before you touch client data,</strong> make sure you understand the client’s expectations for AI use and data security. Work with your Project Advisor to get them clear.</p>
-<p><strong>The kickoff call.</strong> Come with an agenda, and leave with answers to these questions:</p>
+<p><strong>The kickoff call.</strong> Read everything the client has shared first. Come with an agenda, and leave with answers to these questions:</p>
 <ul>
 <li>What does success look like at the end of the engagement?</li>
 <li>Who decides, who is your day-to-day contact, and who else needs to be kept informed?</li>
@@ -416,8 +416,30 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>Send the summary the same day.</p>
 </section>
-<section id="diamond" class="level2">
-<h2 class="anchored" data-anchor-id="diamond">The Consultant diamond on a client team</h2>
+<section id="every-week" class="level3">
+<h3 class="anchored" data-anchor-id="every-week">Every week</h3>
+<ul>
+<li><strong>Plan together.</strong> Plan each sprint together, across both projects.</li>
+<li><strong>Meet your Project Advisor</strong> on Thursday, and bring the actual work.</li>
+<li><strong>The client call.</strong> Send the agenda at least one business day ahead. Finish what you promised for the call, or tell the client about a slip before it. Send a summary the same day: decisions, actions, owners and dates.</li>
+<li><strong>Demo</strong> your work every week.</li>
+<li><strong>Raise risks and blockers</strong> to your Project Advisor the same day you see them.</li>
+</ul>
+</section>
+<section id="roll-off" class="level3">
+<h3 class="anchored" data-anchor-id="roll-off">Roll-off</h3>
+<p>When the engagement ends, the client should be able to run what you built without you:</p>
+<ul>
+<li>Deliver a written handoff of everything you built, where it lives, and how to run it</li>
+<li>Move every repository and account the client will keep into the client’s ownership</li>
+<li>Return or delete client data as the engagement letter says, and give up your access</li>
+</ul>
+</section>
+</section>
+<section id="grow" class="level2">
+<h2 class="anchored" data-anchor-id="grow">How you grow</h2>
+<section id="diamond" class="level3">
+<h3 class="anchored" data-anchor-id="diamond">The Consultant diamond</h3>
 <p>Your clients, your teammate and your Project Advisor rate you on the four axes of the Consultant diamond through a survey in the app, at the midpoint and at the end of each engagement. For each behavior below, they say how often you do it, from Rarely to Always.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -461,52 +483,55 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </section>
-<section id="feedback" class="level2">
-<h2 class="anchored" data-anchor-id="feedback">Feedback every two weeks</h2>
+<section id="feedback" class="level3">
+<h3 class="anchored" data-anchor-id="feedback">Feedback every two weeks</h3>
 <p>Every two weeks, the two of you set aside 15 minutes to give each other feedback on both the Builder and the Consultant axes. The <a href="../students/14-feedback-guide.html">Feedback Guide</a> shows how to run the session.</p>
+</section>
 </section>
 <section id="checklist" class="level2">
 <h2 class="anchored" data-anchor-id="checklist">Checklist</h2>
 <p><strong>First week</strong></p>
 <ul class="task-list">
-<li><label><input type="checkbox">Signed any nondisclosure agreement and read the engagement letter’s data terms</label></li>
 <li><label><input type="checkbox">Sent the client one list of every access you need, on day one</label></li>
 <li><label><input type="checkbox">Followed up on missing access after two business days</label></li>
+<li><label><input type="checkbox">Understood the client’s expectations for AI use and data security, with your Project Advisor</label></li>
 <li><label><input type="checkbox">Read everything the client has shared before the kickoff call</label></li>
-<li><label><input type="checkbox">Agreed at kickoff, in writing: what success looks like, who decides, your contact, how and when you communicate, and the first deliverable with its date</label></li>
-<li><label><input type="checkbox">Started a shared log of questions, answers, and decisions</label></li>
+<li><label><input type="checkbox">Left the kickoff with answers to the four questions, and sent the summary the same day</label></li>
+<li><label><input type="checkbox">Started a running log of the client’s answers</label></li>
 </ul>
 <p><strong>Every week</strong></p>
 <ul class="task-list">
-<li><label><input type="checkbox">Worked the hours you committed, or told the client and faculty in advance</label></li>
-<li><label><input type="checkbox">Replied to client messages the day they arrived (next day if after 10 PM), at least to acknowledge them</label></li>
-<li><label><input type="checkbox">Sent at least one written update between calls</label></li>
-<li><label><input type="checkbox">Raised every blocker within 48 hours</label></li>
-<li><label><input type="checkbox">Brought the actual work to the faculty deep dive</label></li>
+<li><label><input type="checkbox">Worked 20 hours</label></li>
+<li><label><input type="checkbox">Replied to client messages the day they arrived (next day if after 10 PM)</label></li>
+<li><label><input type="checkbox">Met your Project Advisor on Thursday with the actual work</label></li>
+<li><label><input type="checkbox">Demoed your work</label></li>
+<li><label><input type="checkbox">Raised every risk and blocker the day you saw it</label></li>
+</ul>
+<p><strong>Before each client call</strong></p>
+<ul class="task-list">
+<li><label><input type="checkbox">Sent the agenda at least one business day ahead</label></li>
+<li><label><input type="checkbox">Finished what you promised, or told the client about the slip before the call</label></li>
+<li><label><input type="checkbox">Updated your point of view, and can explain your reasoning</label></li>
+<li><label><input type="checkbox">Checked that every question is one the materials cannot answer, and none is a repeat</label></li>
+<li><label><input type="checkbox">Read, checked and can explain everything you will show</label></li>
+</ul>
+<p><strong>After each client call</strong></p>
+<ul class="task-list">
+<li><label><input type="checkbox">Sent a summary the same day: decisions, actions, owners and dates</label></li>
 </ul>
 <p><strong>Every two weeks</strong></p>
 <ul class="task-list">
 <li><label><input type="checkbox">Held the 15-minute feedback session, and reported back on the change you agreed to last time</label></li>
 </ul>
-<p><strong>Before each client call</strong></p>
+<p><strong>At the midpoint and the end</strong></p>
 <ul class="task-list">
-<li><label><input type="checkbox">Sent the agenda at least one business day ahead</label></li>
-<li><label><input type="checkbox">Finished every requested deliverable, or told the client about the slip before the call</label></li>
-<li><label><input type="checkbox">Updated your point of view with what you learned, and can explain your reasoning</label></li>
-<li><label><input type="checkbox">Checked that every question is one the materials cannot answer, and none is a repeat</label></li>
-<li><label><input type="checkbox">Verified every piece of AI output you will show, and can explain all of it</label></li>
-</ul>
-<p><strong>After each client call</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox">Sent a summary the same day: decisions, actions, owners, and dates</label></li>
+<li><label><input type="checkbox">Completed the Consultant diamond survey for your teammate</label></li>
 </ul>
 <p><strong>At roll-off</strong></p>
 <ul class="task-list">
 <li><label><input type="checkbox">Delivered a written handoff of everything you built, where it lives, and how to run it</label></li>
 <li><label><input type="checkbox">Moved every repository and account the client will keep into the client’s ownership</label></li>
 <li><label><input type="checkbox">Returned or deleted client data as the engagement letter says, and gave up your access</label></li>
-<li><label><input type="checkbox">Updated your exposure list with every client contact you worked with</label></li>
-<li><label><input type="checkbox">Completed your peer evaluations</label></li>
 </ul>
 
 
