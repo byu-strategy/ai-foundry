@@ -90,10 +90,10 @@ and data security. Work with your Project Advisor to get them clear.
 
 **The kickoff call.** Come with an agenda, and leave with answers to these questions:
 
-- What success looks like at the end of the engagement
-- Who decides, who your day-to-day contact is, and who else needs to be kept informed
-- How you will communicate, and when the weekly call is
-- The first deliverable and its date
+- What does success look like at the end of the engagement?
+- Who decides, who is your day-to-day contact, and who else needs to be kept informed?
+- How will you communicate, and when is the weekly call?
+- What is the first deliverable, and when is it due?
 
 Send the summary the same day.
 
