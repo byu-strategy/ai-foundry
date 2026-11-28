@@ -186,8 +186,8 @@ mornings.
 ## Ambassadors
 
 Ambassadors audit the course, join Tuesday instruction, and represent the Foundry to classmates,
-clubs and recruiters. When invited, and as their time allows, they help with Foundry Operations or
-client work.
+clubs and recruiters. When the Foundry Operations team invites them, and as their own time allows,
+they join a client project or help with a Foundry priority.
 
 ## The Ask First feedback culture
 
