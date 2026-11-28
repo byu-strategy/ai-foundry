@@ -57,8 +57,7 @@ from week to week, so when one team's client needs more of its time, the other t
 
 ## What clients expect {#client-expects}
 
-Clients have told us what makes an engagement work for them. These six expectations come from that
-feedback.
+Clients who hire the AI Foundry expect professional-level work.
 
 | The client expects | What that means in practice |
 |---|---|
