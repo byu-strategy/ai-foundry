@@ -83,7 +83,7 @@ need, with who on the team needs each item:
 - Names of the people you should talk to, beyond your main contact
 
 Follow up on anything missing after two business days. If access is still blocked after that,
-raise it at the deep dive and with your Project Advisor.
+raise it with your Faculty Project Advisor.
 
 **Before you touch client data,** sign any nondisclosure agreement the client asks for, and read
 the data and confidentiality terms of the engagement letter. Some clients bar public AI tools or
