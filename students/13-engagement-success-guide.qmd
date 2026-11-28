@@ -1,90 +1,74 @@
 # Engagement Success Guide
 
-Your client has the same AI tools you do. They hire the Foundry for people who read what they
-were given, decide what matters, do the work, and say what they recommend. If what you bring to
-a call is something the client could have produced by prompting a model, you have added nothing
-they could not get without you.
-
-This page is short on purpose. Read it before your first client call, and run the
-[checklist](#checklist) every week.
+Clients hire the Foundry for judgment and finished work. They have the same AI tools you do, so
+what they value is a team that reads what it was given, decides what matters, does the work, and
+makes a recommendation. This guide covers how to do that, from the first week to roll-off. Read
+it before your first client call, and use the [checklist](#checklist) each week.
 
 ## Your team {#team}
 
-Think of the team as a small consulting firm: the Project Advisor is the partner, the Engagement
-Lead runs the engagement day to day, and the Associate owns workstreams. One difference from a
-traditional firm: with AI, both students build and consult, so both are builder-consultants. The
-Engagement Lead adds coordination; it does not take them away from the work.
+The team works like a small consulting firm. The Project Advisor is the partner, the Engagement
+Lead runs the engagement day to day, and the Associate owns workstreams. Because AI lets everyone
+build, both students build and consult: the Engagement Lead's coordination is added to their
+build work.
 
 | Role | Who | What they own |
 |---|---|---|
-| **Project Advisor** | Professor Murff or Professor Toborg | The client relationship: finding the client, the scope and the fee. The standard of the work and coaching |
-| **Engagement Lead** | A second-year MBA | Everything an Associate does, plus coordination: the client's main day-to-day contact, the final say on sprint priorities, and a last review before work goes out |
-| **Associate** | An undergraduate junior or senior | Builds and consults: owns workstreams end to end, talks with the client, and presents their own work |
+| **Project Advisor** | Professor Murff or Professor Toborg | The client relationship: finding the client, the scope and the fee. Answers to the client for the result, runs the Thursday sprint review, coaches you both, and steps in when something is at risk |
+| **Engagement Lead** | A second-year MBA | Everything an Associate does, plus: the client's main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a last review before work goes to the client. Answers to the Project Advisor for the result |
+| **Associate** | An undergraduate junior or senior | Owns workstreams end to end, talks with the client, and presents their own work |
 
-**Both the Engagement Lead and the Associate:**
+**Both of you:**
 
-- Build and ship: each owns workstreams end to end, from build to demo
-- Consult: talk with the client directly, bring a recommendation to every meeting, and present
-  your own work
+- Build and ship your workstreams, from build to demo
+- Talk with the client directly, bring a recommendation to every meeting, and present your own
+  work
 - Read the client's code, documents and data before asking about them
 - Deliver what was agreed, on the date agreed, and reply to the client the same day
 - Plan each sprint together and demo every two weeks
 - Raise risks to your Project Advisor the same day
 - Give each other feedback every two weeks
 
-**The Engagement Lead also:**
+Each of you answers for your own work.
 
-- Is the client's main day-to-day contact
-- Has the final say on sprint priorities when the two of you disagree
-- Gives work a last review before the client sees it
-
-**The Project Advisor:**
-
-- Owns the client relationship: finds the client and sets the scope and fee
-- Answers to the client for the result
-- Runs the Thursday sprint review and coaches you both
-- Steps in when something is at risk
-
-**Who answers for what.** The Project Advisor answers to the client. The Engagement Lead answers to
-the Project Advisor for the result. Each of you answers for your own work.
-
-**Earning the lead.** In a consulting firm, the person running an engagement has usually been an
-associate first. Most Engagement Leads have not, so the lead is handed over in stages. At the
-start, your Project Advisor leads client meetings with the Engagement Lead beside them. Once the
-Engagement Lead has shown they can, they lead the meetings, and the Project
-Advisor joins the important ones.
+**Taking on the lead.** In a consulting firm, the person running an engagement has usually been an
+associate first. Most Engagement Leads have not, so the lead passes to them in stages. Early on,
+your Project Advisor leads client meetings with the Engagement Lead alongside. As the Engagement
+Lead shows they are ready, they lead the meetings and the Project Advisor joins the important ones.
 
 Everyone on the team commits **20 hours a week**.
 
 ### Two projects {#two-projects}
 
-Every team works on two projects at once: an outside client engagement and a Foundry product.
-Both have stakeholders who depend on you, and the Foundry products will have customers of their own. Treat both stakeholders as clients: everything
-on this page applies to each of them.
+Every team runs two projects at once: an outside client engagement and a Foundry product. Each has
+stakeholders who depend on you, and the Foundry products will have customers of their own. Treat
+both stakeholders as clients; everything on this page applies to each.
 
 - Plan every sprint across both projects, with dates for each
 - Agree with each stakeholder on what they get and when
-- When one project needs more of your week, tell the other project's stakeholder what moves, before it moves
-- Never explain a missed date to one stakeholder by pointing at the other project
-- Build the Foundry products against made-up data, never real alumni or student records
+- When one project needs more of your week, tell the other project's stakeholder what will move,
+  before it moves
+- When a date slips, explain it in terms of that stakeholder's own project and what happens next
+- Build the Foundry products with made-up data, never real alumni or student records
 
 ## What the client expects {#client-expects}
 
-These come from what clients told us when an engagement went badly.
+Clients have told us what makes an engagement work for them. These six expectations come from that
+feedback.
 
 | The client expects | What that means in practice |
 |---|---|
 | **The hours you committed** | Work them every week. If you cannot, tell the client and faculty before the week starts. |
-| **Contact between calls** | Reply to every client message the day it arrives, even if only to acknowledge it and say when the full answer is coming. A message that arrives after 10 PM gets its reply the next day. Send at least one short written update between weekly calls. Ask questions during working hours, as they come up. |
-| **What they asked for** | Confirm each requested deliverable in writing the same day, and deliver it by the date. If you think something else would serve them better, deliver what they asked for first, then propose the alternative. |
-| **Homework done** | Read the code, documents, and data the client gave you before asking about them. Keep a running log of their answers, and never ask the same question twice. |
-| **A point of view** | Bring a recommendation and your reasoning to every call. Questions are for what you could not find out yourself. |
-| **Work you stand behind** | Use AI for the work. Check everything it produces, and give the client only what you have verified and can explain line by line. Never send unreviewed AI output or ask the client to check it for you. |
+| **Contact between calls** | Reply to every client message the day it arrives, even if only to acknowledge it and say when the full answer is coming. A message that arrives after 10 PM gets its reply the next day. Send at least one short written update between weekly calls, and ask questions during working hours as they come up. |
+| **What they asked for** | Confirm each requested deliverable in writing the same day, and deliver it by the date. If you see something that would serve them better, deliver what they asked for first, then propose the alternative. |
+| **Homework done** | Read the code, documents and data the client gave you before asking about them. Keep a running log of their answers so each question is asked once. |
+| **A point of view** | Bring a recommendation and your reasoning to every call. Save your questions for what the materials cannot answer. |
+| **Work you stand behind** | Use AI for the work, then check everything it produces. Send only what you have verified and can explain line by line, so the client never has to check it for you. |
 
 ## The first week {#first-week}
 
-The first week decides how the rest goes. Most stalled engagements stalled here, waiting on
-access nobody asked for.
+The first week sets the pace for the engagement. Access is the most common early delay, so ask
+for it on day one.
 
 **Day one: ask for access, in one message.** Send the client a single list of everything you
 need, with who on the team needs each item:
@@ -96,12 +80,13 @@ need, with who on the team needs each item:
 - Test accounts for any system you will build against
 - Names of the people you should talk to, beyond your main contact
 
-Follow up on anything missing after two business days. Access still blocked after that is a
-blocker: raise it at the deep dive and with your Project Advisor.
+Follow up on anything missing after two business days. If access is still blocked after that,
+raise it at the deep dive and with your Project Advisor.
 
 **Before you touch client data,** sign any nondisclosure agreement the client asks for, and read
-the data and confidentiality terms of the engagement letter. Some clients bar public AI tools
-or require the Foundry's own accounts. Never put client data in a personal account.
+the data and confidentiality terms of the engagement letter. Some clients bar public AI tools or
+require the Foundry's own accounts. Keep client data in Foundry or client accounts, never personal
+ones.
 
 **The kickoff call.** Come with an agenda, and leave with these agreed in writing:
 
@@ -121,34 +106,26 @@ question.
 | Axis | The question | On a client team |
 |---|---|---|
 | **Judgment** | Is it the right work? | Decide what matters most to the client. Form a hypothesis and test it against their data and materials. |
-| **Ownership** | Does the work move? | Own the result from the client's question to working software. Nobody has to chase you. |
+| **Ownership** | Does the work move? | Own the result from the client's question to working software, without needing reminders. |
 | **Communication** | Can the client act on it without you in the room? | Lead with the answer. Updates say what was done, what is next, and what you need from them. |
 | **Collaboration** | Does the client trust you and want to keep working with you? | Be on time and prepared. Take pushback well. Carry your share inside the team. |
 
 ## Ownership {#ownership}
 
 You own the outcome for the client, from the question to the working result. The constitution
-calls this high agency: you see the gap and close it.
-
-**Ownership looks like:**
+calls this high agency: you see the gap and close it. In practice that means:
 
 - Anticipating what the client needs before they ask
 - Flagging a risk or a slip as soon as you see it
 - Delivering complete work, ready to use
 - Following up on every open item until it closes
 
-**Ownership does not look like:**
-
-- Waiting for instructions
-- Handing over a draft and asking the client to finish it
-- Explaining afterward why something was not yours
-
 ## When to bring in your Project Advisor {#escalate}
 
 Tell your Project Advisor the same day when:
 
-- The client asks for work outside the engagement letter. Do not agree to it or refuse it;
-  say you will confirm and come back to them
+- The client asks for work outside the engagement letter. Tell the client you will confirm and
+  come back to them, then check with your Project Advisor before agreeing or declining
 - The client has not answered a question that blocks you for three business days
 - Access is still blocked after two business days of follow-up
 - You will miss a date you committed to
@@ -156,33 +133,32 @@ Tell your Project Advisor the same day when:
 - Anything you would not want to read about in the news, including a possible confidentiality
   slip
 
-Raising it early is part of the job. Raising it late is what costs the client.
+Raise it the day you see it, while there is still time to fix it.
 
 ## How your work is checked {#checks}
 
-Every engagement is checked weekly by faculty and by the client at set points. None of these is
-a surprise, and each one is a chance to fix a problem while there is time.
+Faculty and clients check in on every engagement at set times, so you hear how it is going while
+there is time to adjust.
 
 | Check | When | Who | What happens |
 |---|---|---|---|
 | **Faculty deep dive** | Weekly, 25 minutes, Thursday class | Your team with your Project Advisor | You walk through the [deep dive agenda](#deep-dive) |
-| **Client midpoint check-in** | Week 3 of the engagement | The client's sponsor, about one minute | Rates no one. A low score means faculty talks with you and the client that week |
+| **Client midpoint check-in** | Week 3 of the engagement | The client's sponsor, about one minute | Rates the engagement as a whole. If the score is low, faculty meets with you and the client that week |
 | **Client team review** | End of each block of the engagement | Every client contact who worked with you | Rates each student. Feeds your colleague and client feedback grade |
 | **Peer evaluation** | When your work together ends | Every Foundry member who worked with you | Rates each student. Feeds your colleague and client feedback grade |
 | **Self-assessment** | Before the midterm and final releases | You | Never part of your score. Compared with what others saw |
 | **Sprint review and demo** | Every two weeks | You | Graded as part of the sprint ([Sprints](11-sprints.qmd)) |
 
-A client can write to Professor Murff directly at any time. When a client raises a concern,
-faculty talks with your team that week.
+Clients can also write to Professor Murff at any time. If a client raises a concern, faculty meets
+with your team that week to work through it.
 
 ### The weekly deep dive {#deep-dive}
 
-Twenty-five minutes, three questions, asked about both projects. Bring the actual work, with no
-slides.
+Twenty-five minutes, three questions, asked about both projects. Bring the actual work; no slides.
 
 1. **What did each stakeholder ask for last week, and what did you deliver?** Show the artifact.
 2. **What will you recommend to each stakeholder this week, and why?**
-3. **What are you stuck on?** Anything you held for more than 48 hours gets named here.
+3. **What are you stuck on?** Name anything that has blocked you for more than 48 hours.
 
 ## On LinkedIn and your resume {#linkedin}
 
@@ -201,16 +177,16 @@ letter allows it; otherwise describe the client by industry and size. For exampl
 > from 39% to 17% in two weeks. Led discovery with the clinic's operations team and handed the
 > system over to their staff.
 
-Keep it accurate. The Foundry is a for-credit program, so do not list it as
-a paid job or an internship. Leave LinkedIn's employment type blank. Do not post screenshots,
-code, data, or client names that the engagement letter keeps confidential, and ask your Project
-Advisor when you are not sure.
+The Foundry is a for-credit program, so list it as neither a paid job nor an internship, and
+leave LinkedIn's employment type blank. Keep screenshots, code, data and client names private
+when the engagement letter makes them confidential, and ask your Project Advisor if you are not
+sure.
 
 ## Your other commitments {#commitments}
 
-Your application listed your other courses, work, projects, and absences. Keep it current:
-update it within a week of any change, and tell your team before a planned absence. A change
-you tell us about early is something we can plan around.
+Your application listed your other courses, work, projects and absences. Update it within a week
+of any change, and tell your team before a planned absence. Early notice lets the team plan
+around it.
 
 ## Checklist {#checklist}
 
