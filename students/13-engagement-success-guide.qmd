@@ -39,7 +39,7 @@ coordination is added to their build work.
 - Give each other feedback every two weeks
 
 **Leading client engagements.** In a consulting firm, the engagement lead has typically been an
-associate first. Most Engagement Leads in the Foundry have not, so the lead passes to them in stages. Early on,
+associate first. Most Engagement Leads in the Foundry have not, so taking the lead may be a gradual transition from the Project Advisor. Early on,
 your Project Advisor may lead client meetings with the Engagement Lead alongside. As the
 Engagement Lead demonstrates they are ready, they begin to lead meetings, and the Project Advisor continues to
 join calls where helpful.
