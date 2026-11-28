@@ -135,7 +135,6 @@ session.
 - [ ] Asked for access on day one
 - [ ] Followed up on missing access after two business days
 - [ ] Understood the client's requirements for AI use and data security, with your Project Advisor
-- [ ] Read everything the client has shared before the kickoff call
 - [ ] Left the kickoff with answers to the four questions, and sent the summary the same day
 - [ ] Started a running log of the client's answers
 
