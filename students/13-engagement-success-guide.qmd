@@ -64,8 +64,7 @@ from week to week, so when one team's client needs more of its time, the other t
 The first week sets the pace for the engagement. Access is the most common early delay, so ask
 for it on day one.
 
-**Day one: ask for access.** Send the client a single list of everything you
-need, with who on the team needs each item:
+**Day one: ask for access.**
 
 - Code repositories, and the hosting and deployment accounts behind them
 - Data: exports, databases, or read-only reports, and who owns each
