@@ -23,7 +23,8 @@ One person at a time:
 ## Make it specific
 
 Point to the artifact (commit, pull request, screen, update) or the moment (a client call, a
-message). On a Consultant axis, use the words of the [anchors](10-developmentship.qmd#the-anchors).
+message). On a Consultant axis, name the behavior, using the list in the
+[Engagement Success Guide](13-engagement-success-guide.qmd#diamond).
 
 | Axis | Too general | Specific |
 |---|---|---|

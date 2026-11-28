@@ -99,18 +99,18 @@ Send the summary the same day.
 
 ## The Consultant diamond on a client team {#diamond}
 
-Your clients and Foundry colleagues rate you on the four axes of the Consultant diamond, at
-midterm and at the end of the term. The anchors for each score, 1 to 5, are in
-[The Developmentship Model](10-developmentship.qmd).
+Your clients, your teammate and your Project Advisor rate you on the four axes of the Consultant
+diamond through a survey in the app, at the midpoint and at the end of each engagement. For each
+behavior below, they say how often you do it, from Rarely to Always.
 
 ![](../images/consultant-diamond.png){fig-alt="The Consultant diamond, with Judgment at the top, Communication on the right, Ownership at the bottom and Collaboration on the left" width="55%" fig-align="center"}
 
-| Axis | What raters judge | What it looks like on a client team |
+| Axis | The goal | The behaviors raters look for |
 |---|---|---|
-| **Judgment** | Whether you solve the right problem, and conclude only what the facts support | Check that the client's question is the right one before you start. Form a hypothesis and test it against the client's data and materials. Separate what you know from what you assume, and say where the evidence is thin. |
-| **Ownership** | Whether you drive the work forward | Own a workstream end to end: make the plan, unblock yourself, and report what you decided. Raise blockers early, before they affect a deadline. |
-| **Communication** | Whether the client can understand and act on what you produce: updates, decks, memos | Put the answer first, with the support underneath. Name the decision you need from the reader. Each update states what was done, what is next, and what you need from the client. |
-| **Collaboration** | Whether teammates and the client trust you and want to work with you again | Keep your commitments to teammates and the client. Share context before anyone asks for it. Ask for feedback and act on it. Say early when something will not fit. |
+| **Judgment** | Solve the right problem in a logical way | Clarify the goal before you start. Focus on what matters most. When something isn't working, find a better way to do it. |
+| **Communication** | Be understood quickly | Put the main point first. Write and speak clearly, and explain technical things in plain language. When you need a decision, state it with a recommendation so it can be settled without a meeting. |
+| **Ownership** | Get the work done and keep people informed | Do what you say you will, by the date you say. Be available when you said you would be. Keep working on a problem until it's solved, without waiting to be told. Send updates without being asked, and report problems as soon as you find them. |
+| **Collaboration** | Work well with the client and your team | Make changes in response to feedback. Speak up when you disagree, and do it respectfully. Help others get their work done, and share credit. |
 
 ## Feedback every two weeks {#feedback}
 
