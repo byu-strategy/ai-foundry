@@ -62,7 +62,7 @@ Clients who hire the AI Foundry expect professional-level work.
 | Clients expect | What it looks like |
 |---|---|
 | **The hours you committed** | Work them every week. In unexpected circumstances, tell the client and faculty as soon as possible. |
-| **Contact between calls** | Reply to every client message the day it arrives, ideally within minutes or hours, even if only to acknowledge it and say when the full answer is coming. A message that arrives after 10 PM gets its reply the next day. Send at least one short written update between weekly calls, and ask questions during working hours as they come up. |
+| **Contact between calls** | Reply to every client message the day it arrives, ideally within minutes or hours, even if only to acknowledge it and say when the full answer is coming. If a message comes in after 10 PM, a reply the following day is appropriate. Send at least one short written update between weekly calls, and ask questions during working hours as they come up. |
 | **What they asked for** | Confirm each requested deliverable in writing the same day, and deliver it by the date. If you see something that would serve them better, deliver what they asked for first, then propose the alternative. |
 | **Homework done** | Read the code, documents and data the client gave you before asking about them. Keep a running log of their answers so each question is asked once. |
 | **A point of view** | Bring a recommendation and your reasoning to every call. Save your questions for what the materials cannot answer. |
