@@ -97,6 +97,21 @@ and data security. Work with your Project Advisor to get them clear.
 
 Send the summary the same day.
 
+## The Consultant diamond on a client team {#diamond}
+
+Your clients and Foundry colleagues rate you on the four axes of the Consultant diamond, at
+midterm and at the end of the term. The anchors for each score, 1 to 5, are in
+[The Developmentship Model](10-developmentship.qmd).
+
+![](../images/consultant-diamond.png){fig-alt="The Consultant diamond, with Judgment at the top, Communication on the right, Ownership at the bottom and Collaboration on the left" width="55%" fig-align="center"}
+
+| Axis | What raters judge | What it looks like on a client team |
+|---|---|---|
+| **Judgment** | Whether you solve the right problem, and conclude only what the facts support | Check that the client's question is the right one before you start. Form a hypothesis and test it against the client's data and materials. Separate what you know from what you assume, and say where the evidence is thin. |
+| **Ownership** | Whether you drive the work forward | Own a workstream end to end: make the plan, unblock yourself, and report what you decided. Raise blockers early, before they affect a deadline. |
+| **Communication** | Whether the client can understand and act on what you produce: updates, decks, memos | Put the answer first, with the support underneath. Name the decision you need from the reader. Each update states what was done, what is next, and what you need from the client. |
+| **Collaboration** | Whether teammates and the client trust you and want to work with you again | Keep your commitments to teammates and the client. Share context before anyone asks for it. Ask for feedback and act on it. Say early when something will not fit. |
+
 ## Checklist {#checklist}
 
 **First week**
