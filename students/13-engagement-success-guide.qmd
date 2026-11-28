@@ -53,9 +53,7 @@ stakeholders who depend on you, and the Foundry products will have customers of 
 both stakeholders as clients; everything on this page applies to each.
 
 There are three Foundry products, and two teams work on each one. Client work rises and falls
-from week to week, so when one team's client needs more of its time, the other team carries more
-of the product, and the product keeps moving. The two teams share one backlog and one repository,
-each owns a separate workstream, and they agree each week on who takes what.
+from week to week, so when one team's client needs more of its time, the other team steps up.
 
 - Plan every sprint across both projects, with dates for each
 - Agree with each stakeholder on what they get and when
