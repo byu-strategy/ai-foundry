@@ -90,7 +90,7 @@ and data security. Work with your Project Advisor to get them clear.
 
 **The kickoff call.** Come with an agenda, and leave with these agreed in writing:
 
-- What success looks like at the end of the engagement, in the client's words
+- What success looks like at the end of the engagement
 - Who decides, who your day-to-day contact is, and who else needs to be kept informed
 - How you will communicate, and when the weekly call is
 - The first deliverable and its date
