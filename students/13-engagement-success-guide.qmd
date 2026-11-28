@@ -34,7 +34,7 @@ coordination is added to their build work.
   work
 - Read the client's code, documents and data before asking about them
 - Deliver what was agreed, on the date agreed, and reply to the client the same day
-- Plan each sprint together and demo every two weeks
+- Plan each sprint together and demo every week
 - Raise risks to your Project Advisor the same day
 - Give each other feedback every two weeks
 
