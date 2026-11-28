@@ -30,7 +30,7 @@ coordination is added to their build work.
 **Both of you:**
 
 - Build and ship your workstreams, from build to demo
-- Talk with the client directly, bring a recommendation to every meeting, and present your own
+- Talk with the client directly, bring a point of view to every meeting, and present your own
   work
 - Read the client's code, documents and data before asking about them
 - Deliver what was agreed, on the date agreed, and reply to the client the same day
@@ -65,7 +65,7 @@ Clients who hire the AI Foundry expect professional-level work.
 | **Contact between calls** | Reply to every client message the day it arrives, ideally within minutes or hours, even if only to acknowledge it and say when the full answer is coming. If a message comes in after 10 PM, a reply the following day is appropriate. In general, overcommunicate, so the client always knows where things stand and what to expect from you next. |
 | **What they asked for** | Confirm each requested deliverable in writing the same day, and deliver it by the date. If you see something that would serve them better, deliver what they asked for first, then propose the alternative. |
 | **Homework done** | Read the code, documents and data the client gave you before asking about them. Keep a running log of their answers so each question is asked once. |
-| **Your own thinking** | AI gives everyone a starting point. Clients hire you for your independent perspective on top of it: what matters most for them, the tradeoffs, and a recommendation you can defend. When a request is ambiguous, work out what they most likely need, state your assumptions, and keep moving. Bring a recommendation and your reasoning to every call, and save your questions for what the materials cannot answer. |
+| **Your own thinking** | AI gives everyone a starting point. Clients hire you for your independent perspective on top of it: what matters most for them, the tradeoffs, and a view you can defend. When a request is ambiguous, work out what they most likely need, state your assumptions, and keep moving. Always have a point of view on the right answer. Update it as new facts emerge, be ready to share it, and save your questions for what the materials you have cannot answer. |
 | **Work you stand behind** | Use AI for the work, then check everything it produces. Send only what you have verified and can explain line by line, so the client never has to check it for you. |
 
 ## The first week {#first-week}
@@ -214,7 +214,7 @@ around it.
 
 - [ ] Sent the agenda at least one business day ahead
 - [ ] Finished every requested deliverable, or told the client about the slip before the call
-- [ ] Prepared a recommendation and the reasoning for it
+- [ ] Updated your point of view with what you learned, and can explain your reasoning
 - [ ] Checked that every question is one the materials cannot answer, and none is a repeat
 - [ ] Verified every piece of AI output you will show, and can explain all of it
 
