@@ -13,28 +13,11 @@ table td {
 }
 
 .book-header-banner img {
-  /* The hexagon-and-diamond lockup (2026-11-17) is wider than the old one; 390px keeps it about 34px tall. */
+  /* The BYU Strategy + AI Foundry lockup (2026-11-28, from the aifoundry.byu.edu bar); 390px keeps it about 38px tall. */
   max-width: min(390px, 100%);
   height: auto;
   display: block;
   margin: 0 auto;
-}
-
-.book-header-program {
-  margin: 6px 0 0;
-  font-size: 0.8rem;
-  letter-spacing: 0.02em;
-  color: #5a6676;
-}
-
-.book-header-program a {
-  color: #002e5d;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.book-header-program a:hover {
-  text-decoration: underline;
 }
 
 .book-footer {
