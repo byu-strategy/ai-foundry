@@ -31,6 +31,7 @@ book:
     - part: On a Client Team
       chapters:
         - students/13-engagement-success-guide.qmd
+        - students/14-feedback-guide.qmd
         - students/03-weekly-updates.qmd
         - students/04-build-standards.qmd
 

@@ -36,7 +36,7 @@ coordination is added to their build work.
 - Deliver what was agreed, on the date agreed, and reply to the client the same day
 - Plan each sprint together and demo every week
 - Raise risks to your Project Advisor the same day
-- Give each other feedback every two weeks
+- Give each other feedback every two weeks ([Feedback Guide](14-feedback-guide.qmd))
 
 **Leading client engagements.** In a consulting firm, the engagement lead has typically been an
 associate first. Most Engagement Leads in the Foundry have not, so taking the lead may be a gradual transition from the Project Advisor. Early on,
@@ -112,6 +112,12 @@ midterm and at the end of the term. The anchors for each score, 1 to 5, are in
 | **Communication** | Whether the client can understand and act on what you produce: updates, decks, memos | Put the answer first, with the support underneath. Name the decision you need from the reader. Each update states what was done, what is next, and what you need from the client. |
 | **Collaboration** | Whether teammates and the client trust you and want to work with you again | Keep your commitments to teammates and the client. Share context before anyone asks for it. Ask for feedback and act on it. Say early when something will not fit. |
 
+## Feedback every two weeks {#feedback}
+
+Every two weeks, the two of you set aside 15 minutes to give each other feedback on both the
+Builder and the Consultant axes. The [Feedback Guide](14-feedback-guide.qmd) shows how to run the
+session.
+
 ## Checklist {#checklist}
 
 **First week**
@@ -130,6 +136,10 @@ midterm and at the end of the term. The anchors for each score, 1 to 5, are in
 - [ ] Sent at least one written update between calls
 - [ ] Raised every blocker within 48 hours
 - [ ] Brought the actual work to the faculty deep dive
+
+**Every two weeks**
+
+- [ ] Held the 15-minute feedback session, and reported back on the change you agreed to last time
 
 **Before each client call**
 

@@ -990,7 +990,7 @@
     "href": "students/13-engagement-success-guide.html#team",
     "title": "Engagement Success Guide",
     "section": "",
-    "text": "Role\nWho\nWhat they own\n\n\n\n\nFaculty Project Advisor\nProfessor Murff or Professor Toborg\nThe client relationship: finding the client, the scope and the fee. Answers to the client for the result. Works through problems with the team, reviews deliverables, meets with the team every Thursday, and joins client calls\n\n\nEngagement Lead\nA second-year MBA\nEverything an Associate does, plus: the client’s main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a review of the team’s work before it goes to the Project Advisor and the client. Answers to the Project Advisor for the result\n\n\nAssociate\nAn undergraduate junior or senior\nOwns workstreams end to end, talks with the client, and presents their own work\n\n\n\n\n\n\nBuild and ship your workstreams, from build to demo\nTalk with the client directly, bring a point of view to every meeting, and present your own work\nRead the client’s code, documents and data before asking about them\nDeliver what was agreed, on the date agreed, and reply to the client the same day\nPlan each sprint together and demo every week\nRaise risks to your Project Advisor the same day\nGive each other feedback every two weeks\n\n\n\n\nTwo projects\nEvery team runs two projects at once: an outside client engagement and a Foundry product. Each has stakeholders who depend on you, and the Foundry products will have customers of their own. Treat both stakeholders as clients; everything on this page applies to each.\nThere are three Foundry products, and two teams work on each one. Client work rises and falls from week to week, so when one team’s client needs more of its time, the other team steps up.",
+    "text": "Role\nWho\nWhat they own\n\n\n\n\nFaculty Project Advisor\nProfessor Murff or Professor Toborg\nThe client relationship: finding the client, the scope and the fee. Answers to the client for the result. Works through problems with the team, reviews deliverables, meets with the team every Thursday, and joins client calls\n\n\nEngagement Lead\nA second-year MBA\nEverything an Associate does, plus: the client’s main day-to-day contact, the final say on sprint priorities when the two of you disagree, and a review of the team’s work before it goes to the Project Advisor and the client. Answers to the Project Advisor for the result\n\n\nAssociate\nAn undergraduate junior or senior\nOwns workstreams end to end, talks with the client, and presents their own work\n\n\n\n\n\n\nBuild and ship your workstreams, from build to demo\nTalk with the client directly, bring a point of view to every meeting, and present your own work\nRead the client’s code, documents and data before asking about them\nDeliver what was agreed, on the date agreed, and reply to the client the same day\nPlan each sprint together and demo every week\nRaise risks to your Project Advisor the same day\nGive each other feedback every two weeks (Feedback Guide)\n\n\n\n\nTwo projects\nEvery team runs two projects at once: an outside client engagement and a Foundry product. Each has stakeholders who depend on you, and the Foundry products will have customers of their own. Treat both stakeholders as clients; everything on this page applies to each.\nThere are three Foundry products, and two teams work on each one. Client work rises and falls from week to week, so when one team’s client needs more of its time, the other team steps up.",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Engagement Success Guide</span>"
@@ -1030,55 +1030,11 @@
     ]
   },
   {
-    "objectID": "students/13-engagement-success-guide.html#ownership",
-    "href": "students/13-engagement-success-guide.html#ownership",
+    "objectID": "students/13-engagement-success-guide.html#feedback",
+    "href": "students/13-engagement-success-guide.html#feedback",
     "title": "Engagement Success Guide",
-    "section": "Ownership",
-    "text": "Ownership\nYou own the outcome for the client, from the question to the working result. The constitution calls this high agency: you see the gap and close it. In practice that means:\n\nAnticipating what the client needs before they ask\nFlagging a risk or a slip as soon as you see it\nDelivering complete work, ready to use\nFollowing up on every open item until it closes",
-    "crumbs": [
-      "On a Client Team",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Engagement Success Guide</span>"
-    ]
-  },
-  {
-    "objectID": "students/13-engagement-success-guide.html#escalate",
-    "href": "students/13-engagement-success-guide.html#escalate",
-    "title": "Engagement Success Guide",
-    "section": "When to bring in your Project Advisor",
-    "text": "When to bring in your Project Advisor\nTell your Project Advisor the same day when:\n\nThe client asks for work outside the engagement letter. Tell the client you will confirm and come back to them, then check with your Project Advisor before agreeing or declining\nThe client has not answered a question that blocks you for three business days\nAccess is still blocked after two business days of follow-up\nYou will miss a date you committed to\nA teammate is not carrying their share\nAnything you would not want to read about in the news, including a possible confidentiality slip\n\nRaise it the day you see it, while there is still time to fix it.",
-    "crumbs": [
-      "On a Client Team",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Engagement Success Guide</span>"
-    ]
-  },
-  {
-    "objectID": "students/13-engagement-success-guide.html#checks",
-    "href": "students/13-engagement-success-guide.html#checks",
-    "title": "Engagement Success Guide",
-    "section": "How your work is checked",
-    "text": "How your work is checked\nFaculty and clients check in on every engagement at set times, so you hear how it is going while there is time to adjust.\n\n\n\nCheck\nWhen\nWho\nWhat happens\n\n\n\n\nFaculty deep dive\nWeekly, 25 minutes, in the Thursday 9:30 to 10:45 slot\nYour team with your Project Advisor\nYou walk through the deep dive agenda\n\n\nClient midpoint check-in\nWeek 3 of the engagement\nThe client’s sponsor, about one minute\nRates the engagement as a whole. If the score is low, faculty meets with you and the client that week\n\n\nClient team review\nEnd of each block of the engagement\nEvery client contact who worked with you\nRates each student. Feeds your colleague and client feedback grade\n\n\nPeer evaluation\nWhen your work together ends\nEvery Foundry member who worked with you\nRates each student. Feeds your colleague and client feedback grade\n\n\nSelf-assessment\nBefore the midterm and final releases\nYou\nNever part of your score. Compared with what others saw\n\n\nSprint review and demo\nEvery two weeks\nYou\nGraded as part of the sprint (Sprints)\n\n\n\nClients can also write to Professor Murff at any time. If a client raises a concern, faculty meets with your team that week to work through it.\n\nThe weekly deep dive\nTwenty-five minutes, three questions, asked about both projects. Bring the actual work; no slides.\n\nWhat did each stakeholder ask for last week, and what did you deliver? Show the artifact.\nWhat will you recommend to each stakeholder this week, and why?\nWhat are you stuck on? Name anything that has blocked you for more than 48 hours.",
-    "crumbs": [
-      "On a Client Team",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Engagement Success Guide</span>"
-    ]
-  },
-  {
-    "objectID": "students/13-engagement-success-guide.html#linkedin",
-    "href": "students/13-engagement-success-guide.html#linkedin",
-    "title": "Engagement Success Guide",
-    "section": "On LinkedIn and your resume",
-    "text": "On LinkedIn and your resume\nUse your Foundry role as your title. The organization is AI Foundry, BYU Marriott School of Business.\n\n\n\n\n\n\n\nYour role\nTitles you can use\n\n\n\n\nEngagement Lead\nEngagement Lead · Senior AI Builder · Lead Forward-Deployed Engineer\n\n\nAssociate\nAssociate · AI Builder · Forward-Deployed Engineer\n\n\n\nDescribe what you did and for what kind of client. Name the client only if your engagement letter allows it; otherwise describe the client by industry and size. For example:\n\nBuilt and shipped an intake system for a regional health clinic, cutting incomplete intakes from 39% to 17% in two weeks. Led discovery with the clinic’s operations team and handed the system over to their staff.\n\nThe Foundry is a for-credit program, so list it as neither a paid job nor an internship, and leave LinkedIn’s employment type blank. Keep screenshots, code, data and client names private when the engagement letter makes them confidential, and ask your Project Advisor if you are not sure.",
-    "crumbs": [
-      "On a Client Team",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Engagement Success Guide</span>"
-    ]
-  },
-  {
-    "objectID": "students/13-engagement-success-guide.html#commitments",
-    "href": "students/13-engagement-success-guide.html#commitments",
-    "title": "Engagement Success Guide",
-    "section": "Your other commitments",
-    "text": "Your other commitments\nYour application listed your other courses, work, projects and absences. Update it within a week of any change, and tell your team before a planned absence. Early notice lets the team plan around it.",
+    "section": "Feedback every two weeks",
+    "text": "Feedback every two weeks\nEvery two weeks, the two of you set aside 15 minutes to give each other feedback on both the Builder and the Consultant axes. The Feedback Guide shows how to run the session.",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Engagement Success Guide</span>"
@@ -1089,10 +1045,54 @@
     "href": "students/13-engagement-success-guide.html#checklist",
     "title": "Engagement Success Guide",
     "section": "Checklist",
-    "text": "Checklist\nFirst week\n\nSigned any nondisclosure agreement and read the engagement letter’s data terms\nSent the client one list of every access you need, on day one\nFollowed up on missing access after two business days\nRead everything the client has shared before the kickoff call\nAgreed at kickoff, in writing: what success looks like, who decides, your contact, how and when you communicate, and the first deliverable with its date\nStarted a shared log of questions, answers, and decisions\n\nEvery week\n\nWorked the hours you committed, or told the client and faculty in advance\nReplied to client messages the day they arrived (next day if after 10 PM), at least to acknowledge them\nSent at least one written update between calls\nRaised every blocker within 48 hours\nBrought the actual work to the faculty deep dive\n\nBefore each client call\n\nSent the agenda at least one business day ahead\nFinished every requested deliverable, or told the client about the slip before the call\nUpdated your point of view with what you learned, and can explain your reasoning\nChecked that every question is one the materials cannot answer, and none is a repeat\nVerified every piece of AI output you will show, and can explain all of it\n\nAfter each client call\n\nSent a summary the same day: decisions, actions, owners, and dates\n\nAt roll-off\n\nDelivered a written handoff of everything you built, where it lives, and how to run it\nMoved every repository and account the client will keep into the client’s ownership\nReturned or deleted client data as the engagement letter says, and gave up your access\nUpdated your exposure list with every client contact you worked with\nCompleted your peer evaluations",
+    "text": "Checklist\nFirst week\n\nSigned any nondisclosure agreement and read the engagement letter’s data terms\nSent the client one list of every access you need, on day one\nFollowed up on missing access after two business days\nRead everything the client has shared before the kickoff call\nAgreed at kickoff, in writing: what success looks like, who decides, your contact, how and when you communicate, and the first deliverable with its date\nStarted a shared log of questions, answers, and decisions\n\nEvery week\n\nWorked the hours you committed, or told the client and faculty in advance\nReplied to client messages the day they arrived (next day if after 10 PM), at least to acknowledge them\nSent at least one written update between calls\nRaised every blocker within 48 hours\nBrought the actual work to the faculty deep dive\n\nEvery two weeks\n\nHeld the 15-minute feedback session, and reported back on the change you agreed to last time\n\nBefore each client call\n\nSent the agenda at least one business day ahead\nFinished every requested deliverable, or told the client about the slip before the call\nUpdated your point of view with what you learned, and can explain your reasoning\nChecked that every question is one the materials cannot answer, and none is a repeat\nVerified every piece of AI output you will show, and can explain all of it\n\nAfter each client call\n\nSent a summary the same day: decisions, actions, owners, and dates\n\nAt roll-off\n\nDelivered a written handoff of everything you built, where it lives, and how to run it\nMoved every repository and account the client will keep into the client’s ownership\nReturned or deleted client data as the engagement letter says, and gave up your access\nUpdated your exposure list with every client contact you worked with\nCompleted your peer evaluations",
     "crumbs": [
       "On a Client Team",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Engagement Success Guide</span>"
+    ]
+  },
+  {
+    "objectID": "students/14-feedback-guide.html",
+    "href": "students/14-feedback-guide.html",
+    "title": "Feedback Guide",
+    "section": "",
+    "text": "The session\nEvery two weeks, teammates set aside 15 minutes to give each other feedback, in both directions. This follows the Foundry’s Ask First norm: ask for feedback rather than waiting for it.\nCover both halves of the Developmentship Model: the six Builder axes (what you build) and the four Consultant axes (how you work with the client and each other).\nOne person at a time:",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Feedback Guide</span>"
+    ]
+  },
+  {
+    "objectID": "students/14-feedback-guide.html#the-session",
+    "href": "students/14-feedback-guide.html#the-session",
+    "title": "Feedback Guide",
+    "section": "",
+    "text": "Ask. “Which axis should I work on most, and what is one thing I could have done better?”\nGive one instance from the last two weeks: what happened, and what it affected.\nSay which way it missed: too little or too much.\nAgree on one change to try next sprint. The person receiving it writes it down and reports back at the next session.\nName one thing that worked, with its instance.",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Feedback Guide</span>"
+    ]
+  },
+  {
+    "objectID": "students/14-feedback-guide.html#make-it-specific",
+    "href": "students/14-feedback-guide.html#make-it-specific",
+    "title": "Feedback Guide",
+    "section": "Make it specific",
+    "text": "Make it specific\nPoint to the artifact (commit, pull request, screen, update) or the moment (a client call, a message). On a Consultant axis, use the words of the anchors.\n\n\n\n\n\n\n\n\nAxis\nToo general\nSpecific\n\n\n\n\nApplication Architecture (Builder)\n“Your code is messy.”\n“The intake form went straight to main with no tests and broke login on staging. Open a pull request and run the tests before you merge.”\n\n\nCommunication (Consultant)\n“Your updates are unclear.”\n“Friday’s update listed tasks in the order you did them, and the request for a test account was in the last paragraph. Lead with the state of the work and what you need from the client.”",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Feedback Guide</span>"
+    ]
+  },
+  {
+    "objectID": "students/14-feedback-guide.html#receiving-it",
+    "href": "students/14-feedback-guide.html#receiving-it",
+    "title": "Feedback Guide",
+    "section": "Receiving it",
+    "text": "Receiving it\nAsk questions until you understand the instance, then decide what you will change. Thank the person. If an issue does not resolve between the two of you, bring it to your Project Advisor.",
+    "crumbs": [
+      "On a Client Team",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Feedback Guide</span>"
     ]
   },
   {
@@ -1103,7 +1103,7 @@
     "text": "The Client Update\nOn a client engagement, the team sends the client one update at the end of every week. It keeps the client informed and creates the record of the engagement.\nIt is due Saturday by 11:59 PM in every week the engagement runs.\nThe end-of-week timing is intentional. It forces reflection on what actually got done, sets priorities before Monday, and surfaces blockers while there is still time to fix them.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Client Updates</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Client Updates</span>"
     ]
   },
   {
@@ -1114,7 +1114,7 @@
     "text": "Who Sends It\nThe client lead sends one email on behalf of the team. Individual students do not each send their own. If the client lead is unavailable, the QC lead sends it. Missing this email is a team-level miss and shows up in the client’s evaluation of the team.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Client Updates</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Client Updates</span>"
     ]
   },
   {
@@ -1125,7 +1125,7 @@
     "text": "Recipients\n\nTo: Client point of contact\nCC: aifoundry@byu.edu, plus all team members",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Client Updates</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Client Updates</span>"
     ]
   },
   {
@@ -1136,7 +1136,7 @@
     "text": "Email Format\n1. Accomplished this week [Required]\n\nCompleted work and deliverables, stated as outcomes rather than activities\nInclude the number, the finding, or the decision, not just “worked on the model”\n\n2. Priorities for next week [Required]\n\nWhat the team will do, realistically\nWho owns each item\n\n3. Decisions or input we need from you [Required, say “none” if none]\n\nAnything the client owes the team\nAny decision the team cannot make on the client’s behalf\n\n4. Blockers, risks, or dependencies [Omit if none]\n\nAnything that puts a deadline at risk\nReport it in the week you first see it",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Client Updates</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Client Updates</span>"
     ]
   },
   {
@@ -1147,7 +1147,7 @@
     "text": "Example Email\nSubject: AI Foundry Weekly Update - [Client] - Week of Oct 5\n\nHi [Name],\n\nAccomplished this week:\n- Scored 42 of the 60 candidate products against the draft criteria. 11 clear\n  the NPV multiple threshold of 3.0x under base-case assumptions.\n- Reconciled the revenue baseline to your FY26 actuals. We were off by 2.3%\n  on specialty; the gap was a channel mapping issue, now corrected.\n- Drafted the sensitivity structure for price erosion and launch timing.\n\nPriorities for next week:\n- Finish scoring the remaining 18 products (Maria, Josh)\n- Run the first full sensitivity pass and identify which rankings are fragile (Ana)\n- Draft the discovery findings document for your review (Tyler)\n\nDecisions or input we need from you:\n- Confirm whether the 12% price erosion assumption should hold across all\n  therapeutic areas or vary by category. This changes the ranking materially.\n- We need read access to the 2024-2025 gross-to-net detail to validate margin.\n\nRisks:\n- If the gross-to-net data is not available in the next week, discovery will\n  be completed using modeled margin rather than actuals, and we will need to revisit the\n  build estimate afterward.\n\nThanks,\n[Client lead name], on behalf of the [Client] Foundry team",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Client Updates</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Client Updates</span>"
     ]
   },
   {
@@ -1158,7 +1158,7 @@
     "text": "What Makes an Update Good\nThis applies to the client update.\n\nLead with the number or the finding. “11 of 42 products clear the threshold” is more useful than “continued portfolio scoring.”\nName owners. Unowned priorities do not get done.\nAsk for what you need explicitly. Clients do not know what you need unless you tell them, and you are responsible for any blocker you did not raise.\nFlag risk early and unemotionally. A risk raised in week 4 can still be planned around. Raised in week 12, it usually cannot.\nBe concise. Bullets, not paragraphs.\nNever pad. A short honest week is fine. A long week of activity with no outcomes is not.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Client Updates</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Client Updates</span>"
     ]
   },
   {
@@ -1169,7 +1169,7 @@
     "text": "Weekly Rhythm\n\n\n\n\n\n\n\nDay\nActivity\n\n\n\n\nMonday\nTeam stand-up, confirm week’s priorities and owners\n\n\nMidweek\nStanding client call, execute\n\n\nThursday\nQC lead reviews anything going to the client\n\n\nFriday\nStudio time in 1244 TNRB, cross-team critique; sprint demos every other Friday\n\n\nSaturday\nClient lead sends the client update, by 11:59 PM",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Client Updates</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Client Updates</span>"
     ]
   },
   {
@@ -1180,7 +1180,7 @@
     "text": "The Four Dimensions\nClient work you submit as sprint output is read against these standards. They are also what separates work a client pays for from work a client tolerates.\nEvery deliverable is scored on correctness, usefulness, explainability, and craft.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -1191,7 +1191,7 @@
     "text": "Correctness\n\nCode does what it claims. If it is shipped, it has been run against something real\nEvery number in a client-facing document traces to a source you can point to\nTotals reconcile. If your revenue baseline is 2% off the client’s actuals, you find out why before you present it, not after they do\nAssumptions are written down as assumptions, with the value used and the reason for it\nIf you do not know something, the deliverable says so. Fabricated precision is worse than an honest range\n\n\n\nUsefulness\n\nSomeone at the client would actually open it. A tool nobody uses is a failed deliverable\nIt solves the problem the client actually has, integrated with the systems they actually run\nDiscovery output names specific things to build, with an estimate and a sequence, not themes\nScope creep is not usefulness. If the client’s question changed, renegotiate it in writing\n\n\n\nExplainability\nThis is the standard the Foundry is built around, and it is where AI-assisted work most often fails.\n\nFor any model output, you can state which inputs drove it and by how much\nRankings come with sensitivity: what would have to change for the order to change\nA model no one on the team can explain is not shippable, regardless of how good the output looks\n“The model said so” is never an answer to a client question\n\n\n\nCraft\n\nThe repository is clean, has a README, and someone outside the team could run it\nTests exist where breakage would be expensive. Not everywhere, but not nowhere\nDeployment is documented and repeatable, not a thing one person knows how to do\nDocuments are proofread. Charts are labeled. Slides have a point per slide\nNo client data in personal accounts, personal repos, or unapproved tools",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -1202,7 +1202,7 @@
     "text": "Repository Standards\nEvery engagement has one private repository in the ai-foundry-byu GitHub organization, named client-&lt;slug&gt;.\nclient-&lt;slug&gt;/\n  README.md          What this is, how to run it, how to deploy it, who to ask\n  discovery/         The audit: findings, what to build, estimates, sequence\n  app/               The application. Whatever stack the job calls for\n  integrations/      Connections into the client's systems\n  analysis/          Notebooks and scripts, in order, that reproduce every number\n  deliverables/      What the client actually receives, versioned by delivery\n  docs/              Handoff docs, meeting notes, decision log, scope changes\nTwo rules that are not negotiable:\n\nNo secrets or client data in the repository. Ever. Credentials live in the client’s own systems or an approved secret store.\nEvery number in a deliverable is reproducible from something in analysis/. If you cannot rerun it, you cannot defend it.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -1213,7 +1213,7 @@
     "text": "The Decision Log\nKeep docs/decisions.md current. One entry per material decision:\n2026-10-09: Price erosion assumption\nDecision: Use 12% annual erosion for specialty, 18% for hospital, rather than a\nflat 15% across the portfolio.\nWhy: Client's 2023-2025 actuals show materially different curves by channel.\nWho: Confirmed with Brian Guy on the Oct 8 call.\nReversible: Yes. Sensitivity range 8-22% is built into the model.\nThis is the single highest-leverage habit in the course. It is what lets you answer “why did you assume that” six months later, and it is what makes handoff possible.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -1224,7 +1224,7 @@
     "text": "QC Gate\nNothing goes to the client without the QC lead’s sign-off. The QC lead checks:\n\nIt runs. Someone other than the author has run it from a clean checkout\nEvery number traces to a source, and totals reconcile against the client’s own figures\nAssumptions are stated, with values and reasons\nModel outputs are explainable in plain language\nDeployment steps are written down and have been followed once by someone else\nNo client data or secrets in the repository\nDocument is proofread, charts are labeled, filenames are clean\n\nWork that fails QC after it reaches the client is a miss for the whole team, and the client notices it. Catch it internally.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   },
   {
@@ -1235,7 +1235,7 @@
     "text": "Working with AI\nUse AI tools hard. They are why a team of five can deliver what used to take fifteen.\n\nGenerate freely, verify always. Treat every model output as a draft from a fast, capable, occasionally confident-and-wrong analyst.\nCheck citations and figures by hand. Fabricated sources have ended real consulting engagements.\nKeep client data out of unapproved tools. See the confidentiality terms in the Syllabus.\nDocument your method. Project documentation and your sprint reviews should state which tools you used, for what, and how you validated the output. This is not a confession, it is methodology.",
     "crumbs": [
       "On a Client Team",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Build Standards</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Build Standards</span>"
     ]
   }
 ]
