@@ -52,11 +52,18 @@ Every team runs two projects at once: an outside client engagement and a Foundry
 stakeholders who depend on you, and the Foundry products will have customers of their own. Treat
 both stakeholders as clients; everything on this page applies to each.
 
+There are three Foundry products, and two teams work on each one. Client work rises and falls
+from week to week, so when one team's client needs more of its time, the other team carries more
+of the product, and the product keeps moving. The two teams share one backlog and one repository,
+each owns a separate workstream, and they agree each week on who takes what.
+
 - Plan every sprint across both projects, with dates for each
 - Agree with each stakeholder on what they get and when
 - When one project needs more of your week, tell the other project's stakeholder what will move,
   before it moves
 - When a date slips, explain it in terms of that stakeholder's own project and what happens next
+- Post a short weekly handoff to the other team on your product: what you shipped and what you will
+  pick up next
 - Build the Foundry products with made-up data, never real alumni or student records
 
 ## What the client expects {#client-expects}
